@@ -1,5 +1,5 @@
 import whisper
 
-model = whisper.load_model("small", device="cpu")
-result = model.transcribe("data/bts_dynamite.mp3")
+model = whisper.load_model("small", device="cuda")
+result = model.transcribe("data/Myra.mp3")
 print(result["text"])

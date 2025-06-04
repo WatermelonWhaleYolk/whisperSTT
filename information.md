@@ -1,6 +1,6 @@
 1. 2022년 9월에 출시됨
 
-2. tiny부터 large까지 총 9개의 모델을 제공
+2. tiny, base, small, medium, large, turbo 총 6가지의 모델을 제공
 
 3. 영어 전용이고 다국어 버전도 지원
 
@@ -18,20 +18,27 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install ffmpeg
 pip install git+https://github.com/openai/whisper.git
 pip install pytest
+pip uninstall torch torchvision torchaudio -y (GPU가 CUDA 지원할 경우)
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118(마찬가지)
+
 }
 
-테스트 폴더로 테스트 방법
+실행방법() {
+루트 디렉토리에 실행 파일 생성
+import whisper
+model = whisper.load_model("모델명", device="수행할 장치(cpu, cuda 등등)")
+result = model.transcribe("data/bts_dynamite.mp3")
+print(result["text"])
+}
+
+테스트 폴더로 테스트 방법() {
 test_transcribe.py의 모델 지정하기
 @pytest.mark.parametrize('model_name', whisper.available_models())
-def test_transcribe(model_name: str): 
-    model = whisper.load_model(model_name).cuda()
-    audio_path = os.path.join(os.path.dirname(__file__), "jfk.flac")의
+def test_transcribe(model_name: str):
+model = whisper.load_model(model_name).cuda()
+audio_path = os.path.join(os.path.dirname(**file**), "jfk.flac")의
 
 whisper.available_model() 부분에 모델 입력
 예시 : ["tiny"]
-tiny, base, small, medium, large
 pytest test/
-
-실행방법() {
-  루트 디렉토리에 실행 파일 생성
 }
