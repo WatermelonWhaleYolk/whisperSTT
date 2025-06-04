@@ -29,6 +29,7 @@ def test_transcribe(model_name: str):
 
 whisper.available_model() 부분에 모델 입력
 예시 : ["tiny"]
+tiny, base, small, medium, large
 pytest test/
 
 실행방법() {
