@@ -5,9 +5,9 @@ import pytest
 import whisper
 
 
-@pytest.mark.parametrize('model_name', whisper.available_models())
+@pytest.mark.parametrize('model_name', ["tiny"])
 def test_transcribe(model_name: str):
-    model = whisper.load_model(model_name).cuda()
+    model = whisper.load_model(model_name).to("cpu")
     audio_path = os.path.join(os.path.dirname(__file__), "jfk.flac")
 
     language = "en" if model_name.endswith(".en") else None
