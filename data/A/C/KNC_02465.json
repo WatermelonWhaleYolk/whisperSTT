@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNC_02465",
+        "category": "국제뉴스",
+        "sub_category": 20,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.6,
+        "format": "MP4",
+        "date": "2017-03-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 오후 6시까지 말레이시아를 떠나라는 통보를 받은 강철 북한 대사는 오전까지도 대사관을 나오지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오후 들어 말레이시아 경찰의 호송 차량이 등장하고 폴리스라인이 쳐지더니 대사관 직원들이 평양으로 가져갈 것으로 보이는 짐과 여행가방들을 싣습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.595,
+                "end": 18.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어 강 대사는 리동일 북한 대표단 대표의 배웅을 받으며 별도의 입장 발표 없이 대사관을 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.189,
+                "end": 25.784
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "추방 조치에 대한 입장은 무엇입니까?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 25.794,
+                "end": 29.356
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선생님 한 말씀만 해주십시오.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 29.366,
+                "end": 31.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시신 부검 등에 반발하며 말레이시아 정부를 비난해온 강철 대사가 추방 통보를 받은 지 46시간 만에 이곳 대사관을 빠져나갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.755,
+                "end": 40.600
+            }
+        ]
+    },
+    "summary": "추방 조치를 받은 강철 북한 대사가 오늘 대사관을 나섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNC_02465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

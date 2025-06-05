@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYI_13741",
+        "category": "과학기술",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.366,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 급격한 코너링인데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 어떤 점에서는 내가 후륜차를 타고 있나 이런 느낌까지 자아낸 다는 점에서 전혀 기대하지 않았던 즐거움이라고 할까요?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 1.703,
+                "end": 12.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 여러분들도 타 보신다면 이러한 즐거움에 대해서 공감하실 것 같아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 12.290,
+                "end": 18.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이 차량은 어떤 분들이 구입하시면 좋을까요?",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 18.887,
+                "end": 22.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무래도",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 22.460,
+                "end": 24.366
+            }
+        ]
+    },
+    "summary": "미니 전기차는 전혀 기대하지 않았던 분들도 타 본다면 이런 즐거움에 대해서 공감할 것 같다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYI_13741_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

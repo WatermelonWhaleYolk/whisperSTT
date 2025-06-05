@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYD_05969",
+        "category": "영화",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.597,
+        "format": "MP4",
+        "date": "2020-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기에서 원래 대본대로라면 잭은 옷을 벗은 로즈에게 쇼파에 누워 달라고 말을 해야 하지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.233,
+                "end": 9.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쇼파 대신 침대라고 한 번 잘못 말해 버린다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.205,
+                "end": 12.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단순한 대사 실수라고 보기엔 잠깐의 속마음을 들은 것 같은 느낌인데 제임스 카메론 감독은 이 대사 실수를 굉장히 마음에 들어했고 이 장면은 그대로 영화에 쓰여졌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.243,
+                "end": 22.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 20대 초반으로 비교적 어린 나이였던 디카프리오는 이 장면을 촬영할 때 실제로 많이 떨렸다고 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.697,
+                "end": 30.597
+            }
+        ]
+    },
+    "summary": "영화 촬영 당시 비교적 어린 나이였던 배우 레오나르도 디카프리오는 이 장면을 촬영할 때 많이 떨렸다고 하며 그래서인지 옷을 벗은 로즈에게 침대에 누워 달라고 대사 실수를 해 버렸고 감독은 이 실수를 굉장히 마음에 들어하며 영화에 그대로 사용하게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYD_05969_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

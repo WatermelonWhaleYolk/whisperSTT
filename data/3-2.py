@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-mp4_dir = "C:/Users/zera/Desktop/A/B"
+mp4_dir = "./A/B"
 wav_dir = mp4_dir
 
 for filename in os.listdir(mp4_dir):
@@ -18,5 +18,5 @@ for filename in os.listdir(mp4_dir):
             "-ac", "1",
             wav_path
         ]
-        print(f"🎧 변환 중: {filename}")
+        print(f"변환 중: {filename}")
         subprocess.run(command)

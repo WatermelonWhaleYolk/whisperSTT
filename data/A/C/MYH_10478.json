@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYH_10478",
+        "category": "교육",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.384,
+        "format": "MP4",
+        "date": "2022-03-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "누적 구성비를 추가하도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구성비는 각각의 클레임 유형이 합계 중에서 몇 퍼센트를 차지하는지를 데이터로 만들면 되겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.932,
+                "end": 11.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "등호 표시를 하고 C4 셀을 지정합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.152,
+                "end": 15.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나누기 합계가 들어있는 C10 셀을 선택하면 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.715,
+                "end": 20.025
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 C10이라는 이 셀은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.147,
+                "end": 22.366
+            }
+        ]
+    },
+    "summary": "구성비는 클레인 유형이 합계 중에서 몇 퍼센트를 차지하는지 데이터로 만들어야 하고 등호 표시를 하고 C4 셀을 지정 후 나누기 합계가 들어있는 C10 셀을 선택한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYH_10478_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

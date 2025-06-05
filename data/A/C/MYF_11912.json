@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_11912",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.4,
+        "format": "MP4",
+        "date": "2022-04-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불가리 옵니야 아메시스트 버버리 브리포홀 산타마리아 노벨라에 어 이런 그 프리지아 요런 것도 또 입으셨고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조말론의 블랙 베리 엔 베이 어 이런 상큼 상큼한 과일 요런 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.977,
+                "end": 16.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 싫어하는 향수가 딥디크 도손입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.826,
+                "end": 22.400
+            }
+        ]
+    },
+    "summary": "40대 여성이 의뢰자가 좋아하는 향수와 싫어하는 향수에 대해서 분석해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11912_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

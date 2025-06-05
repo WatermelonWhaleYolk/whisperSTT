@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KND_00161",
+        "category": "교육뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.786,
+        "format": "MP4",
+        "date": "2022-06-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대신 최초 의혹을 제기한 유튜브에 댓글을 달았는데 사과의 뜻을 밝히면서도 제1 저자가 알아서 한 일이라는 비슷한 입장을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울대는 오늘 연구진 실성위원회를 비공개로 열고 조사에 착수했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.795,
+                "end": 15.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결론은 빠르면 60일 안에 나오지만 조사 기간은 연장될 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.244,
+                "end": 19.786
+            }
+        ]
+    },
+    "summary": "서울대는 연구진 실성위원회를 열어 조사에 착수했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KND_00161_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

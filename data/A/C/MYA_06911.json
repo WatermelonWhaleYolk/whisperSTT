@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYA_06911",
+        "category": "스포츠",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "트레이드될 거라고 생각을 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "랩터스는 파스칼시아캄에게 맥스 계약을 줄 생각이 없고 파스칼시아캄은 어쨌든 랩터스에 남아야 더 좋은 조건의 계약을 받기 때문에 현재 트레이드가 된다고 한다면 어쩔 수 없지만 내가 트레이드가 되는 팀과는 연장 계약을 맺지 않을 것이라고 이야기를 하는 거잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.060,
+                "end": 18.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 랩터스는 본인들을 이끌 미래의 주역으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.370,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "파스칼시아캄은 트레이드될 거라고 생각하며 랩터스는 파스칼시아캄에게 맥스 계약을 줄 생각이 없고 랩터스에 남아야 좋은 계약을 받기 때문에 트레이드되는 팀과 연장 계약을 맺지 않을 것이라고 이야기를 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYA_06911_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

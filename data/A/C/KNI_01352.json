@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01352",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.698,
+        "format": "MP4",
+        "date": "2023-01-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "LG 이관희가 작전대로 3점 슛을 터뜨리며 다시 추격에 시동을 걸었지만 경기 막바지 서명진의 결정적인 3점 포가 적중하며 결국 현대모비스가 마지막에 웃었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 12.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3연승으로 단독 3위로 올라선 현대모비스 조동현 감독은 쌍둥이 맞대결에서도 2승 2패로 팽팽히 맞서게 됐습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.775,
+                "end": 21.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 종료 33초 전 이대성이 쐐기 포를 적중시킨 한국가스공사가 KCC를 꺾고 3연패에서 탈출했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 21.021,
+                "end": 29.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 29.320,
+                "end": 31.698
+            }
+        ]
+    },
+    "summary": "현대모비스는 단독 3위로 올라섰고 한국가스공사가 KCC를 꺾고 3연패에서 탈출했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01352_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

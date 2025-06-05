@@ -3,7 +3,7 @@ import json
 
 from datasets import Dataset, Audio
 
-A_path = "C:/Users/zera/Desktop/A"
+A_path = "./A"
 B_path = os.path.join(A_path, "B")
 C_path = os.path.join(A_path, "C")
 

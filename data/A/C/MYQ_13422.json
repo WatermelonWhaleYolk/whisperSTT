@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYQ_13422",
+        "category": "아동",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.4,
+        "format": "MP4",
+        "date": "2021-07-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지뽀야 숙제하니 아 아니 얘가 얘가 또 하루 종일 핸드폰만 하는 거야 등짝 스매싱",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꺄아아악 여러분 몰폰하다 엄마한테 걸렸어요 잠깐 실시간 꺼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.547,
+                "end": 16.230
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러분 심리 테스트로 다시 실시간 킨 지뽀입니다 지금 당신은 혼자 등산을 하다 숲 한 가운데에서 길을 잃었습니다 한참을 헤매다 드디어 오두막집 한 채를 발견하게 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.240,
+                "end": 28.400
+            }
+        ]
+    },
+    "summary": "지뽀는 몰폰하다 엄마한테 걸려서 등짝 스매싱을 맞습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYQ_13422_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

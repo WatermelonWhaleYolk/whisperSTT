@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "MYM_01310",
+        "category": "DIY/공예",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.45,
+        "format": "MP4",
+        "date": "2023-07-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 저도 근데 저는 숟가락을 어디다 아 여깄네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.359,
+                "end": 5.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 손으로 집어 먹을뻔했네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.360,
+                "end": 8.583
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 이 이 샐러드가 무슨 디엠으로 버르장머리 없은 질문은 안 봤거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.593,
+                "end": 17.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "죄송하지만 문의는 디엠으로 정중하게",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.293,
+                "end": 24.433
+            }
+        ]
+    },
+    "summary": "두 사람은 디엠으로 오는 예의없는 질문은 보지 않는다고 말하며 문의는 디엠으로 정중하게 해달라고 요청한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYM_01310_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

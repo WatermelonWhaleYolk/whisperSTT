@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNG_06314",
+        "category": "사회일반뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.363,
+        "format": "MP4",
+        "date": "2023-01-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "검찰이 서울 경찰청에 검사와 수사관을 보내 이태원 참사 전후의 업무 관련 기록을 확보하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "압수수색 대상에는 @이름1 서울 경찰청장의 집무실과 휴대전화 등도 포함됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.960,
+                "end": 13.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 청장은 서울 지역 치안 최고 책임자로서 사고 전후 부실하게 대응해 피해를 키웠다는 혐의를 받고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.106,
+                "end": 21.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 경찰청 특별수사본부는 김 청장을 업무상 과실치사상 혐의로 지난 13일 검찰에 불구속 송치했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.039,
+                "end": 30.363
+            }
+        ]
+    },
+    "summary": "검찰이 서울 경찰청에 검사와 수사관을 보내 이태원 참사 전후의 업무 관련 기록을 확보하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNG_06314_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

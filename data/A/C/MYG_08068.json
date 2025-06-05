@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYG_08068",
+        "category": "뷰티/패션",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.117,
+        "format": "MP4",
+        "date": "2022-04-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "깔별로 쟁이는 거 국룰이죠 진짜 요즘 밝은색만 입다가 검은 원피스 오랜만에 입었는데 어우 느낌이 색다르더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소재가 가벼워서 색감이 어두워도 답답해 보이지 않아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.600,
+                "end": 11.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이 체크 크롭은 여기에 원래 입을 생각은 없었는데 옷 갈아입다 보니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.324,
+                "end": 17.117
+            }
+        ]
+    },
+    "summary": "밝은 옷만 입다가 검은 원피스를 입어 느낌이 색다르다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYG_08068_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}
