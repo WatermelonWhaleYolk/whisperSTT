@@ -12,21 +12,17 @@
 
 7. 98개 언어 포함
 
-기초 설정() {
-pip install -r
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-choco install ffmpeg
-pip install git+https://github.com/openai/whisper.git
-pip install pytest
-pip uninstall torch torchvision torchaudio -y (GPU가 CUDA 지원할 경우)
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118(마찬가지)
-
-}
-
-실행방법() {
-
-1. data/A의 B 폴더에 mp4파일, C 폴더에 json파일 넣기(각 mp4파일과 json파일은 1대1)
-2. 1에서 6.py 순서대로 실행 (경로 이상하면 학습하는 척만 할 수 있으니 root.py로 경로 확인)
-3. save_model.py로 학습한 것들을 모델로 만듬
-4. whisper-finetuned-final 폴더 생성
-   }
+<ul>
+<li>pip install -r</li>
+<li>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))</li>
+<li>choco install ffmpeg</li>
+<li>pip install git+https://github.com/openai/whisper.git</li>
+<li>pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118(마찬가지)</li>
+</ul>
+<hr>
+<ul>
+<ol>data/A의 B 폴더에 mp4파일, C 폴더에 json파일 넣기(각 mp4파일과 json파일은 1대1)</ol>
+<ol>1에서 6.py 순서대로 실행 (경로 이상하면 학습하는 척만 할 수 있으니 root.py로 경로 확인)</ol>
+<ol>save_model.py로 학습한 것들을 모델로 만듬</ol>
+<ol>whisper-finetuned-final 폴더 생성</ol>
+</ul>
