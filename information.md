@@ -24,8 +24,9 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 }
 
 실행방법() {
-data/A의 B 폴더에 mp4파일, C 폴더에 json파일 각 mp4파일과 json파일은 1대1
+
+1. data/A의 B 폴더에 mp4파일, C 폴더에 json파일 넣기(각 mp4파일과 json파일은 1대1)
 2. 1에서 6.py 순서대로 실행 (경로 이상하면 학습하는 척만 할 수 있으니 root.py로 경로 확인)
 3. save_model.py로 학습한 것들을 모델로 만듬
 4. whisper-finetuned-final 폴더 생성
-}
+   }
