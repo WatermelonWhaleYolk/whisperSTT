@@ -24,21 +24,8 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 }
 
 실행방법() {
-루트 디렉토리에 실행 파일 생성
-import whisper
-model = whisper.load_model("모델명", device="수행할 장치(cpu, cuda 등등)")
-result = model.transcribe("data/bts_dynamite.mp3")
-print(result["text"])
-}
-
-테스트 폴더로 테스트 방법() {
-test_transcribe.py의 모델 지정하기
-@pytest.mark.parametrize('model_name', whisper.available_models())
-def test_transcribe(model_name: str):
-model = whisper.load_model(model_name).cuda()
-audio_path = os.path.join(os.path.dirname(**file**), "jfk.flac")의
-
-whisper.available_model() 부분에 모델 입력
-예시 : ["tiny"]
-pytest test/
+data/A의 B 폴더에 mp4파일, C 폴더에 json파일 각 mp4파일과 json파일은 1대1
+2. 1에서 6.py 순서대로 실행 (경로 이상하면 학습하는 척만 할 수 있으니 root.py로 경로 확인)
+3. save_model.py로 학습한 것들을 모델로 만듬
+4. whisper-finetuned-final 폴더 생성
 }
