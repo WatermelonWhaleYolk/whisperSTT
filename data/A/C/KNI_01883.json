@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "KNI_01883",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.977,
+        "format": "MP4",
+        "date": "2022-07-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서로 밀고 끌며 한 명의 낙오자 없이 완주하며 하나가 된 순간",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "파이팅 파이팅 아자 아자 다 왔다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.590,
+                "end": 13.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "목표는 벌써 2연속 통합 우승을 향해 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 13.560,
+                "end": 17.410
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "훈련 때 이렇게 분위기가 좋은 게 딱 코트에서도 느낄 수 있도록 약간 그런 분위기가 엄청 좋고 밝고 그게 이제 팀플레이로도 잘 나올 수 있는 그런 팀이 되고 싶거든요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 17.420,
+                "end": 28.970
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "마지막에 스퍼트 낼 때 같이 옆에서 같이 뛰어주셨는데 그냥 같이 뛰지 말고 뒤에서 밀어주시면 더 좋지 않았을까라는 생각이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.200,
+                "end": 35.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수와 감독이 하나로 뭉친 KB 이제는 오르기보다 어렵다는 정상 지키기에 나섭니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.916,
+                "end": 41.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.691,
+                "end": 43.977
+            }
+        ]
+    },
+    "summary": "KB는 선수와 감독이 하나로 뭉쳐 정상 지키기에 나섰다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01883_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01883_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_02359",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.733,
+        "format": "MP4",
+        "date": "2021-03-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 빤스 유튜브에서 사이다를 담당하고 있기에 조언을 해드리고자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.951
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 누군데 나 말고 웨일스의 마피아들이 누군 거냐고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.961,
+                "end": 6.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "웨일스를 상징하는 손동작 더블유 더블유 핸드 사인을 건넸을 때 마피아를 뜻하는 앰으로 화답하는 녀석이 마피아일 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.768,
+                "end": 14.159
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고 어이 흥민아 자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.169,
+                "end": 15.888
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그게 뭐예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.898,
+                "end": 16.733
+            }
+        ]
+    },
+    "summary": "라멜라는 베일에게 웨일스의 마피아는 웨일스를 상징하는 손동작 더블유 핸드 사인을 건넸을 때 마피아를 뜻하는 앰으로 화답한다고 알려줍니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02359_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

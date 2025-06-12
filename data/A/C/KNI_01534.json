@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01534",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.794,
+        "format": "MP4",
+        "date": "2023-05-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "14년 만에 열린 챔피언 결정전 7차전 인삼 공사와 SK는 4쿼터까지 승부를 내지 못했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연장 승부 해결사는 역시 베테랑 @이름1이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.783,
+                "end": 9.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종료 30여 초를 남기고 팀이 한 점 앞선 상황에서 결정적인 공격 리바운드를 잡은 뒤 자유투 두 개를 얻어냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 9.612,
+                "end": 16.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1은 침착하게 자유투를 모두 성공시켰고 인삼 공사가 석 점차로 앞선 종료 3.4초 전 어깨 부상으로 내내 벤치를 지켰던 @이름2이 보호대를 풀고 코트 안으로 들어섰습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 16.877,
+                "end": 27.794
+            }
+        ]
+    },
+    "summary": "14년 만에 열린 챔피언 결정전 7차전 인삼 공사와 SK는 4쿼터까지 승부를 내지 못했지만 @이름1이 종료 30여 초를 남기고 팀이 한 점 앞선 상황에서 결정적인 공격 리바운드를 잡은 뒤 자유투 두 개를 얻어냈습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01534_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

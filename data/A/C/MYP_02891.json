@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_02891",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.466,
+        "format": "MP4",
+        "date": "2020-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 후방에서 공을 따낸 주세종이 전방으로 길게 찔러줍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.374
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 좋은 패스이기 때문에 받으러 달려가야 하기 때문에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.384,
+                "end": 6.176
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어이 박지성이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.186,
+                "end": 7.422
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 아니 아저씨는?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.432,
+                "end": 8.691
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아유 요즘 뭐 경기도 없고 사회적으로 힘든 시기니까 2002년이 생각 많이 나고만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.701,
+                "end": 14.995
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그때는 참말로 온 국민이 하나가 되었잖여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.005,
+                "end": 18.694
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어떻게 뭐 다시 현역으로 복귀할 생각은 없는가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.704,
+                "end": 21.898
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "당신도 참 박지성 선수가 올해 마흔이다. 마흔",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.908,
+                "end": 25.062
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "박지성 선수 그땐 진짜 고마웠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.072,
+                "end": 27.837
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 뭐 제가 뭐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.847,
+                "end": 30.466
+            }
+        ]
+    },
+    "summary": "박지성이 중계를 하다가 박지성에게 고맙다는 인사를 하는 사람들과 이야기를 나눈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02891_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

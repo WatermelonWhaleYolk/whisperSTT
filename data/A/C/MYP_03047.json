@@ -1,0 +1,193 @@
+{
+    "metadata": {
+        "filename": "MYP_03047",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.266,
+        "format": "MP4",
+        "date": "2019-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거 참.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오십이 넘을 때까지 골 욕심만 그렇게 부리던 양반도 죽음 앞에서는 어쩔 수 없나 보네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.510,
+                "end": 4.794
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 일단 저랑 함께 뛸 때도 패스를 안 해줬기 때문에 그럼에도 매시한테 득점수에서 밀려버렸기 때문에 그래도 일단 안타깝긴 하기 때문에 암 요 에너지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.804,
+                "end": 12.513
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아휴 그렇게 골을 좋아하시더니 저승에서도 패스해 달라고 외치고 계시겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.523,
+                "end": 17.157
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "내 말이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.167,
+                "end": 17.762
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "또 모르지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.772,
+                "end": 18.484
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "거기서도 양보 안 하면 두드려 패고 있을지도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.480,
+                "end": 20.510
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "누가 죽었길래 사람들이 저렇게 냉정한 게야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.520,
+                "end": 24.095
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "잉.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.105,
+                "end": 24.777
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "글쎄 누굴까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.787,
+                "end": 26.536
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "죽음을 슬퍼 해주는 사람은 하나도 없는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.546,
+                "end": 30.250
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "아마 없을 걸.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.260,
+                "end": 33.266
+            }
+        ]
+    },
+    "summary": "누가 죽었는지 모르겠지만 슬퍼해 주는 사람이 하나도 없는 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03047_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

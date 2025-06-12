@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "filename": "MYP_00076",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.366,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정말 내가 무관이 될 상인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우승 한 번 못해 보고 은퇴할 상이냐 말일세.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.638,
+                "end": 4.167
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 그게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.177,
+                "end": 5.092
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전하께서 무관을 탈출하실 방법은 딱 한 가지뿐이옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.102,
+                "end": 7.976
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 당신은 환관부의 상선 내시스 베일이 아니오?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.986,
+                "end": 10.942
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 정말인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.952,
+                "end": 11.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 이 지긋지긋한 무관을 탈출할 수 있다는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.887,
+                "end": 14.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당장 말해보게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.673,
+                "end": 15.682
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 서두르실 것 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.692,
+                "end": 17.159
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "올해는 이미 힘드실 테고 내년에 확실히 무관에서 탈출시켜드릴 비법이 있사옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.169,
+                "end": 21.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무관에서 탈출할 수만 있다면 뭐든 좋으니 얼른 말해보게나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.752,
+                "end": 26.366
+            }
+        ]
+    },
+    "summary": "30대 남성 세 명이 무관에서 탈출할 수 있는 방법에 대해 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00076_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

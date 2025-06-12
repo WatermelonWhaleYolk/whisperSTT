@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_04214",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실수하지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.423
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 실수를 안 해 오메 저 오만한 놈을 봐야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.433,
+                "end": 5.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 전담 임무에서는 단 한 건의 실수도 발생한 적이 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.013,
+                "end": 9.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분명 3시 보통 버드님으로 이상없이 전달하였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.514,
+                "end": 14.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 도착 타이밍도 마냥 우연이라 하기엔 꽤 절묘했고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.735,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "제 전담 임무에서는 단 한 건의 실수도 발생한 적 없이 분명 3시 보통 버드님으로 이상없이 전달하였지만 도착 타이밍도 마냥 우연이라 하기엔 꽤 절묘했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04214_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

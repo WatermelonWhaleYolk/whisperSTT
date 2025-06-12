@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01214",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.652,
+        "format": "MP4",
+        "date": "2022-11-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "192센티미터 큰 키에서 나오는 타점 높은 서브를 위한 토스가 기본 최대한 힘을 내기 위해 쓰리 스텝에 집중합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.624
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "힘쓰려면 스피드를 붙이려면은 첫 발 그 투 스텝까지 좁아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.634,
+                "end": 13.611
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좁아를 좁아 쓰리 스텝에 전체적으로 커지면서 힘을 스피드를 받는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.621,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "타점 높은 서브를 위해서는 토스가 기본인데 최대한 힘을 내기 위해 쓰리 스텝에 집중한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01214_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

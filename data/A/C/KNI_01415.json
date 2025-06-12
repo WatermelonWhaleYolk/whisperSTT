@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_01415",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.031,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박재훈 등 국내 선수 5명이 두 자릿수 득점을 기록한 인삼 공사는 캐롯에 56점 차 압승을 거뒀습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "56점 차는 프로 농구 역사상 최다 점수 차입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.295,
+                "end": 10.230
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "캐롯이 체력적인 부담이 있기 때문에 저희는 또 6강을 쉬어서 체력적인 우위가 있다고 생각해서 저희가 시작부터 밀어붙였던 게 좀 잘 풀렸던 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.240,
+                "end": 21.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "점수 차가 컸다고는 해도 종료 20초가량이 남은 상황에서 두 팀 선수들과 감독들이 경기가 이미 끝났다는 듯 악수한 장면은 4강 플레이오프답지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.444,
+                "end": 31.031
+            }
+        ]
+    },
+    "summary": "박재훈 등 국내 선수 5명이 두 자릿수 득점을 기록한 인삼 공사는 캐롯에 56점 차 압승을 거뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01415_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

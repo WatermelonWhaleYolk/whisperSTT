@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYP_03858",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.061,
+        "format": "MP4",
+        "date": "2021-03-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "노예 팔러 왔는데? 일손 필요하긴 한데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 앉아 있는 애 보드복 좀 봐 주실래요?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 3.130,
+                "end": 7.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.940,
+                "end": 8.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 웃옷 사이즈 몇 입으세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.641,
+                "end": 13.878
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음. 105? 아아 아니아니 100 100 100요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.888,
+                "end": 21.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몸값 말고 뭔 말을 해도 노예 같네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.834,
+                "end": 25.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 와중에 그걸 또 깎고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.259,
+                "end": 28.061
+            }
+        ]
+    },
+    "summary": "형들 손에 이끌려 보드 렌탈샵에 가서 보드를 빌리려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03858_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

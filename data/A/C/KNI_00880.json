@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00880",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.295,
+        "format": "MP4",
+        "date": "2023-02-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "울산 홈 팬들이 버스에서 내리는 선수들을 맞기 위해 장사진을 쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말끔한 정장 차림을 한 선수들은 팬들과 손뼉을 맞추며 흥겨운 개막전을 준비합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.672,
+                "end": 12.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원정 팀 전북도 대규모 응원단이 찾아 맞불을 놓으며 열기를 높였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.791,
+                "end": 19.051
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "울산 현대 화이팅",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.061,
+                "end": 29.295
+            }
+        ]
+    },
+    "summary": "울산 선수들은 팬들과 손뼉을 맞추며 흥겨운 개막전을 준비했으며 원정 팀 전북도 대규모 응원단이 찾아 맞불을 놓으며 열기를 높였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00880_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

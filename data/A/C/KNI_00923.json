@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00923",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.158,
+        "format": "MP4",
+        "date": "2122-11-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀 주장답게 벤투 감독과 한참 동안 대화를 나누며 경기장 환경을 점검했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.514
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들도 조별리그 3경기가 모두 열릴 에듀케이션 시티 경기장에 적응하며 월드컵을 실감했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.524,
+                "end": 14.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "16강 진출의 가능성을 가늠할 우루과이전이 다가오면서 대표팀의 훈련 강도도 점점 높아지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.396,
+                "end": 22.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도아에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.474,
+                "end": 25.158
+            }
+        ]
+    },
+    "summary": "손흥민은 주장답게 벤투 감독과 이야기하며 우루과이전이 다가오면서 훈련 강도가 높아진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00923_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 10,
+                    "act": 5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "KNI_02085",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 42.7,
+        "format": "MP4",
+        "date": "2018-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "펜스 부통령은 북한 관리를 만나더라도 메시지는 같다고 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한이 핵과 미사일을 포기해야 한다는 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.806,
+                "end": 8.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 틸러슨 미 국무장관도 펜스 부통령의 방한 기간 북한 인사 접촉 가능성을 시사한 바 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.136,
+                "end": 15.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 백악관은 펜스 부통령이 북한 인사를 만나지 않을 거라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.641,
+                "end": 21.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창 올림픽 폐막식엔 이방카 트럼프 백악관 선임 고문이 참석한다고 미국 CNN이 백악관 관계자를 인용해 보도했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.448,
+                "end": 30.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "트럼프 대통령의 요청으로 방한하는 이방카는 미국팀이 출전하는 일부 경기도 관람할 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.731,
+                "end": 38.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "워싱턴에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 38.288,
+                "end": 42.700
+            }
+        ]
+    },
+    "summary": "미국 백악관은 펜스 부통령이 북한 인사를 만나지 않을 것이고 만나더라도 핵과 미사일 포기라는 메시지는 같다고 한 한편 CNN은 이방카 트럼프 백악관 선임 고문이 평창 올림픽 폐막식에 참석한다고 보도 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02085_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 43,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_02085_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

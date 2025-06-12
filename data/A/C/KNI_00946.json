@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_00946",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.042,
+        "format": "MP4",
+        "date": "2122-12-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국을 외치는 노래도 브라질을 응원하는 댄스도 자연스럽게 어우러졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.753
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.763,
+                "end": 18.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "승패를 떠나 전 세계인이 즐기는 거대한 축제의 장이 된 월드컵.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 18.310,
+                "end": 23.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해외 붉은 악마들도 당당히 그 축제의 주인공이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.968,
+                "end": 29.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 29.303,
+                "end": 32.031
+            }
+        ]
+    },
+    "summary": "해외 붉은 악마들도 당당히 월드컵이라는 축제의 주인공이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00946_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03683",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.758,
+        "format": "MP4",
+        "date": "2021-11-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "넌 비웃지 않을 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 뭔데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.630,
+                "end": 4.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "석유재벌? 야 한방 터지면 평생 걱정 없는 거",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.834,
+                "end": 8.894
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기름진 놈이 개기름에 크리스피로 튀겨벌라",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.904,
+                "end": 12.226
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "불안한 나날들을 보내고 있었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.236,
+                "end": 15.094
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 고민이 끊이지 않았던 어느 날 밤",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.104,
+                "end": 19.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하 그냥 그 일 계속해 봐? 아냐 아냐아냐아냐",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.689,
+                "end": 24.758
+            }
+        ]
+    },
+    "summary": "걸어가면서 그 일을 계속 해볼까 말까 고민을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03683_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

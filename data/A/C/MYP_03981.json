@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYP_03981",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.287,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.834
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 우리가 뭐 스펙 쌓을만한 게 있을까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.844,
+                "end": 5.414
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "후후후 하나 있지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.424,
+                "end": 8.396
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공모전의 가능성을 높이 샀다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.406,
+                "end": 11.598
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리는 공모전을 노린다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.608,
+                "end": 14.152
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "공모전은 누구나 도전할 수 있고 입상 경력은 곧바로 스펙이 되지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.162,
+                "end": 19.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.412,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "주인공과 친구들은 스펙을 쌓기 위해 공모전에 나갈 준비를 하는 내용입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03981_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

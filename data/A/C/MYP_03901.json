@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "filename": "MYP_03901",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.357,
+        "format": "MP4",
+        "date": "2021-01-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 안돼.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.393
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "항상 뭔가 범상치 않은 물건을 갖고 온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.403,
+                "end": 6.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 난 그들의 행복을 짓밟고 만 것이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.199,
+                "end": 10.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으허헝",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.474,
+                "end": 11.047
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내 케이크는. 썩을 놈아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.045,
+                "end": 12.341
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "난 케이크 따위 믿지 않아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.350,
+                "end": 14.141
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "글케 짓밟은 건 나 잡숫고 그지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.151,
+                "end": 16.889
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가끔 조각케이크도 갖고 오는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.899,
+                "end": 20.687
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "자 오늘은 조각케이크 사 왔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.697,
+                "end": 22.913
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "오호",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.923,
+                "end": 24.357
+            }
+        ]
+    },
+    "summary": "20대 남성에게 찾아 오는 남자는 항상 범상치 않는 물건을 가지고 온다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03901_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

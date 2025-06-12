@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYP_03742",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.421,
+        "format": "MP4",
+        "date": "2021-08-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "은상이다 하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘을 한 달간 축하할 테다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.691,
+                "end": 4.333
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.343,
+                "end": 5.285
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 사진 찍자 사진 하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.295,
+                "end": 8.026
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그래서 자랑를 위해 즉석에서 인증샷을 마구 찍어댔지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.036,
+                "end": 12.973
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크하하하하 이건 엄청난 자랑감이 될 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.983,
+                "end": 17.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남는 건 역시 사진밖에 없어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.918,
+                "end": 21.421
+            }
+        ]
+    },
+    "summary": "은상을 받고 자랑을 위해 친구들과 사진을 마구 찍는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03742_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

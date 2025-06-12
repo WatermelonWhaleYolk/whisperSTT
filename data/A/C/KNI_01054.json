@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01054",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 34.501,
+        "format": "MP4",
+        "date": "2022-05-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우상혁이 첫 번째 시기만에 성공하자 환호성이 터져 나옵니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우상혁은 2미터 37은 세 차례 모두 실패해 자신의 한국 기록 경신은 다음으로 미뤘지만 미소를 잃지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.129,
+                "end": 17.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실내에 이어 실외 경기까지 올해 세계 랭킹 1위에 오른 놀라운 성과는 선수 자신도 믿기 어렵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.858,
+                "end": 26.242
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세계 1등 계속 하고 있다 보니까 실감이 안 나요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.252,
+                "end": 29.805
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 맞나 아무도 느끼지 못한 그 행복을 느끼고 있는 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.815,
+                "end": 34.501
+            }
+        ]
+    },
+    "summary": "우상혁이 세계 랭킹 1위에 오른 성과에 스스로도 놀라고 있으며 행복감을 느끼고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01054_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

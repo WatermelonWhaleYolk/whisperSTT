@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_01871",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.5,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여준석은 4쿼터 초반에도 과감하게 석 점 슛 두 개를 적중시키며 기세를 이어갔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허훈이 경기 막바지 쐐기 득점까지 넣은 대표팀은 96대 92로 이겼습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.277,
+                "end": 13.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여준석과 허훈은 나란히 17득점을 성공시키며 지난해 패배를 보기 좋게 되갚았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.928,
+                "end": 20.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "워낙 또 큰 신장에 테크니션까지 갖고 있어서 너무 든든한 친구이고 농구로 정말 배울 점도 많고 앞으로 같이 훈련하면서 좀 더 맞춰봐야 할 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.122,
+                "end": 30.677
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "준석이가 있어서 참 좋은 것 같애요. 대표팀은 내일 필리핀과 한 차례 더 평가전을 치른 뒤 다음달 9일, 아시아컵 본선 출전을 위해 인도네시아로 출국합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.687,
+                "end": 33.500
+            }
+        ]
+    },
+    "summary": "허훈의 경기 막바지 쐐기 득점으로 대표팀이 이겨 지난해 패배를 되갚아줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01871_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

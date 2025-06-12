@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYP_04058",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.352,
+        "format": "MP4",
+        "date": "2020-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 믿고 있었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저와 대리님 같은 사람들이 분명 더 있을 거라고 분명 이곳은 다시 영광의 시절을 되찾을 수 있을 거라고 그렇게 열심히 하다 보면 언젠가 이곳에도 수호대가 다시 오겠죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.302,
+                "end": 15.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 때 소호대 명찰을 달고 싶어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.522,
+                "end": 19.352
+            }
+        ]
+    },
+    "summary": "분명 이곳은 다시 영광의 시절을 되찾을 수 있을 거라고 그렇게 열심히 하다 보면 언젠가 이곳에도 수호대가 다시오고 명찰을 달 수 있다고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04058_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

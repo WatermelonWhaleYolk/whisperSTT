@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_03221",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.463,
+        "format": "MP4",
+        "date": "2023-03-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하도 빚을 져 싸니 그런 트라우마 생기지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.332
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죽을 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.342,
+                "end": 4.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 뭐가 생각나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.908,
+                "end": 6.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "먹튀우엑",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.787,
+                "end": 8.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "채무자 2",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.370,
+                "end": 9.978
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마감할 때 남은 음식은 직원 특별 할인으로 사 올 수 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.988,
+                "end": 14.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 닭꼬치다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.305,
+                "end": 16.135
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘은 월남쌈 모듬팩이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.145,
+                "end": 18.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우 우와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.667,
+                "end": 20.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘은 초 슈퍼 울트라 음이온 돌비사운드 24K 리미티드 친필사인 바베큐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.949,
+                "end": 25.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "달라는 현금은 남 주고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.953,
+                "end": 28.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어찌보면 당연한",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.530,
+                "end": 30.463
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03221_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

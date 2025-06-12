@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYP_03487",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.135,
+        "format": "MP4",
+        "date": "2022-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너하고 좀 더 노래하고 싶었지만 이건 내 책임이잖냐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너희 둘은 할 일이 많고 내가 거기에 끼어들고 싶지는 않아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.024,
+                "end": 14.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 말할 시간은 충분했네 꼬마 친구.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.250,
+                "end": 18.531
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너희 둘은 안전하게 지내 알았지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.541,
+                "end": 24.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "레디 투 원 고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.052,
+                "end": 35.135
+            }
+        ]
+    },
+    "summary": "꼬마 친구하고 같이 노래하고 싶었지만 이건 내 책임이고 마지막으로 너희 둘은 안전하게 지내길 바란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03487_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

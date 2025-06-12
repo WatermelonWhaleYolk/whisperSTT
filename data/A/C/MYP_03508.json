@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYP_03508",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.195,
+        "format": "MP4",
+        "date": "2022-06-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왔다아 에이 하하 높은 볼에 어이없는 폭풍 스윙",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.653
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 씨부랄",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.663,
+                "end": 8.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "볼카운드 투스트 락 원볼",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.711,
+                "end": 11.439
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오 장난 아니야 역시 이 승부는 대단하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.449,
+                "end": 15.490
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하아 스윙에 힘이 넘치네 맞으면 넘어가는 건 당연하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.500,
+                "end": 23.457
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다시 당하지 않는다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.467,
+                "end": 29.195
+            }
+        ]
+    },
+    "summary": "높은 볼에 어이없는 폭풍 스윙을 했고 스윙에 힘이 넘쳐서 맞으면 넘어가는 건 당연하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03508_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

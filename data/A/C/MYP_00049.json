@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_00049",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.366,
+        "format": "MP4",
+        "date": "2023-08-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "리그는 힘들지언정 컵 대회라도 FA컵은 힘들지언정 최소한 카라바오컵 우승은 목표로 해야 하지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 또 모르죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.226,
+                "end": 6.396
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알고 보니 토트넘이 문제였던 게 아니라 케인 녀석한테 쓰여 있던 무관의 저주가 문제인 거였고 녀석이 떠남과 동시에 귀신같이 우승을 할지도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.406,
+                "end": 12.809
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "리그를 넘어 유럽 유럽을 너머 세계 최고의 공격수라는 케인이 없는 상황에서 뭐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.819,
+                "end": 17.470
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "카라바오컵 우승?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.480,
+                "end": 18.516
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이봐 손흥민 내가 어제 친구 딸내미 결혼식에 갔다가 어떤 소리를 들은 줄 아나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.526,
+                "end": 22.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허구한 날 노래만 부르던 케인이 없다고 이제 감독님께서 그 자리를 노리시는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.851,
+                "end": 26.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영양가 없는 소리는 그만하시고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.614,
+                "end": 28.211
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제부터 웃음기 사라질 거야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.221,
+                "end": 34.366
+            }
+        ]
+    },
+    "summary": "40대 남성과 20대 남성이 시즌 목표에 대해 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00049_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

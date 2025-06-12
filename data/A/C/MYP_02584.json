@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYP_02584",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.433,
+        "format": "MP4",
+        "date": "2020-11-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 이봐 무리뉴 꼭 이 시국에 A매치를 해야 하는 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우측 풀백인 도허2이가 아일랜드 대표팀에 갔다가 코로나에 걸려서 돌아왔어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.472,
+                "end": 7.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그러니까 말입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.884,
+                "end": 9.193
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "호이비에르도 덴마크 대표팀에 다녀왔는데 만약 그 녀석까지 걸렸다면 큰일 났을 거라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.203,
+                "end": 13.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.785,
+                "end": 14.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 시즌 토트넘 득점의 절반 이상이 호이비에르의 발끝에서 시작되었어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.327,
+                "end": 18.433
+            }
+        ]
+    },
+    "summary": "토트넘 관련자들이 선수들이 자국 대표팀 참석 후 코로나 감염에 대해 걱정하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02584_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

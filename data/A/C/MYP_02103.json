@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_02103",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.366,
+        "format": "MP4",
+        "date": "2021-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 시청자 여러분 안녕하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개막 전부터 많은 사람들이 우승할 거라 예상해 왔던 유력한 우승 후보 두 팀이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.161,
+                "end": 6.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "벨기에와 이탈리아의 경기에 앞서 토론을 해 보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.946,
+                "end": 10.138
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 이탈리아의 부폰 선수 발언해 주시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.148,
+                "end": 12.788
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.798,
+                "end": 13.619
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부폰입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.629,
+                "end": 14.230
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 돈나룸마라면 모를까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.240,
+                "end": 16.048
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대표팀에 발탁되지도 않으신 부폰 선수가 왜 나옵니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.058,
+                "end": 18.734
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "데브라이너 자네도 부상으로 8강에 결장한다고 들었는데 어차피 우리 둘다 경기에 못 나가는 건 매한가지이지 않나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.744,
+                "end": 25.614
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "못 나가는 사람들끼리 국가를 대표해서 토론을 좀 해 보자는데 무슨 문제라도 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.624,
+                "end": 30.118
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 조르지뉴가 전편에 나왔기 때문에 다시 출연시키기 뭐해서 그런가 본 데 최소한 임모빌레라도 나와야 하는 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.128,
+                "end": 36.077
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하 아이 빤스가 요즘 너무 과로하길래 내가 나간다고 그랬네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.087,
+                "end": 40.366
+            }
+        ]
+    },
+    "summary": "사회자가 유력한 우승 후보 벨기에와 이탈리아 경기 앞서 토론을 해 보겠다고 해서 각 나라에서 경기에 못 나가는 선수들이 대표로 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

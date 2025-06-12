@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_03734",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.056,
+        "format": "MP4",
+        "date": "2021-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아직 해가 중천이지만 일찍 저녁 준비에 들어간다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고기다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.333,
+                "end": 4.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "봤나 대자연 돌판구이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.432,
+                "end": 7.221
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그게 뭔데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.231,
+                "end": 8.058
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "도시에선 흔치 않은 조리법에 우린 흥분했고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.068,
+                "end": 12.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자연에서 얻은 장작과 돌로 굽는 자연친화적 삽겹구이지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.070,
+                "end": 16.342
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오 자연과 하나 되는 고기?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.352,
+                "end": 19.151
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돼지를 잡은 시점에서 이미 자연을 등졌어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.161,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "장작과 돌로 굽는 자연친화적 삽겹구이에 모두들 흥분한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03734_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 7
+                }
+            ]
+        }
+    ]
+}

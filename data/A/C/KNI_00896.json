@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00896",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.651,
+        "format": "MP4",
+        "date": "2021-10-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "남은 이제 앞으로 있는 대회 선발전이나 남아있는 메뉴 내후년에 있는 대회들 준비도 차근차근 쌓아가면서 좋은 성 선수가 되도록 최선을 다하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어린 나이에도 도쿄 올림픽에서 전세계를 놀라게 했던 선수들 이번 전국 체육 대회에서도 다시 한번 빛나고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.070,
+                "end": 16.716
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.726,
+                "end": 18.651
+            }
+        ]
+    },
+    "summary": "어린 나이에도 도쿄 올림픽에서 전세계를 놀라게 했던 선수들 이번 전국 체육 대회에서도 다시 한번 빛나고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00896_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

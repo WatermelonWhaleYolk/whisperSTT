@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "filename": "MYP_03701",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.654,
+        "format": "MP4",
+        "date": "2021-10-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 수가 점점 위협적으로 많아지자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.744
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가스파드 엎드려",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.754,
+                "end": 4.785
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으악",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.795,
+                "end": 5.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "로이드 형이 또 살충제를 꺼내들었고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.761,
+                "end": 8.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대량살충포",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.493,
+                "end": 10.661
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으악",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.671,
+                "end": 11.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 원두막 안에도 비가 내렸다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.381,
+                "end": 13.991
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크하하하하 가스 맞는다 고개 들지 마라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.001,
+                "end": 17.030
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "엎드려가 아니라 비키라고 해야지 이 악마 놈",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.040,
+                "end": 21.654
+            }
+        ]
+    },
+    "summary": "벌레의 수가 점점 많아지자 살충제를 꺼냈고 원두막 안에도 비가 내렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03701_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 108
+                }
+            ]
+        }
+    ]
+}

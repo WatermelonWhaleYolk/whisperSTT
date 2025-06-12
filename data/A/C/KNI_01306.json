@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_01306",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.027,
+        "format": "MP4",
+        "date": "2023-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "캥거루 슈터 @이름1의 한 시즌 최단 경기 3점 슛 100개를 21년 만에 깨트린 @이름2 타이틀 밀어주기 논란으로 빛바랜 @이름3와 @이름4의 한 시즌 최다 3점 슛 1 2위 기록을 넘어 전인미답의 3점 슛 200개 돌파가 올 시즌 꼭 이루고 싶은 목푭니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 18.030
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "때문에 이렇게 기록이 자꾸 나와가지고 뭔가 이슈가 되는 거 같애요 사실 자꾸",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.045,
+                "end": 22.010
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러기 때문에 때문에 제가 좀 당당하게 1등으로 이름을 좀 세우고 싶습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.020,
+                "end": 27.027
+            }
+        ]
+    },
+    "summary": "캥거루 슈터 @이름1의 한 시즌 최단 경기 3점 슛 100개를 21년 만에 깨트린 @이름2는 타이틀 밀어주기 논란으로 빛바랜 @이름3와 @이름4의 한 시즌 최다 3점 슛 1 2위 기록을 넘어 전인미답의 3점 슛 200개 돌파가 올 시즌 꼭 이루고 싶은 목표이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01306_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

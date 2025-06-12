@@ -1,0 +1,305 @@
+{
+    "metadata": {
+        "filename": "MYP_00105",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 87.167,
+        "format": "MP4",
+        "date": "2023-07-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 우리 노이어 파가 유럽 최강이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "큰 형님 괜찮으십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.874,
+                "end": 3.459
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 거 참 우승하기 딱 좋은 날이구먼.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.469,
+                "end": 10.751
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "주장인 노이어와 부주장인 밀러 그리고 에이스인 레반도프스키까지 다들 모였나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.761,
+                "end": 16.441
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그런데 무슨 일로 부르셨습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.451,
+                "end": 18.353
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "시즌 개막을 앞두고 선수단 모두 특별 훈련 중이라 1분 1초가 아까운 상황입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.363,
+                "end": 23.584
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너희들 리그나 포칼 정도는 숨만 쉬어도 우승하는 거 아니었어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.594,
+                "end": 27.590
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그렇게 자만하다가 지난 시즌 홀란드의 도르트문트에게 포칼을 뺏긴 거 모르십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.600,
+                "end": 32.152
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "올해는 나 나겔스만이 지휘봉을 잡았잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.162,
+                "end": 34.742
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "세계 최고의 스쿼드에 세계 최고의 감독까지 더해졌으니 분데스에선 가볍게 우승할 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.752,
+                "end": 40.237
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그것도 무패 우승으로 말이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.247,
+                "end": 41.893
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "챔스에서도 우승할 수 있는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.903,
+                "end": 43.663
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "2020년 트레블을 달성하고도 시상식 취소로 인해 발롱도르를 코앞에서 놓쳤습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.673,
+                "end": 48.168
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "올 시즌 유로를 비롯해 내년에 열리는 월드컵까지 폴란드 국적인 저로서는 우승과는 거리가 조금 있기에 반드시 트레블을 해야만 다시 한번 발롱도르에 도전할 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.178,
+                "end": 57.347
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그런데 레반도프스키 너 이적한다고 하지 않았어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 57.357,
+                "end": 59.982
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "새로운 도전을 위해 이적도 고려해 봤지만 회장님까지 나서서 2년만 더 뛰어달라 하시더라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 59.992,
+                "end": 64.963
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "레반도프스키가 지금 당장 팀을 떠난다면 챔스는커녕 리그 우승도 확실치 않다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 64.973,
+                "end": 69.923
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "2년 동안 트레블 한 번만 더 하고 대체자가 구해질 때쯤 떠나도록 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 69.933,
+                "end": 74.191
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 74.201,
+                "end": 74.906
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "그런데 대체자로는 어떤 녀석을 데려오실 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 74.916,
+                "end": 77.287
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "아무래도 우리 뮌헨이 북동부 유럽인들의 드림 클럽인 만큼 홀란드 녀석도 잘만 하면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 77.297,
+                "end": 81.844
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 녀석은 이적료가 2000억이 넘잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 81.854,
+                "end": 84.105
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "심지어 바이아웃으로 풀린다 해도 1000억이나 된다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 84.115,
+                "end": 87.166
+            }
+        ]
+    },
+    "summary": "노이어 파가 유럽 최강 타이틀을 달았어도 방심하지 않고 훈련을 하는 와중 새로운 감독이 부임했고 레반도프스키는 이적을 원하지만 대체자를 구할 때까지 남아 있기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00105_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

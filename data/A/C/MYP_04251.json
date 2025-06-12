@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYP_04251",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.425,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대리님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.414
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 자네들은 지금 날 납치한 걸로 되어 있다네 그러니 평소보다 더욱 악랄한 연기톤을",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.424,
+                "end": 9.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대리님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.478,
+                "end": 17.075
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대리님 얘 많이 아프지만 그래도 왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.072,
+                "end": 20.978
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저희 안 자르실거죠 계속 일하게 해주세요 네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.988,
+                "end": 25.425
+            }
+        ]
+    },
+    "summary": "납치된 걸로 되어있으니 더욱 악랄한 연기를 해주라고 대리님이 말하자 아픈데도 왔다며 자르지 말고 계속 일하게 해달라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04251_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

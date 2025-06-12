@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_00795",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.648,
+        "format": "MP4",
+        "date": "2023-02-11",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1 김연경이 시선을 완벽히 속이는 변칙 공격으로 득점하자 김호철 감독이 작전타임을 부릅니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공격수들이 공이 올라오면은 최대한 페인트도 넣고 옆으로 돌려치고 밀어 때리고 해서 우리가 포인트를 내려고 하자고 어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.941,
+                "end": 14.797
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.807,
+                "end": 15.648
+            }
+        ]
+    },
+    "summary": "@소속1 김연경이 시선을 완벽히 속이는 변칙 공격으로 득점하자 감독은 선수들을 격려한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

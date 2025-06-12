@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03404",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.798,
+        "format": "MP4",
+        "date": "2022-09-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "믄",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.969
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어쨌든 지금 주문하시기엔 영화 시간이 빠하겠군",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.979,
+                "end": 5.627
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "근원을 알 수 없는 쿨내음이 진동한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.637,
+                "end": 9.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광득이 아부지는 뭐 잡술란교?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.805,
+                "end": 12.341
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "쌍화차 없나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.351,
+                "end": 13.866
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "닥공?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.876,
+                "end": 15.438
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "거기다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.448,
+                "end": 16.722
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그라믄 보자 그 저기 저 아메리카노 드시소",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.732,
+                "end": 22.156
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "까긴 뭘 가 그기 먼데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.166,
+                "end": 24.791
+            }
+        ]
+    },
+    "summary": "지금 주문해도 영화 시간이 빠듯하지만 주문을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

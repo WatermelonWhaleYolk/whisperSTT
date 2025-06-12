@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_02189",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.166,
+        "format": "MP4",
+        "date": "2017-11-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강원도 내 18개 시군에 문화 도민 운동 협의회 회원과 응원 서포터즈 2000여 명이 모여 성숙한 시민 의식을 높이기로 다짐하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창 올림픽 기간에 외국인들이 마음 놓고 찾을 수 있는 친절한 한국을 만들기 위해서입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.418,
+                "end": 15.867
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "수준 높은 경기 관람 및 응원 매너를 바탕으로 적극적인 동계올림픽 응원 참여 활동을 전개하여",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.877,
+                "end": 26.166
+            }
+        ]
+    },
+    "summary": "강원도 내 18개 시군에 문화 도민 운동 협의회 회원과 응원 서포터즈 2000여 명이 모여 평창 올림픽 기간에 외국인들이 마음 놓고 찾을 수 있는 친절한 한국을 만들기 위해 성숙한 시민 의식을 다짐하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02189_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

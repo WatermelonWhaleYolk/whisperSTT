@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03562",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.026,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한번 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "녀석이 나를 찾아온 지 정확히 만 4년이 흘렀네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.561,
+                "end": 7.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심심한 이야기를 덧붙이자면 녀석은 원래 좌투였고 그리고 우투였다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.595,
+                "end": 16.001
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마성고 6회말 선두 타자 2번",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.011,
+                "end": 19.214
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 어 뭐지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.224,
+                "end": 22.361
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "투수가 바뀌었나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.371,
+                "end": 23.871
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "생긴 게 똑같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.881,
+                "end": 26.026
+            }
+        ]
+    },
+    "summary": "녀석이 나를 찾아온 지 4년이 넘었고 녀석은 원래 좌투이고 우투였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03562_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

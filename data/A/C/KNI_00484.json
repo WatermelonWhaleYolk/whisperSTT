@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_00484",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.989,
+        "format": "MP4",
+        "date": "2023-05-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "FA컵 16강 전에서 적으로 만났습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 시작을 앞두고 포항 김기동 감독은 이우재에게 의미심장한 한마디를 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.707,
+                "end": 10.088
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국 속담에 자식 이기는 아버지가 없지. 그럼 네가 이기면 우리가 이길 거라고 자신 있게 아버지한테 한 3골만 꽂아 넣어. 알겠지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.098,
+                "end": 22.989
+            }
+        ]
+    },
+    "summary": "포항 김기동 감독이 경기FA컵 16강 진출전에서 자신의 팀원이었던 이우재 선수를 만나 응원과 격려를 하며 진심 어린 농담을 나눈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00484_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00484_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

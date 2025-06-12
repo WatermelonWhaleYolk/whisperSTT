@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_00049",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.523,
+        "format": "MP4",
+        "date": "2022-05-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수직축 회전 격파 종합 격파 등 4개 부문에서 완파력과 기술력 표현성 완성도 4가지로 점수를 매겼습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1970년대 초반 시범단이 처음 운영된 뒤 50여 년 만입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.419,
+                "end": 14.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 이 격파가 시간이 흐를수록 옛날에 비해서 고난도 기술로써 많이 이렇게 향상이 됐고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.880,
+                "end": 23.523
+            }
+        ]
+    },
+    "summary": "1970년대 초반 시범단이 처음 운영된 뒤 50여 년 만이며 4개 부문에서 4가지로 점수를 매겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00049_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00049_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

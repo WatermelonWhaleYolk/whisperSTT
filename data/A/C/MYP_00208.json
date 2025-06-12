@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_00208",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.326,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 선배라면 당연히 홀인원일 거라 생각했지만 이번에도 역시 홀인원이군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 실례지만 이글이나 버디는 도저히 하실 수 없는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.652,
+                "end": 6.540
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고 @이름2 너 이 자식 사회생활이 보통이 아니구먼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.550,
+                "end": 10.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 아직 헤딩이나 몸싸움은 만렙을 찍지 못했지만 사회생활만큼은 만렙인 인싸 중의 인싸지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.332,
+                "end": 15.216
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 더 이상 들어볼 것도 없이 두 번째 라운드의 우승자는 @이름2로 결정됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.226,
+                "end": 19.123
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동료들과의 애틋함이 남다른 녀석이니까 고민할 시간 5분을 주겠으며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.133,
+                "end": 22.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 정답이 나와있는데 고민할게 뭐 있겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.787,
+                "end": 25.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 지목할 두 번째 탈락자는 바로 @이름3",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.043,
+                "end": 27.420
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "두둥 다음 편에 계속",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.430,
+                "end": 29.315
+            }
+        ]
+    },
+    "summary": "화자2가 화자1이한 아부에 매우 만족하며 더 이상 들어볼 것도 없이 두 번째 라운드 우승은 화자2라고 말하며 화자1이 탈락자를 지목하는 순간 다음 편에 계속된다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00208_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_00272",
+        "category": "스포츠뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.649,
+        "format": "MP4",
+        "date": "2023-04-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동호인들의 배려 속에 학생들은 테니스를 배우는 재미에 흠뻑 빠졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.373
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "처음에 어려울 것 같았는데 점점 하다 보니까 재미있고 쉬워졌어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.383,
+                "end": 11.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학생들이 강당에서 증강 현실 스포츠 클라이밍을 즐기고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.730,
+                "end": 16.649
+            }
+        ]
+    },
+    "summary": "동호인들의 배려 속에 학생들은 테니스를 배우는 재미에 흠뻑 빠졌고 학생들은 강당에서 증강 현실 스포츠 클라이밍을 즐기기도 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00272_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "10대 미만",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 36
+                }
+            ]
+        }
+    ]
+}

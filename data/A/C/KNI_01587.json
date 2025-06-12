@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "KNI_01587",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.268,
+        "format": "MP4",
+        "date": "2023-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "9년 만에 열린 챔피언 결정 5차전 답게 선수들은 그 어느 때보다 진지한 표정으로 경기장에 도착했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6000명 넘게 몰린 만원 관중들도 목청껏 자신의 팀을 응원하며 분위기는 경기 전부터 뜨거웠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.554,
+                "end": 13.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1세트를 내준 도로공사는 2세트부터 역전의 명수다운 실력을 발휘하기 시작했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.349,
+                "end": 19.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1의 강력한 공격으로 분위기를 가져왔고 @이름2의 결정적 블로킹까지 터지면서 승부를 원점으로 돌렸습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 19.024,
+                "end": 26.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3세트에도 집중력은 돋보였습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 26.638,
+                "end": 29.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "23대 19위기에도 @이름1와 @이름2이 끝까지 득점을 올리며 세트를 뒤집었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.487,
+                "end": 35.268
+            }
+        ]
+    },
+    "summary": "9년 만에 열린 챔피언 결정 5차전 답게 선수들은 그 어느 때보다 진지한 표정으로 경기장에 도착했고 도로공사는 23대 19위기에도 @이름1와 @이름2이 끝까지 득점을 올리며 세트를 뒤집었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01587_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

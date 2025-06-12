@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_01313",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.501,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "남미 최강 브라질답게 확실하게 이겨 주겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.460
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역시 세계 최고의 선수 중 한 명답게 겉으로는 여유로워 보여도 준비는 치밀하게 마쳐놓았군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.677,
+                "end": 7.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 대한민국 역시 아시아 최강으로서 순순히 물러날 순 없지 기적을 만들어 낼 이번 카타르 월드컵 그 시작은 너희 브라질을 상대로 보여주겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.737,
+                "end": 21.482
+            }
+        ]
+    },
+    "summary": "남미 최강 브라질이 대한민국을 확실하게 이겨주겠다고 하자 아시아 최강 대한민국도 순순히 물러나지 않고 기적을 만들어 낼 이번 카타르 월드컵의 시작을 브라질을 상대로 보여주겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01313_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 14,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

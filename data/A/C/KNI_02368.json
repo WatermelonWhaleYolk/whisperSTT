@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_02368",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2016-08-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "브라질리아 공항에서부터 우리와 온두라스는 얄궂은 운명처럼 마주쳤습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.826
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 한 마디 대화도 없었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.836,
+                "end": 7.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올림픽 조직위에서 마련해 준 항공편을 함께 탄 비행기 안에서도 묘한 풍경이 펼쳐졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.478,
+                "end": 13.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "온두라스가 앞쪽 우리가 비행기 뒤쪽을 차지했지만 이틀 뒤 적으로 만날 선수들은 조용히 잠을 청할 뿐 냉랭함만이 이어졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.812,
+                "end": 23.800
+            }
+        ]
+    },
+    "summary": "이틀 뒤 상대팀으로 만나는 온두라스와 우리나라 대표팀은 올림픽 조직위에서 같은 항공편을 배정해 한 마디 대화도 없이 냉랭함을 유지했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02368_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 49,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

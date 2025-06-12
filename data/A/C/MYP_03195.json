@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03195",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2023-05-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "귀가하면 집이 비어 있는 경우가 많았는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.308
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다녀왔습. 어 아무도 없네. 어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.318,
+                "end": 7.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대쪽같은 관념의 엄마는 오락실로 하여금 나를 돌보게 했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.546,
+                "end": 15.542
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너 인마. 조그만게 누가 이런 데 오래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.552,
+                "end": 17.957
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엄마가요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.967,
+                "end": 19.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 합법적 오락실 출입을 즐기던 어느 날.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.030,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "그는 집에 오면 아무도 없는 경우가 많았는데 그럴 때 엄마의 허락 하에 오락실에 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03195_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_01448",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 47.3,
+        "format": "MP4",
+        "date": "2022-04-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 포르투갈은 호날두를 시작으로 브루노와 조타, 베르나르두 실바 등등 우리 잉글랜드에 맞먹는 공격라인을 갖추고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.549
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뿐만 아니라 중원부터 수비까지 1명 1명이 정상급 선수들이잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.559,
+                "end": 10.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리나라 대표팀도 나쁘지 않은 전력이지만 포르투갈을 넘어서는 건 무리이지 않겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.000,
+                "end": 13.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들이 정상급이라 해도 감독에 문제가 많잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.490,
+                "end": 16.219
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감독이라면 페르난도 산투스 감독?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.230,
+                "end": 18.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그 양반이 전술은 모리뉴랑 다를 바 없지만 실력은 한참 떨어지기에 욕이란 욕은 혼자서 다 먹는 중이잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.040,
+                "end": 24.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한마디로 언럭키 모리뉴라는 말이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.380,
+                "end": 26.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.880,
+                "end": 27.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "산투스가 부임한 뒤로 포르투갈은 역대 첫 유로 우승은 물론 네이션스 리그의 초대 우승까지 차지했잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.590,
+                "end": 32.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 양반이 아이러니한 게 선수가 강해질수록 성적은 나빠진다는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.210,
+                "end": 36.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호날두의 원맨팀 시절엔 유럽 정상까지 올라갔지만 오히려 조타나 브루노 같은 신성들이 합류하면서 부진을 거듭하고 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.270,
+                "end": 42.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 전력이 올라갔는데 그럴 수가 있는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.750,
+                "end": 44.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 양반도 전형적인 수비 축구 매니아거든.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.740,
+                "end": 47.300
+            }
+        ]
+    },
+    "summary": "포르투갈은 호날두, 브루노와 조타, 베르나르두 실바로 공격라인을 갖추고 있고 중원부터 수비까지 정상급 선수들이 모여 있지만 산투스 감독이 부임한 뒤로 강한 선수들로 인해 전력이 올라갔음에도 불구하고 성적은 나빠지고 수비 축구를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_04070",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2020-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "몸이 바뀐 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "희한하네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.527,
+                "end": 2.892
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희 닮았는 걸",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.902,
+                "end": 4.466
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 몸으로 담배 태우기만 해봐 아주 죽도록 패줄 테니까 말이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.476,
+                "end": 9.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예 예",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.175,
+                "end": 11.847
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하 왜 하필이면 즈드라다랑 엮어선 커피나 마시고 진정이나 하자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.857,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "즈드라다랑 종업원이랑 몸이 바껴 당황한 상태에서 커피를 마시고 진정을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04070_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

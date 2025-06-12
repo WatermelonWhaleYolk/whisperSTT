@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_04039",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.026,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무 것도 찾을 수 없었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.029
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무것도 없네 내가 잘못 들었나봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.039,
+                "end": 5.435
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엇?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.445,
+                "end": 7.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소리는 더욱 깊은 곳에서 멈추지 않고 계속해서 들려왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.795,
+                "end": 12.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심상치 않은 존재를 감지한 나는 발 밑을 파내려가기 시작했고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.519,
+                "end": 19.532
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이건 그냥 보통 두꺼비가 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.530,
+                "end": 21.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엄청나게 크고 깊은 무언가가 날 부르고 있는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.261,
+                "end": 26.026
+            }
+        ]
+    },
+    "summary": "두꺼비 집에서 무언가를 느낀 가스파드는 두꺼비 집을 더 깊게 파내려 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04039_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

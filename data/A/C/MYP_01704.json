@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_01704",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.6,
+        "format": "MP4",
+        "date": "2021-12-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 토트넘의 손흥민 선수 발언해주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.433
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누누 감독님께는 죄송한 말씀이지만 콘테 감독님 부임 이후 우리 토트넘은 180도 달라졌습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.443,
+                "end": 7.428
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "리그에서도 최근 3경기 2승 1무를 달리며 어느새 6위까지 올라왔죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.438,
+                "end": 11.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4위 웨스트햄보다 2경기나 덜 치른 상황에서 승점 차이는 고작 2점",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.341,
+                "end": 15.600
+            }
+        ]
+    },
+    "summary": "화자 1이 화자 2에게 발언해 달라고 이야기한 후 화자 2가 콘테 감독님 부임 이후 토트넘은 180도 달라졌다는 이야기를 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01704_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

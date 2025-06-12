@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00709",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.178,
+        "format": "MP4",
+        "date": "2023-02-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조사 대상은 임대차 계약 뒤 20채 이상 팔거나 10채 이상 산 경우 또는 1명이 빌라 건물을 통째로 매입한 경우 등이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조사 결과 감정가를 일부러 과도하게 부풀렸다고 의심되는 사례 11건이 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.948,
+                "end": 15.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감정 평가 법인 3곳이 나눠 한 사례들인데 해당 법인 중 일부는 최근 주택 도시 보증 공사가 믿을 만하다고 추천한 40개 법인에 포함됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.708,
+                "end": 26.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "40개 추천 법인에는 이른바 강서 빌라왕 배후인 전세 사기 조직이 부풀리기를 의뢰했던 감정 평가 법인도 5곳 들어 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.557,
+                "end": 36.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더욱이 의심 사례 11건 중 9건은 한 법인 소속 1명의 감정 평가사가 진행했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.478,
+                "end": 43.176
+            }
+        ]
+    },
+    "summary": "조사 대상은 임대차 계약 뒤 20채 이상 팔거나 10채 이상 산 경우 또는 1명이 빌라 건물을 통째로 매입한 경우 등이었는데 조사 결과 감정가를 일부러 과도하게 부풀렸다고 의심되는 사례 11건이 나왔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00709_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 64,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

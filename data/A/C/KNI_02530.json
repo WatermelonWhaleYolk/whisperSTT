@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "KNI_02530",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.633,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3학년 형들에겐 남은 경기가 얼마 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "패배는 곧 대회 탈락을 의미하는 거죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 2.772,
+                "end": 6.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "승리를 향해 몸이 부서져라 달립니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.521,
+                "end": 17.608
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 마음에 보답하는 시원한 첫 골이 오산중에서 나옵니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 17.618,
+                "end": 28.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오산 파이팅 오산 파이팅 오산 파이팅",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 28.813,
+                "end": 35.235
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이들이랑 이 맛에 하는 거죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 35.245,
+                "end": 39.633
+            }
+        ]
+    },
+    "summary": "패배는 곧 탈락을 의미하는데 오산중에서 첫 골이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

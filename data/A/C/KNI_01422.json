@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01422",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2023-04-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전희철 감독의 한마디에 다시 집중하기 시작한 SK 워니와 김선형의 공격이 한층 더 날카로워졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.211
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 벼랑 끝에 몰린 LG가 이재돌을 앞세워 다시 한 점 차로 추격을 이어갑니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.221,
+                "end": 12.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "위기의 순간 SK에는 역시 해결사 김선형이 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.384,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "위기의 순간 SK에는 역시 해결사 김선형이 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01422_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

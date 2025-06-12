@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_00803",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.019,
+        "format": "MP4",
+        "date": "2023-02-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "27득점을 올린 @이름1을 앞세워 BNK를 꺾은 우리은행 올시즌 단 4패만 기록하며 다섯 경기를 남겨두고 정규 리그 우승을 확정했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리은행에서 무려 아홉 번째 정규 리그 정상에 오른 @이름2 감독은 선수들에게 물세례로 축하를 받았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.139,
+                "end": 17.436
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빨리 닦아.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.446,
+                "end": 19.019
+            }
+        ]
+    },
+    "summary": "우리은행은 정규 리그 우승을 확정했고 감독은 축하를 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00803_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 138
+                }
+            ]
+        }
+    ]
+}

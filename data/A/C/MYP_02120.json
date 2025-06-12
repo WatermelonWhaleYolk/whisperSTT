@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_02120",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.566,
+        "format": "MP4",
+        "date": "2021-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 식으로 1년씩 기다려서 영입했던 선수가 로드리와 디아스였고 둘 다 성공을 거뒀지 말라이쿰",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.380
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기나긴 무관과 아우디컵의 시간 지긋지긋한 차였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.390,
+                "end": 8.707
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이만 팔아주십쇼 회장님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.717,
+                "end": 10.455
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이런 젠장 1년 뒤면 눈 뜨고 500억을 잃게 생겼잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.465,
+                "end": 13.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빨리빨리 결정해라는 도르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.839,
+                "end": 15.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어차피 니들은 케인보다 돈이 먼저 라는 거 다 알고 있다 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.528,
+                "end": 20.566
+            }
+        ]
+    },
+    "summary": "화자2는 기나긴 무관과 아우디컵의 시간으로 지긋지긋한 차였다면서 회장에게 이만 팔아 달라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

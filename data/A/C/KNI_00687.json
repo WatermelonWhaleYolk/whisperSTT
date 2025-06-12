@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_00687",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.202,
+        "format": "MP4",
+        "date": "2023-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배구 여제 김연경이 등장하자 관중석이 들썩거립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김연경은 팬들에게 일일이 선물을 건네며 고마움을 전했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.872,
+                "end": 9.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "본 경기에 앞서 가볍게 미니 게임으로 몸을 푼 올스타 선수들 최고의 강서브 주인공을 뽑는 서브 콘테스트 예선전도 열렸는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.218,
+                "end": 18.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자부에선 @소속1 이크바이리가 여자부에선 @소속2 정윤주가 예선 1위에 오르며 내일 서브왕에 도전합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 18.962,
+                "end": 28.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프로 배구 올스타전은 내일 신구 대결을 주제로 M스타와 Z스타팀의 대결로 펼쳐집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.476,
+                "end": 36.202
+            }
+        ]
+    },
+    "summary": "올스타전에 김연경이 등장하자 관중석은 들썩거렸고 최고의 강서브 주인공을 뽑는 서브 콘테스트 예선전도 열렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00687_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYP_03437",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.858,
+        "format": "MP4",
+        "date": "2022-07-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 그래 뭐 전공이 뭐가 중요해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.168
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈 잘 벌고 행복하면 됐지 이것 봐 벌써 차도 찼네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.178,
+                "end": 8.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "형이 즐거우면 된 거죠 와 그래도 돈 모아서 차까지 샀네요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.430,
+                "end": 15.343
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쌈짓돈에 일시불 꺼임",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.353,
+                "end": 18.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "댐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.028,
+                "end": 19.227
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 한 시간 남짓한 귀갓길 동안",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.237,
+                "end": 21.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 아 차",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.873,
+                "end": 24.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.264,
+                "end": 24.858
+            }
+        ]
+    },
+    "summary": "돈 잘 벌어서 차도 샀고 형이 행복하면 된다고 나는 생각했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03437_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_03437_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

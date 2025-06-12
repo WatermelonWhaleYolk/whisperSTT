@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_00004",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.283,
+        "format": "MP4",
+        "date": "2022-01-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최선을 다해 결승선에 통과하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.013
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난해 여름 우리에게 감동을 선사했던 도쿄 올림픽 스타들도 베이징으로 향할 태극 전사들에게 응원의 메시지를 전했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.023,
+                "end": 11.580
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그동안 열심히 노력하신만큼 목표 달성을 하는 과정에 꼭 완주하시길 바라겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.590,
+                "end": 17.283
+            }
+        ]
+    },
+    "summary": "도쿄 올림픽 스타들도 태극 전사에게 응원 메시지를 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00004_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00004_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

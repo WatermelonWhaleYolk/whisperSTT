@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "KNI_00590",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 36.202,
+        "format": "MP4",
+        "date": "2023-01-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "농구장에 한국 수영의 간판 황선우가 시투자로 등장합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "농구는 얼마나 잘할까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.831,
+                "end": 6.211
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 첫 번째 슛이 안 들어가고 두 번째 세 번째 네 번째도 넣지 못하고 머쓱하게 코트를 떠납니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.221,
+                "end": 13.224
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수영만 잘하면 됐죠 뭐.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.234,
+                "end": 14.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1 @이름1은 더한 봉변을 당했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.749,
+                "end": 17.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딴 곳을 보고 있다가 @이름2의 패스에 뒷목을 맞고 말았는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.443,
+                "end": 21.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름3 감독은 빵 터졌고 뒷목 잡은 @이름1는 짜증이 난 표정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.477,
+                "end": 26.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 @이름1와 @이름2 후반엔 180도 달라진 호흡으로 35점을 합작하며 @소속2에 완승을 거뒀습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 26.878,
+                "end": 36.202
+            }
+        ]
+    },
+    "summary": "한국 수영의 간판 선수인 황선우가 농구장에 등장하여 시투자를 시도했으나 네 번의 슛이 들어가지 않아 머쓱하게 코트를 떠났다. 한 선수는 딴 곳을 보다 다른 선수의 패스에 뒷목을 맞았다. 이를 본 감독은 웃었고 맞은 선수는 짜증이 난 표정을 지었다. 그러나 경기 후반에는 두 선수의 호흡이 개선되어 35점을 합작하며 완승을 거두었었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00590_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

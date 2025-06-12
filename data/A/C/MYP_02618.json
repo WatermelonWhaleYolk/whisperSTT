@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_02618",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.866,
+        "format": "MP4",
+        "date": "2020-11-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 이름은 오바메양 에이케이에이 가봉맨는 아스날과 가봉의 스트라이커다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난 가봉과 프랑스 그리고 이탈리아에 3개 국적자이지만 가슴이 시키는 가봉을 선택해 대표팀의 주장을 맡고 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.002,
+                "end": 10.337
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2018년 아스널에 입단한 나는 레전드 공격수 티에리 앙리가 달았던 등 번호 14번을 달며 에이스 노릇을 제대로 하고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.347,
+                "end": 17.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 앙리 선배에게 베르캄프, 피레스, 융베리 등의 화려한 파트너들이 있었기에 무패 우승을 할 수 있었다면 지금 내 곁엔 음 혹시 페페라고 알아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.180,
+                "end": 25.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 물론 티어니나 세바요스 그리고 새로 들어온 파티 등 좋은 선수들이 많이 있지만 다른 팀이 마누라나 KBS 라인처럼 화려한 공격진을 갖춘 것에 비해 우리 팀의 7번은 부카요 사카인데 혹시 들어본 적 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.102,
+                "end": 36.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 작년에 어찌어찌 FA컵을 거머쥐며 무관은 면했지만 아스널 리그 우승, 아스널 챔스 우승 이런 단어들이 왜 이렇게 멀게만 느껴지는 건지 정말 우리 아스널은 이제 더 이상 강팀이 아닌 걸까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.055,
+                "end": 48.866
+            }
+        ]
+    },
+    "summary": "오바매양이라고 하는 2018년에 아스날에 입단한 가봉 대표팀 주장을 맡고 있는 선수로 앙리의 등번호인 14번을 달고 뛰고 있지만 현재 아스날은 강팀이 아닌 건지 의심을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02618_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

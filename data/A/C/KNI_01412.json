@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "KNI_01412",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 49.616,
+        "format": "MP4",
+        "date": "2023-04-11",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중국발 황사의 영향으로 오늘 오후 다섯 시를 기해 우리나라에는 황사 경보 관심 단계가 발령됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일은 전국 대부분 지역에 짙은 황사가 나타나겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.305,
+                "end": 11.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베이징에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.117,
+                "end": 14.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "화요일 밤 스포츠 뉴스입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.410,
+                "end": 34.375
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "프로 야구 SSG @이름1와 삼성 @이름2 두 베테랑 선수가 맞대결에서 홈런포를 가동했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.385,
+                "end": 41.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국 SSG가 5연승을 거뒀고 삼성은 5연패에 빠졌습니다 취재 기자 연결합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.122,
+                "end": 47.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름3 기자 자세한 소식 전해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.341,
+                "end": 49.616
+            }
+        ]
+    },
+    "summary": "프로 야구 SSG @이름1와 삼성 @이름2 두 베테랑 선수가 맞대결에서 홈런포를 가동했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01412_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

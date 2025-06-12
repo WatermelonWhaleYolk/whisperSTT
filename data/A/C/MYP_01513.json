@@ -1,0 +1,194 @@
+{
+    "metadata": {
+        "filename": "MYP_01513",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 46.3,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이 이거 전화가 왜 이래?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 전화기가 좀 오래되신 것 같은데 혹시 기종이 어떻게 되십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.817,
+                "end": 7.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기종이라면 깜찍함과 세련됨을 동시에 잡은 연아의 햅틱인데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.380,
+                "end": 11.286
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 연아의 햅틱이라뇨?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.296,
+                "end": 13.366
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그건 스마트폰도 아니지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.376,
+                "end": 15.132
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "핸드폰이 전화만 되고 문자만 되면 되지 스마트 할 필요까지 있나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.142,
+                "end": 19.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스마트폰만 있으시면 일일이 전화하지 않으셔도 경기 일정부터 스코어는 물론 병원에서 생중계도 보실 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.141,
+                "end": 25.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 정말이야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.648,
+                "end": 26.715
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이참에 스마트폰 하나 장만해야겠구먼",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.725,
+                "end": 28.953
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 제가 실장을 관두기 전 마지막으로 발품정도는 같이 팔아드리죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.963,
+                "end": 32.848
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 어디 신도림부터 갈까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.858,
+                "end": 34.528
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강변부터 갈까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.538,
+                "end": 35.574
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "요즘 누가 일을이 발품 팔아가며 핸드폰을 사나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.584,
+                "end": 38.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "메시 형님 아이 그럼 어떻게 삽니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.300,
+                "end": 40.387
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너희들 혹시 스마트폰의 메카이자 최저가의 성지 띠링이라고 들어는 봤나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.397,
+                "end": 46.300
+            }
+        ]
+    },
+    "summary": "음바페는 네이마르의 전화기가 오랜 된 것같다고 말하며 스마트 폰만 있으면 경기 일정과 스코어등을 알 수 있으니 새로운 스마트 폰을 살 것을 권하자 네이마르는 이참에 하나 장만을 한다고 말하는 한편 메시는 최저가의 성지인 띠링이라는 사이트를 추천해 준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01513_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

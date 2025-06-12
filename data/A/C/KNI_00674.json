@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00674",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.315,
+        "format": "MP4",
+        "date": "2023-01-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 감독을 번쩍 들어서 모래판에 넘어뜨리며 기쁨을 만끽하네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 이만기 이후 처음으로 대학생 천하장사에 올랐던 @이름2 2023년에도 괴물 본능은 계속되고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.512,
+                "end": 15.315
+            }
+        ]
+    },
+    "summary": "지난해 이만기 이후 처음으로 대학생 천하장사에 올랐었고 2023년에도 괴물 본능은 계속되고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00674_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "MYP_04175",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.69,
+        "format": "MP4",
+        "date": "2020-05-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아저씨 괜찮으시면 이걸로 약 사드세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 이런 아 이런 고마울 때가",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.630,
+                "end": 8.767
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "개중에 가끔",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.767,
+                "end": 9.661
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 고마워 젊은이 바로 사 먹을 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.671,
+                "end": 12.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.987,
+                "end": 14.874
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "문명 사회와 원시 사회의 거친 틈새에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.884,
+                "end": 18.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.294,
+                "end": 19.686
+            }
+        ]
+    },
+    "summary": "약 사드시라고 돈을 드렸고 바로 사드신다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04175_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 54
+                }
+            ]
+        }
+    ]
+}

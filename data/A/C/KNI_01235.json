@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_01235",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2022-11-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왼쪽 눈 주변 부기도 있고 상처 자국이 선명하지만 밝은 표정으로 특유의 찰칵 세리머니를 선보이며 빠른 회복세를 또한번 알렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.607
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 게 나와야지.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.617,
+                "end": 12.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 게 나와야 한다니까.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.206,
+                "end": 14.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수비수 김민재는 한국 축구를 상징하는 호랑이가 포효하는 동작을 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.496,
+                "end": 20.063
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭘 하지?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 20.073,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "축구 국가대표 손흥민과 김민재가 월드컵 프로필 사진을 찍고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01235_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

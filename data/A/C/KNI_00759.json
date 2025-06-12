@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "KNI_00759",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.765,
+        "format": "MP4",
+        "date": "2023-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "백현동 개발 당시 이 대표 최측근인 @이름 씨와 115차례 통화했다는 수사 내용에 대해서도 사업과의 관련성은 부인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.524
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 서운해 있으니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.534,
+                "end": 10.319
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나한테 형님 식사 한 번 하시죠 하시죠 계속하는데 내가 거절했어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.329,
+                "end": 14.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명이는 내가 이거 한지도 몰라요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.721,
+                "end": 18.289
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 자기를 만나서 내가 얘기한 적이 없으니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.299,
+                "end": 20.713
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명이는 내가 한다고 하면 안 해줄 사람이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.723,
+                "end": 24.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 그러나 김 전 대표는 백현동 의혹의 키맨으로 보고 조만간 소환할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.219,
+                "end": 30.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.023,
+                "end": 31.765
+            }
+        ]
+    },
+    "summary": "김 전 대표는 백현동 개발 당시 이 대표 최측근인 @이름 씨와 115차례 통화했다는 수사 내용에 대해서도 사업과의 관련성은 부인했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00759_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_00281",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.852,
+        "format": "MP4",
+        "date": "2022-11-11",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최종 엔트리에 이름을 올린 대표팀 본진은 오는 14일 새벽 카타르로 출국해 현지에서 유럽파와 합류합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀은 24일 우루과이와의 1차 전을 시작으로 역대 두 번째 원정 16강 진출을 향한 도전을 이어갑니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.298,
+                "end": 18.852
+            }
+        ]
+    },
+    "summary": "대표팀은 24일 우루과이와의 1차 전을 시작으로 역대 두 번째 원정 16강 진출을 향한 도전을 이어갑니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00281_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

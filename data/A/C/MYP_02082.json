@@ -1,0 +1,458 @@
+{
+    "metadata": {
+        "filename": "MYP_02082",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 82.466,
+        "format": "MP4",
+        "date": "2021-07-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기 안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카바니 선배",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.755,
+                "end": 1.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.551,
+                "end": 1.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 너가 이번에 새로 온 산초구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.995,
+                "end": 4.347
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "프리미어리그 최고의 명문 맨유에 온 걸 환영한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.357,
+                "end": 6.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.919,
+                "end": 7.353
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선배 근데 혹시 선배 아 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.363,
+                "end": 10.292
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "녀석이 왜 말을 하다 말아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.302,
+                "end": 11.831
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부탁할 게 있으면 편하게 얘기하라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.841,
+                "end": 13.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그게 실은 제가 도르트문트에서 등번호 7번을 달았었거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.929,
+                "end": 17.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 맨유의 7번은 지금",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.156,
+                "end": 18.749
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 지금 하늘 같은 선배한테 등번호를 양보하라는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.759,
+                "end": 22.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아뇨 그런 게 아니라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.276,
+                "end": 23.188
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하 농담이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.198,
+                "end": 24.235
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "농담 아무튼 난 중앙공격수다 보니 7번은 반납하고 마샬 녀석이 달고 있던 9번을 뺏어서 아니 마샬이 양보해 주길래 다음 시즌부터는 9번을 달 계획이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.245,
+                "end": 33.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세상에 그게 진짜입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.281,
+                "end": 34.605
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.615,
+                "end": 35.089
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이걸 어쩌지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.099,
+                "end": 36.266
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 7번을 내려놓자마자 어느 녀석이 바로 가져가던걸?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.276,
+                "end": 39.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.744,
+                "end": 40.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누구요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.239,
+                "end": 40.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "글쎄 나도 정신이 없어서 얼굴은 잘 못 봤어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.771,
+                "end": 43.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다른 얘들한테 물어봐야겠는걸.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.533,
+                "end": 45.300
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어이 카바니 선배 어라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.310,
+                "end": 47.187
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "신입생도 같이 있었네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 47.197,
+                "end": 48.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "브루노 마침 잘 왔네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.422,
+                "end": 49.839
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혹시 너 다음 시즌 7번을 달 계획이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.849,
+                "end": 52.171
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 52.181,
+                "end": 52.694
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아뇨 전 10번을 그대로 달 예정인데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 52.704,
+                "end": 54.919
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "플레이메이커라면 10번만 한 번호가 없잖습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 54.929,
+                "end": 57.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 57.290,
+                "end": 57.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그럼 어떤 녀석이지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 57.922,
+                "end": 59.271
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이름이 산초라고 했나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 59.281,
+                "end": 60.736
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너 7번을 달고 싶은 거구나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 60.746,
+                "end": 62.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 뭐 아무래도 전 소속팀에서도 달아왔고 무엇보다 윙 포워드로서 가장 욕심나는 번호니까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 62.116,
+                "end": 66.936
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "흐음 혹시 카바나 선배한테 9번을 뺏긴 마샬이 가져간 게 아닐까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 66.946,
+                "end": 71.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 생각해보니 그럴 수도 있겠네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 71.027,
+                "end": 72.904
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마샬이 7번을 가져갔다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 72.914,
+                "end": 74.459
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 자식 아직 혼이 덜 났구먼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 74.469,
+                "end": 76.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어이 산초 혹시라도 마샬이 번호를 안 내놓겠다 그러면 나한테 말하고 얼른 가서 뺏어와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 76.279,
+                "end": 82.466
+            }
+        ]
+    },
+    "summary": "맨유에 새로 영입된 산초가 등번호 7번을 욕심내니까 카바나 선수가 9번으로 바꿀 예정이라며 마샬이 가져간 번호를 뺏어오라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02082_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

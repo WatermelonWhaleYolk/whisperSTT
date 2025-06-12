@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYP_02494",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.333,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거를 또 좋아해 주셔서 대단히 감사드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 일단 뭐 제가 딱히 따로 대본 같은 걸 준비한 것도 아니고 그림을 그리다가 이렇게 새벽 늦은 시간에 이렇게 잘 제작을 하게 돼서 상당히 텐션이 낮은데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.403,
+                "end": 18.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로는 더 재밌는 내용으로 각색을 포함한",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.285,
+                "end": 22.333
+            }
+        ]
+    },
+    "summary": "딱히 대본도 없이 새벽에 제작을 하게 되었는데 앞으로는 더 재밌는 내용으로 찾아 뵙겠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02494_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

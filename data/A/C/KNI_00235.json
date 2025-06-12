@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00235",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.417,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 저는 이제 김유리 선수가 그 마음고생 한 걸 알아서",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.262
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 그때 하소연을 좀 했는데 센터로서 힘들다고 언니한테 얘기를 좀 했는데 언니가 제가 마음에 좀 걸렸나봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.272,
+                "end": 17.417
+            }
+        ]
+    },
+    "summary": "함께 울었던 한유미 해설위원은 김유리 선수의 사정을 알고 있기에눈물이 난다고 말했고 김유리 선수는 센터로서의 고충을 털어놓은 것이 마음에 걸렸던것 같다고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00235_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

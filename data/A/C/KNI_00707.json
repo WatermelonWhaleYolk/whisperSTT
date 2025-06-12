@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00707",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.25,
+        "format": "MP4",
+        "date": "2023-02-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "프로 데뷔 후 센터로 포지션을 바꿨고 2020년 개막전 부상으로 시즌을 통째로 날려버린 아픔까지 겪었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 이번 시즌 타고난 높이에 공을 때리는 각도와 힘까지 좋아져 속공 2위로 올라서며 잠재력을 폭발했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 8.422,
+                "end": 17.250
+            }
+        ]
+    },
+    "summary": "프로 데뷔 후 센터로 포지션을 바꿨고 2020년 개막전 부상으로 시즌을 날렸지만 이번 시즌은 속공 2위로 올라섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00707_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

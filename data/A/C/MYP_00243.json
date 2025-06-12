@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_00243",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.533,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이렇게 재판까지 할 거 없이 얼른 사임하시지 그랬어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 관두면 대신할 감독이 있는 줄 아누, 수많은 후보한테 전부 퇴짜맞았던거 그새 까먹었누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.516,
+                "end": 9.867
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어허 피고와 원고 여긴 신성한 재판장이지 당신들 싸움터가 아니예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.877,
+                "end": 14.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "존경하는 재판장님 아니 회장님, 저는 죄가 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.673,
+                "end": 18.461
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 진짜 억울하다고요 시즌이 개막하고 3연승을 달렸을 때만 해도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.471,
+                "end": 22.533
+            }
+        ]
+    },
+    "summary": "피고인이 감독을 사임하면 대신할 감독이 없다며 싸운다. 재판장이 싸움을 말리고, 피고인이 억울하고 죄가 없다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00243_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00243_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02206",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.933,
+        "format": "MP4",
+        "date": "2017-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이승훈 기수로 한 선수단 본진 40여 명은 오늘 오전 인천 공항을 통해 결전지인 삿포로로 떠났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.834
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 강릉 대회에서 올림픽 리허설이었는데 제가 목표한 바를 이루지 못한 게 너무 아쉬운데 그 아쉬움을 이번 동계 아시안 게임에서 달래고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.844,
+                "end": 19.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수단은 극우 성향의 책자를 비치해 논란이 일었던 아파호텔 대신 다른 숙소에 묵으며 대회 개막까지 컨디션 향상에 집중할 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.220,
+                "end": 28.933
+            }
+        ]
+    },
+    "summary": "이승훈 기수로 한 선수단 본진 40여 명은 오전 인천 공항을 통해 결전지인 삿포로로 떠나 극우 성향의 책자를 비치해 논란이 일었던 호텔 대신 다른 숙소에 묵으며 대회 개막까지 컨디션 향상에 집중할 계획이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02206_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 64,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

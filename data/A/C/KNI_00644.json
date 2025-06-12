@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00644",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.921,
+        "format": "MP4",
+        "date": "2023-01-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세찬 겨울바람이 부는 트랙 위 롯데의 마무리 투수 김원중이 긴 머리카락을 휘날리며 힘차게 달립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.063
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 WBC 대표 팀에 발탁된 김원중은 생애 처음으로 태극 마크를 다는 감격을 맛봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.073,
+                "end": 13.514
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나라를 대표해서 나간다는 거 자체가 너무 영광이고 또 가서 또 잘하고 와야겠다는 그런 책임감이 또 같이 그런 생각이 들고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.524,
+                "end": 21.921
+            }
+        ]
+    },
+    "summary": "김원중이 트랙 위를 힘차게 달리고 있다. 롯데의 마무리 투수 김원중이 WBC 대표 팀에 발탁되어 태극 마크를 달았다. 김원중은 이 경험이 생애 처음이라며 나라를 대표해 나가는 것에 대한 영광과 동시에 큰 책임감을 느낀다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00644_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

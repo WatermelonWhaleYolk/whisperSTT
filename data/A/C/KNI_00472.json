@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_00472",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.132,
+        "format": "MP4",
+        "date": "2023-05-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "피에이 간호사한테 이제 대리로 그냥 아예 처방권을 넘기거나 그렇게 하는 경우도 많고 아니면 정말 응급 상황에서는 병동 간호사들도 그냥 사이드로 가져와서 그렇게 처방하는 경우가 되게 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.453
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전공의들도 간호사 준법 투쟁을 지지했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.463,
+                "end": 16.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법으로 보호받지 못하는 대리 처방과 대리 수술을 계속 방치할 수는 없다며 의사 간호사 추가 채용을 병원 측에 제안했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.873,
+                "end": 25.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부는 간호사들에게 환자 곁을 지켜 달라고 거듭 요청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.607,
+                "end": 30.426
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "kbs뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.436,
+                "end": 32.132
+            }
+        ]
+    },
+    "summary": "전공의들도 간호사 준법 투쟁을 지지하며 법으로 보호받지 못하는 대리 처방과 대리 수술을 계속 방치할 수는 없다며 의사 간호사 추가 채용을 병원 측에 제안했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00472_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 7,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

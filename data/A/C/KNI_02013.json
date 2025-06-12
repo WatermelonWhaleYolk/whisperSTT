@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_02013",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.966,
+        "format": "MP4",
+        "date": "2019-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "막 걸음마를 뗀 선수들은 그래도 지치지 않았고 수구에 점점 재미를 붙였다는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한번 들어보시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.462,
+                "end": 6.764
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시간이 저희도 모르게 3시간 4시간 어 진짜 5시간도 해봤어요 물속에서 1번 하는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.774,
+                "end": 14.065
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희가 힘듦을 모를 정도로 재밌어가지고 즐겁게 했던 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.075,
+                "end": 20.966
+            }
+        ]
+    },
+    "summary": "막 걸음마를 뗀 선수들은 그래도 지치지 않았고 수구에 점점 재미를 붙였다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02013_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

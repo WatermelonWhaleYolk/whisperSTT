@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYP_00561",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 55.3,
+        "format": "MP4",
+        "date": "2023-03-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흥민아, 아아, 흥민아, 아, 후보 선수에게 멕일 주급이 너무 아까우니 모우라 어서 내팀에서 나가거라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홀로 있을 땐 어쩐지 난 쓸쓸해지지만 흥민과 둘이서 만들었던 수많았던 합작골에 나 무관으로 은퇴해도 울지 않는 무관왕 해리케인",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.785,
+                "end": 30.030
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너는 패스하고 나는 골을 넣고",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.030,
+                "end": 31.798
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흥민아, 아아, 흥민아, 아아, 흥민아, 아아, 흥민아, 아, 골 넣자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.808,
+                "end": 55.300
+            }
+        ]
+    },
+    "summary": "토트넘의 선수가 가사를 만들어서 손흥민 선수와 노래를 부르고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00561_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00561_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_02432",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.2,
+        "format": "MP4",
+        "date": "2021-02-07",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사이코",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 저건 투헬 감독님이 선수를 분석할 때 부른다는?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.560,
+                "end": 3.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "널 어쩌면 좋을까 이런 ST는 또 처음이라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.430,
+                "end": 8.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "업 앤 다운이 좀 심해 득점이 자꾸 잘 안 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.960,
+                "end": 12.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나 확실한 건 히 더즌 플레이 온 탑",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.649,
+                "end": 15.819
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 아니 그게 무슨 소리입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.829,
+                "end": 17.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베르 넌 참 별나고 이상한 선수야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.511,
+                "end": 22.200
+            }
+        ]
+    },
+    "summary": "감독은 선수를 분석하며 노래로 표현하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02432_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

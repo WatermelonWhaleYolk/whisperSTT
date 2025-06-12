@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_02964",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.833,
+        "format": "MP4",
+        "date": "2020-02-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하나였지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제는 전투 요괴로는 황혼기에 접어들어 영 예전 같지 못하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.251,
+                "end": 6.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 뭐 물을 다루는 능력을 갖고 있어 물길을 열어 도력을 전달하는 능력 하나는 아직 건재하니 이번 원정까지는 잘 쓰다가 어디 인테르사 같은 곳에 팔아버려야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.689,
+                "end": 19.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 아팔계 이놈은 호공이의 빈자리를 메우기 위해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.161,
+                "end": 23.833
+            }
+        ]
+    },
+    "summary": "모오정은 황혼기에 접어들어 예전 같지 않은데 물을 다루는 능력을 갖고 있어 물길을 열어 도력을 전달하는 능력 하나는 아직 건재하니 이번 원정까지는 잘 쓰다가 인테르사 같은 곳에 팔아버릴 생각이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02964_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 7,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

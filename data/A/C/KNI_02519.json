@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_02519",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.066,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어제는 PC방 안 갔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어제 안 가고 바로 집에 가서 잤어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 8.018,
+                "end": 12.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘만큼은 예외입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 12.420,
+                "end": 16.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울시 대회를 향하는 마지막 관문 조별 예선 결승전이 있는 날.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 16.168,
+                "end": 23.066
+            }
+        ]
+    },
+    "summary": "오늘은 조별 예선 결승전이 있는 날이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02519_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 64,
+                    "act": 42
+                }
+            ]
+        }
+    ]
+}

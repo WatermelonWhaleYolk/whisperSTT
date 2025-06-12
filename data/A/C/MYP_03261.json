@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03261",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.6,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로도 더 제 목소리를 여러분께 들려드릴 수 있게 된다면 좋겠네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.390,
+                "end": 6.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "날이 많이 추운데 여러분들 감기 조심하시고 새해 복 많이 받으세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.702,
+                "end": 12.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.416,
+                "end": 14.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만나서 반갑습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.220,
+                "end": 18.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 이번에 코드팀에 새로 들어오게 된 뉴페이스 편집자 카이루라고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.031,
+                "end": 22.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아쉽게도 제가 녹음할 시간과 상황이 되지 않아 이렇게 텍스트라도 남기게 되었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.802,
+                "end": 27.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로도 잘 부탁드리며 모쪼록 여러분께 재밌는 영상들을 보여드리도록 노력하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.525,
+                "end": 33.600
+            }
+        ]
+    },
+    "summary": "더빙하는 팀의 사람들이 자기소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

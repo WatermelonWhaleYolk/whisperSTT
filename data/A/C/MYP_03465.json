@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYP_03465",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.018,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너 뭐할 거냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.686
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요새 영어 공부하더라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.696,
+                "end": 2.794
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응 난 호주가서 캥거루 주머니에 손 넣어보고 코알라 엉덩이 만져보고 올 거야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.804,
+                "end": 11.073
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "가택 침입에 성추행이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.083,
+                "end": 13.282
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "인터폴한테 전기총 맞는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.292,
+                "end": 15.479
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "도전 정신이 매우 풍성해진다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.489,
+                "end": 18.018
+            }
+        ]
+    },
+    "summary": "호주가서 캥거루 주머니에 손 넣어보고 코알라 엉덩이 만져보고 올 거라면서 도전 정신이 매우 풍성해진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

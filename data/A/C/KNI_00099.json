@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00099",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.915,
+        "format": "MP4",
+        "date": "2023-04-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "본 농구에 합류한 케르슈즈만 이렇게 안 들어갈 수가 있는 걸까요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불꽃 슈터 전성현의 공백은 예상보다 더 컸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.244,
+                "end": 8.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무려 36개의 석 점 슛을 던져 성공은 단 5개 13퍼센트의 적중률에 그쳤는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.999,
+                "end": 15.915
+            }
+        ]
+    },
+    "summary": "합류한 케르슈즈만 공이 안 들어가고 전성현의 공백도 커서 13퍼센트 적중률에 그쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00099_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

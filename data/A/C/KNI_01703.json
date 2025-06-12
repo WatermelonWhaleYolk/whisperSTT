@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01703",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.5,
+        "format": "MP4",
+        "date": "2018-02-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평창 동계 올림픽에 참가할 선수 등 북한 대표단 32 명이 오늘 오후 6 시 15 분쯤 아시아나 전세기로 양양공항에 도착했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당초 예정보다 30 분 정도 늦어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.960,
+                "end": 12.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한 대표단은 오늘 오전 마식령 스키장에서 공동 훈련을 마치고 우리 선수단과 함께 오후 늦게 원산 갈마 비행장을 출발했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.056,
+                "end": 20.500
+            }
+        ]
+    },
+    "summary": "평창 동계 올림픽에 참가할 선수 등 북한 대표단이 오늘 아시아나 전세기로 양양공항에 도착했고 북한 대표단은 마식령 스키장에서 공동 훈련을 마치고 우리 선수단과 함께 오후 늦게 원산 갈마 비행장을 출발했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01703_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 32
+                }
+            ]
+        }
+    ]
+}

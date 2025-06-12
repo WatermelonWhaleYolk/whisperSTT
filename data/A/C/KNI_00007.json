@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00007",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.548,
+        "format": "MP4",
+        "date": "2022-01-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수 1명이 확진 판정을 받은 이후 지금까지 6명이 추가 확진됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전지 훈련 특성상 다른 팀들과의 연습 경기가 수시로 이루어지기 때문에 추가 확산 위험이 더 큽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.380,
+                "end": 13.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 아이들 또 PCR 검사를 한번 더",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.065,
+                "end": 15.548
+            }
+        ]
+    },
+    "summary": "전지 훈련을 간 학생들 6명이 코로나 추가 확진된 바 전지 훈련 특성상 추가 확산 위험이 크다고 보여진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00007_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

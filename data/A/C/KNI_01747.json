@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNI_01747",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.0,
+        "format": "MP4",
+        "date": "2018-05-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 축구의 전설들과 포지션 별로 런웨이를 걷는 출정식은 패션쇼를 방불케 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.194
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "월드컵 기간에 기간 동안이라마 만이라도 대한민국 국민들이 저희 팀을 응원하면서 또 얼굴에 웃음꽃이 가득 필 수 있게 그렇게 저희가 열심히 준비하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.204,
+                "end": 17.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀 막내 이승우는 다섯 글자로 깜짝 발탁에 대한 소감을 밝혀 웃음을 자아냈고.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.786,
+                "end": 24.727
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이거 실화냐?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 24.737,
+                "end": 29.000
+            }
+        ]
+    },
+    "summary": "월드컵 축구 국가대표들이 출정식에 나섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01747_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

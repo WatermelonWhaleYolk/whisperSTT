@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_02017",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.833,
+        "format": "MP4",
+        "date": "2019-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대회가 끝나고 우리 주장 오희지 선수를 따라가봤습니다. 오랜만에 가족들이 있는 전남 영암의 고향 집.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "할머니",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.609,
+                "end": 8.620
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "고생했어. 얼마나 고생했냐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.630,
+                "end": 12.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "건강한 모습으로 돌아온 손녀를 할머니는 마음껏 안아줍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.228,
+                "end": 16.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 오 선수가 수영을 시작한 건 초등학교 1학년 실력은 남달랐다고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.716,
+                "end": 21.874
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "너무 많으니까 나도 헷갈리네. 이게 금메달이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.884,
+                "end": 25.833
+            }
+        ]
+    },
+    "summary": "대회가 끝나고 전남 영암에 있는 주장 오희지 선수의 고향 집을 따라가 보니 건강한 모습으로 돌아온 손녀를 할머니는 안아줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02017_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

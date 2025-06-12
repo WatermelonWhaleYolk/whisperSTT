@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03884",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2021-02-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "으아악 빠뜨리지 말래매.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.854
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 내 눈이 주화입마에 빠질 뻔 했거든.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.864,
+                "end": 6.782
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내 테스토스테론이 널 거부했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.792,
+                "end": 8.963
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "용납되지 않는 부분도 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.973,
+                "end": 11.954
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그리고 무엇보다 장발남에 가장 이물감을 느끼는 공간은 바로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.964,
+                "end": 17.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "목욕이요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.067,
+                "end": 17.782
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "네. 목욕 남자 두 분이요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.792,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "장발 남자들에게 있어서 우리가 용납되지 않는 부분이 있다는 것을 말해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03884_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

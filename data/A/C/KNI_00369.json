@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "KNI_00369",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.754,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김유성은 김한수 수석 그리고 정재운 투수 코치가 지켜보는 가운데 직구와 변호구를 섞어 총 22개 공을 던졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대학진학 이후 피해자 가족을 명예훼손 혐의로 고소하는 등 논란을 키워 여전히 여론이 싸늘하지만 이승엽 감독은 조만간 김유성을 1군 엔트리에 등록하겠다는 뜻을 내비쳤습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.281,
+                "end": 20.754
+            }
+        ]
+    },
+    "summary": "대학진학 이후 피해자 가족을 명예훼손 혐의로 고소해 여론이 싸늘하지만 감독이 조만간 김유성을 1군 엔트리에 등록하겠다는 뜻을 내비쳤다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00369_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

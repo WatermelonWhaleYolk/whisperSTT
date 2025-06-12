@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_01537",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.602,
+        "format": "MP4",
+        "date": "2023-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저도 여기 남는다면은 뭐 남은 선수 생활 더 열심히 할 수 있을 것 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.229
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.239,
+                "end": 5.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 잘 대우 해주셨으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.650,
+                "end": 9.652
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "패색이 짙은 상황에서도 꺾이지 않았던 마음이 우승의 원동력이었다는 오세근",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 9.662,
+                "end": 15.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6차전 때 저희가 이제 3쿼터까지 15점을 지고 있었는데 그때 이제 선수 교체나 선수들이 마음을 단단히 먹으면서 역전을 해서 이겼던 게 좀 분수령 같았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.226,
+                "end": 27.942
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "방송도 농구도 베테랑이 된 오늘날의 오세근을 만든 건 결국 초심을 끝까지 지켜온 근성이었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.952,
+                "end": 34.601
+            }
+        ]
+    },
+    "summary": "방송도 농구도 베테랑이 된 오늘날의 오세근을 만든 건 결국 초심을 끝까지 지켜온 근성이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01537_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

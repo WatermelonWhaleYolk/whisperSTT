@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01795",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.333,
+        "format": "MP4",
+        "date": "2021-10-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 선수들의 의견부터 들어보겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 경질에 찬성하는 선수 있나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.771,
+                "end": 5.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 제가 한 말씀 드려도 되겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.122,
+                "end": 7.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 그럼 마샬 너는 경질에 찬성하는 거냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.832,
+                "end": 11.410
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "찬성만 하겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.420,
+                "end": 12.654
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "솔샤르 저 새끼는 경질이 뭐야 감독 자질이 아예 없는 사람이라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.664,
+                "end": 17.333
+            }
+        ]
+    },
+    "summary": "마샬은 솔샤르 감독의 경질에 찬성하며 감독 자질이 아예 없는 사람이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

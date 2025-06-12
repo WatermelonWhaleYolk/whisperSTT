@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNI_01040",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.29,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 11년 만에 이란을 이기면 조 1위로 올라설 수 있는 건 물론 조 추첨에서도 유리한 고지를 점합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피파랭킹이 우리보다 8계단 높은 이란을 꺾으면 가산점이 부여돼 3 포트에 배정될 가능성이 커집니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.882,
+                "end": 14.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "따라서 이번 이란전은 조 1위의 자존심 싸움을 넘어 조 추첨에도 영향을 미치는 최대 빅매치로 떠올랐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.491,
+                "end": 22.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.208,
+                "end": 24.290
+            }
+        ]
+    },
+    "summary": "우리가 11년 만에 이란을 이기면 조 1위로 올라설 수 있는 건 물론 조 추첨에서도 유리한 고지를 점할 수 있고 또 피파랭킹이 우리보다 8계단 높은 이란을 꺾으면 가산점이 부여돼 3 포트에 배정될 가능성이 커진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01040_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

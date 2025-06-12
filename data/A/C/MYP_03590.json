@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYP_03590",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.759,
+        "format": "MP4",
+        "date": "2022-04-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금부터 계획했던 마지막 테스트까지 그냥 다이렉트다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올라가는 중 1번이라도 삐끗하면 그간 뛰어왔던 모든 시간들에 착각하지 말고 기대하지 말며 미련두지 마라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.455,
+                "end": 19.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘 얘들 말로 하얗게 불 태우고 쿨하게 벗어던져라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.938,
+                "end": 25.759
+            }
+        ]
+    },
+    "summary": "그동안 보내왔던 시간이 미련두지 말고 하얗게 불 태워라.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03590_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

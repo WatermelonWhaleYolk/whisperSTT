@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYP_03456",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.756,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정확하게 캐치할 수 있겠어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 구종처럼 공이 회전으로 공기를 깨면서 나가는 게 아니라 중심에 최대한 회전 없이 밀어 던져 불규칙한 공기를 타면서 중력과 줄다리기를 하는 거지",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.191,
+                "end": 17.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 과정에서 투수도 예측할 수 없는 무브먼트가 나오는 것이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.506,
+                "end": 22.756
+            }
+        ]
+    },
+    "summary": "공이 중심에 최대한 회전 없이 밀어 던져 불규칙한 공기를 타면서 중력과 줄다리기를 하는 겁니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03456_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

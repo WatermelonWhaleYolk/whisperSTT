@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_00146",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.758,
+        "format": "MP4",
+        "date": "2022-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 박자 빠른 움직임으로 상대 수비를 따돌리는 끈질긴 돌파를 선보였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 에이스의 매치에서 오펜스 파울까지 나오는 등 자존심 싸움도 치열했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.635,
+                "end": 10.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양 팀의 에이스 대결과 함께 승부는 4쿼터에 갈렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.076,
+                "end": 14.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "변준형이 양홍성의 공격을 완벽하게 막는 블록 슛으로 기세를 올렸고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.291,
+                "end": 19.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 종료 직전 전성현의 극적인 슛도 승부를 가른 한방이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.145,
+                "end": 24.758
+            }
+        ]
+    },
+    "summary": "양 팀의 에이스 대결과 함께 승부는 4쿼터에 갈렸고 경기 종료 직전 전성현의 극적인 슛도 승부를 가른 한방이었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00146_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYP_03661",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.388,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대 미만",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나 나도 주울 거야 깃털쨔앙",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.895
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국 후발주자들이 양산되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.905,
+                "end": 6.797
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허나 열화와 같은 성원에 바닥의 깃털이 금방 매진되자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.807,
+                "end": 12.467
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어라 깃털이 없어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.477,
+                "end": 15.048
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "힝 나도 깃털",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.058,
+                "end": 17.198
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "얘들이 먼저 다 주워가 버렸어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.208,
+                "end": 21.388
+            }
+        ]
+    },
+    "summary": "서로 깃털을 가져가자 금방 깃털이 없어져버렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03661_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 13,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

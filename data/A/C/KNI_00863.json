@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00863",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2023-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여오현은 오늘 우리카드와의 경기에 선발 출전하며 V리그 역대 최초로 정규 리그 600경기 출장이라는 대기록을 세웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.461
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "45살의 여오현은 2005년 V리그 원년부터 19시즌 동안 코트를 지키고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.471,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "여오현은 V리그 역대 최초로 정규 리그 600경기 출장이라는 대기록을 세웠으며 2005년 V리그 원년부터 19시즌 동안 코트를 지키고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00863_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

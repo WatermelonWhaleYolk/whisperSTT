@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00108",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.618,
+        "format": "MP4",
+        "date": "2023-04-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "SK 속공 기회 김선영의 재치 넘치는 패스를 받은 원희가 덩크 슛을 화끈하게 내리꽂습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "깔끔하고 정확한 3점 포는 물론 화려한 드리블에 이어서 스탭 백 점프까지 김선영은 정규 리그의 MVP답게 그야말로 코트를 지배했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.427,
+                "end": 18.618
+            }
+        ]
+    },
+    "summary": "김선영은 정규리그의 MVP답게 코트를 지배했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00108_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

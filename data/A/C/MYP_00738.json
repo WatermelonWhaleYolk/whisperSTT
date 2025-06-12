@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_00738",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 52.366,
+        "format": "MP4",
+        "date": "2023-01-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우승위해 남아있던 토트넘 잔류.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여전히 자신 없지만 안녕히.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.341,
+                "end": 8.155
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 나만의 첫 트로피FA 트로피.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.165,
+                "end": 14.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에는 차지할 수 있을 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.094,
+                "end": 17.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아낌없이 헤딩한 모발은 조금씩 사라져가더라도.우승한 다음 심으면 될 테니.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.799,
+                "end": 25.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흥민 우승할 준비됐니.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.494,
+                "end": 29.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너와 나 둘이 같이 익숙함에 우승을 놓치지 말자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.064,
+                "end": 35.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나둘 우승을 하다 보면 많이 많이 들을 수 있을 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.360,
+                "end": 39.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번만큼은 그래도 이제는 무관의 지평선 너머로 이번만큼은 그래도 이제는 무관의 지평선 너머로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.636,
+                "end": 52.366
+            }
+        ]
+    },
+    "summary": "대회우승을 위한 각오를 하고 동료를 생각하며 다짐을 노래한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00738_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

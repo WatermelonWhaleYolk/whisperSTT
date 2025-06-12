@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00839",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.021,
+        "format": "MP4",
+        "date": "2023-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이제 앞으로 이제 은퇴를 하는 시점이 얼마 남지 않은 것 같아요 배구 쪽에 몸담으면서 뭔가 도움이 될 만한 일들을 어 하려고 하고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼마 전 마찰이 있었던 김호철 기업은행 감독과도 앙금을 푼 김연경은 남은 시즌 행복 배구로 유종의 미를 거둘 생각입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.962,
+                "end": 21.021
+            }
+        ]
+    },
+    "summary": "얼마 전 마찰이 있었던 김호철 기업은행 감독과도 앙금을 푼 김연경은 남은 시즌 행복 배구로 유종의 미를 거둘 생각입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00839_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

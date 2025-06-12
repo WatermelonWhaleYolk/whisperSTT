@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_02194",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.4,
+        "format": "MP4",
+        "date": "2017-11-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사람들이 3D 가상 현실 속에서 스노보드를 탑니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가상의 설원이지만 짜릿한 스릴이 그대로 전해집니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.955,
+                "end": 7.903
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 머리 부딪혔어.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.913,
+                "end": 10.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "360도 회전하는 롤러코스터 시속 130킬로미터가 넘는 봅슬레이도 가상 현실 속에서 즐길 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.154,
+                "end": 19.400
+            }
+        ]
+    },
+    "summary": "가상현실 속에서 스노보드도 타고 롤러코스터, 봅슬레이도 즐길 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02194_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_00308",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.684,
+        "format": "MP4",
+        "date": "2022-11-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기장 밖에서도 카운트다운과 함께 월드컵의 시작을 맞이했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.426
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쓰리 투 원",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 5.436,
+                "end": 11.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기장에 들어가지 못한 팬들은 광장에 모여 응원전을 벌이며 아쉬움을 달랬습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.185,
+                "end": 17.684
+            }
+        ]
+    },
+    "summary": "경기장 밖에서도 카운트다운과 함께 월드컵의 시작을 맞이했고 경기장에 들어가지 못한 팬들은 광장에 모여 응원전을 벌이며 아쉬움을 달랬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00308_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 137
+                }
+            ]
+        }
+    ]
+}

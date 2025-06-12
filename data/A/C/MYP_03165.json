@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03165",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.231,
+        "format": "MP4",
+        "date": "2023-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "으랴. 아오썅. 진짜 더럽게 나오기 힘드네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 14.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 자식들이 그냥 한번 말하면 들어 쳐먹지 좀. 왜 자꾸 관에다 대못을 박는 거람.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.912,
+                "end": 20.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "환생할 때 마다 힘들어 죽겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.429,
+                "end": 22.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 또 어디야? 내 무덤이 왜 이리 초라해?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.102,
+                "end": 26.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오두막인가? 마지막 싸움에서부터 대체 얼마나 지났지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.847,
+                "end": 31.231
+            }
+        ]
+    },
+    "summary": "이 사람은 마지막 싸움 이후 못이 박혀 있는 관에서 환생하여 오두막에서 깨어났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

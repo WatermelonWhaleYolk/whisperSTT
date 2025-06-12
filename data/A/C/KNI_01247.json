@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01247",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.94,
+        "format": "MP4",
+        "date": "2022-11-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 통행로 확보나 무대 등의 위치를 조정하는 등 광화문 광장 자문단 자문 결과 등을 준수하는 조건으로 결정하였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.165
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞서 종로구는 안전관리 대책이 미흡하다며 붉은악마가 낸 안전관리계획서를 한 차례 반려했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.175,
+                "end": 16.919
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "붉은악마는 주 무대를 세종대왕 동상 앞에서 육조마당 쪽으로 옮기는 등 인파를 분산하고 안전관리 인력도 150여 명에서 340명으로 늘리겠다는 계획서를 다시 제출했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.929,
+                "end": 30.923
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이에 종로구는 구급차 통행로 확보 전기 발전차 사고 예방 등을 조건으로 계획서를 통과시켰고 서울시가 이를 최종 승인한겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.933,
+                "end": 40.940
+            }
+        ]
+    },
+    "summary": "종로구가 일부 보완해 제출한 붉은악마의 안전관리계획서를 승인해 광화문 광장 내 거리 응원이 가능해졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01247_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

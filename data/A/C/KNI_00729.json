@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNI_00729",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.654,
+        "format": "MP4",
+        "date": "2023-02-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미국 애리조나에 나타난 박용택 KBS 야구 해설 위원.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.438
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@소속1 스프링 캠프 첫 출근길 어 파이팅 파이팅",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.448,
+                "end": 9.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "친정 팀인 @소속1 스프링 캠프에 먼저 도착해 애정 어린 잔소리로 후배들을 맞습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.846,
+                "end": 15.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "창기 얼굴 표정 더 밝아야 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.661,
+                "end": 19.010
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "운동하러 오신 것 같은데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.010,
+                "end": 20.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 나 운동",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.520,
+                "end": 21.654
+            }
+        ]
+    },
+    "summary": "미국 애리조나에 나타난 박용택 KBS 야구 해설 위원은 친정 팀인 @소속1 스프링 캠프에 먼저 도착해 애정 어린 잔소리로 후배들을 맞습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00729_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 5,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

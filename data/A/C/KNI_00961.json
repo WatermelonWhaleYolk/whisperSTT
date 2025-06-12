@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_00961",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.332,
+        "format": "MP4",
+        "date": "2022-01-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민재 파이팅 좋아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.215
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "장민재 이태양과 함께 제주도를 찾은 건 올해가 두 번째 후배들은 빅리그 투수의 훈련법을 전수받는 데다 캠프 비용까지 모두 류현진으로부터 지원받았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.225,
+                "end": 14.619
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "매년 이렇게 같이 오지만 그래도 이게 쉬운 일은 아니잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.629,
+                "end": 18.696
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그리고 현진이 형이 잘 챙겨주고 또 우리한테 좀 어떻게 하면 도움이 될까 이렇게 좀 같이 물어 봐주고 이런 게 너무 감사하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.706,
+                "end": 26.520
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "추신수에게 고가의 시계를 선물 받기로 했던 이태양은 재미있는 훈련 소감을 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.530,
+                "end": 32.332
+            }
+        ]
+    },
+    "summary": "제주도를 찾은 건 올해가 두 번째 후배들은 빅리그 투수의 훈련법을 전수받는 데다 캠프 비용까지 모두 류현진으로부터 지원받았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00961_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

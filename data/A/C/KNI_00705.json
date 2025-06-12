@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00705",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.894,
+        "format": "MP4",
+        "date": "2023-01-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "벨 감독은 이번 소집에서 공격수를 9명이나 뽑았을 만큼 빠르고 공격적인 축구로 월드컵을 준비하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공격의 핵심은 역시 에이스 지소연입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.878,
+                "end": 11.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 훈련부터 함께하기 위해 일찌감치 발목 수술까지 받았을 만큼 16강을 향한 의지는 강합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.307,
+                "end": 18.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올라갈 수 있는 만큼 높이 최대한 높이 올라가고 싶고 남자팀처럼 16강에 올라갈 수 있도록 여자팀들도 지금 으쌰으쌰 하고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.360,
+                "end": 27.894
+            }
+        ]
+    },
+    "summary": "벨 감독은 공격수를 9명이나 뽑아 공격적인 축구로 월드컵을 준비하고 있고 공격의 핵심은 에이스 지소연이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

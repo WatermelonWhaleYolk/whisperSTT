@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_02300",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.3,
+        "format": "MP4",
+        "date": "2021-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 아침 제가 직접 잡아온 해산물들과 한국에서 직수입한 초대형 홍합을 곁들인 일명 챔스 탈락할 빠에야 입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 이름이 무슨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.622,
+                "end": 7.998
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옛말에 용의 꼬리가 될 바에야 뱀의 머리가 되라는 말이 있지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.008,
+                "end": 11.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉 챔스에서 탈락해 트로피를 못 들 바에야 유로파로 떨어져 우승을 노리겠다 이 말인 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.709,
+                "end": 16.379
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그게 지금 음식이랑 무슨 상관이에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.389,
+                "end": 18.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그야 맨유가 유로파에서 우승할 것 같으니 약 좀 올려 드린 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.445,
+                "end": 22.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 맛있게 드십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.462,
+                "end": 23.679
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아니 무슨 저런 사람이 다 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.689,
+                "end": 25.271
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "약은 좀 올라도 공짜로 주는 거니까 얼른 먹고 일어나자고 그나저나 챔스 탈락할 빠에야라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.281,
+                "end": 30.614
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 우린 유로파도 탈락할 바에야 이적이라도 하라는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.624,
+                "end": 34.300
+            }
+        ]
+    },
+    "summary": "주방장이 손님들에게 챔스에서 탈락할 바에야 유로파 우승을 노리라고 약을 올리자 손님들이 불쾌해하고 있는 장면을 캐릭터로 표현하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02300_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

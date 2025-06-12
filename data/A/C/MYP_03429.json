@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYP_03429",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.753,
+        "format": "MP4",
+        "date": "2022-08-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 내 모습을 또 유심히 바라보던 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헤이 댓 디스",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.279,
+                "end": 6.025
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에는 선물을 꺼냈다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.035,
+                "end": 8.669
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "목숨이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.679,
+                "end": 9.795
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이건 목숨을 나눠 주는 거야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.805,
+                "end": 13.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잇자국이 선명한 먹다 남은 빵이었지만 자신에게 더없이 소중했을 그 빵을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.248,
+                "end": 19.753
+            }
+        ]
+    },
+    "summary": "그런 내 모습을 또 유심히 바라보더니 잇자국이 선명한 먹다 남은 빵을 선물로 줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03429_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

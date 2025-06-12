@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00411",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.019,
+        "format": "MP4",
+        "date": "2023-05-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오세근은 침착하게 자유투를 모두 성공시켰고 인삼공사가 3점 차로 앞선 종료 3.4초 전 어깨 부상으로 내내 벤치를 지켰던 양희종이 보호대를 풀고 코트 안으로 들어섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "100대 97 인삼공사는 SK를 혈투 끝에 제압하고 시리즈 전적 4승 3패로 6년 만에 통합우승을 달성했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.358,
+                "end": 19.019
+            }
+        ]
+    },
+    "summary": "인삼공사가 SK를 제압하고 6년 만에 통합우승을 차지하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00411_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYP_02470",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.833,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 요리스 선수가 거의 다 그려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.865
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새로운 선수들을 그리면서 가장 짜증 났던 것을 꼽자면 토트넘의 유니폼입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.875,
+                "end": 8.156
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "필드 플레이어들의 옷엔 뭔 유리 조각 같은 디자인이 수도 없이 박혀있어 그리기 너무 귀찮았는데 이거 뭐 골키퍼에 비하면 아무것도 아니었네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.166,
+                "end": 16.833
+            }
+        ]
+    },
+    "summary": "토트넘 필드플레이어들의 유니폼은 그리기 짜쯩났는데 골기퍼에 비하면 아무것도 아닙니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02470_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

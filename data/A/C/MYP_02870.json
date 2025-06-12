@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_02870",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2020-04-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "괜히 무리 말고 얌전히 유로파로 가셨다면 목숨은 구할 수 있었을 텐데 말이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "닥쳐라 맹리더 니들도 리그 순위가 5위로 리그가 이대로 끝난다면 유로파행이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.260,
+                "end": 10.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오호호호 2위에 위치한 맨시티가 2년간 챔스 출전 징계를 받았다는 걸 모르는가 보군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.372,
+                "end": 16.649
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 젠장 그래도 니들이 나 없이 챔스 가는 꼴은 죽어도 못 본다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.659,
+                "end": 20.699
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "애들아 공격해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.709,
+                "end": 23.800
+            }
+        ]
+    },
+    "summary": "두 팀이 서로 챔스에 가기 위해서 다툰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02870_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

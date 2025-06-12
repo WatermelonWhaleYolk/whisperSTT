@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "KNI_01965",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.287,
+        "format": "MP4",
+        "date": "2020-05-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 성격이 참 좋구나 이렇게 생각해서 좀 웃었는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 전체적으로 선수들이 좀 웃으면서 재밌게 그렇게 했으면 좋겠어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.714,
+                "end": 7.766
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아버지를 따라 몸에 금칠을 하겠다는 이정후 등 이색 우승 공약도 나왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.776,
+                "end": 13.629
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 제가 우승을 하게 되면은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.639,
+                "end": 15.723
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우승 아 나오네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.733,
+                "end": 16.599
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 금정우 분장을 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.609,
+                "end": 18.452
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 금정우 분장",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.462,
+                "end": 19.563
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "노래를 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.573,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "감독님은 선수들이 즐겁게 경기에 임했으면 좋겠다고 하고 이정후 선수는 우승 공약을 내걸었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01965_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

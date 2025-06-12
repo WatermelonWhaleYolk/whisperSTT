@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_01860",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.72,
+        "format": "MP4",
+        "date": "2021-07-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 생각했을 때는 변수는 전혀 없을 거라고 생각하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 스페셜 매치가 가장 선수들한테는 일단 실전 경험이랑 거의 흡사하기 때문에 이게 지금 가장 도움이 되고 있지 않나 이렇게 생각하고 큰 걱정 안 하셔도 될 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.697,
+                "end": 13.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "양국 대표팀은 다음 주 월요일 결전지 도쿄로 이동해 현지 적응 훈련에 나설 예정입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.735,
+                "end": 20.720
+            }
+        ]
+    },
+    "summary": "양궁 대표팀 선수들은 경기에 변수는 없을 거라고 생각하고 스페셜 매치를 통해 실전 경험을 쌓을 수 있어서 가장 도움이 되고 있으며 다음 주 월요일 결전지 도쿄로 이동해 현지 적응 훈련을 할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01860_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_00968",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.355,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "많은 관심 가져주시고 사랑해 주셔서 감사하고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 저희가 더 많은 승리로 보답할 테니까 항상 이렇게 찾아와 주시고 사랑해 주셨으면 좋겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.293,
+                "end": 10.369
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대한항공 곽승석이 승리에 대한 강한 의지를 나타내듯 공을 피합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.379,
+                "end": 15.346
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영화의 한 장면처럼 공을 피해 득점을 올렸지만 삼성화재의 집념이 더욱 강했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.356,
+                "end": 22.355
+            }
+        ]
+    },
+    "summary": "대한항공 곽승석이 영화의 한 장면처럼 공을 피해 득점을 올렸지만 삼성화재의 집념이 더욱 강했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00968_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

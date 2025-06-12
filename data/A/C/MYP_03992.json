@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "filename": "MYP_03992",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.731,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 나름 매력 있잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.264
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 제출하자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.274,
+                "end": 5.447
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "세상에나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.457,
+                "end": 6.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 오늘 공모전 발표날이었네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.205,
+                "end": 9.318
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 그러냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.328,
+                "end": 10.459
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우리 이름 없지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.469,
+                "end": 12.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "은상이다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.708,
+                "end": 13.727
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.737,
+                "end": 14.310
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "은상 탔다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.320,
+                "end": 19.128
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 우리는 얼떨결에 시상식까지 초대 받게 되었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.138,
+                "end": 23.778
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그럼 지금부터 시상식을 시작합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.788,
+                "end": 27.035
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참 오래 살고 볼 일이여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.045,
+                "end": 29.776
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그러게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.786,
+                "end": 30.974
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.984,
+                "end": 31.731
+            }
+        ]
+    },
+    "summary": "주인공과 친구가 제출한 공모전 영상이 은상을 타서 시상식에 간 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03992_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

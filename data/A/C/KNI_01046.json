@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "KNI_01046",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.97,
+        "format": "MP4",
+        "date": "2022-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "돌아온 @이름1은 솔직담백한 출사표를 던졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.870
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "삼성에 있어야 될 선수가 엘지에 있고 롯데에 있어야 할 선수가 엔씨에 가 있고 내년에 다시 앞에 여기 케이티 자리에 앉아 있을 수 있도록 열심히 노력하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.880,
+                "end": 14.405
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "절대 내줄 수 없다고 생각을 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.415,
+                "end": 17.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 원래 챔피언 벨트는 지키기 더 힘든 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.375,
+                "end": 21.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "곧바로 이적생들이 마이크를 잡았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.241,
+                "end": 24.534
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "롯데 자이언츠를 에 이겨야 또 이런 엔씨 다이노스의 경남 팬분들이 더 좋아지시지 않을까 예 하여튼 뭐 롯데만 이기면 예 우승할 수 있을 거라 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.544,
+                "end": 36.970
+            }
+        ]
+    },
+    "summary": "다시 돌아온 선수는 내년에 다시 케이티 자리에 앉을 수 있도록 열심히 노력하겠다며 출사표를 던졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01046_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

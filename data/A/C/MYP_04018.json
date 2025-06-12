@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYP_04018",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.852,
+        "format": "MP4",
+        "date": "2020-10-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뜻이 통한 우리는 의기 투합했고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.554
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 진짜 축제를 보여주는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.564,
+                "end": 5.028
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으와 모두 비켜라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.038,
+                "end": 8.397
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "급 세팅 완료",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.395,
+                "end": 11.429
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "준비 됐나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.439,
+                "end": 13.268
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "가스파드",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.278,
+                "end": 14.087
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "이래서 직장상사랑 회식하는 게 아니구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.097,
+                "end": 18.852
+            }
+        ]
+    },
+    "summary": "선배와 후배가 의기투합해서 진짜 축제를 보여준다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04018_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

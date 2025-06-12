@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "KNI_00360",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 35.435,
+        "format": "MP4",
+        "date": "2022-12-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.994
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기 내내 마음을 졸였던 시민들은 쉽게 자리를 떠나지 못합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.004,
+                "end": 10.854
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 저희 완전 끝내주게 좋았어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.864,
+                "end": 13.583
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "진짜 못이길 줄 알았거든요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.593,
+                "end": 15.147
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 너무 좋아요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.157,
+                "end": 18.173
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "파이팅 손흥민 파이팅.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.183,
+                "end": 21.709
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "중요한 건 꺾이지 않는 마음.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.719,
+                "end": 26.046
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기를 즐긴 장소는 달랐지만 모두 한마음으로 응원하고 12년 만에 월드컵 16강에 진출한 밤을 만끽했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.056,
+                "end": 35.435
+            }
+        ]
+    },
+    "summary": "12년 만에 월드컵 16강에 진출한 밤을 많은 시민들이 만끽했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00360_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

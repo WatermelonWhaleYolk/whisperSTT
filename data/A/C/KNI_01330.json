@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01330",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.806,
+        "format": "MP4",
+        "date": "2023-01-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하윤기는 혼자서 9개나 덩크를 터뜨리는 괴력을 뽐냈고 팀 이대성은 팀 허웅을 122대 117로 이겼습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기자단 투표 77표 중 67표의 몰표로 하윤기는 별 중의 별 MVP에 올랐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.351,
+                "end": 14.286
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔가 꿈만 같고 영광이고요. 어우 씨 어 예 눈이 안 보여 어우 어 너무 좋아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.296,
+                "end": 28.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하프라인 근처서 던진 전성현의 9미터 3점포도 눈길을 사로잡은 가운데 올스타 투표 1위 허웅은 전성현과 김국찬 등을 제치고 3점 슛 왕에 올랐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 28.948,
+                "end": 39.806
+            }
+        ]
+    },
+    "summary": "하윤기는 혼자서 덩크를 9개나 터뜨리고 기자단 투표 MVP로 올랐고 팀 이대성은 팀 허웅을 이겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01330_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

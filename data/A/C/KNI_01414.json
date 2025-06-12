@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01414",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.755,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강력한 압박 수비로 캐롯의 공격을 봉쇄하면서 석 점 포를 연달아 림 위에 꽂았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2쿼터까지 이미 52 대 25 점수 차를 무려 27점까지 벌였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.220,
+                "end": 10.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인삼 공사 후반 들어 의욕을 잃은 캐롯의 골 밑을 그야말로 폭격했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.888,
+                "end": 15.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스펜맨은 화끈한 덩크 슛을 꽂은 뒤 포효했고 아반도는 그림 같은 앨리웁 덩크를 터뜨렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.896,
+                "end": 21.755
+            }
+        ]
+    },
+    "summary": "인삼 공사 후반 들어 의욕을 잃은 캐롯의 골 밑을 그야말로 폭격했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01414_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

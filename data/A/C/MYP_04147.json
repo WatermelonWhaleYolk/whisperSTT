@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_04147",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.893,
+        "format": "MP4",
+        "date": "2020-05-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아저씨 나 1잔만 더 달라니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.968
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흠 나야 장사하는 입장에서 많이 팔면 좋긴 하지만 이것만 마시고 이제 그만 마시는 게 어떻겠나?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.978,
+                "end": 14.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하 걱정해 주는 거야 아저씨?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.978,
+                "end": 19.088
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "괜찮아 괜찮아 난 이제 끝났으니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.098,
+                "end": 26.893
+            }
+        ]
+    },
+    "summary": "손님이 사장에게 맥주 1잔만 더 달라고 하자 이것만 마시고 그만 마시라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04147_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

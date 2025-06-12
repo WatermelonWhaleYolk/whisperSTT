@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_01904",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.866,
+        "format": "MP4",
+        "date": "2021-09-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수들뿐만 아니라 마스코트 역시 팬들의 많은 사랑을 받고 있는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 프리미어 리그 빅 6팀의 마스코트는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.040,
+                "end": 6.883
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정답",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.893,
+                "end": 7.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맨유 악마, 첼시 사자, 맨시티 외계인, 토트넘 닭, 리버풀 새, 아스날 개",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.410,
+                "end": 11.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정확한 마스코트 이름으로 말씀하셔야 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.824,
+                "end": 14.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참고로 아스날의 마스코트는 개가 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.445,
+                "end": 16.878
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "정답",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.888,
+                "end": 17.396
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "맨시티 문체스터, 맨유 프레드 더 데빌, 리버풀 리틀 버드, 토트넘 크리스피 코크럴, 아스날 구너사우르스, 마지막으로 첼시의 은골로 캉테",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.406,
+                "end": 24.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캉테 후보 정답입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.006,
+                "end": 26.631
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아니 첼시의 마스코트는 스탬포드 라이언 아니었어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.641,
+                "end": 29.793
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "무슨 소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.803,
+                "end": 30.594
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "첼시에서 제일 귀여운 게 나니까 마스코트 역시 무조건 나 은골로 캉테지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.604,
+                "end": 35.866
+            }
+        ]
+    },
+    "summary": "사회자가 프리미어 리그 빅 6팀의 마스코트가 무엇인지 문제를 냈고 캉테가 맨시티 문체스터, 맨유 프레드 더 데빌, 리버풀 리틀 버드, 토트넘 크리스피 코크럴, 아스날 구너사우르스, 첼시의 은골로 캉테라고 답해서 정답을 맞혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01904_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

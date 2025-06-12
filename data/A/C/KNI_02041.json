@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "KNI_02041",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.6,
+        "format": "MP4",
+        "date": "2019-06-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 감독은 선수들과 승부차기 게임을 하며 밝은 훈련 분위기를 이끌었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.834
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수들도 지금 다 자신감이 넘치고 질 거란 생각은 안 하고 있고 결승전에서 이길 수 있도록 노력하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.844,
+                "end": 15.849
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같은 시각 우리 대표팀 훈련장 인근에서 훈련을 가진 우크라이나 대표팀 취재진의 접근을 전면 차단하는 등 여유로운 모습의 우리 대표팀과는 달리 철통 보안을 유지했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.859,
+                "end": 27.630
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.640,
+                "end": 34.878
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.888,
+                "end": 38.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같은 숙소를 쓰는 양 팀 선수들의 기 싸움도 벌어지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.752,
+                "end": 43.600
+            }
+        ]
+    },
+    "summary": "우리 대표팀은 승부차기 게임을 하면서 밝은 분위기였지만 우크라이나 대표팀은 취재진의 접근을 전면 차단하여 철통 보안을 유지하는 모습을 보였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02041_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

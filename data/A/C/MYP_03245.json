@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_03245",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.186,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 항상 웹툰에서 댓글로 응원해주시고 또 좋게 말씀해주시는 모든 분들께 너무 감사드리구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 자기소개를 하는 영상이니까 제 먼저 소개를 해야겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.944,
+                "end": 12.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 활동명을 도도맨으로 정하고 벌써 성우 공부를 한지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.652,
+                "end": 20.186
+            }
+        ]
+    },
+    "summary": "더빙하는 팀의 남성들이 자기소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03245_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

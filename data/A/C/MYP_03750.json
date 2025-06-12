@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "filename": "MYP_03750",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.925,
+        "format": "MP4",
+        "date": "2021-08-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 속 쓰려.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.122
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걍 집에 가서 조용히 한 잔 하자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.132,
+                "end": 3.524
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.534,
+                "end": 4.153
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "빵집에 진열된 샴페인을 보고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.163,
+                "end": 7.564
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 나 샴페인 한 번도 안 먹어 봤는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.574,
+                "end": 11.612
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그럼 먹어보면 되지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.622,
+                "end": 14.300
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "다시 불이 붙었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.310,
+                "end": 17.099
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "참고로 샴페인은 코르크를 날리지 않고 안전하게 따는 방법이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.109,
+                "end": 22.356
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "샴페인 따봤냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.366,
+                "end": 23.290
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 그냥 따면 되지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.300,
+                "end": 25.925
+            }
+        ]
+    },
+    "summary": "집에 가서 조용히 한 잔 하려는데 샴페인을 한 번도 안 먹어봐서 샴페인을 사서 따 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03750_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 88
+                }
+            ]
+        }
+    ]
+}

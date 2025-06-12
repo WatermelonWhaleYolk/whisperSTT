@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01580",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2023-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수들은 팬들에게 일일이 사인을 해주며 감사의 뜻을 전했고 @이름1 감독도 결연한 출사표를 던졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 기회를 가졌다고 생각하고 어 정말 잘 잘해서 어 꼭 좋은 것만 가지고 돌아올 수 있도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.462,
+                "end": 16.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오사카에 도착한 대표팀은 두 차례 평가전을 치른 뒤 대회가 열리는 도쿄로 이동합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.307,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "선수들은 팬들에게 일일이 사인을 해주며 감사의 뜻을 전했고 @이름 감독도 결연한 출사표를 던졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01580_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

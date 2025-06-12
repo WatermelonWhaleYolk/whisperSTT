@@ -1,0 +1,290 @@
+{
+    "metadata": {
+        "filename": "MYP_01434",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 72.966,
+        "format": "MP4",
+        "date": "2022-04-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어서 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수를 안 사가면 구단주를 담가버리는 담근 마켓입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.030,
+                "end": 4.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 안녕하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.890,
+                "end": 5.960
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 선수 좀 보러 왔는데 어 어 혹시 슈퍼 에이전트 미노 라이올라 씨 아니십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.970,
+                "end": 11.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 아이 그게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.310,
+                "end": 12.660
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아냐 콘테 자세히 보면 라이올라와 미묘하게 다르지 않나 쌍둥이 형 신이신 나한테 사면 혈압 마니올라 씨 맞죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.660,
+                "end": 19.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 친구는 제 쌍둥이 동생이고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.310,
+                "end": 21.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 이름은 오늘 안 사가면 가격 마니올라입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.450,
+                "end": 24.150
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "세상에 라이올라가 세쌍둥이였을 줄이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.150,
+                "end": 26.740
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무튼 선수 좀 보러 왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.740,
+                "end": 28.540
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 왜 월드 클래스 공격수 중에 이번 여름에 FA로 풀리는 선수 없습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.540,
+                "end": 32.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마침 잘 오셨네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.729,
+                "end": 33.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 막 초대형 공격수 1명이 재계약을 거부하면서 FA로 나오기 직전이거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.860,
+                "end": 38.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초대형 공격수라니 그게 누굽니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.600,
+                "end": 40.890
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아르헨티나를 대표하는 왼발 공격수",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.890,
+                "end": 43.100
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "설마 메시를 말하는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.100,
+                "end": 44.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "회장님 메시는 아직 계약 기간이 남았다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.850,
+                "end": 47.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아르헨티나에 왼발이라면 아무래도 디발라 아니겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 47.800,
+                "end": 50.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역시 뭘 좀 아시는군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.800,
+                "end": 52.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다가오는 여름 이적 시장의 가장 핫한 매물 유벤투스의 얼굴 마담 디발라를 이적료도 없이 데려가실 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 52.520,
+                "end": 58.820
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그치만 그 녀석은 얼굴만 잘생겼지 피지컬이 영 별로던데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 58.820,
+                "end": 62.150
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피지컬이야 케인이 담당하면 되죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 62.150,
+                "end": 64.010
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더군다나 디발라가 가장 빛날 수 있는 포지션 역시 투톱의 세컨드 스트라이커니까 케인과 함께 쓴다면 그야말로 안성맞춤일 겁니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 64.010,
+                "end": 72.966
+            }
+        ]
+    },
+    "summary": "담근 마켓에서 월드 클래스 중 여름에 FA로 풀리는 선수를 찾고 있었는데 마침 아르헨티나를 대표하는 왼발 공격수 디발라가 재계약을 거부하면서 나오기 직전이었고 이적료 없이 데려갈 수 있으며 투톱의 세컨드 스트라이커 포지션으로 케인과 함께 쓰면 안성맞춤이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": 39,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

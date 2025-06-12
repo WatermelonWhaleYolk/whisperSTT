@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNI_00725",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2023-02-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "노인 연령 상향에 대한 논의까지 연결될 수밖에 없는 측면이긴 한데 좀 더 여러 가지 맥락에서 이제 고려야 되어야",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.397
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무료 요금 기준 연령을 정한 건 39년 전 노령층 비율이 급격히 늘면서 기준을 상향 조정할 필요성은 정치권에서도 꾸준히 제기됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.407,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "무료 요금 기준 연령을 정한 건 39년 전으로 노령층 비율이 급격히 늘면서 기준을 상향 조정할 필요성은 정치권에서도 꾸준히 제기됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00725_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

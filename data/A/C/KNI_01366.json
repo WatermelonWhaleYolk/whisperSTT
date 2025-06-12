@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_01366",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.431,
+        "format": "MP4",
+        "date": "2023-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영하 25도에서 30도 35도까지도 내려갔었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 참 참 극한적인 상황입니다 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.525,
+                "end": 9.444
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저렇게 1100킬로미터가 넘는 1200킬로미터가 가까운 거리를 걸어가신 거군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.454,
+                "end": 15.942
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 걸어서 갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.952,
+                "end": 17.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다음 화면을 한번 볼까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.711,
+                "end": 19.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 이건 어떤 화면인지 좀 볼까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.611,
+                "end": 22.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 저게 뭡니까 오른쪽에 있는 게 저게 아 텐트군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.646,
+                "end": 25.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "텐트고 텐트에다가 솔라 패널 설치를 해서 저걸로 전력 공급을",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.617,
+                "end": 31.431
+            }
+        ]
+    },
+    "summary": "영하 25도에서 30도 35도까지 내려하는 극한의 상황에서 1200킬로미터 가까운 거리를 걸어갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01366_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

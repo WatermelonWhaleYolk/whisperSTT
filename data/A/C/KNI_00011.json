@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_00011",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.354,
+        "format": "MP4",
+        "date": "2022-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올림픽인 만큼 여러 종목 이렇게 최선을 다해서 준비했다고 생각하기 때문에 500미터도 최선을 다해서 좀 좋은 모습 보일 수 있게 노력하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일은 세계 랭킹 1위 배추보이 이상호가 스노보드 알파인 평행 대회전에 출전해 올림픽 2 연속 메달을 향한 질주를 펼칩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.220,
+                "end": 17.334
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남자 피겨의 간판 차준환도 내일 쇼트 프로그램에 나서고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.344,
+                "end": 21.354
+            }
+        ]
+    },
+    "summary": "내일은 세계 랭킹 1위 배추보이 이상호가 스노보드 알파인 평행 대회전에 출전해 올림픽 2연속 메달을 향한 질주를 펼치고 남자 피겨의 간판 차준환도 내일 쇼트 프로그램에 나섭니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00011_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 57,
+                    "act": 6
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00011_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

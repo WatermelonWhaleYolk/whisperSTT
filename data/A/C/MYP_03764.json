@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYP_03764",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2021-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 한참을 둘이서 먹기 시작했는데 왜 인지 주변에 점점",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.995,
+                "end": 7.402
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쫙 빼입은 커플들이 많아지더랜다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.412,
+                "end": 12.860
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 먹을래 자기야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.870,
+                "end": 14.694
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "먹고 싶은 거 다 골라봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.704,
+                "end": 17.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 완전 멋쟁이네 기념일인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.475,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "한참을 둘이 음식을 먹는데 주변에 커플들이 많아지더니 옷을 빼입고 기념일처럼 행동하는 것을 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03764_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 31,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

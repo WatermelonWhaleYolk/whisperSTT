@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00413",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2023-05-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개인 통산 세 번째 수상으로 최다 수상에 빛나는 전설 양동근과 어깨를 나란히 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.746
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누구는 베테랑이라고 하고 누구는 다 죽었다 그러고 이런 상황에서 정말 노력해서 얻은 그런 상이라 생각하기 때문에 절말 정말 값 값진 상이라고 생각하고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.756,
+                "end": 17.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "명승부가 거듭된 이번 챔피언 결정전은 6경기 연속 매진을 기록하며 흥행에 성공했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.064,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "오세근은 개인 통산 세 번째 MVP 수상이었고, 이번 챔피언 결정전은 6경기 연속 매진을 기록하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00413_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

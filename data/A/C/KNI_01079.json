@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_01079",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.623,
+        "format": "MP4",
+        "date": "2022-06-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우상혁은 2미터 30을 2차례나 실패했지만 자신을 응원하는 팬들의 박수 소리에 힘을 냈습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 3차시기에 극적으로 성공해 대회 신기록을 세운 뒤 공중제비를 돌며 기쁨을 드러냈습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.106,
+                "end": 14.757
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "위기 속에 기회가 있다고 생각하고 항상 절대 흔들리지 않고 뛰고 있고 세계 선수권이라고 생각하고 시합에 임하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.767,
+                "end": 23.623
+            }
+        ]
+    },
+    "summary": "우상혁은 2미터 30을 2차례나 실패했지만 마지막 3차시기에 극적으로 성공해 대회 신기록을 세운 뒤 공중제비를 돌며 기쁨을 드러냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01079_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

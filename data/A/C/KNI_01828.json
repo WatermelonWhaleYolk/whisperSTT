@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_01828",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.087,
+        "format": "MP4",
+        "date": "2021-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뽀뽀를 하라던지",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제보자들은 2013년 학교에 이들의 폭력 사실을 신고했지만 출석 정지 처분에 그쳤고 둘은 고교를 무사히 졸업했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.243,
+                "end": 10.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진정성 있는 사과를 받지 못했다고 주장한 제보자들은 이들이 체육계 폭력 추방 운동에 참여하는 등 가식적인 모습을 보여 폭로를 결심했다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.686,
+                "end": 21.087
+            }
+        ]
+    },
+    "summary": "제보자들은 폭력 사실을 신고했지만 가해자는 무사히 졸업을 했고 졸업 후 가식적인 모습을 보여 폭로를 결심했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01828_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 10,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

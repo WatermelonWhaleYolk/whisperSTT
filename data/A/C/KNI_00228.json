@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00228",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.917,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코치와 함께 눈물을 훔칠 정도로 임시현의 태극마크는 특별했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 해 5위로 아쉽게 탈락했고 올해 선발전에선 중간에 활을 바꿀 정도로 힘들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.963,
+                "end": 11.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 잘 극복한 임시현은 아시안게임과 세계선수권에서 제 2의 안산을 노리게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.374,
+                "end": 17.917
+            }
+        ]
+    },
+    "summary": "지난 해 5위로 아쉽게 탈락했고 올해 선발전에선 중간에 활을 바꿀 정도로 힘들었던 임시현은 이를 극복하고 아시안게임과 세계선수권에서 제 2의 안산을 노리게 됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00228_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

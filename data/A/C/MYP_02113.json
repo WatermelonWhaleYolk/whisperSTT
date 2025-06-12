@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_02113",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.166,
+        "format": "MP4",
+        "date": "2021-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "컨퍼런스 리그라고 들어 봤지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "초대 우승컵도 들어 볼 수 있다네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.718,
+                "end": 3.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그치만 토트넘은 아직 감독도 못 구하셨다고 들었는데 감독님부터 구하시는 게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.430,
+                "end": 7.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난 자네를 플레잉 코치 즉 선수 감독으로 영입하려는 걸세.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.964,
+                "end": 11.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 일이 두 배로 늘어나겠지만 주급은 1인분만 받기로 하고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.851,
+                "end": 15.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.611,
+                "end": 16.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 자네가 잘만하면 엄청난 명예를 얻을 수 있지 않나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.444,
+                "end": 20.166
+            }
+        ]
+    },
+    "summary": "토트넘에서 플레잉 코치로 영입하면서 주급은 1인분만 준다며 대신 명예를 얻을 수 있다고 제안하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02113_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

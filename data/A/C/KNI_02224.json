@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "KNI_02224",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.566,
+        "format": "MP4",
+        "date": "2016-03-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "색다른 경험에 대한 기대감도 큽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바둑이라는 게 둘이 만들어가는 하나의 작품이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.297,
+                "end": 5.536
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 만든 하나의 예술 작품이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.546,
+                "end": 8.087
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 배웠거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.097,
+                "end": 9.346
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 이거는 그게 아니잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.356,
+                "end": 11.366
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔가 느낌이 틀리잖습니까 이거는",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.376,
+                "end": 13.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자신감이 있지만 내심 걱정도 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.585,
+                "end": 16.196
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "불안감이 있을 것 같아요 지면",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.206,
+                "end": 18.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "판은 이게 한 판만 져도 어떻게 보면 제가 졌다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.710,
+                "end": 23.566
+            }
+        ]
+    },
+    "summary": "바둑은 둘이 만드는 하나의 작품이라면서 색다른 경험에 기대감도 있지만 한편으로 지는 것에 대해 걱정도 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02224_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

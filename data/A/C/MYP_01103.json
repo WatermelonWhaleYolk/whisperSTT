@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "filename": "MYP_01103",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.5,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우승이 챔스 우승이 보이네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.188
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바로 그겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.198,
+                "end": 4.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "덕배라는 패스 마스터가 홀란드라는 골잡이를 만나고 나서야 비로소 챔스 우승이 보인다는 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.170,
+                "end": 8.944
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역시 마법 같은 패스만큼이나 매직 같은 센스 이러니 제가 덕배 씨를 안 좋아할 수가 있겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.954,
+                "end": 14.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 마지막으로 몇 가지 주의 사항을 말씀드리며 오늘의 홈쇼핑을 마치겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.099,
+                "end": 17.963
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본 상품은 패키지 상품으로 단품으로 구매 시 성능이 떨어질 수 있으며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.973,
+                "end": 21.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "섣불리 구매를 시도 했다간 만수르님께 암살 당할 수 있다는 점 유의해 주시기 바랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.469,
+                "end": 25.727
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "프리미어리그 우승을 넘어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.737,
+                "end": 26.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "챔피언스리그 우승을 원하고 계시다면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.942,
+                "end": 28.982
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 당장 주저 말고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.992,
+                "end": 30.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홀덕 라인을 구매하세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 30.241,
+                "end": 38.500
+            }
+        ]
+    },
+    "summary": "덕배라는 패스 마스터가 골잡이 홀란드를 만나고 나서 챔스 우승이 보이며 프리미어 리그뿐만 아니라 챔피언스리그 우승을 원한다면 홀덕 라인을 구매해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

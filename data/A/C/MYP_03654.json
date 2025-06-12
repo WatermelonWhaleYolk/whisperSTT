@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "MYP_03654",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.784,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관장님 쟤는 왜 맞아도 쓰러지지 않나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몰라 돼지 사료를 맥여키웠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.592,
+                "end": 5.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.352,
+                "end": 5.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너도 먹을래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.829,
+                "end": 6.746
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 자신감인지 헛바람인지 모를 무언가가 차오르던 어느 날",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.756,
+                "end": 14.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘 나 뭔가 디게 남자다운 것 같아",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.167,
+                "end": 17.784
+            }
+        ]
+    },
+    "summary": "맞아도 쓰러지지 않고 자신감이 차올라 자신이 되게 남자다워진 거 같다고 생각했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03654_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

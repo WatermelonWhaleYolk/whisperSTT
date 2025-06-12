@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "KNI_01676",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.127,
+        "format": "MP4",
+        "date": "2023-03-28",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저보다 더 오래 선수 활동하십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.874
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "믿습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.884,
+                "end": 3.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 각오면 200 년 하실 수 있으십니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.589,
+                "end": 8.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응원하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.655,
+                "end": 10.377
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당초 @이름1 의 존재는 몰랐지만 임창정이 자신의 이름 언급에 화답한 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.387,
+                "end": 16.095
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지금 솔직히 놀래 가지고 지금 머릿속에 하얘진 것 같습니다 아 큰 힘 정도가 아니죠 사실 진짜 개막을 앞두고 엄청난 동기 부여가 될 것 같은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.105,
+                "end": 27.127
+            }
+        ]
+    },
+    "summary": "가수 임창정씨가 @이름1 선수를 몰랐지만 자신의 이름 언급에 화답하여 응원해줘서 @이름1 선수가 큰 힘이 되었다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01676_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01676_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

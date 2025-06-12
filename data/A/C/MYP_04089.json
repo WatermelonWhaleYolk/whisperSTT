@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_04089",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.562,
+        "format": "MP4",
+        "date": "2020-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일부 고차원적인 몇몇 분들은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.968
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으으응",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.978,
+                "end": 2.795
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "모르겠어 원하는 게 뭔지도 도저히 모르겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.805,
+                "end": 11.823
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 도 아니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.833,
+                "end": 14.038
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "모르겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.048,
+                "end": 15.129
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너는 도를 넘은 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.139,
+                "end": 18.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정신적 교감을 요구해 오기도 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.876,
+                "end": 22.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전국에 걸쳐 목격한 신비의 노숙자들을 만나보는 비정기 시리즈 그 두 번째",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.920,
+                "end": 29.562
+            }
+        ]
+    },
+    "summary": "일부 고차원적인 노숙자들은 정신적 교감을 요구해 오기도 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04089_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

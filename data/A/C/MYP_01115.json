@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYP_01115",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.833,
+        "format": "MP4",
+        "date": "2022-08-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무려 한 경기에 9골을 몰아치며 압도적인 대승 한마디로 리버풀의 시즌은 지금부터가 시작이란 말이오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.175
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감독 3호는 리버풀에서 리그와 챔스 우승 모두를 경험했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.185,
+                "end": 9.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 주전들의 노쇠화로 경쟁력을 떨어진 상태다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.855,
+                "end": 12.638
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어디 보자 근데 어째 안토니가 안 보이는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.648,
+                "end": 15.607
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "안토니라면 이미 우리 맨유에 합류했는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.617,
+                "end": 18.203
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐라고 그럼 제목엔 왜 써놓은 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.213,
+                "end": 20.658
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "맨유에 부임한 뒤로 줄곧 놀림이나 받았기에 이참에 나도 자랑이나 한번 해보려고 그랬지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.668,
+                "end": 25.723
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "참나 아무튼 카세미루에 이어 안토니까지 영입했으면 됐지 여긴 뭐 하러 온 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.733,
+                "end": 30.793
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 호날두나 좀 팔아볼까 해서 왔다네 어떻게 하베르츠 제로 영 시원치 않아 보이던데 그러지 말고 호날두를 영입하는 게 어떤가?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 30.803,
+                "end": 39.833
+            }
+        ]
+    },
+    "summary": "감독 3호는 리버풀에서 리그와 챔스 우승 모두를 경험했지만 주전들의 노쇠화로 경쟁력이 떨어진 상태며 감독 2호는 호날두를 영입하는 게 어떻겠냐고 제안받는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01115_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

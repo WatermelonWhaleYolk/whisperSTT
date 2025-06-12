@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_03954",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2020-12-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "만만치 않았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.041
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게나 추운데 저 옆으로 돌아가라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.051,
+                "end": 3.372
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "만약 밖에서 자면 얼어 죽을지도 모르는 이런 날씨에?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.382,
+                "end": 6.949
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "엮으려고 용쓰지 마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.959,
+                "end": 8.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허나 길어지는 싸움에 지친 나는 그냥 돌아가기로 했는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.931,
+                "end": 13.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저 그럼 그냥 돌아갈게요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.903,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "노숙자들은 계속 항의했고 긴 싸움에 지친 주인공이 역무원에게 돌아가겠다고 말하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03954_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

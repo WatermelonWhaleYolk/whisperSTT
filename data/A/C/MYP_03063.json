@@ -1,0 +1,213 @@
+{
+    "metadata": {
+        "filename": "MYP_03063",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.0,
+        "format": "MP4",
+        "date": "2019-11-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 어서 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 대표님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.291,
+                "end": 3.271
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 참나 이 사람이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.281,
+                "end": 4.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어제 기억 안 나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.637,
+                "end": 5.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 제가 어제 또 대표님인지 모르고 그랬죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.576,
+                "end": 8.241
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.251,
+                "end": 8.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 양반을 참 웃기네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.810,
+                "end": 10.099
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 됐고 제일 자신 있는 메뉴가 뭐에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.109,
+                "end": 12.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제일 자신 있는 건 역시 해트트릭 피자고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.487,
+                "end": 14.959
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 제일 잘하는 게 무회전 피자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.969,
+                "end": 16.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 둘이 드시려면 호우 세레머니 피자도 괜찮고 또 마드리드 돌아갈래 피자가 새로 나왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.632,
+                "end": 21.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 맛있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.796,
+                "end": 22.648
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 못하는 게 있어야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.658,
+                "end": 23.947
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 됐고 뭔 트릭?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.957,
+                "end": 25.531
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 제일 기본이에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.541,
+                "end": 26.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거 가져와 봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.722,
+                "end": 28.000
+            }
+        ]
+    },
+    "summary": "대표가 제일 자신 있는 메뉴를 물어보니 사장이 자기는 다 잘해서 다 맛있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03063_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

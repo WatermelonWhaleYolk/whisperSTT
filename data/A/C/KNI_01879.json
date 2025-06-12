@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_01879",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 15연승 신화를 썼던 지난 시즌 전력을 그대로 유지한만큼 다가올 새 시즌도 독주를 꿈꿉니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.187
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김연경이 복귀한 흥국생명은 물론 낚시 훈련에서 현대건설이라는 대어를 낳겠다고 도발한 라이벌 GS칼텍스의 도전에도 흔들림이 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.197,
+                "end": 17.809
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기가 망상 해수욕장인 만큼 GS의 허무맹랑한 망상을 꼭 깨뜨려 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.819,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "현대건설은 15연승 신화를 썼던 지난 시즌 전력을 그대로 유지한만큼 다가올 새 시즌도 독주를 꿈꿉니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01879_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

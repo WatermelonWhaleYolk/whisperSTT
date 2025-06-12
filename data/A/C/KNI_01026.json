@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "KNI_01026",
+        "category": "스포츠뉴스",
+        "sub_category": 41,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.334,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.300
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.300,
+                "end": 1.475
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자 컬링 팀 킴과는 달리 각자 다른 다섯 선수들의 성을 따 장윤정 고백 팀으로 불리는 휠체어 컬링 대표팀",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.480,
+                "end": 10.910
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스위핑도 없고 저희는 오로지 그냥 스틱 하나로만 이렇게 밀어서 넣야 되는 게임이기 때문에 그게 제일 묘미인 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.920,
+                "end": 19.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직접 체험도 해봤는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.831,
+                "end": 22.611
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "샷 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.621,
+                "end": 24.613
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저희같이 베이징 가 주시겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.624,
+                "end": 27.064
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2010년 은메달 4년 전엔 4강에 올랐는데 이번에도 메달을 목표로 하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.074,
+                "end": 34.334
+            }
+        ]
+    },
+    "summary": "각자 다른 다섯 선수들의 성을 따 장윤정 고백 팀으로 불리는 휠체어 컬링 대표팀은 2010년 은메달 4년 전엔 4강에 올랐는데 이번에도 메달을 목표로 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01026_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

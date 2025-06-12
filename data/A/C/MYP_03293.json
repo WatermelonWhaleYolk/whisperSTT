@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_03293",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.468,
+        "format": "MP4",
+        "date": "2022-12-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "끄아아아악 끄악 끄악",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.908
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실력이 쓰레기라 그렇지 악다구니로 치면 세상살이 경험자에게 못 당하지 옵션으로 인대 2번 팔아먹었다 야",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.918,
+                "end": 17.302
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하 하하하하",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.312,
+                "end": 19.708
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "수 수비 집중해라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.718,
+                "end": 21.181
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저 아저씨 무서워",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.191,
+                "end": 23.317
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "노 놓치면 죽는다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.327,
+                "end": 25.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마꺄우",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.491,
+                "end": 30.179
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "한가운데 여기다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.189,
+                "end": 35.468
+            }
+        ]
+    },
+    "summary": "수호가 괴성을 지르며 볼을 던진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03293_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

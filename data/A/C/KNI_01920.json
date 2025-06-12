@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_01920",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.421,
+        "format": "MP4",
+        "date": "2023-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "축구계를 뒤흔든 이번 사건으로 체육 시민 연대는 @이름1 회장의 사퇴까지 거론했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.749
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 정도의 운영 방식을 가진 집행부라면 저는 집행부 모두가 저는 물러나야 된다고 생각하고 여기는 당연히 회장이 포함 되어야 한다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.759,
+                "end": 14.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사흘 만에 사면을 철회하는 황당한 촌극을 포함해 정 회장의 독단적인 리더십은 늘 비판의 대상이었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.141,
+                "end": 21.421
+            }
+        ]
+    },
+    "summary": "축구계를 뒤흔든 이번 사건으로 체육 시민 연대는 @이름1 회장의 사퇴 까지 거론하였고 사흘 만에 사면을 철회하는 황당한 촌극을 포함해 @이름1의 독단적인 리더십은 늘 비판의 대상이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01920_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

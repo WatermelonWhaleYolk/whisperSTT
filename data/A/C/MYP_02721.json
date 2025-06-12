@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "filename": "MYP_02721",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.074,
+        "format": "MP4",
+        "date": "2020-08-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 어떻게 오셨습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.474,
+                "end": 1.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저는 토트넘 핫스퍼의 회장 다니엘 레비입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.718,
+                "end": 4.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수 좀 영입하러 왔구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.629,
+                "end": 6.123
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 사람이 지금 장난하나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.133,
+                "end": 7.192
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토트넘이면 프리미어리그잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.202,
+                "end": 8.977
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기는 어디 김치 유나이티드나 그런 잠깐 저 사람 무리뉴 감독?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.987,
+                "end": 13.188
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이것들 진짜 토트넘인가 본데 하긴 뭐 토트넘이 짠돌이로 유명하긴 하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.198,
+                "end": 17.218
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.228,
+                "end": 17.914
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "진짜 이런 데 괜찮은 선수가 있어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.924,
+                "end": 19.732
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 이거 잘하면 호구 잡아서 한몫 챙기겠는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.742,
+                "end": 22.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 아이 그럼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.243,
+                "end": 23.437
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "괜찮은 선수가 몇 명 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.447,
+                "end": 24.588
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이쪽으로 오시죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.598,
+                "end": 27.066
+            }
+        ]
+    },
+    "summary": "토트넘 핫스퍼의 회장 다니엘 레비가 선수를 영입하러 왔고 괜찮은 선수가 몇 명 있다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02721_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

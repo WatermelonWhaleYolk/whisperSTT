@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_03230",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.158,
+        "format": "MP4",
+        "date": "2023-03-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "퇴근 히어로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.967
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 일찍 퇴근하셨네요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.977,
+                "end": 2.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자자 잠깐만 이렇게 해봐 이렇게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.806,
+                "end": 5.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요렇게 요렇게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.345,
+                "end": 6.432
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으잉 왜요 뭐하시게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.442,
+                "end": 8.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처먹고 떨어져라 일수놈.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.898,
+                "end": 11.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몇 년 후",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.846,
+                "end": 14.327
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가스파드씨 가스파드씨 가스파드씨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.337,
+                "end": 19.132
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.142,
+                "end": 21.530
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "무슨 생각해요 긴장 풀어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.530,
+                "end": 23.471
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.481,
+                "end": 25.158
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03230_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

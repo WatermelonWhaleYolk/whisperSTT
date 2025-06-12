@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "KNI_01950",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.677,
+        "format": "MP4",
+        "date": "2020-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무조건 태백 장사가 목표입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.255
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실업 무대 데뷔전이었던 첫 경기 아쉽게 안해용 선수에게 지고 말았지만 이제부터 시작입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 3.265,
+                "end": 11.840
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "괜찮아 잘했어 잘했어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.846,
+                "end": 13.053
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "처음인데 잘했다고.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.063,
+                "end": 15.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희 코치님이 지금 태백 장사 최다 보유분이시거든요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 15.680,
+                "end": 19.583
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이진영 태백 장사님이라고.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 19.593,
+                "end": 21.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 목표는 이제 씨름할 씨름할 때 동안이라도 이진영 코치님 기록을 깨는 게 제 목표입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 21.419,
+                "end": 28.477
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이날의 왕좌 태백 장사의 주인공 윤필재 선수였습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 28.487,
+                "end": 32.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "들배지기와 밀어치기로 통산 6번째 태백 장사에 올랐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 32.413,
+                "end": 38.671
+            }
+        ]
+    },
+    "summary": "이날 씨름 경기에서 윤필재 선수사 들배지기와 밀어치기로 통산 6번째 태백 장사에 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01950_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 150
+                }
+            ]
+        }
+    ]
+}

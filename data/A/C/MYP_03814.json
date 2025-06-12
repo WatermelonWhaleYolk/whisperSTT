@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_03814",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.458,
+        "format": "MP4",
+        "date": "2021-05-02",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "책거리 언제 할지 물어봤는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.653
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그는 영접을 포기할 수밖에 없었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.663,
+                "end": 6.973
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 기회를 날린 그는 한동안 우울해했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.983,
+                "end": 11.732
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "징그러운 음식을 잘 구하고 있냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.742,
+                "end": 14.661
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "시끄러워 응?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.671,
+                "end": 17.803
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 이 집 나도 요 앞에서 한번 먹어봤지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.813,
+                "end": 21.516
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "왜 이번엔 너 아는 집 간대냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.526,
+                "end": 24.053
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "엉.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.063,
+                "end": 25.458
+            }
+        ]
+    },
+    "summary": "남성이 좋아하는 여성 게스트가 나온다는 집에 대해서 다른 남성과 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03814_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_03436",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2022-07-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "놀긴 뭘 놀아 나 바베큐집서 일하는데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화력 조절의 슈퍼루키를 몰라뵙고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.293,
+                "end": 5.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "숯불에 탔냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.760,
+                "end": 7.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔 고갈비여 뭐여?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.266,
+                "end": 9.377
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "형의 긍정은 이미 다른 곳에 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.387,
+                "end": 12.556
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무것도 없이 홀몸으로 나는 그래도 어느 정도 자리를 잡았을 형들의 도움이 절실했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.566,
+                "end": 19.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.688,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "나는 어느 정도 자리를 잡았을 형들의 도움이 절실했지만 형의 긍정은 이미 다른 곳에 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03436_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

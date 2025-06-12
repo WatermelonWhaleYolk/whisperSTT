@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_03604",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.871,
+        "format": "MP4",
+        "date": "2022-04-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.812,
+                "end": 1.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역전 홈런 두들겨 맞고 강판 아니 화려하게 방출 됐었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.151,
+                "end": 7.149
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "갔다 끝내기 2런포 홈런으로 대미를 장식한 대역전승",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.159,
+                "end": 17.634
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 이제 우리 게임이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.644,
+                "end": 19.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안심하셈.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.517,
+                "end": 21.213
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여긴 방출도 은퇴도 없으니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.223,
+                "end": 25.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으응 근데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.250,
+                "end": 27.960
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어이 자냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.970,
+                "end": 30.585
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "좀 신나게 타올라보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.595,
+                "end": 35.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좌완 투수였나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.243,
+                "end": 37.871
+            }
+        ]
+    },
+    "summary": "역전 홈런을 맞고 방출됐고 그런데 좌완 투수였는지 헷갈린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03604_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

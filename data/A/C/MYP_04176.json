@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "MYP_04176",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.564,
+        "format": "MP4",
+        "date": "2020-05-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "약국은 옆집.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.132
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가혹하게 담금질 되어",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.142,
+                "end": 7.763
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 좋아 좋아 닐리리야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.773,
+                "end": 23.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네가 약이었구나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.528,
+                "end": 24.582
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "닐리리야 닐리",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.580,
+                "end": 27.335
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리의 형식을 파괴하는 분들이 계십니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.335,
+                "end": 31.564
+            }
+        ]
+    },
+    "summary": "가혹하게 담금질 되어 우리의 형식을 파괴하는 분들이 계신다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04176_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_01492",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.981,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다고 하위 팀을 인수해서 리빌딩하기엔 재정적 페어플레이니 영입 제한이니 귀찮은 일이 한두 가지가 아닐 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.722
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럴 때를 대비해 준비한 오늘의 상품.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.732,
+                "end": 8.768
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "돈만 내면 나도 세계 최고 클럽의 구단주다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.778,
+                "end": 11.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사우디 왕자님들부터 미국의 큰손 형님들까지 선착순 한 명에게만 주어지는 찬스를 놓치고 싶지 않으시다면 지금 당장 첼시를 구매하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.146,
+                "end": 26.966
+            }
+        ]
+    },
+    "summary": "첼시가 사우디 왕자님부터 미국의 큰손들에게 판매 홍보를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01492_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

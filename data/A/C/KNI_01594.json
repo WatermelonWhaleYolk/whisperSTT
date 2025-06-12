@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_01594",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.03,
+        "format": "MP4",
+        "date": "2023-08-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역대 한국인 IOC 선수 위원은 태권도의 문대성과 또 탁구의 유승민 2명이 있었죠.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 IOC 선수 위원이 되면 총 8년의 임기 동안 IOC와 현역 선수 사이의 가교 역할을 맡게 되는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.626,
+                "end": 12.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그뿐만 아니라 올림픽 개최지 투표권 등 다른 IOC 위원들과 똑같은 권리와 의무까지 같게 됩니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.386,
+                "end": 19.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한 체육회는 어 4명의 최종 후보 가운데 1인을 조만간 선발해서 IOC에 최종 통보할 계획을 세워 놓고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.475,
+                "end": 27.054
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 오늘 여기까지 듣겠습니다. @이름1 기자였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.064,
+                "end": 30.030
+            }
+        ]
+    },
+    "summary": "역대 한국인 IOC 선수 위원은 태권도의 문대성과 탁구 유승민이 있었고 대한 체육회는 4명의 최종 후보 가운데 1인을 선발해 IOC에 최종 통보할 계획이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01594_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

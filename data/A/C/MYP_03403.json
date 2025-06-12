@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03403",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.392,
+        "format": "MP4",
+        "date": "2022-09-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시간제한을 안고 온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 글짜가 짝아가 안비네 이 몇시라 써 있는교?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.316,
+                "end": 6.768
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "5분 뿌이 안 남았네 5분",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.778,
+                "end": 9.542
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "파괴적인 상냥함이군 한국 아빠들 참 서툴어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.552,
+                "end": 14.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 시간적 여유가 없는 상황에 처해져도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.266,
+                "end": 17.922
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 그럼 영화에 늦으실 것 같으니까 죄송하지만 다음에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.932,
+                "end": 23.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 뭐 그라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.333,
+                "end": 25.392
+            }
+        ]
+    },
+    "summary": "시간제한을 안고 오기 때문에 영화에 늦으실 것 같으니까 죄송하지만 다음에라고 안내한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03403_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_01943",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2021-12-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 최 감독님이 한 번도 안 해보셨으니까 해보는 것도 좋은 경험이 되지 않을까 생각하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 감독님 2부 리그는 처음이죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.022,
+                "end": 8.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋은 경험될 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.936,
+                "end": 11.354
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 어떠한 도발도 에 제 귀에 들어오지도 않고 일단 저는 어떻게 이 전략적으로 잘 준비를 해서 이길 생각밖에 없고",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.364,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "최 감독님이 한 번도 안 해본 2부 리그는 해보는 것도 좋은 경험이 되지 않을까 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01943_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03910",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.132,
+        "format": "MP4",
+        "date": "2021-01-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원한의 편도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 학창 시절.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.389,
+                "end": 12.944
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어? 너 어디 안 좋냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.954,
+                "end": 14.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주기적으로 몸이 크게 아팠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.891,
+                "end": 17.318
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선생님 @이름1 많이 아픈 거 같은데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.328,
+                "end": 20.275
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1 조퇴할래?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.285,
+                "end": 22.748
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "괜찮은데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.758,
+                "end": 26.985
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "소름 끼치니까 빨리 가라고 퇴마사 부르기 전에",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.995,
+                "end": 32.132
+            }
+        ]
+    },
+    "summary": "20대 남성이 자기는 학창 시절에 자주 아팠었다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03910_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": 41,
+                    "act": 152
+                }
+            ]
+        }
+    ]
+}

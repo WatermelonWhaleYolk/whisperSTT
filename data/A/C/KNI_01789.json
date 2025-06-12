@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01789",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.933,
+        "format": "MP4",
+        "date": "2016-08-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "장시간 비행으로 피곤한 기색이 역력했지만 2년 전의 아픔을 떠올리며 새 마음 새 각오로 후회없는 경기를 하겠다는 포부를 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "벨기에 전 끝나고 좀 눈물 흘렸던 게 좀 많이 생각났던거 같아요. 그래서 저도 대한민국 국민으로서 대한민국한테 조금이나마 희망을 안겨주고 싶고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.825,
+                "end": 17.933
+            }
+        ]
+    },
+    "summary": "손흥민 선수는 장시간 비행으로 피곤한 기색이 역력했지만 2년 전의 아픔을 떠올리며 후회없는 경기를 하겠다는 포부를 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01789_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

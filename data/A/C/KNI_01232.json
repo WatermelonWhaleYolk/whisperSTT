@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNI_01232",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.974,
+        "format": "MP4",
+        "date": "2022-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "몸싸움 도중 얼굴이 밀리거나 수술 부위에 공이 직접 부딪힐 경우 충격이 전해집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉 해더경합이 주무기가 아닌 손흥민에 출전전망은 밝은 편입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.257,
+                "end": 10.028
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무리라고 볼 수 있겠지만 아까도 제가 뭐 위험 뭐 리스크에 대해서 얘기를 했지만 축구선수들은 어느 정도에 위험은 항상 가지고 경기 플레이를 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.038,
+                "end": 19.513
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "충격이 왔을 때 충격을 많이 분산해주는 효과는 분명히 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.523,
+                "end": 23.034
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "마치 충격이 왔을 때 헬멧을 쓰고 있으면은 통증이 오더라도 훨씬 덜 아픈 거처럼 다른 부위는 큰 손상이 없기 때문에 본인한테 상당히 심리적인 안정감을 줄 수는 있을 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.044,
+                "end": 35.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1퍼센트에 가능성을 보고라도 뛴다는 주장에 투혼에 팀 동료들도 메시지를 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.379,
+                "end": 40.974
+            }
+        ]
+    },
+    "summary": "충격이 왔을 때 충격을 많이 분산해주는 효과는 분명히 있고 1퍼센트에 가능성을 보고 뛴다는 주장에 투혼에 팀 동료들도 메시지를 전했다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01232_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01232_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 7,
+                    "object": 47,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

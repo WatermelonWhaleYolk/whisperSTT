@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_01799",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.0,
+        "format": "MP4",
+        "date": "2016-08-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아직 많이 좀 부족한 거 같아서 다음 올림픽을 노리면서 더 열심히 해야 될 거 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.746
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정보경에 이어 안바울까지 이틀 연속 은메달 행진을 이어간 유도는 우리 시간으로 오늘 밤 대표팀 최고 기대주인 남자 73킬로그램급 세계 랭킹 1위 안창림이 출전해 금메달을 노립니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.756,
+                "end": 17.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "리우데자네이루에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.924,
+                "end": 22.000
+            }
+        ]
+    },
+    "summary": "정보경과 안바울 선수가 이틀 연속 은메달을 획득한 유도는 우리 시간으로 오늘 밤 세계 랭킹 1위인 안창림 선수가 출전해 금메달을 노릴 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01799_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

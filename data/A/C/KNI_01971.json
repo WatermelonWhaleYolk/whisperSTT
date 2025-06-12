@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01971",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2020-05-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관중석에 쌓인 먼지도 물로 깨끗이 씻어냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프로 야구 개막을 앞두고 경기장 내 방역 작업이 진행됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.298,
+                "end": 8.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기장 내부 뿐만 아니라 식당과 선수 체력단련실 등 사람들이 자주 지나다니는 곳은 모두 방역대상입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.012,
+                "end": 15.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBO가 마련한",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.825,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "프로 야구 개막을 앞두고 경기장 내 방역 작업이 진행됐으며 경기장 내부 뿐만 아니라 식당과 선수 체력단련실 등 사람들이 자주 지나다니는 곳은 모두 방역대상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01971_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

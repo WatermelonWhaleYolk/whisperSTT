@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "filename": "MYP_01464",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.603,
+        "format": "MP4",
+        "date": "2022-03-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "화려한 경력을 지닌 도발의 음바페, 마지막으로 상상 초월의 잠재력을 품고 있는 와꾸의 홀란드까지 여러분이 생각하시는 4대 스트라이커의 마지막 한자리는 누구입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 16.603
+            }
+        ]
+    },
+    "summary": "벤제마가 화려한 경력을 가진 도발의 음바페와 잠재력을 품고 있는 와꾸의 홀란드까지 여러분이 생각하는 스트라이커는 누구인지 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01464_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

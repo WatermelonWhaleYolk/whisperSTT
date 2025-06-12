@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00261",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.384,
+        "format": "MP4",
+        "date": "2023-04-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두산 선수단 버스 바로 뒤로 감독을 태운 차량이 들어오고 드디어 이승엽 감독이 고향 대구에 나타납니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비로 인해 경기가 취소된 가운데 상기된 표정으로 더그아웃을 향했고 이젠 삼성 선수가 아닌 두산 감독이라는 냉정한 답변이 돌아왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.450,
+                "end": 17.384
+            }
+        ]
+    },
+    "summary": "이승엽 감독이 두산 감독이 되어 고향 대구에 도착했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

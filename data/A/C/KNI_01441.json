@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_01441",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.79,
+        "format": "MP4",
+        "date": "2023-04-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두산 선수단 버스 바로 뒤로 감독을 태운 차량이 들어오고 드디어 @이름1 감독이 고향 대구에 나타납니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비로 인해 경기가 취소된 가운데 상기된 표정으로 더그아웃을 향했고 이젠 삼성 선수가 아닌 두산 감독이라는 냉정한 답변이 돌아왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.841,
+                "end": 16.538
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "벽화 진짜 안 보셨습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.548,
+                "end": 18.353
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 보게 되면 보겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.363,
+                "end": 21.772
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "지금 바로 뒤에 있는데 한번",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.782,
+                "end": 23.790
+            }
+        ]
+    },
+    "summary": "두산 선수단 버스 뒤로 감독을 태운 차량이 들어오고 삼성 선수가 아닌 두산 감독으로 이 감독이 고향 대구에 나타났다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01441_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

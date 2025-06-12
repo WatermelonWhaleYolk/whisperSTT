@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "MYP_04285",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.52,
+        "format": "MP4",
+        "date": "2020-01-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차기 경영인으로서 이런 점들을 부디 숙지하신 뒤 견학게 임하시길 바라겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.592
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 말단놈 우리 이 지경 되니 인자 속이 시원해쨔",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.602,
+                "end": 9.424
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하향평준화 짜릿릿해쨔",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.434,
+                "end": 11.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 모바일 부서 견학을 시작해 볼까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.812,
+                "end": 16.830
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어서오십시요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.841,
+                "end": 17.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어허 편하게 편하게 90도까지만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.617,
+                "end": 20.520
+            }
+        ]
+    },
+    "summary": "차기 경영인으로서 이런 점들을 부디 숙지하신 뒤 견학게 임하시길 바라겠고 모바일 부서 견학을 시작하겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04285_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

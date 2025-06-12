@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01806",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.933,
+        "format": "MP4",
+        "date": "2016-08-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "입국장에 들어선 박인비를 가장 처음 맞은 건 마음 졸이며 응원했던 가족들이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가족들의 환대를 받은 박인비는 그제야 모든 짐을 내려놓은 듯 웃음을 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.121,
+                "end": 11.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "116년 만에 올림픽에서 부활한 여자 골프에서 금메달을 따낸 박인비는 늦은 밤까지 자신을 응원해 준 국민에게 감사를 표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.091,
+                "end": 19.724
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 혼자만은 할 수 없는 일이었고 많은 국민들의 이렇게 응원과 성원이 있었기에 가능한 일이라고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.734,
+                "end": 27.933
+            }
+        ]
+    },
+    "summary": "116년 만에 올림픽에서 부활한 여자 골프에서 금메달을 따낸 박인비는 가족의 환대를 받으며 입국장에 들어섰고 자신을 응원해 준 국민에게 감사를 표했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01806_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

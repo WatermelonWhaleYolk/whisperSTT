@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_01380",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.731,
+        "format": "MP4",
+        "date": "2023-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "환경부 지침에 따라 막대풍선이 사라진 것은 새로운 응원 풍경이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "WBC 구중과 최근 연이어 발생한 야구계 사건 사고를 꼬집는 팬도 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.964,
+                "end": 11.062
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근에 좀 안 좋은 일들이 많았는데 날씨도 좋고 하니까 팬분들이 많이 찾아와 주시고 하는데 앞으로도 좀 좋은 모습만 좀 봤으면 좋겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.072,
+                "end": 22.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러 악재 속에서도 프로야구는 개막전 흥행을 터트리며 6개월의 대장정을 출발했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.351,
+                "end": 28.962
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.972,
+                "end": 31.731
+            }
+        ]
+    },
+    "summary": "야구계 사건 사고가 많았지만 개막전이 성공리에 출발했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01380_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

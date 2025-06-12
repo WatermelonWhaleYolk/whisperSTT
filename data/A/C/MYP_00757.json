@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_00757",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.066,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 진짜 돈 때문에 하는 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붙고 딴소리 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.655,
+                "end": 3.081
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 붙기만 한다면 훈련에 안 나와도 보너스는 주도록 하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.091,
+                "end": 6.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당신 5부 리그도 꼴에 선수 출신이라고 좀 우쭐 하나 본데 내가 오지게 뛰어라 슈똘이 시절엔 1경기 14골도 넣어 봤어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.003,
+                "end": 13.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 @이름1 드리블로는 한 번도 져본 적이 없다 이거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.846,
+                "end": 17.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하하하 배짱 하나는 참 맘에 들군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.350,
+                "end": 20.003
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어디 우리 선수를 만나서 상대할 때도 그 배짱 여전하길 바란다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.013,
+                "end": 26.066
+            }
+        ]
+    },
+    "summary": "@이름1은 드리블로는 한 번도 져본 적이 없고 뛰어라 슈똘이 시절엔 1경기 14골도 넣어 봤지만 선수를 만나서 상대할 때도 그 배짱 여전하길 바란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00757_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_01991",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 49.633,
+        "format": "MP4",
+        "date": "2021-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시청자 여러분 빡하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.754
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프리미어 리그 승부 예측 시간의 사회자 다니엘 레비입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.764,
+                "end": 4.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 오바메양 선수 코로나에 걸렸다고 들었는데 괜찮으신 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.821,
+                "end": 9.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 음성이 나온 상태이긴 하나 출전 여부는 경기 시간이 돼봐야 알 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.071,
+                "end": 12.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당신 뿐만 아니라 라카제트와 윌리안까지 코로나에 걸렸다죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.793,
+                "end": 16.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기다가 야심차게 데려온 벤 화이트 역시 코로나에 걸렸다는 소식이 전해지던데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.300,
+                "end": 20.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇습니다. 에휴 개막하자마자 이게 무슨 꼴인지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.827,
+                "end": 23.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수 전원이 출장해도 모자랄 판에 주전 공격수들이 시작부터 결장한 것도 모자라 아스날 역사상 가장 비싼 수비수까지 고작 한 경기 뛰고 코로나라니 가만 보면 아르테타 그 양반도 참 운이 안 따라주는 것 같군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.489,
+                "end": 36.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 프리미어 리그 두 번째 라운드 첼시와 아스날 아스날과 첼시의 경기에 앞서 승부 예측을 해보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.828,
+                "end": 43.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 첼시의 루카쿠 선수 발언해 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.450,
+                "end": 46.150
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "브렌트포드와 아스날의 개막전 경기 잘 봤습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 46.160,
+                "end": 49.633
+            }
+        ]
+    },
+    "summary": "다니엘 레비는 오바메양에게 코로나에 걸렸는데 괜찮냐고 물어보고 오바메양은 음성이 나온 상태이나 출전 여부는 경기 시간이 되어봐야 알 것 같다고 하고 라카제트와 윌리안 그리고 벤 화이트 역시 코로나에 걸렸다는 소식이 전해지면서 선수 전원이 출장해도 모자랄 판에 공격수와 아스날 역사상 가장 비싼 수비수까지 코로나에 걸려 운이 안 따라주는 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01991_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

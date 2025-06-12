@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01515",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.593,
+        "format": "MP4",
+        "date": "2022-11-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민의 부상 정도에 대해 국내 의료진은 안와 골절일 경우 최소 4주 광대뼈가 부러진 안면골 골절이면 최대 8주까지 회복 기간이 필요하다고 내다봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뼈가 어느 정도 붙었다 좀 안정이 됐다 하는 게 보통 삼사 주 4주 정도 지날 경우에 있어서는 어 운동을 할 수 있다고 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.018,
+                "end": 23.154
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민이 당장 수술을 받고 빠르게 회복하더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.164,
+                "end": 26.593
+            }
+        ]
+    },
+    "summary": "손흥민의 부상 정도에 대해 국내 의료진은 안와 골절일 경우 최소 4주 안면골 골절이면 최대 8주까지 회복 기간이 필요하다고 내다봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

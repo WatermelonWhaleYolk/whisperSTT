@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "MYP_03938",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.892,
+        "format": "MP4",
+        "date": "2021-01-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그가 나와 꽤 멀리 떨어진 곳에서 복무하고 있음을 알게 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 로이드 형이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.910,
+                "end": 6.833
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘있냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.843,
+                "end": 8.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나는 00 부대로 왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.322,
+                "end": 10.263
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "휴가 나와서 얘들한테 물어보니 너는 00부대에 있다더라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.273,
+                "end": 14.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주소 물어봐서 편지 보낸다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.200,
+                "end": 17.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니 너도 앞으로 이 주소로 답장 써.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.017,
+                "end": 21.916
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다음에 휴가 맞춰서 나오자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.926,
+                "end": 23.459
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이건 선물.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.469,
+                "end": 25.892
+            }
+        ]
+    },
+    "summary": "주인공이 친한 형의 편지를 받고 다음에 휴가 맞춰서 나오자는 내용의 편지를 읽는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03938_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

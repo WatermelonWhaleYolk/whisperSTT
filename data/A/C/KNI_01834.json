@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_01834",
+        "category": "스포츠뉴스",
+        "sub_category": 20,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.42,
+        "format": "MP4",
+        "date": "2021-02-26",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2032년 남북 공동 올림픽 유치에 힘써 달라고 했지만 이런 당부가 무색해진 상황입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한 체육회도 정보를 거의 알지 못했고 대응도 안일했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.676,
+                "end": 11.065
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "체육회는 지난달 2032년 올림픽 유치 연구 보고서까지 발간하며 국내 개최 국제 대회를 통해 유치 활동을 하자고 제안했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.075,
+                "end": 20.420
+            }
+        ]
+    },
+    "summary": "2032년 남북 공동 올림픽 유치에 힘써 달라는 당부가 무색해진 상황에서 대한 체육회도 지난달 2032년 올림픽 유치 연구 보고서까지 발간하며 국내 개최 국제 대회로 유치 활동을 하자는 제안을 하는 등 정보를 거의 알지 못했고 대응도 안일했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01834_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

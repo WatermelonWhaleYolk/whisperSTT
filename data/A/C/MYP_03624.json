@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYP_03624",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 52.419,
+        "format": "MP4",
+        "date": "2021-12-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오르다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물의 호흡 제3형",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.050,
+                "end": 8.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나아가는 것 말고는 없어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.429,
+                "end": 12.997
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굽이 춤",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.007,
+                "end": 15.035
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정 거기까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.045,
+                "end": 21.207
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "보여주지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.217,
+                "end": 25.450
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "난 포기하지 않아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.460,
+                "end": 29.173
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전 집중 번개의 호흡 제1형 벽력일섬 6연",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.183,
+                "end": 38.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할아버지가 가르쳐 준 것 내가 쏟아 준 시간은 되지 않았어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 38.080,
+                "end": 47.358
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정 거기까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 47.368,
+                "end": 52.419
+            }
+        ]
+    },
+    "summary": "나아가는 것만이 방법이고 포기하지 않을 거고 할아버지가 내가 쏟아준 시간이 헛되지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03624_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_00086",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.455,
+        "format": "MP4",
+        "date": "2022-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 베이징 올림픽 슬로건이었는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 슬로건처럼 올림픽 기간 선수들은 승부를 뛰어넘는 우애와 존중을 보여줬습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.667,
+                "end": 8.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "메달만큼 값진 올림픽 정신을 보여준 감동의 순간들 문형규 기자가 정리해 봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.953,
+                "end": 16.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결승선을 1위로 통과한 뒤 핀란드의 니스카넨은 그대로 눈 위에 쓰러졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.196,
+                "end": 22.455
+            }
+        ]
+    },
+    "summary": "베이징 올림픽 기간 올림픽 정신을 보여주는 감동적인 순간을 보여주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00086_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 56,
+                    "act": 47
+                }
+            ]
+        }
+    ]
+}

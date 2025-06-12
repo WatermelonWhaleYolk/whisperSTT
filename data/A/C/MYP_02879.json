@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "filename": "MYP_02879",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.481,
+        "format": "MP4",
+        "date": "2020-04-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 저 사람 노래가 뭐 저래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.037,
+                "end": 2.971
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요새 대세가 트로트인 거 모르냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.981,
+                "end": 5.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저게 바로 힙뽕이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.159,
+                "end": 6.868
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "힙뽕",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.878,
+                "end": 7.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요즘 제일 유행하는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.540,
+                "end": 9.536
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 두 번째 참가자 @이름1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.546,
+                "end": 14.106
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.116,
+                "end": 15.530
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "할머니 웃고 있나요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.540,
+                "end": 18.727
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.737,
+                "end": 20.113
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "틀니 예뻐보여요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.123,
+                "end": 22.660
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.670,
+                "end": 23.870
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "날 보는 할머니 고운 손에는 용돈이 들려 있는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.870,
+                "end": 30.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 가사가 무슨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.759,
+                "end": 32.571
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름 살짝 울었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.581,
+                "end": 34.466
+            }
+        ]
+    },
+    "summary": "쇼 미더 할머니의 두 번째 참가자인 @이름1이 노래를 부르는 것을 듣고 한 사람은 부정적인 반응을 한 사람은 긍정적인 반응을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02879_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 50,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

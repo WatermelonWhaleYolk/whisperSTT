@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_03387",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.1,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "글고 수비 잘해라 에러나 처 하지 말고 내가 지면 라면이라 먹을 거고 이기면 오늘 고기로 배 채울테니깐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.592
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오케이 시작해봅시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.602,
+                "end": 18.947
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 졌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.957,
+                "end": 21.496
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "크다 크다 억수로 크다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.506,
+                "end": 24.159
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "너 넘어갔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.169,
+                "end": 25.698
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "호 홈런?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.708,
+                "end": 26.570
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "파울?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.580,
+                "end": 27.865
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "음 넘어갔나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.875,
+                "end": 30.541
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "짐 싸야 되나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.551,
+                "end": 34.100
+            }
+        ]
+    },
+    "summary": "수비 잘해야지 내가 지면 라면 먹을 거고 이기면 오늘 고기로 배 채울 겁니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03387_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

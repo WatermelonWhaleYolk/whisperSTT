@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02307",
+        "category": "스포츠뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.144,
+        "format": "MP4",
+        "date": "2015-03-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 다른 3개의 종목에서는 실수가 이어졌습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몇 차례 볼을 더듬어 감점을 받았고 곤봉과 리본에서도 체력이 떨어진 듯 실수가 나왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.960,
+                "end": 13.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3종목에서 5, 6위 권을 기록한 손연재는 개인 종합 때보다 부진한 모습을 보이며 메달을 추가하지는 못했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.108,
+                "end": 22.133
+            }
+        ]
+    },
+    "summary": "손연재 선수는 몇 차례 볼을 더듬거나 곤봉, 리본에서도 체력이 떨어진 듯 실수를 3차례 해 감점을 받아 추가적으로 메달을 획득하지 못했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02307_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 77
+                }
+            ]
+        }
+    ]
+}

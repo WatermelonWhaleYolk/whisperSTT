@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00804",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.361,
+        "format": "MP4",
+        "date": "2023-02-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4엔드 스킵 @이름1의 스톤이 바깥쪽으로 크게 돌아가는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대 스톤 쳐내고 안으로 들어오면서 점수를 따냅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.626,
+                "end": 9.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팽팽한 접전 끝에 강원이 전남을 1점 차로 꺾고 정상에 오르는 영광을 누렸습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.167,
+                "end": 15.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나흘 동안 펼쳐졌던 장애인 전국 체전은 서울에 2연속 종합 우승으로 막을 내렸고 대회 MVP로는 노르디스키 4관왕에 17살 @이름2가 선정됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 15.968,
+                "end": 28.361
+            }
+        ]
+    },
+    "summary": "강원이 전남을 꺾고 정상에 오르는 영광을 누렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00804_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

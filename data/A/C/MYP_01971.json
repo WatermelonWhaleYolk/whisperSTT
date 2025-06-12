@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01971",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.811,
+        "format": "MP4",
+        "date": "2021-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유로파는커녕 컨퍼런스도 못 나가지 않았느냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쓸데없는 데 힘 빼지 말고 돌아가서 훈련이라도 하여라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.897,
+                "end": 6.274
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 부족이 현재 몇 등인지 아십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.284,
+                "end": 8.237
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼴등입니다. 꼴등",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.247,
+                "end": 9.436
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 식으로 손 놓고 계신다면 부족 회의가 열려 족장님이 쫓겨나신다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.446,
+                "end": 13.353
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고작 세 경기 세 경기밖에 치르지 않았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.363,
+                "end": 16.800
+            }
+        ]
+    },
+    "summary": "족장이 유로파는커녕 컨퍼런스도 못 나가니 쓸데없는 곳에 힘 빼지 말고 돌아가서 훈련이라도 하라고 하자 우리 부족은 꼴등이라며 이런 식으로 손 놓고 있으면 부족 회의가 열려 족장이 쫓겨난다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01971_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

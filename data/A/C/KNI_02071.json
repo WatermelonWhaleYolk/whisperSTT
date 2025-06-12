@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02071",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.4,
+        "format": "MP4",
+        "date": "2018-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미국 스포츠 일러스트레이티드지도 최민정이 한국팀의 약점으로 지목된 단거리 500미터까지 모든 종목을 차지할 강력한 후보라고 전망했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "키워드? 도전? 흐흐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.793,
+                "end": 13.362
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가능성이 있다면 늘려나가야 하는 게 맞다고 생각하기 때문에 어떤 결과가 나올지 저도 모르겠지만 최선을 다해보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.372,
+                "end": 22.400
+            }
+        ]
+    },
+    "summary": "미국 스포츠 언론도 최민정 선수가 모든 종목을 차지할 강력한 후보라고 전망했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02071_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00825",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.756,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김연경은 2세트를 가지고 오는 득점까지 직접 마무리하는 등 팀 최다인 19점을 퍼부으며 배구 여제다운 면모를 제대로 뽐냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분노의 서브에 뒤통수를 맞고도 웃는 모습을 보여주는 등 분위기를 되찾은 @소속1은 @소속2을 3 대 0으로 완파하며 개막 이후 처음으로 단독 선두에 올랐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.192,
+                "end": 22.756
+            }
+        ]
+    },
+    "summary": "김연경은 배구 여제다운 면모를 뽐냈고 단독 선두에 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00825_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

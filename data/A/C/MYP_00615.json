@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_00615",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 58.566,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 저기 손님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.204
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네? 아 더워서 갈비는 안 먹는다니까요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.214,
+                "end": 3.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 그게 아니고 손님이 오시면 특별히 갈비로만 제공하며 만사천원 상당의 신제품 사이드 메뉴 린가 두루치기까지 무료로 제공하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.878,
+                "end": 11.643
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그래요? 아 1인분에 만삼천오백원이랬나? 그럼 린가 두루치기 안 받을테니까 만사천원 깎아줘서 마이너스 500원. 즉 무한리필 갈비먹고 500원 거슬러 받기 가능합니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.653,
+                "end": 22.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 뭐 이런 도둑놈 새끼가 다있어? 참자 솔샤르. 김챔스 저놈의 포스팅에 올라가야만 해. 빵꾸난 매출은 린가드 방출로 메꾼다. 예 가능합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.484,
+                "end": 32.158
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 혹시 김챔스?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.168,
+                "end": 33.948
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어? 이게 누구야? 손흥민 아니야? 야 진짜 오랜만이다. 여긴 무슨일이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.958,
+                "end": 37.869
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 나 여기서 알바해. 토식이 두 마리 치킨이라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.879,
+                "end": 40.645
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐? 진짜? 아 나 지금 갈비 먹을지 치킨 먹을지 고민 중이었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.655,
+                "end": 44.364
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 뭘 고민하고 있어. 얼른 들어가자. 사장님 제 친군데 서비스 팍팍 줘도 되죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.374,
+                "end": 48.835
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐야 흥민이 친구였어? 아이 당연하지. 일단 베르바 인덕션으로 구워 맛을낸 닭가슴살 샐러드부터 기본으로 깔아줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.845,
+                "end": 55.174
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "베르바 인덕션으로 구웠으면 장난 아니겠는데? 그럼 들어가볼까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 55.184,
+                "end": 58.566
+            }
+        ]
+    },
+    "summary": "젊은 남성이 메뉴 선택을 고민하던중 친구를 오랫만에 만났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00615_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

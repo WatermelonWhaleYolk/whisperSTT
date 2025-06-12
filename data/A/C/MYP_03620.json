@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "filename": "MYP_03620",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.511,
+        "format": "MP4",
+        "date": "2021-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제10형 생생유전",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.607
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.617,
+                "end": 7.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.430,
+                "end": 11.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힘내라 @이름1",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.528,
+                "end": 16.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 꺾이는 일은 절대로 없어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.574,
+                "end": 21.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸로 끝이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.067,
+                "end": 26.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물의 호흡 똑바로 앞을 향해라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.133,
+                "end": 28.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자신을 고무시켜라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.868,
+                "end": 31.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힘내 @이름1 힘내라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 31.064,
+                "end": 35.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제10형 생생유전",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 35.162,
+                "end": 40.036
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정 거기까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 40.046,
+                "end": 44.511
+            }
+        ]
+    },
+    "summary": "내가 꺾이는 일은 절대 없고 똑바로 앞을 향하고 자신을 고무시켜라.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03620_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

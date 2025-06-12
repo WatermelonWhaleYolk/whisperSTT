@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_02720",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.666,
+        "format": "MP4",
+        "date": "2020-08-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 영입을 제대로 안 하시면 이 기회를 놓치실지도 모릅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.666
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 듣고 보니 그런 것 같군 그럼 지금 당장 선수를 영입하러 가지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.676,
+                "end": 9.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 선수 영입하러 가는 거 아니었습니까 여기는 어디입니까 에이전트가 안 보이는데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.167,
+                "end": 13.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기가 바로 이적시장의 가성비 끝판왕 평화로운 중고 선수나라 마켓이라네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.790,
+                "end": 18.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 이런 중고차 매매단지 같은 곳에서 선수를 영입한다고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.104,
+                "end": 21.603
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이래봬도 여기에 숨은 보석들이 한 가득이라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.613,
+                "end": 24.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 차라리 저한테 맡기시지 그랬어요 포르투갈에 제가 아는 에이전트들이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.284,
+                "end": 28.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 영입한 게 제드송인 거 잊었나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.236,
+                "end": 30.155
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 작년에는 조금 부진했지만 아직 어리고 또 풀백으로 출전시켜보니 나름대로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.165,
+                "end": 34.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘은 그냥 내가 하자는 대로 따라오게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.771,
+                "end": 36.666
+            }
+        ]
+    },
+    "summary": "회장님이 이적시장의 가성비 끝판왕 평화로운 중고 선수나라 마켓에 숨은 보석들이 많다면서 여기서 선수를 영입하려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02720_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

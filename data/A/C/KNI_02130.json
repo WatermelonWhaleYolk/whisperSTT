@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_02130",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.066,
+        "format": "MP4",
+        "date": "2018-07-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마치 올림픽처럼 뭐 거기서 어 메달을 따는 순간에 느끼는 그런 사실 감정을 느꼈기 때문에 국민들 응원 속에 저희가 좋은 경기를 할 수 있어서 어 감격스러운 그런 감동스러운 경기였다고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자 복식 단일팀도 기분 좋은 승리를 거뒀습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.883,
+                "end": 17.066
+            }
+        ]
+    },
+    "summary": "메달을 따는 순간 느끼는 감정을 느꼈기 때문에 국민들 응원 속에 좋은 경기를 할 수 있어서 감격스러웠다고 전하고 여자 복식 단일팀도 좋은 승리를 거뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02130_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 59
+                }
+            ]
+        }
+    ]
+}

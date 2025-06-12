@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03233",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.037,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.380
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스트라익 원.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.390,
+                "end": 1.500
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지 직구?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.500,
+                "end": 2.630
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어이구 큰일날 뻔 했네 가운데 몰려버렸다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.640,
+                "end": 7.613
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "카운트는 원스트라익 투수 제 2구",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.623,
+                "end": 17.271
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭣 직구",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.281,
+                "end": 21.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쳤다 좌측 좌측 크다 크다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.965,
+                "end": 26.267
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 하지만 파울 파울",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.277,
+                "end": 30.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같은 코스에 연속 직구 그런 직구론 잡기 어려운데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.722,
+                "end": 37.037
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03233_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

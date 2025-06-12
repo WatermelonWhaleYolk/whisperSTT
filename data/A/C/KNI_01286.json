@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01286",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.335,
+        "format": "MP4",
+        "date": "2022-12-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "SK는 스위치 디펜스로 외곽슛을 막아보려 했지만 오히려 빅맨들의 느린 발이 공략당하며 속절없이 3점 슛을 허용했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캐롯은 헐거워진 외곽 수비를 놓치지 않고 4쿼터 동안 3점 슛을 무려 21개나 넣었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.257,
+                "end": 15.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3점 슛 21개는 KBL 역대 3점 성공 공동 3위에 해당하는 기록인데 2004년 이른바 3점 슛 밀어주기 경기를 제외하면 공동 1위입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.530,
+                "end": 26.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 잘 쉬고 좀 슛 위주로 다시 생각했는데 또 오늘 경기 다시 잘 들어가서 굉장히 기분 좋고 네 자신 있게 던지는 것밖에 없는 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.412,
+                "end": 35.335
+            }
+        ]
+    },
+    "summary": "프로농구에서 캐롯이 3점 슛을 무려 21개나 성공시키며 SK에 완승을 거뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01286_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

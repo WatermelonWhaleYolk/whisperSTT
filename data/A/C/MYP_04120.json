@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYP_04120",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.317,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이깟 구식 게임은 매뉴얼 없이도 얼마든지 할 수 있어.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 데이터 삭제 및 출장 수거 전문 딜리트입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.144,
+                "end": 7.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무엇을 도와드릴까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.711,
+                "end": 9.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고전 게임 부서 용검전설 팀에 삭제용 데이터 대량 발생 예정 출장 수거 요망",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.093,
+                "end": 17.317
+            }
+        ]
+    },
+    "summary": "데이터 삭제 및 출장 수거 전문 업체에 전화를 걸어 고전 게임 부서 용검전설 팀의 삭제용 데이터를 출장 수거해 달라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 17
+                }
+            ]
+        }
+    ]
+}

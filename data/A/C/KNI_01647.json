@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_01647",
+        "category": "스포츠뉴스",
+        "sub_category": 37,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.3,
+        "format": "MP4",
+        "date": "2019-04-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "열심히 열심히 해서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세계 챔피언 되는 게 꿈이에요 꿈.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.461,
+                "end": 4.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실제로 4년 뒤 더블유비에이 57킬로그램 이하 페더급 세계 챔피언 결정전에서 승리해 꿈을 이뤘고 2013년에는 체급을 올려 슈퍼 페더급에서도 세계 챔피언이 됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 4.690,
+                "end": 16.808
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현재 국내에서 세계 타이틀을 보유한 유일한 권투 선수입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 16.818,
+                "end": 21.300
+            }
+        ]
+    },
+    "summary": "최 선수는 4년 뒤 세계 챔피언이 됐고 국내에서 세계 타이틀을 보유한 유일한 선수라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01647_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

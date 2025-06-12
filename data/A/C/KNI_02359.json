@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02359",
+        "category": "스포츠뉴스",
+        "sub_category": 35,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.7,
+        "format": "MP4",
+        "date": "2016-08-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전 세계 선수들이 모인 훈련장에서도 진종오의 빨간 총은 단번에 시선을 사로 잡습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.167
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자신의 손 모양을 본떠 스위스에서 특별 제작한 세상에서 단 하나뿐인 총으로 훈련 중간중간에도 새심하게 관리합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.177,
+                "end": 15.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진종오의 무기는 이뿐만이 아닙니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.315,
+                "end": 18.700
+            }
+        ]
+    },
+    "summary": "전 세계 선수들이 모인 훈련장에서도 자신의 손 모양을 본떠 만든 특별 제작 총을 가진 진종오는 시선을 사로 잡는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02359_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

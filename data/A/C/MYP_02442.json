@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02442",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.333,
+        "format": "MP4",
+        "date": "2021-02-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 어찌 됐든 분위기 보아하니 우중충한 얘기만 잔뜩 하고 있었구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러지 말고 오랜만에 뭉친 기념으로 술이나 마시자고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.751,
+                "end": 6.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 뭐 사실 난 우리 넷 중 가장 어리고 솔직히 수염만 깎으면 폼이 얼마든지 살아날 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.829,
+                "end": 11.828
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나도 뭐 인테르에서 우승컵 하나 건진 다음에 레알 마드리드 아니 어디라도 좋으니 이적하면 주전은 되겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.838,
+                "end": 18.090
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "녀석들 진작 그렇게 좋게 생각하면 얼마나 좋았어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.100,
+                "end": 20.970
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "나도 리그컵이든 유로파든 올해는 무관 탈출할 수 있을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.980,
+                "end": 24.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면 나 역시 부상은 금세 낫고 건방진 살라 녀석 따라잡고 득점왕의 도움왕까지 자 다 같이 데스크를 위하여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.030,
+                "end": 32.116
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "위하여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.126,
+                "end": 33.333
+            }
+        ]
+    },
+    "summary": "축구 선수들은 술자리에서 각자의 성과를 향한 열망과 목표를 나누고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02442_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_02440",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.572,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 던졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 조금 아쉬워하죠 표정이 아쉽네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.077,
+                "end": 9.185
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "확실히 연습을 한 만큼 시합에서는 안 나올 때가 많거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.195,
+                "end": 14.003
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 저런 것 또한 어떻게 보면 좋은 경험이기 때문에 최대한 내가 할 수 있는 것들을 찾으면서 풀어나가야 되는 것도 필요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.013,
+                "end": 22.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 부천시청 제가 부산시청이라고 말씀을 드렸는데 정정하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.459,
+                "end": 27.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부산 아 부천시청입니다 부천시청의 @이름1 선수였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.515,
+                "end": 31.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이어서 어 서귀포시청의 @이름2 선수입니다 1차 시기는 이제 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.631,
+                "end": 39.572
+            }
+        ]
+    },
+    "summary": "포환 종목의 부천시청 @이름1 선수는 14.78이라는 조금 아쉬운 기록을 남겼고 이어 서귀포시청의 @이름2 선수가 준비 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02440_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

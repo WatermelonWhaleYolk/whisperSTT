@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNI_00502",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.923,
+        "format": "MP4",
+        "date": "2021-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 유사 사건의 재발을 막기 위해 다양한 조치를 내놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우선 학교 폭력 연루자는 신인 선수 드래프트 참여를 아예 막기로 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.297,
+                "end": 9.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드래프트 신청자는 학교 폭력이 없었다는 학교장의 확인서를 제출하도록 했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.943,
+                "end": 15.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학교 폭력을 은폐하고 신청하면 선수는 영구 제명 중징계를 해당 학교는 지원금 회수 등의 사후 징계 조치를 받게 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.521,
+                "end": 23.923
+            }
+        ]
+    },
+    "summary": "학교 폭력 연루자의 신인 선수 드래프트 참여를 막기 위해 학교 폭력이 없었다는 학교장의 확인서를 제출하도록 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00502_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

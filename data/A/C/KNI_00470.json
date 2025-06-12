@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00470",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.925,
+        "format": "MP4",
+        "date": "2023-05-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이들은 정부와 여당이 허위 사실로 의료계 갈등을 부추기고 있다고 비판했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "총선 기획단을 조직해 1인 1정당 가입을 추진하겠다고 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.923,
+                "end": 10.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이를 통해 거부권에 대한 정치적 심판을 하겠다는 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.236,
+                "end": 14.525
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "약속을 뒤집는 배신의 정치 진실을 감추는 파렴치 정치 신뢰를 저버린 가짜 정치를 반드시 단죄할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.535,
+                "end": 25.925
+            }
+        ]
+    },
+    "summary": "총선 기획단을 조직해 1인 1정당 가입을 추진하여 거부권에 대한 정치적 심판을 하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00470_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

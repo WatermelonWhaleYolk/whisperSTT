@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_00181",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2022-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특별한 손님을 초대하기 위해선데 그 주인공은 바로 NBA에 도전 중인 이현중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.059
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본인을 위해서 우리가 한 뭐냐 4줄에서 5줄 정도 예상을 하고 우리가 준비를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.069,
+                "end": 10.510
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 진짜?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.510,
+                "end": 11.244
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그래서 내가 3줄 정도 3줄 반",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.250,
+                "end": 13.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 선수는 최근 같은 트레이닝 센터에서 훈련하며 부쩍 가까워졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.990,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "김 선수는 NBA에 도전 중인 이현중을 초대해 김밥 5줄 정도 준비를 했는데 이 두 선수는 최근 같은 트레이닝 센터에서 훈련하며 부쩍 가까워졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00181_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 41,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

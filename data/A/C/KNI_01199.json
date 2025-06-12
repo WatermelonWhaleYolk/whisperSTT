@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_01199",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.688,
+        "format": "MP4",
+        "date": "2022-10-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비행기 안 타고 언니 볼 수 있는 것만으로도 굉장히 행복합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.317
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 시즌은 중국 리그에서 뛰었지만 김연경의 적응 시간은 필요하지 않았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 3.327,
+                "end": 8.777
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공격은 물론이고 수비에서도 흔들림이 없었고 동료의 득점을 격한 포옹으로 격려해 주며 팀 분위기도 이끌었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 8.787,
+                "end": 18.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1세트 가져오는 점수도 김연경의 몫이었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 18.173,
+                "end": 21.688
+            }
+        ]
+    },
+    "summary": "김연경 선수는 지난 시즌에 중국에서 뛰었지만 적응 시간이 필요하지 않을 만큼 경기를 잘했다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01199_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

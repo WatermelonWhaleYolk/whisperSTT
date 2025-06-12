@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "MYP_04010",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.426,
+        "format": "MP4",
+        "date": "2020-10-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "억눌렸던 보상 심리가 작용하여 굉장히 공격적인 마음으로 임하게 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 우리에게 학교 축제란 옥쇠를 풀어 주는 행위와 같았는데 오늘의 이야기는 통각파티",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.420,
+                "end": 19.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "축제날 광장에는 사람들이 모이기 시작했고 와 사람 많이 모였네",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.701,
+                "end": 26.426
+            }
+        ]
+    },
+    "summary": "통각파티가 있는 축제날 광장에는 사람이 많이 모였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04010_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

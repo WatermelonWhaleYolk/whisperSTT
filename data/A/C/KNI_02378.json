@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_02378",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.97,
+        "format": "MP4",
+        "date": "2016-08-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.443
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정영식 선수도 지금 탁구채를 들고 나왔는데 많이 낡긴 했는데 이게 선수용이라 일반용하고는 조금 다르다고 하네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.453,
+                "end": 8.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇군요 예 그 탁구채도 직접 사용했었던?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.159,
+                "end": 11.261
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 여러 가지를 갖고 있는데 왜냐면 한 가지로 하다가 또 부서지면 또 해야 되기 때문에 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.271,
+                "end": 18.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.457,
+                "end": 20.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 박상영 선수는 그 경기 도중에 할 수 있다고 읊조리는 그 장면이 정말 인상적이었거든요 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.096,
+                "end": 28.966
+            }
+        ]
+    },
+    "summary": "탁수 정영식 선수도 직접 사용했던 탁구채를 가지고 나와 보여주고 펜싱 박상영 선수가 경기 도중 할 수 있다고 한 장면에 대해 이야기 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02378_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01910",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2022-12-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 선수들이 열심히 안 하고 뭐 그랬다면 그 노고에 대해서 우리가 문책을 줄 수 있겠지만 선수들이 지금과 같이 최선을 다 했을 때는 우리가 진짜 끊임없이 지지해 주고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들를 위한 방패가 좀 같이 돼줘야 된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.858,
+                "end": 13.875
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선배 구자철의 위로가 지나친 자책에 빠졌던 우리 선수들에게 작은 힘이 되고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.885,
+                "end": 19.706
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.716,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "구자철은 선수들이 최선을 다하고 있기 때문에 국민들이 끊임없이 지지해 줬으면 한다는 바람을 전했고 구자철의 위로가 후배들에게 작은 힘이 되어주고 있다는 소식이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01910_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

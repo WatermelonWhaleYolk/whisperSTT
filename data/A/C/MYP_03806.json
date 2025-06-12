@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYP_03806",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2021-05-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 너 것 좀 봐봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.188
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 이게 뭔데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.198,
+                "end": 3.390
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "화려한 언변과 설득력까지 갖춘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.400,
+                "end": 7.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너도 이걸 본 적은 있겠지만 알려고 해보진 않았을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.623,
+                "end": 11.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대화와 소통의 중요성을 아주 강조했다고 할 수 있는데 어느 한 쪽이든 자기 표현에 적극성을 띠지 않으면 다른 한쪽이 무소통에 압박감과 허탈감을 느껴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.931,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "친구는 이것 좀 보라며 노트북에서 뭔가를 보여준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03806_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 45,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

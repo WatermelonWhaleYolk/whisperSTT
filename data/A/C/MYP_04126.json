@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_04126",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.758,
+        "format": "MP4",
+        "date": "2020-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "프라이팬을 지옥처럼 뜨겁게 달군 뒤에 기름이 발라 1장 구울 정도면 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 매번 반복한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.322,
+                "end": 9.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 어려운 부분이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.942,
+                "end": 12.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반죽을 가능한 얇게 부어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.089,
+                "end": 15.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "초인적인 반사 신경과 수년 간의 경험 그리고 우유와 밀가루 간 분자 단위의 완벽한 균형이 필요하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.268,
+                "end": 22.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘해봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.935,
+                "end": 24.758
+            }
+        ]
+    },
+    "summary": "팬케이크는 프라이팬을 뜨겁게 달군 뒤에 기름을 바르고 반죽을 얇게 부어서 구워준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04126_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 54,
+                    "act": 7
+                }
+            ]
+        }
+    ]
+}

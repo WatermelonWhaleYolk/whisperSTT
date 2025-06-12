@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_01323",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.526,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "웨딩마치를 울린 날 고우석은 이종범 코치의 사위가 되면서 동시에 이정후의 매부가 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음 시즌 이정후와 맞대결이 주목 받는 가운데 이제 장인과 아내는 자신의 편임을 자부했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.667,
+                "end": 13.033
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 LG 아닐까요? 작년에 안타 맞았을 때 왜 안타 맞냐고 오만 짐",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.043,
+                "end": 18.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 이종범 코치는 어려운 질문에 난색을 표했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.417,
+                "end": 22.462
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "상당히 난감한데 되도록이면 그런 질문 하면 이제 앞으로 사양하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.472,
+                "end": 26.526
+            }
+        ]
+    },
+    "summary": "결혼을 한 고수석은 이종범 코치의 사위가 되면서 이정후의 매부가 돼 다음 시즌 이정후와 맞대결에 장인과 아내는 자신의 편임을 자부했지만 이종범 코치는 어려운 질문에 난색을 표했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01323_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

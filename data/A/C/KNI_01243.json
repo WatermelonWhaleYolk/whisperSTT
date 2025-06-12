@@ -1,0 +1,171 @@
+{
+    "metadata": {
+        "filename": "KNI_01243",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 64.464,
+        "format": "MP4",
+        "date": "2022-11-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기장만큼이나 도하 시내 곳곳도 월드컵 열기로 가득했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개막전 입장권을 미처 구하지 못한 각국의 축구 팬들은 이곳 광장에 모여서 열띤 응원전을 벌였습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.749,
+                "end": 12.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "축구 강국 팬들은 저마다 고국의 우승을 자신했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.005,
+                "end": 17.242
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.252,
+                "end": 27.532
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.542,
+                "end": 35.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월드컵이 막을 올리자 인근 국가에서도 팬들이 속속 카타르로 집결하며 대중교통에서까지 응원가가 울려 퍼집니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 35.848,
+                "end": 44.744
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 44.754,
+                "end": 49.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 돈 약 296조 원이 들어간 최대 규모 월드컵.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 49.607,
+                "end": 53.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 약 한 달간 전 세계 축구 팬들은 월드컵의 명승부 속으로 빠져들 시간만 남았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 53.839,
+                "end": 61.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도하에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 61.263,
+                "end": 64.464
+            }
+        ]
+    },
+    "summary": "카타르 월드컵이 개막을 준비하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01243_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

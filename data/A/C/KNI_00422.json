@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNI_00422",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.55,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한성정은 근사한 2 층 집을 선물할 만큼 아버지에게 조금이나마 더 보답하고 싶은 마음뿐입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.234
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "힘든 상황이 상황 속에서도 저를 진짜 여기 최고 최고의 자리까지 네 만들어 주신 게 저는 항상 감사하게 생각하",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.244,
+                "end": 17.550
+            }
+        ]
+    },
+    "summary": "한성정은 힘든 상황에서도 최고의 자리까지 만들어 준 것에 대해서 감사하게 생각한다며 2 층 집을 아버지에게 선물하였다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00422_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00422_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 39,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

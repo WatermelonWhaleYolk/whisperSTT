@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_01094",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.995,
+        "format": "MP4",
+        "date": "2022-06-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첫 세계 선수권에서 가장 기대되는 종목은 자유형 200미터 개인 최고 기록 전체 3위로 첫 메달 가능성에 가장 접근해 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자유형 100미터도 7위로 아시아에선 유일하게 결선 진출 가능성이 높습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.583,
+                "end": 15.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이호준과 김우민 이유연과 호흡을 맞춘 계영 800미터도 도전입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.966,
+                "end": 21.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재 7분 11초 대인 한국 기록을 줄여 아시안 게임 첫 단체전 금메달 가능성을 확인하는 것입니",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.695,
+                "end": 28.995
+            }
+        ]
+    },
+    "summary": "첫 세계 선수권에서 가장 기대되는 종목은 자유형 200미터이며 자유형 100미터도 아시아에선 유일하게 결선 진출 가능성이 높다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01094_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

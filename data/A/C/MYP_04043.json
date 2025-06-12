@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_04043",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.087,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "헉",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "구조 요청의 손짓을 목격했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.464,
+                "end": 4.676
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누군가 묻혔어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.686,
+                "end": 6.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금만 기다려 오래전에 묻혀 있던 게 비가 와서 드러났나봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.244,
+                "end": 12.827
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그것은 얼마나 오래 묻혀 있었을지 알 수 없는 소녀의 인형이었고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.827,
+                "end": 18.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인형이네 이제 다 돼가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.731,
+                "end": 21.087
+            }
+        ]
+    },
+    "summary": "가스파더는 길을 걷다 구조 요청하는 손짓을 봤는데 알고 보니 묻혀 있던 인형이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04043_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

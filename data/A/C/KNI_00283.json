@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00283",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.022,
+        "format": "MP4",
+        "date": "2022-11-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "틀어 때리지 말고 곧장 때리라고 곧장 오케이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "파워가 좋은 야스미니 플로터 서브만 하는 것을 아쉬워했던 강성현 감독이 더 강한 서브를 추천했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.870,
+                "end": 13.847
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수 시절 교과서라고 불릴 정도로 기본기가 좋았던 강 감독이 차근차근 지도해 최고 무기로 만든 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.857,
+                "end": 22.022
+            }
+        ]
+    },
+    "summary": "선수 시절 교과서라고 불릴 정도로 기본기가 좋았던 강 감독이 차근차근 지도해 더 강한 서브를 야스미니에게 최고 무기로 만든 겁니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00283_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

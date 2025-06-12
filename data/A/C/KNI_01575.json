@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_01575",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.955,
+        "format": "MP4",
+        "date": "2023-03-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "상벌위에 불참한 경기대 권혁철 감독은 페어플레이 정신이 부족했던 부분을 반성한다면서도 전술 전략에 따른 선택이었다고 해명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상위 기간인 대한축구협회 관계자는 징계 결과가 아쉽다면서 대학연맹공정위 보고서를 검토한 뒤 최종 징계 수위를 결정할 예정이라고 밝혔습니다 KBS 뉴스 @이름1 입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.302,
+                "end": 21.955
+            }
+        ]
+    },
+    "summary": "경기대 권혁철 감독은 페어플레이 정신이 부족했던 부분을 반성한다면서도 전술 전략에 따른 선택이었다고 해명했고 대한축구협회 관계자는 징계 결과가 아쉽다면서 대학연맹공정위 보고서를 검토한 뒤 최종 징계 수위를 결정할 예정이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01575_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

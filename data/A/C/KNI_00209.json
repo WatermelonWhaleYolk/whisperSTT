@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_00209",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.691,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "병역법 위반으로 기소된 조재정이 오늘 오전 서울 남부지법에서 열린 공판에 출석한 모습입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 조재성이 병역 브로커와 공모해 뇌전증 증상을 꾸며내고 허위 진단을 받은 혐의로 징역 1년을 구형했는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.955,
+                "end": 14.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조재성은 혐의를 모두 인정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.448,
+                "end": 17.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수로서의 삶은 끝났다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.297,
+                "end": 20.147
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무너무 죄송하고 평생 사죄하며 살겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.157,
+                "end": 24.691
+            }
+        ]
+    },
+    "summary": "검찰은 조재성이 병역 브로커와 공모해 뇌전증 증상을 꾸며내고 허위 진단을 받은 혐의로 징역 1년을 구형했으며 조재성은 혐의를 모두 인정했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00209_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01823",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.825,
+        "format": "MP4",
+        "date": "2021-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한국 배구 연맹과 배구 협회도 긴급 회의를 열었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결론은 단호했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.795,
+                "end": 6.037
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "학교 폭력에 관련된 선수들은 프로 배구 신인 드래프트 선발 때 원천적으로 배제 된다는 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.047,
+                "end": 14.667
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "프로 선수가 될 수 있는 길이 점점 봉쇄가 되는 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.677,
+                "end": 20.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 제도적 뒷 받침 중요합니다만 무엇보다 중요한 건 따로 있다는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.325,
+                "end": 25.825
+            }
+        ]
+    },
+    "summary": "한국 배구 연맹과 배구 협회는 긴급 회의를 열고 학교 폭력에 관련된 선수들은 프로 배구 신인 드래프트 선발 때 원천적으로 배제 된다는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01823_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

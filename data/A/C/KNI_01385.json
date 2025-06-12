@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNI_01385",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.058,
+        "format": "MP4",
+        "date": "2023-04-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 받았어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.524
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 부상 당할까 걱정이 됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.534,
+                "end": 3.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몸을 사리지를 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.253,
+                "end": 5.181
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1과 동갑내기 99년생 @이름2의 활약까지 더해져 현대 캐피탈은 먼저 2세트를 가져갔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.191,
+                "end": 13.432
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우승에 1승만을 남긴 대한항공의 저력도 만만치 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.442,
+                "end": 18.275
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "3세트 중반 @이름3이 3차례나 서브 에이스를 성공하며 분위기를 확 바꿨습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.285,
+                "end": 25.058
+            }
+        ]
+    },
+    "summary": "@이름1과 동갑내기 99년생 @이름2의 활약까지 더해져 현대 캐피탈은 먼저 2세트를 가져갔으며 우승에 1승만을 남긴 대한항공의 저력도 만만치 않았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01385_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

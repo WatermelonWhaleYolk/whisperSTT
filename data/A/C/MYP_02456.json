@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_02456",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.666,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 여러분.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "축구 선수 그리기 두 번째 선수는 요리스입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.821,
+                "end": 6.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들이 가장 좋아하시는 골키퍼는 누군가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.564,
+                "end": 9.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팔다리가 길고 신장이 큰 반 데 사르나 체흐, 데 헤아와 쿠르투와 동체 시력이 좋고 반사신경이 높은 카시야스나 나바스, 에데르송과 오블락까지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.562,
+                "end": 20.666
+            }
+        ]
+    },
+    "summary": "남자는 요리스를 그리기 전 좋아하는 골키퍼가 누군지 질문을 하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02456_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

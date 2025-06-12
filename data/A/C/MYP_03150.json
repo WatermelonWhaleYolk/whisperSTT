@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03150",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어쩌면 이거 활로가 보일 수도 있겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이 성직자야. 나 좀 살려주라. 나 용사다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.517,
+                "end": 6.425
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에그머니나 이게 뭐람. 저 분은 용사님?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 6.435,
+                "end": 10.856
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 분은 용사님 아니십니까? 용사님을 묶어 두고 뭘 하고 계셨던 거죠?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.866,
+                "end": 16.272
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 그게 저 용사라는 작자가 의심스러워 잠깐 마녀 사냥 좀 하고 있었습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.282,
+                "end": 23.090
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.100,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "여성은 자신을 알아본 성직자로 인해 마녀 사냥 당할 위기에서 벗어나고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03150_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

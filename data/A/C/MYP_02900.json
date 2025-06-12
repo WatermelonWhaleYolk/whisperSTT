@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_02900",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.6,
+        "format": "MP4",
+        "date": "2020-04-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "치고 달리기가 안 된다면 스쿱턴으로 방향을 확 꺾은 뒤 감아서 에라이 씨발 이게 무슨 축구냐고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다고 여기서 포기하기엔 내 자존심이 용서하지 않는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.598,
+                "end": 9.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "숨겨놨던 비밀 병기를 써야하나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.525,
+                "end": 11.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 마음만 먹으면 나도 저것들을 순식간에 도륙 내버릴 수도 있다. 하지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.545,
+                "end": 16.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어이 @이름1 사장.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.114,
+                "end": 17.600
+            }
+        ]
+    },
+    "summary": "본인이 생각한 만큼 축구 공격이 되지 않아 마음을 다시 다잡는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02900_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

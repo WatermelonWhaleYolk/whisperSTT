@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "KNI_01792",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 57.466,
+        "format": "MP4",
+        "date": "2016-08-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "리우 올림픽 개막에 앞서 2 연속 메달을 향한 한국 축구의 도전이 시작됩니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대인 피지가 우리보다 한 수 아래로 평가되지만 방심은 금물입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.843,
+                "end": 10.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "따라서 2차전인 독일전부터 투입하려고 했던 손흥민까지 교체 투입하는 등 첫 승리를 위해 모든 준비를 마쳤습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.086,
+                "end": 17.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒤늦게 합류한 손흥민의 컨디션도 생각보다 좋고 손흥민 자신도 1차전부터 뛰겠다는 의지가 강합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.925,
+                "end": 25.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 손흥민은 피지전에 대해 공은 둥글다라는 표현으로 말을 아꼈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.269,
+                "end": 30.543
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "축구는 모르는 거고 공은 둘근 둥글다라는 말이 있기 때문에 저희 선수들도 초반부터 정신 바짝 차려서 들어가서부터 피지 선수들이 아무것도 못하게 선제골을 가장 넣 넣어서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.553,
+                "end": 42.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피지는 피파 랭킹 187위의 약체로 올림픽 출전은 이번이 처음입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.527,
+                "end": 47.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기가 열릴 폰치노바 아레나의 잔디를 꼼꼼히 점검한 신태용 감독은 거칠게 나올 피지에 대비하고 있다며 모든 준비가 끝났다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 47.941,
+                "end": 57.466
+            }
+        ]
+    },
+    "summary": "리우 올림픽에서 한국 축구는 2 연속 메달을 향해 도전하는데 손흥민 선수는 첫 상대인 피지전에 대해 공은 둥글다는 표현과 함께 말을 아끼며 각오를 다졌고 신태용 감독은 피지에 대비한 준비가 끝났다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01792_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_01057",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.695,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 감각적인 바운드 패스를 뿌리자 골 밑으로 파고든 김선형이 해결합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "패스에 재미 붙인 @이름1 이번에는 노룩 패스 솜씨까지 뽐내죠?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.497,
+                "end": 10.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감각적인 드리블로 득점하는 김선형의 플레이는 NBA 스타 하든을 연상시킵니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.210,
+                "end": 16.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김선형은 정확한 3점 슛을 터트린 뒤 힘찬 세리머니로 상대를 압도합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.214,
+                "end": 22.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 21점 김선형이 19점을 넣은 SK가 창단 첫 통합 우승에 1승만을 남겼습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.042,
+                "end": 28.695
+            }
+        ]
+    },
+    "summary": "@이름1과 김선형의 활약으로 프로농구 SK가 창단 첫 통합 우승에 1승만을 남겨두었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01057_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

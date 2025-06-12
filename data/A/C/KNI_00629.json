@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00629",
+        "category": "스포츠뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.286,
+        "format": "MP4",
+        "date": "2023-01-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빅리그 구단들의 치열한 영입 경쟁 속에 @이름1의 최종 선택은 @소속1였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1는 오늘 22명의 국제 계약 선수 명단을 공개했는데 @이름1이 가장 위에 이름을 올렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.257,
+                "end": 13.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정확한 계약 금액은 공개되지 않았지만 옵션 포함 총액 100만 달러 이상인 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.475,
+                "end": 20.286
+            }
+        ]
+    },
+    "summary": "빅리그 구단들의 치열한 영입 경쟁 속에 @이름1의 최종 선택은 @소속1였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00629_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

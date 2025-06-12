@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03297",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.223,
+        "format": "MP4",
+        "date": "2022-12-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야구도 특별한 거 없는 보통의 세상살이라고 알려주고 싶었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.219
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 형님 볼 좋아요 여기 하나 갑시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.229,
+                "end": 10.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특별한 것은 사람의 마음가짐이다 그 생각은 변함이 없어 난 좋은 인성이 실력이 된다고 믿는 사람이 아니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.360,
+                "end": 22.937
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.947,
+                "end": 23.223
+            }
+        ]
+    },
+    "summary": "영감은 야구도 특별한 거 없는 보통의 세상살이고 특별한 것은 사람의 마음가짐이라고 감독에게 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03297_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_01618",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.4,
+        "format": "MP4",
+        "date": "2022-01-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물론 아무리 빠른 속도로 달려간다 해도 패스보단 빠를 순 없겠지 하지만 난 배송과 제거 작업을 동시에 할 수 있기에 나쁘지 않은 효율을 보여주지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.834
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설마 공을 뺏으러 달려드는 상대 수비들을 말하는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.844,
+                "end": 12.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다 상대편은 물론 우리 편도 예외는 아니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.027,
+                "end": 15.400
+            }
+        ]
+    },
+    "summary": "아무리 빠른 속도로 달린다해도 패스보다는 빠를 수는 없겠지만 자신은 상대 선수들과 우리 선수들을 밀면서 달릴 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01618_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00224",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.989,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "날아올라 나경복 더 높게 빛나리 나경복",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음원차트 1위 도와주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.194,
+                "end": 12.317
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같이 했음 좋겠다 이렇게 많이 얘기를 했는데 운명인 거 같죠. 예 열심히 잘 해서 셋이 잘 서로 도우면서 좋은 성적 내야 될 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.327,
+                "end": 22.989
+            }
+        ]
+    },
+    "summary": "같이 했으면 좋겠다고 얘기를 많이 했는데 함께 하게 되어 운명인 것 같다며 서로 잘 도와 좋은 성적을 내겠다고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00224_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

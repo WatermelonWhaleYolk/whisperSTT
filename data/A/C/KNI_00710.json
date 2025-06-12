@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00710",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2023-02-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조직적 결탁도 의심되는 대목입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 때문에 국토부는 감정 평가사 개인의 일탈인지 이른바 빌라왕 배후인 사기 조직과 결탁한 공모인지도 따져보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.368,
+                "end": 11.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타당성 조사를 거쳐 징계 위원회를 열고 결탁 등이 들어나면 징계 수위를 높여 처벌하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.463,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "국토부는 감정 평가사 개인의 일탈인지 이른바 빌라왕 배후인 사기 조직과 결탁한 공모인지도 따져보고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00710_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

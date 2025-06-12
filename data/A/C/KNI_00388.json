@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00388",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.526,
+        "format": "MP4",
+        "date": "2023-04-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "출전 선수들과 가족들은 너나 할 것 없이 하나 된 모습으로 스포츠가 주는 감동을 함께 나눴습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "장애인과 비장애인이라는 분류가 느껴지지 않을 만큼 말 그대로 스포츠로 인해서 한마음과 한 목표를 갖게 된 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.523,
+                "end": 18.074
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 그걸 정말 옆에서 지켜보니까 그냥 굉장히 감동적이다라는 생각",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.084,
+                "end": 26.526
+            }
+        ]
+    },
+    "summary": "장애인과 비장애인 그리고 출전 선수 및 가족 모두 하나 된 모습으로 즐기는 스포츠의 감동을 함께 나눴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00388_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 123
+                }
+            ]
+        }
+    ]
+}

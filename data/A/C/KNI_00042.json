@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00042",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.76,
+        "format": "MP4",
+        "date": "2023-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나라별로 보면 미국 수출은 선방했지만 베트남 등 동남아 수출은 여섯 달 연속 감소했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 최대 시장인 중국 수출은 벌써 열달 째 마이너스인데 지난달 감소 폭이 더 커졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.606,
+                "end": 14.086
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 반도체 수출에 40프로는 솔직히 중국으로 가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.096,
+                "end": 17.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "중국 시장이 얼마나 빨리 회복되느냐에 따라서 우리나라의 대중 수출 그리고 우리나라의 반도체 수출 회복 시기를 결정지을 수 있을 거 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.962,
+                "end": 26.760
+            }
+        ]
+    },
+    "summary": "중국 시장이 회복돼야 우리나라 수출 회복 시기를 결정할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00042_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

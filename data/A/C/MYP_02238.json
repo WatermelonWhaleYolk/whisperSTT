@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYP_02238",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.466,
+        "format": "MP4",
+        "date": "2021-05-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "항상 너무 금방 구해져서 쉽게 경질했나 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이젠 알아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.950,
+                "end": 14.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 고집 때문에 놓쳐버린 너를 무리뉴야 진짜 아니야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.640,
+                "end": 31.466
+            }
+        ]
+    },
+    "summary": "무리뉴를 경질한 것을 후회하고 있는 듯합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02238_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

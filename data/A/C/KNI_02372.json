@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_02372",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.266,
+        "format": "MP4",
+        "date": "2016-08-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀은 4년 전 같은 실수는 없다며 달라진 규정에 대한 대비를 철저히 해왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.629
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "붙어서 좀 공격 좀 많이 할 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.639,
+                "end": 7.868
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "득점을 보면서 때리는 그거를 중점적으로 연습을 했걸랑요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.878,
+                "end": 12.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상파울루 적응 훈련을 통해 컨디션을 끌어올린 태권도 대표팀.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.046,
+                "end": 18.266
+            }
+        ]
+    },
+    "summary": "태권도 대표팀은 이번 올림픽에서는 붙어서, 보면서 때리는 공격을 중점적으로 연습을 했다고 말하며 달라진 규정에 대해 대비했다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02372_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 90
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01434",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.802,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀은 1피리어드 초반 먼저 실점했지만 곧바로 주장 @이름1의 골로 1대 1 균형을 맞췄습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어 2피리어드 @이름2가 @이름3의 패스를 받아 환상적인 역전 골을 넣었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.680,
+                "end": 12.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어 @이름4와 @이름2가 추가 골을 넣는 등 대표팀은 슬로베니아를 4 대 2로 꺾고 3전 전승을 달렸습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.920,
+                "end": 20.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창 동계 올림픽에서 주장으로 출전해 5전 전패로 세계의 높은 벽을 절감했던 @이름4는 감정이 복받친 듯 눈물을 흘렸습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 20.270,
+                "end": 29.796
+            }
+        ]
+    },
+    "summary": "평창 동계 올림픽에서 주장으로 출전해 전패했던 박종아는 우승으로 복받친 듯 눈물을 흘렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 66
+                }
+            ]
+        }
+    ]
+}

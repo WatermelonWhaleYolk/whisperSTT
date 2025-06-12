@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_02242",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.018,
+        "format": "MP4",
+        "date": "2021-05-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러지 말고 나와 함께 스코틀랜드로 가서 일단 우승 트로피 하나는 챙긴 다음 빅리그에 입성하는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 모르지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.062,
+                "end": 5.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋은 활약을 보여준다면 토트넘보다 빅클럽에서 오퍼가 들어올지도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.999,
+                "end": 9.552
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 빵뚜아 대리님 이 사람 말 믿어도 되는 걸까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.562,
+                "end": 11.926
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "리버풀의 전설 스티븐 제라드 비록 선수로는 리그에서 우승하지 못했지만 감독으로 부임한 뒤 스코틀랜드 리그를 씹어먹고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.936,
+                "end": 18.000
+            }
+        ]
+    },
+    "summary": "이 감독은 선수로는 리그에서 우승하지 못했지만 감독으로 부임한 뒤 스코틀랜드 리그를 씹어먹고 있다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02242_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

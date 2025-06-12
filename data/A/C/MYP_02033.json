@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02033",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.5,
+        "format": "MP4",
+        "date": "2021-08-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한마디로 골키퍼의 역할이 매우 크다는 얘기야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.928
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 그래 봤자 멘디 쓰실 거잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.938,
+                "end": 4.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "챔스에서도 멘디일 거고 저는 뭐 멘디가 부상 당했을 때 땜빵으로나 나오겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.771,
+                "end": 8.904
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지난 시즌 빅이어를 거머쥐었으니 이번 시즌 목표는 트레블이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.914,
+                "end": 12.750
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "리그나 챔스에서 내가 활약한 만큼 케파 너도 FA컵과 리그컵에서 선방해 줘야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.757,
+                "end": 18.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멘디 말이 맞다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.170,
+                "end": 19.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "케파 네 녀석의 몸값은 8,000만 유로. 무려 1,000억이라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.420,
+                "end": 23.166
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "골키퍼 중에 가장 비싼 이적료를 기록했으며 역대 축구 선수 이적료 순위에서도 20위 정도라는 거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.176,
+                "end": 29.500
+            }
+        ]
+    },
+    "summary": "케파의 이적료는 골키퍼 중에 가장 비싼 금액으로 기록됐으며 역대 축구 선수 이적료 순위에서도 20위 정도이기 때문에 케파는 잘 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02033_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

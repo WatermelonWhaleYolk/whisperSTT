@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_01124",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.533,
+        "format": "MP4",
+        "date": "2022-08-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 해야될 것들이 많이 있기 때문에 뭐 차츰차츰 뭐 잘 준비하면 또 좋은 모습을 보여드릴 수 있지 않을까라는 생각은",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유승민 현 IOC 위원의 임기가 2024년에 끝나는 상황에서 런던 올림픽 MVP에 이어 도쿄에서도 뜨거운 투혼으로 올림픽 정신을 보여준 김연경의 IOC 위원 도전도 불가능한 꿈은 아닙니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.909,
+                "end": 21.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남은 선수 생활은 국내 무대에서 마무리 할 예정이라는 김연경.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.730,
+                "end": 27.113
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "배구 인생만큼 화려한 마지막 장이 펼쳐질지 주목됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.123,
+                "end": 31.431
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 31.441,
+                "end": 33.533
+            }
+        ]
+    },
+    "summary": "유승민 현 IOC 위원의 임기가 2024년에 끝나는 상황에서 런던 올림픽 MVP에 이어 도쿄에서도 뜨거운 투혼으로 올림픽 정신을 보여준 김연경의 IOC 위원 도전도 불가능한 꿈은 아니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01124_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 54
+                }
+            ]
+        }
+    ]
+}

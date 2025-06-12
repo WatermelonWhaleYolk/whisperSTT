@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_00525",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.974,
+        "format": "MP4",
+        "date": "2023-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 정부의 청약 시장 규제를 대부분 원점으로 되돌린 셈입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 소득에서 원리금 상환 비율인 DSR 규제가 살아있고 금리가 높아 효과는 제한적일 것이라는 관측이 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.381,
+                "end": 12.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미계약률을 낮추는 데에는 영향을 좀 미칠 수 있을 거라고 보여집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.319,
+                "end": 16.346
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다만 이게 전체적으로 다 어 이제 없는 수준으로까지 낮 그 효과적으로 낮추는 데는 좀 한계가 있",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.356,
+                "end": 22.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실거주 의무 폐지는 법을 바꿔야 하는데 과반 의석인 야당이 반대할 가능성도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.473,
+                "end": 28.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부동산 시장이 다시 되살아나면 최근의 규제 완화가 집값 불안 요인이 될 수 있다는 지적에 대해 원희룡 국토부 장관은 적절한 장치를 마련해 막겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.444,
+                "end": 39.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.382,
+                "end": 40.974
+            }
+        ]
+    },
+    "summary": "지난 정부의 청약 시장 규제를 대부분 원점으로 되돌린 셈인데 다만 소득에서 원리금 상환 비율인 DSR 규제가 살아있고 금리가 높아 효과는 제한적일 것이라는 관측이 나오며 실거주 의무 폐지는 법을 바꿔야 하는데 과반 의석인 야당의 부동산 시장이 다시 되살아나면 최근의 규제 완화가 집값 불안 요인이 될 수 있다고 지적하자 원희룡 국토부 장관은 적절한 장치를 마련해 막겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00525_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 67,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

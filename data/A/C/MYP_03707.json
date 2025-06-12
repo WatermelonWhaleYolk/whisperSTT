@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "MYP_03707",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.62,
+        "format": "MP4",
+        "date": "2021-10-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "떠내려 갔다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.214
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 씨가 없긴 없네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.224,
+                "end": 3.395
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아주 씨를 싸그리 발라 냈어 응?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.405,
+                "end": 6.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "워 원래 내일 열어보려 했지만 할 수 없군 내가 아까 낮에 강에다 통발을 설치해놨지 지금쯤 돌메기나 쏘가리가 가득일껄?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.026,
+                "end": 14.879
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오 그래 통발 낚시 어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.889,
+                "end": 17.691
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 돌메기 돌메기 매운탕 좋다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.701,
+                "end": 20.620
+            }
+        ]
+    },
+    "summary": "계곡에 넣어둔 수박이 떠내려갔고 내일 열어보려 했던 통발을 열어보기로 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03707_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

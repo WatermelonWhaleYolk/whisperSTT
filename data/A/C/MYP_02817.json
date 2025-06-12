@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_02817",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.733,
+        "format": "MP4",
+        "date": "2020-06-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "달풍선 만 개 쏜다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.460
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 마 만 개요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.470,
+                "end": 2.869
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만 개면 얼마지 아 아무튼 그럼 형님들 먹기 전에 세레머니 한번 올리겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.879,
+                "end": 9.503
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 라고 해도 돼 내꺼 라고 해도 돼 우리 둘만 아는 애칭이 필요해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.513,
+                "end": 15.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빵뚜아 빵뚜아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.793,
+                "end": 18.733
+            }
+        ]
+    },
+    "summary": "남성이 세레머니를 해달라는 요청을 받고 세레머니를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02817_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

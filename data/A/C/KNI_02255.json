@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_02255",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 20.366,
+        "format": "MP4",
+        "date": "2017-12-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5각형 모양의 지붕이 없는 개방형 구조입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "겨울의 강추위와 대관령의 강풍에 그대로 노출된다는 게 문제입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 3.263,
+                "end": 8.248
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개회식이 열릴 2월 9일 오후 8시에 최근 10년간 평균 온도는 영하 5.8도",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 8.258,
+                "end": 14.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "초속 4.5미터 바람이 더해지면 체감온도는 영하 12도까지 뚝 떨어집니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.768,
+                "end": 20.366
+            }
+        ]
+    },
+    "summary": "개회식장은 지붕이 받는 개방형 구조라 겨울의 강추위와 대관령의 강풍에 그대로 노출되는 문제점이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02255_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 49,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

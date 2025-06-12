@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_04256",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.089,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어디냐꼬 3초 주겠다고 3",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.376
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어디서부터 잘못된 걸까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.386,
+                "end": 11.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.475,
+                "end": 13.181
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 왜 일찍 온거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.191,
+                "end": 16.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "폭탄 버드는 어디서 데리고 온 걸까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.420,
+                "end": 20.029
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도전장에서 뭔가 낌새를 느꼈나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.039,
+                "end": 23.089
+            }
+        ]
+    },
+    "summary": "오늘은 왜 일찍 온 것이며 폭탄 버드는 어디서 데려왔는지 도전장에서 무언가 낌새를 느낀 것인지 모르겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04256_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

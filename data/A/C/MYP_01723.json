@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_01723",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.1,
+        "format": "MP4",
+        "date": "2021-11-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이젠 육성에 특화된 포버지보단 전술에 특화된 콘버지가 낫지 않겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.161
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "포체티노 감독님과 더불어 인성 때문에 욕은 좀 먹고 있어도 내 오랜 우상이었던 호날두 역시 맨유에 있잖아 호날두와 같은 팀에서 뛴다는 상상만 해도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.171,
+                "end": 11.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너 지금 나랑 같이 뛰는 것보다 호날두랑 같이 뛰는 게 더 좋다는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.433,
+                "end": 15.151
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "케인 너도 맨시티로 가려 했으면서 이런 거로 삐지기 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.161,
+                "end": 17.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 이제 우리 나이도 적지 않으니까 마지막은 옛 스승에서 우상과 함께 뛰어보는 것도 나쁘지 않지 않겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.800,
+                "end": 22.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 너 이런 얘기를 함부로 해도 되는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.970,
+                "end": 25.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시청자들이 가장 예민하게 받아들이는 손흥민, 맨유, 호날두",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.186,
+                "end": 29.100
+            }
+        ]
+    },
+    "summary": "두 화자가 포체티노 감독님과 호날두가 있는 맨유 이적에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01723_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

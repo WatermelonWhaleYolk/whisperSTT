@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "KNI_01904",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.498,
+        "format": "MP4",
+        "date": "2022-08-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원래 힘은 타고 났다는 @이름1은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.245
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 얘기는 들은 적 있었어요 힘이 좋다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.255,
+                "end": 6.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대가 공을 받아내지 못할 때마다 희열을 느낍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.597,
+                "end": 10.773
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.783,
+                "end": 12.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "못 받으면 좋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.350,
+                "end": 14.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 번에 딱 끝나기도 하고 그거에 대해서 짜릿하기도 하고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.414,
+                "end": 20.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람이 쉽게 못 받을 정도란 어느 정도일까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.145,
+                "end": 23.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흔히 힘자랑할 때 등장하는 펀치 기계로 측정해봤습",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.572,
+                "end": 31.498
+            }
+        ]
+    },
+    "summary": "원래 힘은 타고 났다는 문 선수는 상대가 공을 받아내지 못할 때마다 희열을 느낀다며 사람이 쉽게 못 받을 정도란 어느 정도인지 흔히 힘자랑할 때 등장하는 펀치 기계로 측정해봤다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01904_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

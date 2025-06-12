@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_03170",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2023-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빙의 휴면 상태였던 영혼이 정착한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "환생 생전에 쌓아올린 능력을 초기화하고 본래의 기억과 경험을 가지며 되살아난다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.629,
+                "end": 12.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 현재 용사의 육신에는 마왕의 영혼이 정착한 상태였다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.046,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "용사는 빙의를 거쳐 환생하였으나 현재 용사의 육신에는 마왕의 영혼이 들어가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03170_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 47
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00643",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 이관희를 앞세운 @소속1의 막판 집중력이 매서웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 경기 종료 45초 전 정희재가 극적인 역전 3점포로 승부를 뒤집습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 4.613,
+                "end": 10.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 @소속1가 1점 차 역전승을 거뒀고 김주성 감독 대행은 홈 데뷔전에서 첫 패배의 쓴맛을 봤습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.808,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "경기 종료 45초 전 @소속1의 정희재가 극적인 역전 3점포를 쏘아 올려 1점 차 역전승을 거뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00643_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

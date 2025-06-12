@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_02514",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.966,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 겨울 방학 지나면 주전 자리가 어느 정도 결정이 된다니까 너는 내가 얘기했지만 주전이 분명히 될 수 있는데 그놈의 잠이 문제야 작은 것부터 잘해야 해 작은 것부터.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 15.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일부터 잘 나와서 할 수 있도록 해 나랑 손잡았다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.190,
+                "end": 23.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 이거 자",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.080,
+                "end": 25.966
+            }
+        ]
+    },
+    "summary": "선생님은 학생에게 조언을 하며 약속을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02514_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "metadata": {
+        "filename": "MYP_02602",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 47.833,
+        "format": "MP4",
+        "date": "2020-11-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 어 뭐 뭐야 왜 안깨웠어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.321
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "적반하장도 유분수지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.331,
+                "end": 3.674
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 살다 살다 경기장에서 자는 놈은 처음 본다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.684,
+                "end": 6.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이씨 이대로라면 백퍼 쌍욕에 달걀까지 맞겠는데 그 리베이트 금액도 얼마 안 되던데 돈만 내고 빤스런 해야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.282,
+                "end": 12.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.143,
+                "end": 12.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 임마 그래도 사과라도 하고 가야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.802,
+                "end": 15.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 뭐 제 잘못인가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.172,
+                "end": 16.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈 때문에 이 따위 일정을 잡은 구단도 문제고 푯값은 존나 비싸게 팔아먹고 45분 출전 위반 위약금은 제 주급 수준으로 해놓은 주체측이 잘못한 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.227,
+                "end": 24.068
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 새끼 이거 인성이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.078,
+                "end": 25.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 모르겠고 저 먼저 도망 좀 치겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.518,
+                "end": 30.249
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "호날두 선배 호날두 선배 계세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.259,
+                "end": 36.137
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 디발라 어서 오고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.147,
+                "end": 37.719
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 선배 그 다리 근육에 문제 있는 거 아니셨어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.729,
+                "end": 40.369
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "한국 가서 경기도 못 뛰셨다면서요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.379,
+                "end": 42.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그거 비행기에서 개꿀잠을 잤더니 금세 나아지더라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.010,
+                "end": 47.833
+            }
+        ]
+    },
+    "summary": "자느라 경기에 출전을 못한 호날두는 리베이트 금액만 내고 도망가려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02602_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

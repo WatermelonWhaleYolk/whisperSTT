@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02285",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.333,
+        "format": "MP4",
+        "date": "2016-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다 뜨고 하는 상황이죠 뭐 그렇지만 나머지 남아 있는 선수들의 사기도 충전되어 있고 어느 팀과 붙어도 자신 있다는 생각들이 갖고 있는 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "황희찬이 떠난 자리가 커보이지만 올림픽 대표팀은 원팀이란 기체 아래 다시 하나로 뭉치고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.654,
+                "end": 18.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도하에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.144,
+                "end": 21.333
+            }
+        ]
+    },
+    "summary": "황희찬이 빠졌지만 올림픽 대표팀 내에서는 남아있는 선수들끼리 사기도 충전되어 있고 자신감을 보이고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02285_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

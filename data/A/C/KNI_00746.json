@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_00746",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.15,
+        "format": "MP4",
+        "date": "2023-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "화끈한 골 뒤풀이를 펼치는 김기동 감독은 항상 에너지가 넘칩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제주도에 2차 전훈 캠프를 차린 포항 선수단에도 김기동 감독의 이런 긍정 에너지는 고스란히 전해집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.728,
+                "end": 11.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단은 정말 친근하시고 선배 같은 그런 모습으로 다가와 주시는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.850,
+                "end": 17.150
+            }
+        ]
+    },
+    "summary": "김기동 감독은 항상 에너지가 넘치고 제주도에 2차 전훈 캠프를 차린 포항 선수단에도 김기동 감독의 이런 긍정 에너지는 고스란히 전해집니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00746_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00746_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_00914",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.866,
+        "format": "MP4",
+        "date": "2022-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과정이 없으면 결과도 없어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.008
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대중들께서도 그 선수의 경기 모습을 보지만 과정에는 더 힘든 일들이 있었을 것이다라는 거를 마음속에 두고 시청을 해주시면 선수의 그런 감정이나 그런 것들이 더 이입이 잘 될 것 같아서 그런 부분들을 생각을 하면서 응원을 해주셨으면 좋겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.018,
+                "end": 23.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화이팅",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.461,
+                "end": 24.866
+            }
+        ]
+    },
+    "summary": "대중들이 선수의 경기 모습 뒤에 힘든 과정들이 있었을 것이라는 부분들을 생각을 하면서 응원을 해주면 좋겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00914_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

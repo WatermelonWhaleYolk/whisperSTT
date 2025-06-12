@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_01577",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.239,
+        "format": "MP4",
+        "date": "2023-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두 팀은 지난주 무려 네 차례나 자리를 맞바꾼 끝에 승점 2점 차 치열한 경쟁을 펼치고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 주말 시즌 마지막 맞대결이 사실상에 정규 리그 1위 결정전으로 불리는 이유입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.569,
+                "end": 15.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현대 전에 저희가 할 수 있는 배구를 하는 게 제일 중요하고요 빠르고 정확한 그런 배구를 하는 게 제일 중요할 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.575,
+                "end": 23.613
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대한 항공이 워낙 잘하는 팀이기 때문에 컨디션 관리를 잘해야 될 것 같고요 그리고 할 수 있다는 생각으로 한 번 이겨보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.623,
+                "end": 31.541
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공격 종합 1위 @이름1의 변함없는 활약과 @이름2 감독 선임으로 안정을 되찾은 선두 흥국 생명은",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 31.551,
+                "end": 39.239
+            }
+        ]
+    },
+    "summary": "두 팀은 지난주 무려 네 차례나 자리를 맞바꾼 끝에 승점 2점 차 치열한 경쟁을 펼치고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01577_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

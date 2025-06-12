@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01460",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.133,
+        "format": "MP4",
+        "date": "2022-03-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "솔직히 제가 케인 선배만큼 득점을 올리지도 못했고 음바페 형만큼 트로피를 얻은 것도 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 세계 최고의 클럽들에서 저를 서로 데려가겠다고 싸우고 있는 건 머지않아 두 선배를 넘어설 것이기 때문이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.946,
+                "end": 10.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금만 두고 보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.959,
+                "end": 12.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠재력의 홀란드가 4대를 넘어 최강의 스트라이커로 자라날 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.145,
+                "end": 15.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 포텐셜이라면 홀란드만 한 녀석이 있나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.688,
+                "end": 18.197
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실력과 경력 그리고 잠재력이라 능력치만으로는 선뜻 결정하기 어려운걸.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.207,
+                "end": 24.133
+            }
+        ]
+    },
+    "summary": "벤제마는 홀란드가 케인만큼 득점이 없고 음바페만큼 트로피는 없으나 세계 최고의 클럽들이 데려가려고 싸우는 만큼 잠재력이 있는 실력자이지만 잠재력과 능력치만으로는 선뜻 결정하기 어렵다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01460_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

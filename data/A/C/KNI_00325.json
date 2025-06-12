@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00325",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.148,
+        "format": "MP4",
+        "date": "2022-11-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "카타르 현지 교민들이 즐겨 찾는 한 한국 식당.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 교민 수십 명이 모여 응원 준비에 한창입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.835,
+                "end": 8.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꽹과리를 치며 한껏 흥을 돋우고",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 8.930,
+                "end": 15.148
+            }
+        ]
+    },
+    "summary": "카타르 현지 교민들이 즐겨 찾는 한 한국 식당에서 우리 교민 수십 명이 모여 응원 준비에 한창이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00325_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

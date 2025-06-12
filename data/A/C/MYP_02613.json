@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_02613",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.666,
+        "format": "MP4",
+        "date": "2020-11-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그도 그럴 만한 게 음바페는 22살 나는 무려 2000년생 밀레니엄 베이비로 20살이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 동년배 다른 선수들이라면 하부리그로 임대 다니며 경험치나 먹고 있을 나이지만 나는 올해 들어 24골을 기록하며 전 유럽을 통틀어 네 번째로 많은 득점을 올리고 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.754,
+                "end": 13.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더군다나 잘생긴 외모에도 불구하고 한눈팔지 않고 축구와 사랑에 빠진 나에게 있어 1위를 차지하는 건 시간 문제랄까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.722,
+                "end": 20.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "발롱도르야 기다려라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.645,
+                "end": 22.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영엔리치 그리고 핸섬 홀란드가 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.308,
+                "end": 26.666
+            }
+        ]
+    },
+    "summary": "홀란드는 2000년생 밀레니엄 베이비로 20살이며 24골을 기록하며 유럽을 통틀어 네 번째로 많은 득점을 올리고 있다며 자기 자신을 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02613_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": 10,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

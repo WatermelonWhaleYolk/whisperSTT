@@ -1,0 +1,206 @@
+{
+    "metadata": {
+        "filename": "MYP_02561",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.91,
+        "format": "MP4",
+        "date": "2020-12-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 부포이는 마법 방어술의 1인자 웬만한 마법으로는 뚫지 못할 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.759
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 호네이프 다 좋은데 반말은 좀 내가 너보다 형이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.769,
+                "end": 8.260
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무리 내가 세계 최고라지만 유벤투스 저놈들은 호네이프 말고도 너무 강력해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.270,
+                "end": 12.034
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 마침 준비가 끝났군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.044,
+                "end": 13.995
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 뭐라고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.005,
+                "end": 14.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네놈이 고전하는 사이 패널티키움 주문을 한방 더 준비해뒀지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.939,
+                "end": 19.099
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "비겁한 호네이프 그런 식으로 PK 공격만 할 거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.109,
+                "end": 21.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비겁하긴 이것도 다 실력이지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.932,
+                "end": 23.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무래도 마지막 메호대전은 이 몸의 승리로 끝나겠군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.931,
+                "end": 27.486
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "웃기지마 바르셀로나도 이미 16강 진출 확정이거든?",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.496,
+                "end": 30.083
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "결승까지 쫓아가서 반드시 복수하겠다 호네이프.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.093,
+                "end": 32.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그때까지 살아나 보시던가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.552,
+                "end": 34.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "패널티키움 레비 호우사",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.966,
+                "end": 37.668
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "방금 누가 날 불렀지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.678,
+                "end": 39.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐야 당신은",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.318,
+                "end": 40.502
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "누가 자꾸 나보고 호우를 사라길래 나왔는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.512,
+                "end": 42.900
+            }
+        ]
+    },
+    "summary": "메시포터가 아무리 강력해도 유벤투스는 호네이프 말고도 너무 강력하고 호네이프 교수는 두 번째 패널티움 주문을 걸었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02561_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

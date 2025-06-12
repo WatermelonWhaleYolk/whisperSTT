@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "MYP_04013",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2020-10-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 학과 공식 승부사",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "성공",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.995,
+                "end": 3.720
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "세상 사람 모두가 너와 같았으면",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.730,
+                "end": 8.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모두의 기대를 한껏 얻고 도전을 시작한 그는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.444,
+                "end": 12.353
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "허허허",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.363,
+                "end": 12.945
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "파이팅",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.955,
+                "end": 14.000
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "시간 제한은 3분 준비",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.010,
+                "end": 15.785
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "형이라면 해낼지도 몰라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.795,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "학과 승부사 찰리형이 요구르트 5잔을 3분 안에 마시기를 도전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04013_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": 25,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

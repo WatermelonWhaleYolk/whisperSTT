@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYP_04184",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.63,
+        "format": "MP4",
+        "date": "2020-04-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 더빙 영상은 작가님의 허락을 받고 만들어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허락을 받지 않고 스크린 샷을 찍어 더빙 영상을 만드는 건 불법입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.214,
+                "end": 9.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "절대로 하지 마시기 바랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.015,
+                "end": 11.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 허락받았는데 네이버에서 막으면 저 진짜 빤스 벗고 네이버 찾아갑니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.540,
+                "end": 28.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첫 인상.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.143,
+                "end": 30.630
+            }
+        ]
+    },
+    "summary": "이 더빙 영상은 작가님의 허락을 받고 만들어졌고 허락을 받지 않고 스크린 샷을 찍어 더빙 영상을 만드는 건 불법이니 절대 하지 마시기 바란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04184_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_01296",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.028,
+        "format": "MP4",
+        "date": "2022-12-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "V리그를 대표하는 왼손 공격수 @이름1은 현역병 입영 대상이었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구단이 상무 입대를 권유했지만 @이름1은 재검을 통해 사회복무요원인 4급 판정을 받았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 5.410,
+                "end": 12.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알고 보니 @이름1이 병역 브로커를 만나 뇌전증 소견을 받은 의혹이 제기됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 12.956,
+                "end": 19.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰의 조사가 진행되면서 해당 브로커가 구속됐고 조사를 통보받은 @이름1이 구단에 이 사실을 뒤늦게 보고했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.086,
+                "end": 28.028
+            }
+        ]
+    },
+    "summary": "구단이 상무 입대를 권유했지만 @이름1은 재검을 통해 사회복무요원인 4급 판정을 받았는데 알고 보니 @이름1이 병역 브로커를 만나 뇌전증 소견을 받은 의혹이 제기됐으며 검찰의 조사가 진행되면서 해당 브로커가 구속됐고 조사를 통보받은 @이름1이 구단에 이 사실을 뒤늦게 보고했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01296_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

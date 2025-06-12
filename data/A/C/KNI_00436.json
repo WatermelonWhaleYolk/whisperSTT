@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_00436",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.151,
+        "format": "MP4",
+        "date": "2023-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최원호 신임 감독은 수베로 감독이 자주 쓰던 수비 시프트 전술을 지양하겠다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.642
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일반적인 어 총괄 시프트를 했다면 어 이제는 조금 더 투수들의 동의를 얻은 상황에서 어 그런 시프트를 하려고 하거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.652,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "최원호 신임 감독은 총괄 시프트 대신 투수들의 동의를 얻은 상황에서의 시프트를 하겠다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00436_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00436_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

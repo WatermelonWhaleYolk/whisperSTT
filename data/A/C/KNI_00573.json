@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_00573",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.854,
+        "format": "MP4",
+        "date": "2023-01-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비거리가 조금 많이 나오면서 거리 조절에 실패했어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 @이름1는 침착했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.173,
+                "end": 6.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이어진 점프 수행 과제를 차분하게 성공시켰습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.363,
+                "end": 12.976
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "관중들의 뜨거운 박수를 받은 @이름1는 합계 213.01점을 기록했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 12.986,
+                "end": 20.854
+            }
+        ]
+    },
+    "summary": "비거리가 많이 나오면서 거리 조절에 실패했지만 침착하게 이어진 점프 수행 과제를 성공시켰고 관중들의 뜨거운 박수를 받은 선수는 합계 213.01점을 기록했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00573_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

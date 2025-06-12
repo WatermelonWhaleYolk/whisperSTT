@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "filename": "MYP_02334",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 50.466,
+        "format": "MP4",
+        "date": "2021-03-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "넌 베댓은 커녕 좋아요도 별로 없었을 텐데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.485
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4편의 베댓은 손웅정 아버님이셨지만 댓글 수로는 내가 가장 많더군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.495,
+                "end": 6.528
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 빤스 이 새끼 그냥 지 멋대로 하는 거 아니냐 기래?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.538,
+                "end": 10.324
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지 멋대로라니 다시 한번 말하지만 흥민시대는 구독자들과 함께 만드는",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.334,
+                "end": 14.624
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐 일단 왔으니 출발이나 하자고 아 잠깐 호이비에르 넌 별명이 뭐지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.634,
+                "end": 18.249
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "별명?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.259,
+                "end": 18.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그냥 싸우면 되지 그런 게 꼭 필요한가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.883,
+                "end": 20.864
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "야 인마 별명이 있어야 진정한 싸움꾼이지 나로 말할 것 같으면 토트넘의 깨진 유리 주먹 가레스 베일.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.874,
+                "end": 26.033
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내래 북런던 검은 수염 알라소니라 기래 그리고 쟤는 토트넘에 엄석대 해리 케인.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.043,
+                "end": 31.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄석대라니 난 토트넘의 태풍 박치기 케인이라고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.421,
+                "end": 34.582
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 기랬었나 아무튼 호이비에르 저 녀석도 별명이 있다 기래 뭐였더라 호장군이었던가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.592,
+                "end": 41.265
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "에이 호장군은 너무 식상하지 아주 신선하고 재밌는 거 뭐 없나 기술도 재밌을 것 같은 거 말이야 구독자 여러분 새롭게 합류한 호이비에르의 별명으로 뭐가 좋겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.275,
+                "end": 50.466
+            }
+        ]
+    },
+    "summary": "별명이 있어야 진정한 싸움꾼이라며 호이비에르의 별명은 호장군이었는데 너무 식상하다며 새롭게 합류한 호이비에르의 별명으로 뭐가 좋을지 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02334_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

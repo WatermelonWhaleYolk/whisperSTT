@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "KNI_02069",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.633,
+        "format": "MP4",
+        "date": "2018-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "체력이 붙으면서 고다이라와의 맞대결에도 자신감을 보이고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일본 선수단 기수로 떠들썩하게 입국한 고다이라와 달리 비밀 입국을 선택한 것도 또 하나의 전략입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.549,
+                "end": 12.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다니면서 그 친구 표정은 항상 어두웠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.196,
+                "end": 15.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그냥 경험이 정말 중요한 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.543,
+                "end": 17.441
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 자리에 있을 때 그 위치에 있을 때 올림픽을 어떻게 준비하는지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.451,
+                "end": 20.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이상화는 오늘 강릉에 입성해 올림픽 3연속 우승을 향한 본격적인 도전을 시작합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.999,
+                "end": 27.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.287,
+                "end": 30.633
+            }
+        ]
+    },
+    "summary": "@이름2는 고다이라와의 대결에도 자신감을 보이고 있고 올림픽 3연승에 도전합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02069_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

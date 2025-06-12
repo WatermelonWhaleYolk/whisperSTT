@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "filename": "MYP_03841",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2021-03-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왕눈이가 좋아하겠거니 싶어 무심코 건네줬는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.613
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘는 피리 부니까 이런 것도 좋아하겠지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.623,
+                "end": 6.575
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자. 이거 너 해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.585,
+                "end": 7.615
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우왕.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.625,
+                "end": 8.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것을 받은 왕눈이가",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.547,
+                "end": 10.291
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "피리 사오랬더니 오카리날 사와?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.301,
+                "end": 13.388
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "언제 그랬는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.398,
+                "end": 14.224
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 초면인데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.234,
+                "end": 15.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘못 사왔다며 불같이 화를 내더랜다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.578,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "작은 형이 꿈 속에서 왕눈이에게 오카리나를 주니까 왕눈이가 피리 사오랬지 오카리나를 사 왔다며 불 같이 화를 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03841_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

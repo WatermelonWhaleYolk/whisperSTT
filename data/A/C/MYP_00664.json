@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_00664",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.2,
+        "format": "MP4",
+        "date": "2023-02-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프리미어리그 이적료 1위를 자랑하는 맨시티의 환타지 스타 잭 그릴리쉬입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.762,
+                "end": 5.115
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "환타지 스타는 시발 환타 포도 맛이겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.115,
+                "end": 7.847
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "죄송하지만 환타 포도 맛은 1600원이고 저 그릴리쉬는 1600억입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.847,
+                "end": 12.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1600억짜리 선수가 환타지 스타가 아니면 누가 환타지 스타입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.690,
+                "end": 16.735
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이적료만 비싸면 뭐 합니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.735,
+                "end": 18.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "리그 16경기에 나와 꼴랑 2골밖에 못 넣고 있는데 이 정도면 실패한 영입 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.560,
+                "end": 23.985
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "실패한 영입은 아닌 기래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.985,
+                "end": 25.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 무슨 소립니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.634,
+                "end": 26.892
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그릴리쉬 선수가 들어온 뒤로 맨시티의 골칫덩어리였던 제주스와 스털링이 부활했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.895,
+                "end": 32.200
+            }
+        ]
+    },
+    "summary": "화자 2는 이적료는 제일 비싼데 16경기에서 겨우 2골만 넣은 선수에게 실패한 영입 아니냐고 비난하는데 화자 3은 그 선수를 영입한 후 같은 팀 내 문제였던 팀원들이 부활했다며 실패한 영입은 아니라고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00664_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "filename": "MYP_02986",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.166,
+        "format": "MP4",
+        "date": "2020-01-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "태초에 프리미어리그 무대가 열리고 영국 각지의 다양한 부족들은 각자의 강함을 겨루며 세력을 넓혀 나갔는데 과거 퍼거슨 황제 시절부터 전통적 위상을 자랑하는 맨유 제국",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.166
+            }
+        ]
+    },
+    "summary": "프리미어리그 무대가 열리고 영국 각지의 다양한 부족들은 각자의 강함을 겨루며 세력을 넓혀 나갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02986_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

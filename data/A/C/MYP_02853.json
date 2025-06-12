@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_02853",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.133,
+        "format": "MP4",
+        "date": "2020-05-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 손흥민 훈련병 활동화 대신 이 축구화로 갈아 신고 따라옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.177
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.187,
+                "end": 4.143
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 근데 군대스리가라니 다치면 안 되는데 하긴 뭐 훈련보다 부상의 위험은 적겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.153,
+                "end": 9.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 주목 여기는 국가대표 출신의 손흥민 훈련병이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.183,
+                "end": 12.398
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 하루 우리 1교육 중대랑 같이 공을 찰거니까 인사들 해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.408,
+                "end": 16.133
+            }
+        ]
+    },
+    "summary": "조교가 훈련병을 데리고 가서 같이 축구 경기를 할 다른 선수들에게 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02853_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

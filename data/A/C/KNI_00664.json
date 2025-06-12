@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNI_00664",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.394,
+        "format": "MP4",
+        "date": "2023-01-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공격 시간에 쫓겨 던진 김시래의 슛이 림도 맞지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 @이름1 슛이 또 한 번 림을 한참 벗어나자 은희석 감독이 교체를 지시합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.547,
+                "end": 14.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1 오세근의 실수에 이은 속공 기회에서 나온 에어 볼은 힘이 빠지게 만들었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.546,
+                "end": 21.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대 수비가 없는 상태에서 이동엽이 슛을 허공에 날렸습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.709,
+                "end": 27.394
+            }
+        ]
+    },
+    "summary": "김시래와 외국인 선수의 슛은 림을 완전히 벗어났고 상대 수비가 없는 상태에서 이동엽의 슛이 허공을 날렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00664_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00332",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2022-11-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고국과 7000킬로미터 떨어진 카타르에 생활하던 교민들에겐 우리 응원단의 합류가 큰 힘이 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.219
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 생각하지 못하게 너무 많이 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.229,
+                "end": 9.909
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 많은 사람들이 한마음이 돼서 같이 응원함으로써 힘을 보탤 수 있다는 게 굉장히 영광스럽습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.919,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "고국과 7000킬로미터 떨어진 카타르에서 생활하던 교민들에겐 우리 응원단의 합류가 큰 힘이 됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00332_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_00378",
+        "category": "스포츠뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수요에 비해 공공 체육시설이 부족한 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제로 최근 인기 스포츠로 부상한 테니스의 경우 공공 테니스장 예약은 하늘의 별따기입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.812,
+                "end": 10.497
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "운동을 하기 위해서는 여러 가지 시설이 많이 필요하지 않습니까?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.507,
+                "end": 13.397
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 우리 국민체육센터 이런 것을 연령별 계층별로 다양하게 저희가 많이 이 신축하고 지원하려고 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.407,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "수요에 비해 공공 체육시설이 매우 부족한 상황이고, 특히 요즘 인기가 많은 공공 테니스장 예약은 매우 힘들다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00378_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_03031",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.533,
+        "format": "MP4",
+        "date": "2019-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "7",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 역시 방송에 나가서 그런지 더럽게 맛없고 불친절한데도 손님이 아주 바글바글합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.669
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 주문이요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.679,
+                "end": 5.710
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여기도 주문 좀 받아주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.720,
+                "end": 7.481
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "사장님 저희 주문한지 30분이 넘었는데 피클만 나왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.491,
+                "end": 10.580
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "에이 바쁘니까 오래 걸리죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.590,
+                "end": 12.243
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "답답하면 너희들이 만들어 먹던가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.253,
+                "end": 14.446
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "아니 저 양반이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.456,
+                "end": 16.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 백대표님 내려가보셔야 되는 거 아닌가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.014,
+                "end": 18.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1씨가 가서 도와주시기라도 해야 될 것 같은데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.348,
+                "end": 20.847
+            },
+            {
+                "speaker_id": "7",
+                "transcription": "네가 가던가 왜 나한테 지랄",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.857,
+                "end": 22.533
+            }
+        ]
+    },
+    "summary": "방송에 나가서 그런지 더럽게 맛없고 불친절한데도 손님이 아주 바글바글하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03031_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

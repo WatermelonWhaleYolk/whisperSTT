@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "filename": "MYP_03735",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.055,
+        "format": "MP4",
+        "date": "2021-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재빨리 재료들을 조달해 왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.798
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 돌 완전 얇고 평평해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.808,
+                "end": 3.434
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "집 뒤에 가보니 장작도 많이 있네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.444,
+                "end": 5.568
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어 굿",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.578,
+                "end": 7.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 대망의 점화식이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.527,
+                "end": 9.603
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "토치가 없으니까 짚을 태워서 붙이자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.613,
+                "end": 11.862
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우와",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.872,
+                "end": 12.343
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파행 되었지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.353,
+                "end": 14.684
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이이이이 하하하하 가소롭구나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.694,
+                "end": 18.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물 불 안 가리고 우리를 똥으로 보고 있구나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.812,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "돌과 장작을 구해서 점화를 하는데 잘 되지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03735_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 68
+                }
+            ]
+        }
+    ]
+}

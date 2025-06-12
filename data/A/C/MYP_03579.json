@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYP_03579",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.571,
+        "format": "MP4",
+        "date": "2022-05-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이때부터 느낌이 세했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 어 내가 지웠나 싶었거든요 그때는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.650,
+                "end": 5.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 저장해 놓은 파일이 싹 사라져있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.203,
+                "end": 8.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐지 이게 어떻게 된 거지 하고 저는 세한 느낌이 들어서 제가 만화를 저장해 놓은 폴더에 들어갑니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.246,
+                "end": 16.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 알아챘죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.485,
+                "end": 18.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이건 롤백이구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.438,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "만화를 저장해 놓는 폴더에 들어가서 파일이 없는 것을 보면 롤백이라는 것을 알아챘다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03579_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

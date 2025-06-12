@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYP_01496",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.777,
+        "format": "MP4",
+        "date": "2022-03-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 어떻게든 슈팅으로 연결해 봐도 데헤아가 막아버린다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 데헤아 그 새끼는 못 나온다더니 왜 나온 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.790,
+                "end": 6.834
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "케인 네가 진정한 월드클래스라면 그 정도 수비는 뚫어내야지 언제까지 약팀에서 대승하고 강팀에게 지는 걸 반복할 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.844,
+                "end": 14.031
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 케인이든 흥민이든 심지어 자책골이라도 좋으니 제발 딱 2골만 넣어봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.041,
+                "end": 19.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러고 나서 호날두만 막으면 충분히 이길 수 있어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.144,
+                "end": 23.766
+            }
+        ]
+    },
+    "summary": "토트넘이 골문까지 가도 상대 키퍼인 데헤아가 다 막아버리는 바람에 힘든 상황이기 때문에 화자2 가 케인에게 월드클래스라면 그 정도 수비는 뚫어야 한다고 딱 2골만 넣어달라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01496_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

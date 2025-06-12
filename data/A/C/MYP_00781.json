@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYP_00781",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.772,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기가 머지사이드 최고의 삼겹살집 흠초갈비다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.521
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 삼겹살이 다 거기서 거기지 뭐라고 이렇게 난리야 뭐? 냉동 삼겹살이 1인분에 15파운드? 한국돈으로 치면 2만원이 넘잖아 거기다가 1인분에 고작 100g이라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.531,
+                "end": 14.367
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "타랍박 한국음식 많이 그리웠지? 여기 사장님도 한국분이다 많이 먹어라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.377,
+                "end": 20.153
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이고 뭐 김치공장에서 회식왔나 어라? 못 보던 친군데? 마 니 한국인이가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.163,
+                "end": 25.002
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 안녕하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.002,
+                "end": 26.766
+            }
+        ]
+    },
+    "summary": "한국인이 운영하는 삼겹살집에 회식을 갔는데, 메뉴판을 보고 놀란 내용입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00781_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

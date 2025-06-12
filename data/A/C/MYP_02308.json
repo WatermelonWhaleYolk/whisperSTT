@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "filename": "MYP_02308",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.733,
+        "format": "MP4",
+        "date": "2021-04-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "축구 황제 펠레가 직접 키운 랍스터 한 마리가 통째로 들어가 있지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.295
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 뭐야 이거 살아 있잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.305,
+                "end": 6.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 나도 레시피만 겨우 알아내서 연습 삼아 만들어 본 요리인데 한 경기당 한 골을 넣는 극소수의 신계 공격수들만 먹을 수 있는 요리로 그렇지 않은 사람이 먹는 순간 랍스터의 날카로운 집게가 혓바닥을 댕강 잘라버린다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.485,
+                "end": 18.416
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 경기당 한 골이라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.426,
+                "end": 19.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 뭐 메시나 호날두, 레반도프스키 그리고 최근 들어 홀란드 녀석도 이 요리를 즐겨 먹는다더군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.680,
+                "end": 25.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘 먹겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.322,
+                "end": 26.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 하는 거야 린가드 식사 멈춰 너 지금 죽고 싶은 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.114,
+                "end": 29.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 아이 그렇지만 난 자격이 되는 걸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.206,
+                "end": 31.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐라고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.151,
+                "end": 31.926
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 웨스트햄 통산 8경기 8골 이만하면 먹어도 되는 거 아니야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.936,
+                "end": 34.982
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 잘 먹겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.992,
+                "end": 36.733
+            }
+        ]
+    },
+    "summary": "린가드에게 찌개는 한 경기당 한 골을 넣는 극소수의 공격수들만 먹을 수 있다며 메시나 호날두, 레반도프스키, 홀란드가 즐겨 먹는다고 하자 웨스트햄 통산 8경기 8골을 넣었다며 린가드가 먹으려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02308_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

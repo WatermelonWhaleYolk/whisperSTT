@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYP_03926",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.478,
+        "format": "MP4",
+        "date": "2021-01-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "머나먼 전우.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대학에 들어간 로이드 형과 나는",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.341,
+                "end": 13.451
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어디 불편한덴 없어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.461,
+                "end": 15.197
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "혹시 앓고 있는 지병은 없나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.207,
+                "end": 17.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 전 건강해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.749,
+                "end": 22.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일상생활이 불가능할 정도로.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.386,
+                "end": 25.513
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이게 저의 100퍼센트 모습입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.523,
+                "end": 28.250
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 아이 상쾌해에엑.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.260,
+                "end": 33.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "건강한 몸을 잘 유지하여",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 33.286,
+                "end": 36.469
+            }
+        ]
+    },
+    "summary": "주인공과 친한형은 군대를 앞두고 신체검사를 받는 모습입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03926_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

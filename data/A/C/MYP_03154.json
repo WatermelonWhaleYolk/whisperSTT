@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_03154",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.287,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저것도 뽑은 걸로 판정이 됩니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.164,
+                "end": 3.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전설에 따르면 용사님께서는 신성력으로 자신의 신체를 강화하실 수 있었답니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.523,
+                "end": 9.444
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "땅에 묻힌 바위나 커다란 쇳덩이 같은 것들은 무게를 막론하고 우직하게 뽑아내실 수 있으셨죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.454,
+                "end": 16.143
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용사님께 검 뽑기 또한 다를 바 없으셨을 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.153,
+                "end": 20.307
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.317,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "여성은 전설로 내려져 오는 용사님의 신성력과 신체 강화에 대해 이야기하며 검 뽑기 또한 이와 다르지 않았을 것이라 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03154_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

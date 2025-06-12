@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_01301",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.233,
+        "format": "MP4",
+        "date": "2022-06-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자자 이제 입단식도 마쳤으니 페리시치는 100프로 토트넘 선수다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월드클래스 선수가 팀에 합류했으니 다음 시즌엔 우승 문제 없겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.434,
+                "end": 8.371
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무리 페리카나 형님이 우승 요정이라 해도 한명 가지고는 어림도 없죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.381,
+                "end": 12.702
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 다른 요정들은 언제 데려오시는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.712,
+                "end": 15.219
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "맞습니다 페리시치 선배가 멀티 플레이어라 해도 결국 한 자리밖에 맡으실 수 없잖습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.229,
+                "end": 19.908
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "왼쪽 윙백이 든든해지더라도 오른쪽이 결국 에메르송이라면 우승는 물 건너가는 거라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.918,
+                "end": 24.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기다가 센터백은 또 어떻고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.000,
+                "end": 26.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설마 다음 시즌에도 싼다라인을 쓰실 생각은 아니시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.793,
+                "end": 30.233
+            }
+        ]
+    },
+    "summary": "페리시치 선수가 입단하면서 우승은 문제없다고 하지만 한명 가지고는 어림도 없다며 다음 시즌에도 싼다라인을 쓰실 생각은 아니겠지 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01301_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

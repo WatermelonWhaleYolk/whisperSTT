@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_00395",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.7,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 마지막으로 몇 가지 주의사항을 말씀드리며 오늘의 홈쇼핑을 마치겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본 상품은 패키지 상품으로 단품으로 구매시 성능이 떨어질 수 있으며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.607,
+                "end": 7.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "섣불리 구매를 시도했다가 만수르님께 암살 당할 수 있다는 점 유의해 주시기 바랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.089,
+                "end": 11.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "프리미어 리그 우승을 넘어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.474,
+                "end": 12.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "챔피언스 리그 우승을 원하고 계시다면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.626,
+                "end": 14.683
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 당장 주저 말고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.693,
+                "end": 15.941
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홀덕 라인을 구매하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.951,
+                "end": 20.700
+            }
+        ]
+    },
+    "summary": "프리미엄 리그와 챔피언스 리그 우승을 원한다면 홀덕 라인을 구매하세요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00395_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

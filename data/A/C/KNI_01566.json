@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01566",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.43,
+        "format": "MP4",
+        "date": "2020-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국내에선 겨울철 실내 스포츠 종목이 비상 대책 마련에 들어갔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프로 농구와 배구는 마스크를 배포하고 손 소독제를 배치하기로 했지만 관중 감소를 피할 수 있을지 고민입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.058,
+                "end": 11.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마스크를 겪 그 배포를 할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.563,
+                "end": 15.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손 세정제라던가 비누와 같은 그 청결 예방 그 도구들을 체육관 내 비치해서 예방 활동을 계속해서 병행할 예정이고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.462,
+                "end": 24.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 구장에 열 감지 카메라 설치까지도 고려하고 있지만 물량 확보에 어려움을 겪고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.281,
+                "end": 30.430
+            }
+        ]
+    },
+    "summary": "코로나에 대응하여 스포츠계는 마스크를 배포하고 손 소독제를 제공하지만 어려움이 예상된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01566_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 53
+                }
+            ]
+        }
+    ]
+}

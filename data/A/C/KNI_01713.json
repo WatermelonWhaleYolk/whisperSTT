@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01713",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.366,
+        "format": "MP4",
+        "date": "2018-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평창 올림픽 한국 대표 선수단이 차례상 앞에 큰절을 올립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올림픽이 끝날 때까지 모든 선수들이 최선을 다해 선전하기를 기원합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.645,
+                "end": 12.075
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기를 마친 루지 선수들도 새해 도약을 다짐합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.085,
+                "end": 15.842
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "계속 훈련하고 바쁘다 보니까 근 몇 년 간 차례를 지낸 적이 한 번도 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.852,
+                "end": 20.709
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게라도 차례를 지내니까 상당히 개인적으로도 좀 뜻깊고 기쁩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.719,
+                "end": 26.366
+            }
+        ]
+    },
+    "summary": "평창 올림픽 한국 대표 선수단이 차례상 앞에 큰절을 올리며 올림픽이 끝날 때까지 모든 선수들이 최선을 다해 선전하기를 기원했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01713_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

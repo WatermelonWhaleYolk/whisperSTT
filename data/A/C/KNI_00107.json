@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00107",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.649,
+        "format": "MP4",
+        "date": "2023-04-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한항공은 삼성화재 이후 처음으로 3회 연속 통합 우승을 달성하며 새로운 왕조 시대를 열었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "컵대유와 정규 리그에 이어 챔피언전까지 구단 최초로 한 시즌 3관왕에 오르는 영애까지 누렸습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 8.067,
+                "end": 16.649
+            }
+        ]
+    },
+    "summary": "대한항공은 3회 연속 우승 달성하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00107_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 95
+                }
+            ]
+        }
+    ]
+}

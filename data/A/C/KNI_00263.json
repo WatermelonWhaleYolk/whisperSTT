@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00263",
+        "category": "스포츠뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.582,
+        "format": "MP4",
+        "date": "2022-06-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어렵사리 공을 치고 1루로 달려갔는데 아웃입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 3월 결성된 15명의 탈북민 야구단이 유투버 야구단과 친선 경기를 벌였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.000,
+                "end": 11.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "탈북민 가족들도 응원을 보냅니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 11.200,
+                "end": 15.582
+            }
+        ]
+    },
+    "summary": "탈북민 야구단이 유투버 야구단과 친선 경기를 벌였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00263_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 61,
+                    "act": 62
+                }
+            ]
+        }
+    ]
+}

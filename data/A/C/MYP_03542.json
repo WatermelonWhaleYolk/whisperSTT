@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_03542",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.295,
+        "format": "MP4",
+        "date": "2022-05-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영욕 피자 본점 장사는 어렵다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.699
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "드디어 나만의 가게를 차렸어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.709,
+                "end": 16.330
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쉽지 않았지만 이제 나도 사장님이 되었다고 허허허",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.340,
+                "end": 21.224
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "업주들은 소중한 가게를 지키기 위해",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.234,
+                "end": 24.175
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안녕하세요 폰 좀 볼려고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.185,
+                "end": 26.262
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네 손님 어디 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.272,
+                "end": 29.295
+            }
+        ]
+    },
+    "summary": "드디어 나만의 가게를 차렸고 쉽지 않았지만 이제 나도 사장님이 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03542_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

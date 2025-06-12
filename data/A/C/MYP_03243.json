@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_03243",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그쪽으로 가시면 제 목소리를 또 들어보실 수 있고 커미션도 받고 있고 크몽에서 이제 의뢰도 받고 있으니까 어 많은 신청 부탁드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 이 채널도 많이 봐주시고요 예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.070,
+                "end": 11.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그럼 다음 타자로 넘기겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.787,
+                "end": 14.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.412,
+                "end": 17.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 지금 호락님 채널에서 웹툰 선천적 얼간이들의 나레이션 그리고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.909,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "더빙하는 팀의 남성들이 자기소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03243_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

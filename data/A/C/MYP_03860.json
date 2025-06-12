@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_03860",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.351,
+        "format": "MP4",
+        "date": "2021-03-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 건 잘 타는 사람이나 재밌지. 난 보도 잘 모르는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.177
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에헤 이게 또 재미를 모르네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.187,
+                "end": 5.262
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 가르쳐 줄께. 잘 봐 임마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.272,
+                "end": 8.289
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그런 나에게 형들은 보드의 재미를 알려주고자 했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.299,
+                "end": 11.765
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "처음엔 옆이 아니라 앞으로 탄다고 생각해야 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.775,
+                "end": 14.825
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이런 거 익히는 과정이 얼마나 재미있는데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.835,
+                "end": 18.351
+            }
+        ]
+    },
+    "summary": "20대 유튜버가 강제로 스키장에 끌려와서 투덜거리니까 형들이 보드 타는 법을 가르쳐 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03860_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

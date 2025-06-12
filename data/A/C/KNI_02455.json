@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_02455",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.088,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 4레인의 @이름1와 7레인의 @이름2 선수 과연 어떤 선수 자 @이름3 선수도 6레인에 어 주목해 볼 만한 선수고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 300미터 지점이 가장 어려운 구간이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.183,
+                "end": 22.088
+            }
+        ]
+    },
+    "summary": "여자 400미터 육상 경기를 치르기 위해 4레인의 @이름1와 7레인의 @이름2 선수 등이 출발선에서 대기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02455_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

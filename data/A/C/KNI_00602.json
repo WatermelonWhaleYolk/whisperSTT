@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNI_00602",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.25,
+        "format": "MP4",
+        "date": "2023-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "감독 선임이 무산되며 @이름1 대행이 벤치를 지킨 @소속1",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 한 번 투혼을 발휘했지만 @소속2 @이름2의 맹활약에 속수무책으로 당했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.435,
+                "end": 12.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2의 전매 특허죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.684,
+                "end": 14.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강력한 빽어택 공격이 코트에 꽂힙니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.047,
+                "end": 17.250
+            }
+        ]
+    },
+    "summary": "@소속1이 또 한 번 투혼을 발휘했지만 @소속2 @이름2의 맹활약에 속수무책으로 당했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00602_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_04097",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.456,
+        "format": "MP4",
+        "date": "2020-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 그는 알 수 없는 말들을 남기고 바람처럼 사라졌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.375
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앗 내 표",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.385,
+                "end": 6.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 표와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.671,
+                "end": 9.483
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘의 운행은 모두 종료되었습니다 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.493,
+                "end": 12.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막차도 함께",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.985,
+                "end": 15.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 개새끼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.189,
+                "end": 18.197
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "변신하는 건 아니겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.207,
+                "end": 23.456
+            }
+        ]
+    },
+    "summary": "그는 알 수 없는 말을 남기고 사라졌고 나의 표와 막차도 함께 사라졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04097_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

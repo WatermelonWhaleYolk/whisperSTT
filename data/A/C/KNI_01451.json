@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_01451",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2023-05-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선발전 순위대로 국가대표가 되는 게 원칙이지만 거액의 출전비를 못 내면 등수가 낮았던 선수가 대신 태극 마크를 달 수도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실력이 좋아서 다 뽑힌 거고 다 실력 있는 선수들인데 이제 돈이 없으면 못 나간다는 현실이 너무",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.200,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "선발전 순위대로 국가대표가 되는 게 원칙이지만 거액의 출전비를 못 내면 출전을 못할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

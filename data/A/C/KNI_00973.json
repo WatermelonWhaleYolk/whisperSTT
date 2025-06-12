@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_00973",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2022-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "표승주의 공격이 득점으로 연결됐는데 김호철 감독의 표정 한번 보시죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마스크 뒤로 허탈함이 엿보이는 웃음을 지어 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.019,
+                "end": 9.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 세트 스코어 2 대 0으로 뒤져 패색이 짙었지만 김호철 감독의 이 허탈한 웃음이 선수들을 자극했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.557,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "이미 세트 스코어 2 대 0으로 뒤져 패색이 짙었지만 김호철 감독의 이 허탈한 웃음이 선수들을 자극했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00973_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

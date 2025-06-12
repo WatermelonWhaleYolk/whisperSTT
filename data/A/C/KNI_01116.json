@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_01116",
+        "category": "스포츠뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2022-08-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 기대 안 했는데 솔직히 제가 잘해서 받은 게 아니라 다른 팀원들이 다 같이 잘해주니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저번에는 자기가 잘해서 받았다고 MVP 받을 줄 알았대.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.942,
+                "end": 10.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐래 없는 얘기를 지어내.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.076,
+                "end": 12.938
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "코트 안팎에서 끈끈한 우정으로 리틀 우생순 신화를 써낸 3인방 우생순 봤어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.948,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "코트 안팎에서 끈끈한 우정으로 리틀 우생순 신화를 써낸 3인방을 인터뷰했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01116_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

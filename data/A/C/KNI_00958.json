@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00958",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2022-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강세 종목인 쇼트트랙 대표팀은 특이한 훈련을 펼치고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중국 텃세라는 악조건을 극복하기 위해 훈련장에 중국어 음악과 함성을 틀어놓았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.905,
+                "end": 9.829
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 텃세나 판정에 대해서 저희가 불리한 거는 어느 정도 있지만 그거를",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.839,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "쇼트트랙 팀은 중국 텃세라는 악조건을 극복하기 위해 훈련장에 중국어 음악과 함성을 틀어놓았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00958_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

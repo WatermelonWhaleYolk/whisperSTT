@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_00744",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.718,
+        "format": "MP4",
+        "date": "2023-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보고된 탄핵안은 국회법에 따라 모레 안에 표결을 마쳐야 하는데 재적 과반 찬성으로 의결됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가결된다면 헌정사상 첫 국무위원 탄핵 사례가 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.535,
+                "end": 10.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 즉시 헌법재판소 심판이 나올 때까지 직무가 정지되는데 이 장관은 사퇴 의사가 없다고 거듭 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.982,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "보고된 탄핵안은 국회법에 따라 모레 안에 표결을 마쳐야 하는데 재적 과반 찬성으로 의결되며 가결된다면 헌정사상 첫 국무위원 탄핵 사례가 됨과 동시에 그 즉시 헌법재판소 심판이 나올 때까지 직무가 정지되는데 이 장관은 사퇴 의사가 없다고 거듭 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00744_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

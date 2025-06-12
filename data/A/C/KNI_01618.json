@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_01618",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 치열한 듀스 접전 속 마지막 후위 공격으로 18대 16 극적인 승리를 완성했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임성진과 서재덕 신구 스타의 활약으로 한국 전력은 창단 첫 플레이오프 승리의 기쁨을 맛봤습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.411,
+                "end": 13.927
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 2 차전에는 진짜 어떻게 해서든 무슨 수를 써서라든 이겨보자 해 가지고 오늘 정말 최선을 다해서 했는데",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.937,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "치열한 듀스 접전 속 마지막 후위 공격으로 18대 16 극적인 승리를 완성해 한국 전력은 임성진과 서재덕 신구 스타의 활약으로 창단 첫 플레이오프 승리의 기쁨을 맛봤다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01618_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 116
+                }
+            ]
+        }
+    ]
+}

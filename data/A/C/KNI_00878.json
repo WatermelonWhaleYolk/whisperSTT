@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00878",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.649,
+        "format": "MP4",
+        "date": "2023-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두 자릿수 득점을 목표로 하는 황의조는 처음 적으로 만나는 조규성을 한 수 가르치겠다는 생각입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "규성이랑 상대 팀으로 뛰어본 적은 한 번도 없어서 어 이렇게 재밌는 경기가 될 것 같고 어 좋은 경기 재미있는 경기가 되지 않을까 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.812,
+                "end": 16.649
+            }
+        ]
+    },
+    "summary": "두 자릿수 득점을 목표로 하는 황의조는 처음 적으로 만나는 조규성을 한 수 가르치겠다는 생각입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00878_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

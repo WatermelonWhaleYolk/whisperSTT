@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "filename": "KNI_00199",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2023-04-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "허병길 대표 이사 부임 이후 구단 프런트의 지원 시스템이 붕괴됐다는 지적과 함께 전략이 빈약한 김상식 감독을 향한 비판이 끊임없이 계속되는 등 지친 팬들은 변화를 원하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "허병길 대표이사 부임 이후 구단 프런트의 지원 시스템이 붕괴됐다는 지적과 함께 전략이 빈약한 김상식 감독을 향한 비판이 끊임없이 계속되는 등 지친 팬들은 변화를 원하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00199_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

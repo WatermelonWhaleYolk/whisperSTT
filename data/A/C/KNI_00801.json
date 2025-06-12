@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00801",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.05,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "투수들이 공을 던질 때마다 들려오는 목소리의 주인공은 안방마님 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.181
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나이스 굿",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.191,
+                "end": 6.841
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2이 팔 길게 길게",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.851,
+                "end": 9.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7년 연속 한국 시리즈에 진출했다 지난해 9위로 추락했기 때문에 @소속1에서 돌아온 @이름1의 어깨는 더 무겁습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.630,
+                "end": 17.050
+            }
+        ]
+    },
+    "summary": "지난해 9위로 추락하여 @이름1의 어깨는 더 무겁다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 61,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

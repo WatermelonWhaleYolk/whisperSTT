@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_00402",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.963,
+        "format": "MP4",
+        "date": "2023-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한축구협회에 변화가 필요한 시기인 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "30여 년간 문체부에서 일한 경험이 잘 쓰일 수 있도록 어 열심히 해보겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.795,
+                "end": 12.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정 회장은 이근호와 지소연 등 젊은 세대를 새 이사진에 포함시켰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.414,
+                "end": 17.562
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 이런 쇄신책에도 축구협회를 바라보는 팬들의 시선은 여전히 불안합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.572,
+                "end": 22.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새로 꾸려진 이사회 내에서 정 회장에게 직언할 수 있는 인사가 몇 명이나 될지 미지수이기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.850,
+                "end": 29.963
+            }
+        ]
+    },
+    "summary": "정몽규 회장은 젊은 세대를 이사진에 포함시키는 등 축구협회를 쇄신시키려 노력하지만, 새로운 이사회 내에서 정 회장에게 직언할 수 있는 인사가 있을 지 미지수이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00402_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03287",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.285,
+        "format": "MP4",
+        "date": "2022-12-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 왼쪽은 쓰레기 오브 쓰레기다 분리 수거할 수 있게 더 단련해라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.411
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 어후 오늘 일이 넘 많은데 연습 내일 하면 안 됩니까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.421,
+                "end": 11.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그거 내려놓고 걍 집에 가라 오늘도 쉬고 내일도 쉬고 영원히 쉬어라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.698,
+                "end": 18.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "억",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.692,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "수호가 오늘 일이 넘 많으니 연습은 내일 하자고 하자 영감이 오늘도 쉬고 내일도 쉬고 영원히 쉬라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03287_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

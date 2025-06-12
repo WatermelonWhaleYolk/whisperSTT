@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNI_01120",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 39.472,
+        "format": "MP4",
+        "date": "2022-08-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "24살 답지 않은 성숙한 멘탈 그 비결은 숙소 한편에서 찾을 수 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "철학부터 심리학까지 @이름1의 남다른 독서량은 선수들 사이에서도 유명합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.511,
+                "end": 11.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "독서를 바탕으로 장문의 글도 종종 올려 화제가 되기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.882,
+                "end": 16.757
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주나라의 문왕은 감옥에 갇혀 주역을 연구해 글로 남겼으며 공자는 곤액을 당하고 나서 춘추를 썼습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.767,
+                "end": 22.708
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좌구명은 두 눈이 먼 뒤에 국어를 적었고 손빈은 두 다리가 잘리는 형벌을 받고서 그 유명한 병법을 완성시켰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.718,
+                "end": 27.124
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재능으로 줄 세우기는 불공평하다는 건데 근데 스포츠의 이제 매력은 그 재능도 솔직히 있지마는 노력을 더 하면 그 재능을 제낄 수도 있지 않을까라는 책을 읽으면서 그런 생각을 했구요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 27.134,
+                "end": 39.472
+            }
+        ]
+    },
+    "summary": "철학부터 심리학까지 @이름1의 남다른 독서량은 선수들 사이에서도 유명하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

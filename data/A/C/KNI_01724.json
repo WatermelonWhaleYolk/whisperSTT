@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNI_01724",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.066,
+        "format": "MP4",
+        "date": "2018-03-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차재관의 깔끔한 마무리까지 이어진 가운데 우리 대표팀은 5엔드에서 대거 4점을 얻으며 사실상 승기를 굳혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 핀란드가 7엔드에서 기권해 승부에 마침표를 찍었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.789,
+                "end": 12.499
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5승 1패를 기록한 우리나라는 7승 이상을 거둬 준결승에 진출한다는 1차 목표에 한걸음 더 다가섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.509,
+                "end": 20.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 대표팀은 오늘 저녁 7시 35분부터 스위스를 상대로 2연승에 도전합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.269,
+                "end": 26.066
+            }
+        ]
+    },
+    "summary": "우리 휠체어 컬링 대표팀은 핀란드가 7엔드에서 기권해 승리했고 5승 1패를 기록 중인 가운데 오늘 저녁 스위스를 상대로 경기에 나선다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01724_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

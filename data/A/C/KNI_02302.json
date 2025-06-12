@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02302",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.042,
+        "format": "MP4",
+        "date": "2015-03-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자격 정지 18개월이라는 국제수영연맹의 징계는 박태환 측의 입장을 최대한 받아들인 처분이라는 분석입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.252
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일반적인 징계 수준이 2년이었다면 내년 8월 열릴 리우올림픽 출전이 불가능해져 은퇴가 불가피 했기 때문입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.262,
+                "end": 17.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 징계가 풀려도 박태환이 당장 올림픽에 출전할 수가 없습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.928,
+                "end": 24.033
+            }
+        ]
+    },
+    "summary": "자격 정지 18개월이라는 국제수영연맹의 징계는 박태환 측의 입장을 최대한 받아들인 처분이라는 분석으로 보고 징계가 풀려도 박태환이 당장은 올림픽에 출전할 수가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02302_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

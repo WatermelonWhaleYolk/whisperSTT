@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_03406",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.893,
+        "format": "MP4",
+        "date": "2022-09-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맨날 묵던 그거예?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.453
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영화는 관심 없으신가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.463,
+                "end": 4.147
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "주변인들을 초조하게 만드는 효과가 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.157,
+                "end": 8.360
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 이런 분들을 대하다 보면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.370,
+                "end": 11.303
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 9500원입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.313,
+                "end": 13.870
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진동벨로 알려드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.880,
+                "end": 15.843
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예예 고마브요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.853,
+                "end": 18.336
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 영화 제시간에 못 보면 좀 어때?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.346,
+                "end": 22.075
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이분들은 그런 것보다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.085,
+                "end": 23.890
+            }
+        ]
+    },
+    "summary": "주변인들을 초조하게 만드는 효과도 있지만 영화 제시간에 못 보면 어때요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

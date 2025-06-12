@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_01893",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.097,
+        "format": "MP4",
+        "date": "2022-08-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "연속 득점으로 승부의 마침표를 찍고 주인공이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대선배 양효진과 황현주를 앞에 둔 폭발력은 새로운 스타 탄생을 알렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.915,
+                "end": 13.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도로공사는 현대건설을 꺾고 조1위가 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.168,
+                "end": 17.058
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마지막은 무조건 때려서 골 내자라는 생각이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.068,
+                "end": 22.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리베로에서 공격수로 화려하게 변신한 김세인의 활약 여자 배구의 또 다른 볼거리가 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.173,
+                "end": 29.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.368,
+                "end": 31.097
+            }
+        ]
+    },
+    "summary": "리베로에서 공격수로 화려하게 변신한 김세인의 폭발력은 새로운 스타 탄생을 알렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01893_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

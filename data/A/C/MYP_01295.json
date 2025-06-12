@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_01295",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.4,
+        "format": "MP4",
+        "date": "2022-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "회장님 이제 얼마 후면 정식으로 이적시장이 열립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 이번 이적시장은 기대해봐도 되겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.373,
+                "end": 6.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연하지 내가 아무리 짠돌이라 해도 이번만큼은 다르다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.475,
+                "end": 9.975
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2400억이나 쓸 생각에 잔뜩 신이 난 상태라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.985,
+                "end": 13.244
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "홀란드를 영입한 맨시티의 경우 이미 스쿼드가 완벽하기에 기껏해야 쿠쿠렐라 한 명 정도만 노려보지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.254,
+                "end": 19.400
+            }
+        ]
+    },
+    "summary": "이번 이적시장에 거는 기대가 크다고는 하지만 쿠쿠렐라 한 명 정도만 노려보지 않겠냐고 말 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01295_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

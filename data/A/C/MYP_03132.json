@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_03132",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.926,
+        "format": "MP4",
+        "date": "2023-07-16",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원격대전 산티아고는 여전히",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.097
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이야 고마워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.107,
+                "end": 14.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘 쓸게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.551,
+                "end": 15.836
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 안 되는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.846,
+                "end": 17.713
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "잘 쓴다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.723,
+                "end": 19.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분노로 정의를 행하지만 그렇다고 무작정 분노로 이어지는 것은 아니고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.616,
+                "end": 26.926
+            }
+        ]
+    },
+    "summary": "산티아고는 분노에 의해서 정의를 실천하지만 무작정 분노로 다 이어지는 것은 아니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03132_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

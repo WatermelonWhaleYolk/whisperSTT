@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_01490",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.333,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 어쩌다가 월급도 못 줄 지경이 된 겁니까? 하여간 그 푸틴 개새끼 때문에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.193
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "케파 너 홍차 먹고 싶어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.203,
+                "end": 5.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 말을 함부로 했다간 쥐도 새도 모르게 사라진다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.728,
+                "end": 8.696
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "근데 아무리 구단주가 잘리고 수익 창출이 막혔다지만 스폰서들이 있지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.706,
+                "end": 12.731
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "메인 스폰서인 쓰리 모바일은 물론 현대 자동차 역시 후원을 중단했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.741,
+                "end": 17.333
+            }
+        ]
+    },
+    "summary": "첼시는 구단주가 잘리고 수익 창출이 막힌 와중에 메인 스폰서인 쓰리 모바일과 현대 자동차도 후원을 중단했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01490_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

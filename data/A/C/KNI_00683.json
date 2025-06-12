@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNI_00683",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.856,
+        "format": "MP4",
+        "date": "2023-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1차 연장 종료까진 단 5초 @소속1가 두 점 뒤진 상황에서 김선형이 환상적인 유로 스텝을 선보이며 또 한 번 극적인 동점을 만듭니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.356
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 김선형",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 11.366,
+                "end": 14.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팽팽한 시소 게임이 이어진 가운데 2차 연장에서도 승부를 가리지 못한 두 팀은 어느덧 세 번째 연장전에 돌입했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.350,
+                "end": 22.856
+            }
+        ]
+    },
+    "summary": "1차 연장 종료까지 5초 남은 상황에서 김선형이 동점을 만들어 세 번째 연장전에 돌입했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00683_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

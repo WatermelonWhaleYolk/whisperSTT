@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_01310",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.957,
+        "format": "MP4",
+        "date": "2023-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "장난기 가득한 강남스타일부터 강렬한 죽음의 무도까지 장르를 넘나드는 두 선수의 표현력은 점점 물이 오르고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 빠르게 성장하면 꿈의 무대 밀라노에서 한국 피겨의 새 역사를 쓸 수도 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.678,
+                "end": 13.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임혜나, 예콴 조는 오는 5일 종합선수권대회에서 국내 팬들에게 아름다운 춤사위를 선보일 예정입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 13.717,
+                "end": 20.552
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 사랑해주셔서 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.562,
+                "end": 23.957
+            }
+        ]
+    },
+    "summary": "장르를 넘나드는 임혜나, 예콴 조의 표현력은 점점 물이 오르고 있어 이렇게 빠르게 성장하면 꿈의 무대 밀라노에서 한국 피겨의 새 역사를 쓸 수도 있으며 두 선수는 오는 5일 종합선수권대회에서 국내 팬들에게 아름다운 춤사위를 선보일 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01310_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

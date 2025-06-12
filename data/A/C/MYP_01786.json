@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_01786",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.066,
+        "format": "MP4",
+        "date": "2021-10-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "솔샤르 솔샤르 솔샤르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어? 여 여기가 어디지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.237,
+                "end": 5.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드디어 정신이 들었군. 망자 솔샤르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.787,
+                "end": 8.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "망자라니요? 설마 제가 죽은 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.282,
+                "end": 10.257
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 망자가 아니라 팀을 망쳐놓은 자를 줄여서 망자인 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.267,
+                "end": 14.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 내 소개부터 하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.048,
+                "end": 15.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나로 말할 것 같으면 게으른 감독들을 심판하는 나태 지옥의 심판관 다니엘 메피스토다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.623,
+                "end": 21.351
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "메피스토라뇨? 레비 회장님 아니십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.361,
+                "end": 24.196
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "설마 할로윈 데이라고 그렇게 꾸미신 거예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.206,
+                "end": 27.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "레비 회장이라면 인간계에서 활동 중인 내 도플갱어를 말하는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.082,
+                "end": 31.277
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "도플갱어라니 그게 무슨? 장난치지 마시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.287,
+                "end": 34.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 지금 장난치는 거로 보이나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.027,
+                "end": 36.066
+            }
+        ]
+    },
+    "summary": "망자는 팀을 망쳐놓은 자를 줄여서 뜻하는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01786_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

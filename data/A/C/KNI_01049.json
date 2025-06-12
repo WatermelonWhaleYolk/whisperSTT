@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01049",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.692,
+        "format": "MP4",
+        "date": "2022-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엔씨 코치 2명의 음주 폭행이 발생한 건 오늘 새벽 3시 반쯤.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼성과의 대구 3연전을 앞두고 새벽까지 술을 마시던 @이름1 코치와 @이름2 코치가 다툼을 벌이다 폭행으로 번졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.833,
+                "end": 13.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신고를 받고 출동한 경찰에 @이름1 코치가 체포됐고 @이름2 코치는 병원 치료를 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.263,
+                "end": 19.719
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "술 드시다가 아마 싸운 것 같고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.729,
+                "end": 21.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정확한 건 지금 이 분들이 술이 취해서 양쪽 다 조사를 못했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.854,
+                "end": 25.692
+            }
+        ]
+    },
+    "summary": "엔씨 야구단 소속의 코치 2명이 술을 마시다 다퉈 한 명은 체포되고 한 명은 병원에서 치료를 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01049_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

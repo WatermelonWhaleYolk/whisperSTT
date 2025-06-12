@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_01848",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 45.266,
+        "format": "MP4",
+        "date": "2021-10-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 홀란드를 비롯한 차세대 축 몇 명을 영입해 3, 4년 안에 리그 정상을 차지한다면 내로라하는 선수들도 뉴캐슬에 오고 싶어서 안달일 거다 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.842
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 돈만 많으신 줄 알았더니 제대로 즐기는 방법까지 알고 계실 줄이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.852,
+                "end": 14.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그럼 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.767,
+                "end": 15.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치트키도 적당히 써가면서 해야 제맛이지 도르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.936,
+                "end": 19.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가만 린가도르는 얼마냐 도르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.074,
+                "end": 21.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제시 린가도르 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.143,
+                "end": 22.688
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.698,
+                "end": 23.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그 그게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.363,
+                "end": 24.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하긴 뭐 린가도르는 축구의 신을 넘어 축구 그 자체니까 돈으로는 살 수 없냐 도르?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.389,
+                "end": 29.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1조를 준다고 해도 말라이쿰?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.698,
+                "end": 31.616
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그게 린가드는 저랑 계약이 끝났 아니 린가드보단 한 시대를 풍미했던 즐라탄이나 발로텔리 어떻습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.626,
+                "end": 38.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "린가도르가 아니면 의미가 없도르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.404,
+                "end": 40.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈이라면 얼마든지 줄 테니 당장 데려와라 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.484,
+                "end": 45.266
+            }
+        ]
+    },
+    "summary": "남성 화자가 린가드는 얼마냐고 묻고 린가드가 아니면 의미가 없다며 돈이라면 얼마든지 줄 테니 당장 데려오라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01848_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYP_03980",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.249,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리의 미래와 스펙에 대한 이야기를 늘어놓기 시작했고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은 스펙시대 우리도 미래를 위해 스펙을 쌓아야 될 순간이 온 것이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.884,
+                "end": 9.878
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "니들도 미래 걱정을 할 줄 아는구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.888,
+                "end": 12.745
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그냥 그렇게 막 살다가 갈려는 줄 알았지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.755,
+                "end": 16.249
+            }
+        ]
+    },
+    "summary": "주인공과 친구들은 모여서 스펙을 쌓아야 할 시기가 되었다고 이야기하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03980_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

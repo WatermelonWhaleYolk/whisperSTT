@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_02323",
+        "category": "스포츠뉴스",
+        "sub_category": 24,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.933,
+        "format": "MP4",
+        "date": "2015-07-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첫 메달이라는 게 되게 기분이 좋고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 뜻깊은 일이라고 생각하고 저희 본인한테 앞으로 내년에 이제 올림픽도 남았고 했는데 제가 스스로한테 믿음이 더 생긴 제일 좋은 경험이라고 생각합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.738,
+                "end": 13.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남녀 사브르에서의 메달 획득 실패로 침체돼 있던 대표 팀은 정승화의 선전으로 분위기 반전에 성공했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.027,
+                "end": 20.281
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세계 선수권을 통해 대표 팀의 맏형 정승화가 자신감을 찾게 되면서 남자 에페 대표 팀은 한층 두터워진 선수층으로 내년 리우 올림픽을 준비할 수 있게 됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 20.291,
+                "end": 31.603
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모스크바에 KBS 뉴스 @이름1였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.613,
+                "end": 35.933
+            }
+        ]
+    },
+    "summary": "정승화가 세계 선수권 대회에서 첫 메달을 획득했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02323_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,269 @@
+{
+    "metadata": {
+        "filename": "MYP_00001",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.108,
+        "format": "MP4",
+        "date": "2020-04-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 안필드 공항 안에 있는 24시 리버풀의 편돌이 @이름1",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야간 알바인 나는 저녁 9시가 되어서 출근을 시작한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.379,
+                "end": 7.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시간이 어느새 5분이나 지났네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.867,
+                "end": 9.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2가 기다리겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.580,
+                "end": 10.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼른 가봐야겠군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.519,
+                "end": 11.505
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 인마 @이름1",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.515,
+                "end": 12.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 이렇게 늦게 와.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.563,
+                "end": 13.569
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검수까지 내가 다 했다고",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.579,
+                "end": 14.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미안해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.657,
+                "end": 15.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오는 길에 @이름3을 만나서 인사 좀 하고 왔어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.410,
+                "end": 18.355
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.365,
+                "end": 19.023
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름3?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.033,
+                "end": 19.485
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름3이 누구야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.495,
+                "end": 20.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흐로닝언에 있을 때 동창 있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.238,
+                "end": 22.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그건 그렇고 오늘 바빴냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.357,
+                "end": 24.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바쁘긴",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.027,
+                "end": 24.624
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손님 코빼기도 안 보인다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.634,
+                "end": 25.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요새 공항이 텅텅 비었잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.910,
+                "end": 27.764
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하긴 뭐 800원 900원 1000원 오케이",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.774,
+                "end": 30.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시재 확인됐으니 이만 퇴근해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.357,
+                "end": 31.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고생했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.914,
+                "end": 32.870
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 수고해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.880,
+                "end": 35.100
+            }
+        ]
+    },
+    "summary": "나는 안필드 공항 안에 있는 24시 편의점에서 일하는 사람이고 저녁 9시가 되어서야 출근하는데 요즘에는 공항에 사람이 별로 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00001_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

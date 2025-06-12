@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00298",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.219,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀 수비 중심 김민재의 합류로 훈련장이 하루 만에 분위기가 달라졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코치진부터 선수들까지 한층 밝은 표정으로 훈련장에 들어섭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.549,
+                "end": 10.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "FIFA 관계자와 중국 취재진 등 관심도 한층 높아졌고 훈련장 밖엔 한국에서 응원 온 팬들도 등장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.499,
+                "end": 19.219
+            }
+        ]
+    },
+    "summary": "대표팀 수비 중심 김민재의 합류로 훈련장이 하루 만에 분위기가 달라졌으며 FIFA 관계자와 중국 취재진 등 관심도 한층 높아졌고 훈련장 밖엔 한국에서 응원 온 팬들도 등장했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00298_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

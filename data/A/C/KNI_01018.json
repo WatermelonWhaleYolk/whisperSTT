@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_01018",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.871,
+        "format": "MP4",
+        "date": "2022-01-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여자 대표팀 맏언니 김아랑 등 쇼트트랙 대표팀이 베이징 수도 체육관에 들어섭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀은 가볍게 몸을 풀듯 남녀가 함께 올림픽 트랙을 돌았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.381,
+                "end": 10.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1바퀴 랩 타임이 10초 41 정도로 비교적 천천히 돌았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.374,
+                "end": 15.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀 훈련이 펼쳐지는 동안 관중석 한켠에서 중국 대표팀 코칭 스태프가 우리 선수들을 지켜봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.612,
+                "end": 23.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 평창 올림픽 이후 중국 사령탑으로 부임한 김선태 전 국가대표 감독이 직접 영상을 분석해 눈길을 끌었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.533,
+                "end": 32.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 감독님 믹스드존에서 인터뷰 가능하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.817,
+                "end": 35.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 시간 잡아가지고 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.835,
+                "end": 37.871
+            }
+        ]
+    },
+    "summary": "쇼트트랙 대표팀은 가볍게 몸을 풀듯 남녀가 함께 올림픽 트랙을 돌았고 대표팀 훈련이 펼쳐지는 동안 관중석 한켠에서 중국 대표팀 코칭 스태프가 우리 선수들을 지켜봤습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01018_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

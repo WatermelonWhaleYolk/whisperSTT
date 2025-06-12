@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00512",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.352,
+        "format": "MP4",
+        "date": "2023-01-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가장 좋아하는 한국말이 고강도라고 말하며 장내를 웃음바다로 만든 @이름1 감독",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.091
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고강도 포기하지 마.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.101,
+                "end": 11.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1은 다음 주 월요일 다시 소집해 여자축구의 새 역사를 쓰기 위한 힘찬 도전을 시작합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.798,
+                "end": 19.352
+            }
+        ]
+    },
+    "summary": "가장 좋아하는 한국말이 고강도라고 말하며 장내를 웃음바다로 만든 @이름1 감독은 다음 주 월요일 다시 소집해 여자축구의 새 역사를 쓰기 위한 힘찬 도전을 시작한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00512_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

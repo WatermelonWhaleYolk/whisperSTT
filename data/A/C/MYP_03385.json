@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYP_03385",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.164,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "참나 무슨 쌍팔년도 군대도 아니고 그 스승에 그 제자라더니",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.997
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "괜찮겠냐 몸 더 풀어야지 맞고 울지 마라",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.007,
+                "end": 11.320
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 라이브 피칭 시작 게임 설정은 0 대 0 동점 9회 말 원 아웃 안타시 루상엔 가상의 주자가 붙고 한 타자당 0점 2리닝 투 아웃 될 때까지 타석에 선다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.330,
+                "end": 22.935
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "플레이 볼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.945,
+                "end": 24.965
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "자자 우리 수비는 적극으로 투수 편이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.975,
+                "end": 28.069
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "연습 때처럼 안타 막고 집중해라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.079,
+                "end": 31.164
+            }
+        ]
+    },
+    "summary": "라이브 피칭 시작했고 우리 수비는 적극으로 투수 편이고 연습 때처럼 안타 막고 집중합시다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03385_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

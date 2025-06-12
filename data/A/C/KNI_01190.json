@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_01190",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.025,
+        "format": "MP4",
+        "date": "2022-10-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이다현은 서브 에이스를 연이어 코트에 내리꽂아 분위기를 띄웠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1세트부터 도로공사를 압도한 현대건설은 서브에서 8대 2 우세를 보였고 야스민과 양효진이 31득점을 합작하며 박정아가 빠진 도로공사에 3대 0 완승했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 7.426,
+                "end": 20.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개막전 승리는 관중과 함께여서 더 의미 있었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 20.827,
+                "end": 25.025
+            }
+        ]
+    },
+    "summary": "1세트부터 도로공사를 압도한 현대건설은 서브에서 8대 2 우세를 보였고 야스민과 양효진이 31득점을 합작하며 박정아가 빠진 도로공사에 3대 0 완승했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01190_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

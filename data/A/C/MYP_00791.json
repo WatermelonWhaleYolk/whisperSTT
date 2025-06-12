@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_00791",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.9,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 다들 다치지 않게 조심히 다녀오거라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 홈리스 월드컵은 총 8개의 팀이 토너먼트 형식으로 치르기 때문에 한번이라도 지면 바로 탈락이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.272,
+                "end": 8.770
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반드시 이기고 돌아오도록.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.780,
+                "end": 10.441
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 감독님 근데 우리 교체 선수는 없이 11명이 전부인 거에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.451,
+                "end": 13.748
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 다치기라도 하면 어떡하려고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.758,
+                "end": 15.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참고 뛰어라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.269,
+                "end": 16.448
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.458,
+                "end": 17.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "산재 처리해 줄 테니 참고 뛰라고 새끼야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.078,
+                "end": 19.363
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 뭐 이딴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.373,
+                "end": 20.233
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 팀 선수들은 전부 철강왕이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.243,
+                "end": 22.256
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "작년 대회에서 오태식이는 첫 번째 경기에서 뼈가 부러졌는데 결승전까지 뛰었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.266,
+                "end": 27.101
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.111,
+                "end": 27.900
+            }
+        ]
+    },
+    "summary": "홈리스 월드컵은 총 8개의 팀이 토너먼트 형식으로 치르기 때문에 한 번이라도 지면 바로 탈락이라 감독님이 교체 선수 없이 11명이 전부니 다치면 산재 처리해 줄 테니 참고 뛰라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00791_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

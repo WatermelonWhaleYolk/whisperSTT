@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "KNI_00351",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2022-11-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전반전에 좀 아쉽게 두 골을 뺏겼지만 그 나중에 또 후반전에 이강인 선수가 다시 교체되면서 그 빠르게 또 회복하는 모습이 보기 좋았고 마지막에 좀 아쉬웠지만 그래도 선수들 좋은 경기를 했던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "한 시민은 전반전에 두 골을 뺏겼지만 후반전에 선수가 교체되면서 빠르게 회복하는 모습이 보기 좋았고 마지막은 아쉬웠지만 선수들이 좋은 경기를 했다고 소감을 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00351_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

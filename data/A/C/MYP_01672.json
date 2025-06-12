@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_01672",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.133,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "벤 데이비스가 말디니로 변신한 거 봤지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들 모두 나 콘테의 은총으로 새롭게 태어났어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.376,
+                "end": 5.592
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 케인은요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.620,
+                "end": 6.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저랑 같이 득점왕 경쟁하던 녀석이 제가 15골을 넣을 동안 1골밖에 못 넣었는데 이거 이거 혹시 케인을 제물로 다른 녀석들을 부활시킨 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.545,
+                "end": 14.224
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 네가 그걸 어떻게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.234,
+                "end": 15.596
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "케인은 조만간 반드시 득점포를 가동할 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.606,
+                "end": 18.121
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그리고 무엇보다 팀의 득점 대부분을 책임졌던 내가 돌아왔는데 뭐가 걱정이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.131,
+                "end": 21.746
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "제가 작년에 코로나에 걸려봐서 아는데 코로나 그거 후유증이 상당합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.756,
+                "end": 26.020
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "과연 예전처럼 뛸 수 있을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.030,
+                "end": 28.006
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "난 이미 2차례의 백신 접종으로 후유증 없이 회복했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.016,
+                "end": 30.689
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "달라진 전술과 돌아온 손흥민이라면 1515일 간의 무승을 깨고 리버풀에 끔찍한 밤을 선사해주겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.699,
+                "end": 39.133
+            }
+        ]
+    },
+    "summary": "상대편 선수가 케인이 원래 자신과 득점왕 경쟁하던 사이였는데 지금 자신이 15골 넣을 동안 케인은 1골밖에 못 넣었다며 조롱하자 흥민이는 케인은 조만간 득점포를 가동할 것이라고 했고 흥민이 본인은 백신 2차 접종까지 맞고 후유증 없이 회복했기 때문에 리버풀에 끔찍한 밤을 선사하겠다며 다짐하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01672_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

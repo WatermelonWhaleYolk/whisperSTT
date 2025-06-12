@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYP_03384",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.717,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 선생님 수호에게 너무 가혹하십니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.763
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선배 예우해 준다고 살살하는 건 선배를 두 번 죽이는 일이고 너희 자신을 속이는 한심한 짓이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.773,
+                "end": 12.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "알겠냐?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.459,
+                "end": 13.970
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "알겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.980,
+                "end": 14.780
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "집중 집중 집중",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.790,
+                "end": 17.717
+            }
+        ]
+    },
+    "summary": "선배 예우해 준다고 살살하면 선배를 두 번 죽이는 일이고 너희 자신을 속이는 한심한 짓이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03384_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

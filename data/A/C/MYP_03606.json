@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_03606",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.259,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대부분 사람들은 아침에 힘들어하기에 적게 자도 자 깨어나는 나를 부러워한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.433
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하 독한 놈 우리 2시간밖에 못 잤는데 어찌 그리 벌떡 잘도 일어나냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.443,
+                "end": 12.008
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그냥 알람 들으면 눈이 떠져요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.018,
+                "end": 13.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 잠이 부족하면 낮잠이나 쪽잠으로라도 잠을 보충할 수 있는 사람들과 달리",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.665,
+                "end": 20.684
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어이 거기 옆에 자는 학생 좀 깨워라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.694,
+                "end": 24.312
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.322,
+                "end": 26.259
+            }
+        ]
+    },
+    "summary": "대부분 사람들은 아침에 일어나는 것을 힘들어하기 때문에 적게 자도 괜찮은 나를 부러워한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03606_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

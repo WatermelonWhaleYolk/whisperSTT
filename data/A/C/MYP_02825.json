@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02825",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.566,
+        "format": "MP4",
+        "date": "2020-06-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 아무래도 사람 선수들은 체력의 한계나 실수가 있을 것이기 때문에 레알 마드리드가 유리할 거라고 보여지는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 저기 캐스터님 그거 아십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.297,
+                "end": 7.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "50년 전에는 전부 사람 선수들이 축구를 했다고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.711,
+                "end": 11.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 해설위원님 무슨 말도 안 되는 얘기를",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.427,
+                "end": 13.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 정말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.449,
+                "end": 14.416
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은 오래된 도서관이나 과거에 그 뭐더라 유튜브인가 거길 찾아보면 사람 선수들만 뛰는 경기를 볼 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.426,
+                "end": 21.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자자 농담 그만하시고 역시 로봇 선수들답게 한치의 오차도 없네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.342,
+                "end": 24.992
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.002,
+                "end": 25.679
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어느 쪽 로봇의 배터리가 오래 가느냐가 오늘 경기의 승패를 좌우할 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.689,
+                "end": 31.566
+            }
+        ]
+    },
+    "summary": "남성 2명이 로봇이 하는 축구경기는 어느 쪽 배터리가 오래 가느냐가 가장 중요하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02825_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

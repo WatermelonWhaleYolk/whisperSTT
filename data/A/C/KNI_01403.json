@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_01403",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 35.068,
+        "format": "MP4",
+        "date": "2023-04-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "축구를 좋아하는 인기 가수 임영웅 씨의 시축과 공연을 보기 위해서였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.953
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 임영웅 씨가 시축한다는 데 큰 의미를 두고 아 팬들과 또 가족들 모두 한마음으로 이 자리에 참석하게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.963,
+                "end": 13.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한때 축구 선수를 꿈꿨던 만큼 임영웅 씨는 강력한 시축으로 경기장의 분위기를 끌어올렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.180,
+                "end": 19.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 이후 최다인 4만 5000명이 넘는 관중들의 뜨거운 응원을 받은 서울은 골잔치를 벌였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.607,
+                "end": 29.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "K리그로 돌아온 황의조가 페널티킥으로 시즌 첫 골을 신고했고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 29.769,
+                "end": 35.068
+            }
+        ]
+    },
+    "summary": "한때 축구 선수를 꿈꿨던 만큼 임영웅 씨는 강력한 시축으로 경기장의 분위기를 끌어올렸으며 K리그로 돌아온 황의조가 페널티킥으로 시즌 첫 골을 신고했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01403_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

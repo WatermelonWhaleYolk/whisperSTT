@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_03166",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.996,
+        "format": "MP4",
+        "date": "2023-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 환생은 또 얼마나 오래 걸린거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마중 나오는 놈들도 없고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.060,
+                "end": 4.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자식들이 빠져서. 어이 거기 밖에. 아마도 없느냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.914,
+                "end": 9.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 밖에 아무도 있습죠. 돌아오실 날을 손꼽아 기다리고 있었답니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.707,
+                "end": 14.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오냐 그래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.456,
+                "end": 15.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인간이 나를 접대하는 것도 꽤 오래간만이로구만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.376,
+                "end": 18.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너는 이름이 뭔가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.325,
+                "end": 19.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 저는 집안 대대로 용사님을 섬기고 있는 가문의 13대손 뚱뚱한 엉덩이입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.688,
+                "end": 25.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용사를 섬긴다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.255,
+                "end": 26.531
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.541,
+                "end": 27.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여긴 왜 왔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.298,
+                "end": 29.996
+            }
+        ]
+    },
+    "summary": "용사는 밖을 향해 누군가 있는지 묻자 용사를 섬기는 13대손인 뚱뚱한 엉덩이가 들어와 용사와 대화를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03166_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

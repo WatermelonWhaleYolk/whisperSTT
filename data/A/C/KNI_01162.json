@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "KNI_01162",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 34.1,
+        "format": "MP4",
+        "date": "2022-10-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빠지면서 @이름1를 @이름1를 스크린을 걸으라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.157
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현대모비스는 @이름2의 득점으로 기어이 역전에 성공합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.167,
+                "end": 9.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국 사상 첫 형제 사령탑 대결에서 동생 @이름3 감독이 넉 점 차로 웃었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.120,
+                "end": 15.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "형과의 대결에서 처음으로 이겨서 일단 기쁘고 6전 전승을 한 번 해보고 싶습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.332,
+                "end": 20.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "건강 조심하면서 스트레스 많이 받지 말고 좋은 시즌을 했으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.467,
+                "end": 25.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형제 대결에서 웃은 @이름3 감독의 현대모비스는 내일 KT와 컵대회 우승을 다툽니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 25.835,
+                "end": 32.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름4입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 32.322,
+                "end": 34.100
+            }
+        ]
+    },
+    "summary": "현대모비스는 @이름2의 득점으로 기어이 역전에 성공했고 형제 대결에서 웃은 @이름3 감독의 현대모비스는 내일 KT와 컵대회 우승을 다툽니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01162_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

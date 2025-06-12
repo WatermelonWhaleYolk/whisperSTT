@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYP_04152",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.591,
+        "format": "MP4",
+        "date": "2020-05-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정신 차리게 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 영감 시원한 걸로 하나 내와 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.798,
+                "end": 5.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그 잠시만 기다리게.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.761,
+                "end": 9.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.488,
+                "end": 10.918
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어어어 아이 이 영감 아이 조심 안 해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.928,
+                "end": 14.846
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감히 이 최강의 액션 부서에게 말이야 어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.856,
+                "end": 21.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최강이라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.443,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "사장이 액션 부서 직원에게 맥주 컵을 주다가 엎을 뻔 하자 직원이 조심하라고 소리쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04152_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYP_03845",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2021-03-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "설명 드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.252
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼마 전 여느 때와 다름없이 전 또 한창 밤샘 작업 중이었는데 새벽 5시 반 쯤 되었으려나요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.262,
+                "end": 12.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더헉. 뇌만 잤어요. 몸은 깨어있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.296,
+                "end": 17.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갑자기 로이드 형한테 전화가 오는 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.444,
+                "end": 20.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끄응 뭐야. 이 시간에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.101,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "20대 유튜버가 휴재를 하게 된 이야기를 하면서 어느 날 밤샘 작업중에 새벽 5시 30분 쯤 갑자기 로이드 형이 전화가 왔다는 일화를 풀고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03845_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

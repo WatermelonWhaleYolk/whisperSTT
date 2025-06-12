@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01699",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.333,
+        "format": "MP4",
+        "date": "2021-12-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 자식이 이적하겠다고 일부러 못한 거였어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너가 그러고도 팀의 부주장이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.891,
+                "end": 5.174
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지만 어찌 됐든 팀은 이기고 있지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.184,
+                "end": 7.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 조만간 블라호비치를 데려올 수만 있다면 제가 이적해도 문제 없을 테고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.692,
+                "end": 12.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 녀석이 아무리 용을 쓴다해도 회장님은 널 쉽게 놓아주지 않을 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.148,
+                "end": 16.333
+            }
+        ]
+    },
+    "summary": "화자 2가 블라호비치를 데려온다면 이적해도 문제없을 거라고 이야기하지만 화자 1은 회장님이 보내주지 않을 것이라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01699_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

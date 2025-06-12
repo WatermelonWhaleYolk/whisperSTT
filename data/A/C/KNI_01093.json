@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01093",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.285,
+        "format": "MP4",
+        "date": "2022-06-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "만들 수 있을 거라는 자신감이 많이 생겼어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자신감이 넘치는 이유 스타트와 터치 돌핀킥 등 호주의 명장 이안 포프와 가진 6주간 훈련 효과를 실감하고 있기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.518,
+                "end": 12.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 호주로 가서 6주 동안 열심히 훈련한 걸 빠짐없이 다 보여주고 싶은 대회로 만들고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.200,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "스타트와 터치 돌핀킥 등 호주의 명장 이안 포프와 가진 6주간 훈련 효과를 실감하고 있기 때문에 자신감이 넘친다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01093_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

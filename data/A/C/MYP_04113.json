@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_04113",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.385,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "본 게임은 예로부터 수많은 용사님을 엔딩까지 이끈 명문 RPG로서 오랜 전통과 역사를 자랑합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.924
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엔딩까지 도달하지 못한 용사님은 거의 없다시피 하지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.934,
+                "end": 16.748
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 말이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.758,
+                "end": 18.385
+            }
+        ]
+    },
+    "summary": "이 게임은 수많은 용사님을 엔딩까지 이끈 명문 RPG로서 오랜 전통과 역사를 자랑한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04113_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

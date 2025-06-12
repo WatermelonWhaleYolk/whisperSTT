@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYP_03911",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.854,
+        "format": "MP4",
+        "date": "2021-01-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고열, 몸살, 구토, 어지럼증 등을 동반한 이 증세는",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.360
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 @이름1 오늘은 안 아프냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.370,
+                "end": 7.286
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 예. 조금 나아진 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.296,
+                "end": 10.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1년에 대 여섯번씩",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.285,
+                "end": 12.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오호라 그렇단 말이지 그럼 오늘 문제는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.860,
+                "end": 18.852
+            }
+        ]
+    },
+    "summary": "20대 남성은 학창 시절에 1년에 대여섯번씩 고열, 구토 등의 증세를 동반한다고 이야기해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03911_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 152
+                }
+            ]
+        }
+    ]
+}

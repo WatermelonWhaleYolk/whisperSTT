@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00174",
+        "category": "스포츠뉴스",
+        "sub_category": 38,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.458,
+        "format": "MP4",
+        "date": "2023-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 정부 3년 차에 치러지는 내년 총선 정권 중간 심판론과 거대 야당 심판론의 대결 구도가 될 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.977
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여야의 관심은 두꺼운 무당층의 쏠립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.987,
+                "end": 12.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거대 양당 지지율은 큰 차이가 없는 반면 지지 정당이 없다는 응답은 28퍼센트 3분의 1에 이릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.637,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "내년 총선에서 윤석열 정부 3년 차에 치러지는 정권 중간 심판론과 거대 야당 심판론의 대결이 예상되며 두 여야의 관심은 무당층에 집중될 것으로 예상된다. 두 대형 양당의 지지율은 큰 차이가 없지만 지지 정당이 없다는 응답은 3분의 1에 이른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00174_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

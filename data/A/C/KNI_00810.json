@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNI_00810",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2023-02-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2년 연속 주장을 맡은 주전 유격수 @이름1을 신인 시절부터 지켜본 @소속1 @이름2 감독의 신뢰도 높습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.858
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 궁극 자체가 굉장히 부드럽고 자신에 대한 관리를 굉장히 잘하는 선수 중의 1명이기 때문에 유격수로서 가장 오랜 시간 어떤 선수 생활을 해줄 수 있을지 않을까.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.868,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "유격수 @이름1에 대한 감독의 신뢰도가 높다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00810_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 61,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "MYP_04345",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.389,
+        "format": "MP4",
+        "date": "2019-10-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "매일 아침 시뻘건 물을 쏟아냈다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.216
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘의 미술 피 흘리는 새두 거북상 작가 미상 매일 머리를 감을 때마다 붉은 피를 쏟는 고행을 한 한국의 한 거북이를 기리기 위해 세워진 동상.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.226,
+                "end": 22.389
+            }
+        ]
+    },
+    "summary": "한 캐릭터가 머리를 감을 때마다 빨간 물이 나오는 것을 예술화 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04345_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

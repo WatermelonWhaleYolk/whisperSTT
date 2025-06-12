@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03758",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.125,
+        "format": "MP4",
+        "date": "2021-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시끌벅적 시장통의 사람냄새나는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.053
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어서 오세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.063,
+                "end": 4.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "러블리함?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.114,
+                "end": 5.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나의 할머니가",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.599,
+                "end": 6.735
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내 예상과 많이 달랐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.745,
+                "end": 9.594
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "더군다나 우리 둘 빼고 모두 커플에 자리도 한가운데 테이블만 비어있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.604,
+                "end": 15.522
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 우리 그냥 삼겹살이나 먹을까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.532,
+                "end": 20.242
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하하하 뭐라는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.252,
+                "end": 21.523
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이 빡빡이가 여기 빙수 잘 해 있어 봐봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.533,
+                "end": 25.125
+            }
+        ]
+    },
+    "summary": "빙수 가게는 예상과 많이 달랐고 모두 커플이라서 삼겹살이나 먹으러 가자고 했지만 그는 거절한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03758_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

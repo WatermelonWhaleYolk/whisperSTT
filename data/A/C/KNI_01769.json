@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_01769",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.674,
+        "format": "MP4",
+        "date": "2018-12-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실명이 공개되자 파문이 일었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해당 선수들은 즉각 구단을 통해 승부 조작은 사실무근이며 법적 대응을 진행하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.204,
+                "end": 8.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제로 이재학과 정대현은 당시 검찰 참고인 조사 결과 무혐의 처분을 받은 바 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.928,
+                "end": 14.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실명이 공개된 한화 투수 정우람은 오늘 참석 예정이었던 골든 글러브 시상식에 불참했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.717,
+                "end": 21.666
+            }
+        ]
+    },
+    "summary": "실명이 공개된 선수들은 사실무근이라며 법적 대응을 진행하겠다고 밝혔으며 정우람은 참석 예정이었던 골든 글러브 시상식에 불참했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01769_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

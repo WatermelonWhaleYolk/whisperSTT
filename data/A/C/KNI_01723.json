@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_01723",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.946,
+        "format": "MP4",
+        "date": "2018-03-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이로써 예선에서 4전 전승을 올린 휠체어 컬링 대표팀은 여자 컬링 대표팀에 이어 컬링 열풍에 다시 한번 불을 붙였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.957
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 결과 나와서 굉장히 만족스럽고 좋은데 앞으로 남은 경기 또한 더 열심히 중심을 잡고 잘해야 될 것 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.967,
+                "end": 21.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 대표팀은 잠시 뒤 저녁 7시 35분부터 독일을 상대로 예선 5연승을 노립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.139,
+                "end": 27.933
+            }
+        ]
+    },
+    "summary": "우리 휠체어 컬링 대표팀은 예선 4전 전승을 올렸고 잠시 뒤 독일을 상대로 예선 5연승을 노리고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01723_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

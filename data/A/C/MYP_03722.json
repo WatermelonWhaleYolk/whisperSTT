@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYP_03722",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.653,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "없긴 왜 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.463
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직 최후의 보루가 남아있었다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.473,
+                "end": 4.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자연의 운치가 피부로 느껴질 만큼 가까오며 거센 빗방울도 문제없는 그곳 바로 원두막이었다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.610,
+                "end": 16.314
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심야 편에서 계속",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.324,
+                "end": 20.653
+            }
+        ]
+    },
+    "summary": "최후의 보루는 거센 빗방울도 문제없는 원두막이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03722_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

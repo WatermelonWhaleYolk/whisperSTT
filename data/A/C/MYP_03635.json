@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYP_03635",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2021-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 거기에 가만히 계세요",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금부터 복장검사를 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.742,
+                "end": 6.008
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "히익 이 사람 무기를 갖고 있잖아?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.018,
+                "end": 9.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 풍기위원이 할 일인가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.425,
+                "end": 11.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저리 가",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.680,
+                "end": 16.116
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.126,
+                "end": 17.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기까지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.159,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "복장검사를 하는데 무기를 가지고 있어서 놀래면서 이것도 풍기위원이 할 일이냐며 하늘로 날려버린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03635_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

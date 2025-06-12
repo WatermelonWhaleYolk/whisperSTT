@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00242",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀은 내일 영국 모레 카자하스탄과 대결하는데 두 팀 모두 우리보단 랭킹이 낮습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연장전 없이 2연승을 거두면 자력으로 대회 우승을 차지하면서 사상 최초로 2부 리그 승격을 맛볼 수 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.264,
+                "end": 13.514
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 다시 언니들하고 감독님하고 뭉쳐서 더 좋은 성적을 낼 수 있도록 노력하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.524,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "대표팀은 우리보다 랭킹이 낮은 영국, 카자하스탄과 대결하는데 연장전 없이 2연승을 거두면 자력으로 대회 우승을 차지하면서 사상 최초로 2부 리그 승격이 가능합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00242_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_01644",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.6,
+        "format": "MP4",
+        "date": "2019-04-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "프로축구연맹은 상벌위원회를 열고 축구장 유세 논란에 휩싸인 경남 구단에 제재금 2000만 원의 징계를 내렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자유한국당 황교안 대표 등이 경기장에서 금지된 선거 유세를 펼쳐 정치적인 중립성과 차별 금지라는 프로연맹 정관 제5조를 여겼다는 것이 이유입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.671,
+                "end": 19.600
+            }
+        ]
+    },
+    "summary": "프로축구연맹은 상벌위원회를 열고 자유한국당 황교안 대표 등이 경기장에서 금지된 선거 유세를 펼친 것에 대해 경남 구단에 제재금 2000만 원의 징계를 내렸습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01644_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

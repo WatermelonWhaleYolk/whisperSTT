@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_00123",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.924,
+        "format": "MP4",
+        "date": "2023-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다만 자기도 모르게 마약을 접촉했을지 모른다는 불안감이 학부모들 사이에 퍼지고 있고 인근 학교들도 주의를 요구하는 공문을 보냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 깜짝 놀랐어요 소름 끼치고 그리고 집 앞에서 이런 일이 벌어지니까 어 더더욱 더 조심해야 되겠구나라는 또 생각이 들고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.449,
+                "end": 16.843
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다른 사람이 주는 음료나 음식은 절대 받으면 안 된다는 걸 한 번 더 상기시켜 주고 그 방법밖에는 사실 없는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.853,
+                "end": 24.924
+            }
+        ]
+    },
+    "summary": "다만 자기도 모르게 마약을 접촉했을지 모른다는 불안감이 학부모들 사이에 퍼지고 있고 인근 학교들도 주의를 요구하는 공문을 보냈습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 66,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

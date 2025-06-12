@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_04221",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.365,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엘리트 주의와 독단에 찌든 개인의 불찰로 수호대 최악의 치욕을 안긴 죄로 퇴직을 선고한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 14.126
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "판결은 사형, 즉결은 사형, 사형",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.136,
+                "end": 19.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 소호대 명찰을 돌려받도록 하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.292,
+                "end": 21.680
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안돼 이렇게 끝낼 순 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.690,
+                "end": 24.085
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이건 분명히 누군가의 음모라고 이렇게는 안돼 이렇게는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.095,
+                "end": 32.365
+            }
+        ]
+    },
+    "summary": "엘리트 주의와 독단에 찌든 개인의 불찰로 수호대 최악의 치욕을 안긴 죄로 퇴직을 선고하고 수호대 명찰을 돌려받도록 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04221_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "KNI_00663",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.928,
+        "format": "MP4",
+        "date": "2023-01-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "80킬로그램 이하 급인 태백급 결승전.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 판부터 2차례 장외가 선언되는 등 팽팽한 신경전이 펼쳐졌는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.560,
+                "end": 8.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 역시 놈은 노범수였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.990,
+                "end": 11.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "들배지기로 첫 판을 따낸 노범수는 기세를 올려 두 번째 판에서는 안다리로 가볍게 김현수를 넘어뜨렸습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.522,
+                "end": 18.748
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잡채기로 세 번째 판을 따낸 노범수는 포효하면서 기쁨을 만끽했는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.758,
+                "end": 24.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노범수 열여섯 번째 장사 타이틀을 획득했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.360,
+                "end": 28.928
+            }
+        ]
+    },
+    "summary": "노범수는 들배지기로 첫 판을 따내고 두 번째 판에서 안다리로 가볍게 넘어뜨리며 잡채기로 세 번째 판을 따내면서 열여섯 번째 장사 타이틀을 획득했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00663_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00663_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

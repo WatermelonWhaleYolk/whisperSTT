@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01005",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.896,
+        "format": "MP4",
+        "date": "2022-01-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "휠체어 컬링 대표팀이 선수단 5명의 성을 따서 이처럼 재미있는 팀 애칭을 정했다며 많이 응원해 달라고 요청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한장애인체육회는 훈련 공개에 이어 동계 패럴림픽 선수단의 훈련 개시식을 열고 선전을 다짐했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.328,
+                "end": 21.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금까지 6개 종목 29장의 출전권을 따낸 우리나라는 3월에 열리는 이번 대회에 약 80명의 선수단을 파견합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.385,
+                "end": 29.896
+            }
+        ]
+    },
+    "summary": "대한장애인체육회는 훈련 공개에 이어 동계 패럴림픽 선수단의 훈련 개시식을 열고 선전을 다짐했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

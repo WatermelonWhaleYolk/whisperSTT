@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01640",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.066,
+        "format": "MP4",
+        "date": "2019-03-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한체육회는 선수들을 폭행한 지도자는 경미한 경우 1년 이상, 중대한 경우에는 3년 이상 자격을 정지하도록 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 김해시가 성적을 이유로 폭력 코치를 재임용하면서 25년 역사의 명문 하키 팀이 해체 위기에 놓였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.830,
+                "end": 17.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.709,
+                "end": 20.066
+            }
+        ]
+    },
+    "summary": "대한체육회는 선수들을 폭행한 지도자는 경미한 경우 1년 이상, 중대한 경우에는 3년 이상 자격을 정지하도록 하고 있는데 김해시가 폭력 코치를 재임용하면서 하키 팀이 해체 위기에 놓였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01640_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_01944",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.56,
+        "format": "MP4",
+        "date": "2021-12-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한빙상경기연맹은 오늘 오후 3시 스포츠 공정위원회를 열어 심 선수의 징계 여부와 수위를 결정할 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심 선수는 오늘 직접 출석해 소명할 것으로 알려졌는데 스포츠 공정위에서 자격 정지 2개월 이상의 징계를 받으면 동계 올림픽 출전 자격을 잃게 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.711,
+                "end": 18.551
+            }
+        ]
+    },
+    "summary": "심 선수는 오늘 스포츠 공정위에서 직접 출석할 예정이며 자격 정지 2개월 이상의 징계를 받으면 동계 올림픽 출전 자격을 잃게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01944_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

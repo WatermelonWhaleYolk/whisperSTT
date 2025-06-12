@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_00886",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.864,
+        "format": "MP4",
+        "date": "2023-02-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2부 리그 경기 맞나요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 버스에서 내리자 이미 도착해서 기다리던 많은 팬들이 @이름1을 환영해 줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.607,
+                "end": 9.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 중에도 @이름1 팬들의 응원 열기는 1부 리그를 방불케 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.373,
+                "end": 13.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1의 화려한 슛이 터질 때마다 팬들의 환호성도 함께 터졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.873,
+                "end": 19.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팬들의 응원에 화답하듯 26 득점을 올리며 상무를 우승으로 이끈 @이름1",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.097,
+                "end": 24.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1부 리그에 이어서 2부 리그에서도 최우수 선수로 꼽히는 영광을 맛봤습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.903,
+                "end": 30.864
+            }
+        ]
+    },
+    "summary": "2부 리그 @이름1은 팬들의 응원에 화답하듯 26득점을 올리며 상무를 우승으로 이끌었으며 최우수 선수로 꼽혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00886_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

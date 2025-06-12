@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01090",
+        "category": "스포츠뉴스",
+        "sub_category": 24,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.992,
+        "format": "MP4",
+        "date": "2022-06-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도쿄 올림픽 사브르 단체전 금메달을 합작했던 구본길과 김정환이 아시아 최강 자리를 놓고 승부를 펼칩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "39살 맏형 김정환이 초반 맹공을 펼치며 기세를 올리는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.000,
+                "end": 11.875
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 침착하게 반격에 나선 후배 구본길이 승부를 뒤집으며 금메달을 획득했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.879,
+                "end": 18.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선의의 경쟁을 펼친 두 선수는 물론 막내 오상욱도 동메달을 따내면서 사브르 개인전 메달을 모두 획득했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.410,
+                "end": 25.992
+            }
+        ]
+    },
+    "summary": "사브르 선수 구본길과 김정환이 아시아 최강 자리를 놓고 승부를 펼쳤는데 구본길이 금메달 김정환이 은메달 오상욱이 동메달을 따냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01090_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

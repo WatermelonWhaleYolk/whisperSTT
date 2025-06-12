@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYP_03823",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.106,
+        "format": "MP4",
+        "date": "2021-04-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 키워야 돼. 어제 주문했어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.171
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 물어보지도 않고 날 홀애비 만들어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.181,
+                "end": 7.078
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "빅딜을 제시했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.088,
+                "end": 9.767
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 두 거북과의 동거가 시작되었고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.767,
+                "end": 15.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 세로줄이 있는 녀석이 서든 페인티드 내 꺼고 다른 한 녀석은 웨스턴 페인티드.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.491,
+                "end": 21.087
+            }
+        ]
+    },
+    "summary": "같은 과 형이 거북이 두 마리를 구해서 두 거북과의 동거가 시작되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03823_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

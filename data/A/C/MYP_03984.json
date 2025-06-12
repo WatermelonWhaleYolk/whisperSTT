@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYP_03984",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.02,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저퀄로 간다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.064
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 이 뭔.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.074,
+                "end": 3.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쑥떡같이 얘기해도 개떡같이 알아 처먹네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.319,
+                "end": 5.287
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "미안하다 내가 못 말렸다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.297,
+                "end": 9.050
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "자신만의 독자적인 해법을 완성시켜 나갔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.060,
+                "end": 12.987
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그의 컨셉은 이랬다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.997,
+                "end": 16.442
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "밥 보다 좋은 감자칩이라는 명제하에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.452,
+                "end": 20.020
+            }
+        ]
+    },
+    "summary": "주인공과 친구들은 밥보다 좋은 감자칩이라는 제목으로 오래 된 카메라를 가지고 촬영을 하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03984_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

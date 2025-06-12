@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_02942",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.133,
+        "format": "MP4",
+        "date": "2020-03-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 이름은 네이마르 바르셀로나에서 좆같은 매선 실세에 묻히는 바람에 내 가치를 평가절하당하는 게 부당하다 느껴 파리로 이적해 온 지 어느새 3년이 되어가는군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파리에서는 내가 왕이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.595,
+                "end": 12.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋은 집 높은 주급 내 위주의 경기 진행에 봉골레 하나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.191,
+                "end": 17.133
+            }
+        ]
+    },
+    "summary": "네이마르가 바르셀로나에서 매선 실세에 묻혀 내 가치를 평가절하당하는 게 부당하다 느껴 파리로 이적해 온 지 어느새 3년이 되어간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02942_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

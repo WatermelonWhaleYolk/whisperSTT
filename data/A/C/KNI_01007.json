@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01007",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.93,
+        "format": "MP4",
+        "date": "2022-01-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 팬데믹 속 열리는 동계 올림픽은 베이징 주변 세 개 권역에서 다음 달 4일 개막해 17일간의 열전이 펼쳐집니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한편 올림픽 결단식에서 체육회 직원 1명이 코로나 양성 반응이 나와 참석한 선수단 전원이 PCR 검사를 받고 숙소에서 격리 대기하도록 조치됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.240,
+                "end": 19.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.965,
+                "end": 21.921
+            }
+        ]
+    },
+    "summary": "코로나 팬데믹 속에서 열리는 동계 올림픽은 베이징 주변 세 개 권역에서 다음 달 4일에 개막되어 17일간 열전이 펼쳐진다. 그리고 올림픽 결단식에서 체육회 직원 1명이 코로나 양성 판정을 받아 참석한 선수단 전원이 PCR 검사를 받고 숙소에서 격리 대기 조치가 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01007_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 49,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

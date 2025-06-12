@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_00862",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.901,
+        "format": "MP4",
+        "date": "2022-12-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "노쇼를 노쇼로 갚아주시다니 흥민이 아버님 센스가 보통이 아니시군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 흥민이가 이번에 부상을 극복하고 한국 대표팀을 16강에 올려놓았는데 어떻게 이만하면 월드 클래스라 할 수 있겠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.872,
+                "end": 10.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말씀 중에 죄송하지만 우리 흥민이 절대 월드 클래스 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.707,
+                "end": 14.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 솔직히 그 정도 전력으로 16강에 올라갔으면 이제 그만 인정해주셔야 하는 거 아닙니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.356,
+                "end": 19.034
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "16강에 올라갔다고 트로피가 나옵니까 아이 그래도 우승 후보였던 포르투칼도 잡고 했으니 어느 정도 성공했다고 봐도 하지만 어디 가벼운 타박상도 아닌 안와골절이라는 치명적인 부상을 안고 기적적으로 대표팀을 16강에 올려놓은 환상적인 어시스트는 물론 대표팀 주장으로서 모든 선수들을 다독이며 목표했던 16강에 올라갔다 그 정도면 솔직히 월드 클래스 맞지 않습니까 아뇨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.044,
+                "end": 41.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 흥민이 절대 월드 클래스 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.860,
+                "end": 44.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 대단한 일을 해냈는데 월클 가지고 되겠습니까 월클을 넘어선 래클.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.011,
+                "end": 48.900
+            }
+        ]
+    },
+    "summary": "노쇼를 노쇼로 갚아줬으니 센스가 보통이 아니라며 흥민이가 이번에 부상을 극복하고 한국 대표팀을 16강에 올려놓았는데 이만하면 월클이라고 할 수 있지 않냐고 얘기하자 그렇게 대단한 일을 해냈는데 월클 가지고 되겠냐며 월클을 넘어선 래클이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00862_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

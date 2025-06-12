@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01773",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.766,
+        "format": "MP4",
+        "date": "2017-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "북한 측 태권도 시범단이 오늘 오후 3시 김포 공항을 통해 도착했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북측 시범단은 @이름1 국제 올림픽 위원회 위원을 비롯해 38명으로 구성됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.721,
+                "end": 10.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전북 전주의 숙소에서 오늘 밤을 묵고 세계 태권도 선수권 대회가 개막하는 내일 대회 장소인 무주 태권도원으로 이동할 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.833,
+                "end": 19.766
+            }
+        ]
+    },
+    "summary": "무주 태권도원에서 열리는 세계 태권도 선수권 대회에 참가하기 위해 38명으로 구성된 북한 측 태권도 시범단이 김포 공항을 통해 도착했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01773_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 67,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

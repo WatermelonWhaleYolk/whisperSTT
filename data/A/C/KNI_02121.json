@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_02121",
+        "category": "스포츠뉴스",
+        "sub_category": 21,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.566,
+        "format": "MP4",
+        "date": "2019-09-30",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "떠오르는 육상 샛별 @이름1은 마라도에서 체화된 성화 주자로 나서 눈길을 끌었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "100회 체육대회 때 성화봉송이 돼서 되게 뜻깊은 것 같고 내년에는 전국 체전에서 더 열심히 해서 찾아뵙겠습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.483,
+                "end": 15.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학화 된 성화는 서울 곳곳을 돌다 4일 개막식이 열리는 잠실 주경기장에 입성합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.984,
+                "end": 23.566
+            }
+        ]
+    },
+    "summary": "떠오르는 육상 샛별이 성화 주자로 나서서 눈길을 끌었으며 학화 된 성화는 서울 곳곳을 돌다 개막식이 열리는 잠실 주경기장에 입성했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02121_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 11,
+                    "act": 51
+                }
+            ]
+        }
+    ]
+}

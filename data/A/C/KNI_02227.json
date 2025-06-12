@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_02227",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.933,
+        "format": "MP4",
+        "date": "2016-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3차전 호주와의 경기는 무엇보다 체력이 중요한 변수가 될 전망입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.746
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어느 대회에서도 찾아볼 수 없는 빡빡한 일정 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.756,
+                "end": 8.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀은 월, 수, 금 이틀 간격으로 이어지는 강행군을 계속하고 있는 데 피파 권장사항인 48시간 휴식도 제대로 지켜지지 않는 이례적인 일정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.746,
+                "end": 19.933
+            }
+        ]
+    },
+    "summary": "여자 축구 대표팀은 이틀 간격으로 일정이 정해져 있어 피파 권장 사항인 48시간 휴식 시간 지켜지지 않고 있어 3차전 호주와의 경기에서 체력이 관건이 될 것으로 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02227_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

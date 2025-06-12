@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00561",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.75,
+        "format": "MP4",
+        "date": "2023-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쇼트 프로그램 101.04점 2위 @이름1과 19점 이상 차이가 나는 압도적인 1위였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.385
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "열심히 연습을 해왔었고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.395,
+                "end": 10.231
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올해 또 첫 경기이기 때문에 더 열심히 준비해서 좀 잘 마무리한 것 같아서 만족스러운 것 같습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.241,
+                "end": 16.750
+            }
+        ]
+    },
+    "summary": "압도적인 1위를 한 선수는 열심히 연습을 해왔고 올해 첫 경기이기 때문에 잘 마무리한 것 같아서 만족스럽다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00561_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03145",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 33.933,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 어쨌든 뽑았죠?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마녀 사냥이다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 7.311,
+                "end": 13.016
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "죽여라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.026,
+                "end": 14.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러는 데. 갑자기 왜 그러는 데.8 나 용사잖아. 마녀 사냥 왜 하는데. 근거가 뭔데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.243,
+                "end": 19.514
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "더러운 마물 찌끄래기가 뚫린게 입이라고 나불거리는 꼴이 참으로 역겹구나. 마녀 사냥의 근거는 성겅을 뽑지 못한 너의 더러운 영혼이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.524,
+                "end": 28.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 어쨌든 뽑았잖아. 어쨌든 뽑았잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.603,
+                "end": 31.271
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "닥쳐라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.281,
+                "end": 33.933
+            }
+        ]
+    },
+    "summary": "여성이 칼을 뽑았음에도 마물이라고 여겨지며 마녀 사냥 당하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03145_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

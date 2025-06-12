@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYP_03861",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2021-03-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 나는 보딩길에 올랐고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 간다 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.633,
+                "end": 2.667
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "잘하네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.677,
+                "end": 4.615
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어어어어오우우우우우우아와와악",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.625,
+                "end": 7.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역시 즐길 기분이 아니였다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.270,
+                "end": 10.822
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "거 봐라. 재밌지? 아하하하하하하",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.832,
+                "end": 14.306
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "스노보드고 망할 널빤때기놈들.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.316,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "20대 유튜버가 강제로 헝들을 따라 보딩을 하려고 했지만 제대로 되지 않고 스노보드를 타다가 넘어지게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03861_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

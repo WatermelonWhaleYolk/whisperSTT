@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_02820",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.2,
+        "format": "MP4",
+        "date": "2020-06-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "린가드 아스날로 이적한다는 거 사실이냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.456
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 아 아스날요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.466,
+                "end": 3.943
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 저도 아직은 잘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.953,
+                "end": 5.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "번개맨 님이 달풍선 10개를 선물하셨습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.157,
+                "end": 7.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꺼져라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.873,
+                "end": 8.755
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 꺼지라뇨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.765,
+                "end": 9.866
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 너무들 하시네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.876,
+                "end": 10.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 남들을 훈련도 열심히하고 골도 뭐 넣기 싫어서 안 넣겠어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.980,
+                "end": 14.509
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 진짜 사람이 실수할 수도 있지 너무들 하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.519,
+                "end": 17.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "메시린가드 님이 달풍선 100개를 선물하셨습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.171,
+                "end": 20.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "린가드 욕하지 마라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.522,
+                "end": 22.200
+            }
+        ]
+    },
+    "summary": "린가드에게 아스날로 이적한다며 꺼지라는 메시지에 남성이 너무한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02820_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

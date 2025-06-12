@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00259",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2023-04-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수촌 훈련장의 네트를 직접 설치하는 김연경의 모습.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음 보는 낯선 장면인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.550,
+                "end": 6.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "발리볼네이션스리그를 위해 모인 대표팀 선수들에게 조언도 아끼지 않는 김연경 고문.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.825,
+                "end": 12.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한유미 신임 코치와도 소통하며 대표팀에 힘을 불어넣기 시작했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.355,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "김연경 고문이 발리볼네이션스리그를 위해 모인 대표팀 선수들에게 조언도 아끼지 않았고 한유미 신임 코치와도 소통하며 대표팀에 힘을 불어넣기 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00259_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

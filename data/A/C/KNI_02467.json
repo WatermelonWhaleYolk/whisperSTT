@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "KNI_02467",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 52.118,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "출발했습니다 400미터 어 자 첫 선수는 이제 빠졌고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1 선수 @이름1 선수가 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.025,
+                "end": 8.294
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에서 @이름1 선수가 이 코스에서 들어갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.304,
+                "end": 11.461
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 @이름2 선수도 만만치가 않아요 자 662번의 @이름2 @이름2과 @이름1 @이름2 @이름1이냐 @이름1이 조금 빠릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.471,
+                "end": 18.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 빠르고 자 @이름2도 @이름2 마지막 추격 @이름1 @이름2 @이름1이 먼저 들어왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.947,
+                "end": 25.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 @이름1 선수가 깜짝 놀랐겠는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.728,
+                "end": 29.901
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 @이름2 선수의 이 레이스도 좋았네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.911,
+                "end": 35.359
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 쌍둥이 자매 @이름3 선수의 어 확실히 좋은 유전자가 있는 거 같습니다 스피드에",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.369,
+                "end": 43.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.286,
+                "end": 44.244
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 여기서는 거의 앞서 있었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.254,
+                "end": 47.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 @이름2 선수가",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.597,
+                "end": 49.289
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 선수가 후반에",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.299,
+                "end": 52.118
+            }
+        ]
+    },
+    "summary": "여자 대학 일반부 200미터 육상 경기에서 @이름1 선수와 @이름2 선수가 접전을 펼친 끝에 @이름1 선수가 우승을 차지했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02467_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

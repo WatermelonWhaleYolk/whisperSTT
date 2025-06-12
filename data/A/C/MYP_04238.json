@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYP_04238",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.126,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "팀원들을 그렇게 못 믿나 싶기도 하고 소속감도 영 없고 좀 섭섭하긴 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아휴 우리도 잘 할 수 있는데 에 좀 삐짐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.896,
+                "end": 10.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 이거 대리님이 아시면 저 뒤지는 데 예 버드님들이 어떻게 작전지 알고 찾아오시는지 아 그거요 그러니까 달걀을 탈취할 때 시간과 장소가 적힌 메시지를 남깁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.143,
+                "end": 26.126
+            }
+        ]
+    },
+    "summary": "대리님이 팀원들을 그렇게 못 믿나 싶기도 해서 섭섭하고 버드님들은 달걀을 탈취할 때 시간과 장소가 적힌 메시지를 남겨두면 그걸 보고 작전지에 찾아온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04238_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

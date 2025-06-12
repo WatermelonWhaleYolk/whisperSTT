@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYP_04341",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2019-10-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 해드릴까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빨간 머리 빨간 머리.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.464,
+                "end": 3.474
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "처음엔 내 요구를 소프트한 것으로 이해했던 디자이너도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.484,
+                "end": 8.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 컬러 말씀하시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.357,
+                "end": 10.266
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빨간 머리 빨간 머리.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.276,
+                "end": 12.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그럼 요 컬러요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.778,
+                "end": 14.710
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빨간 머리 빨간 머리.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.720,
+                "end": 17.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그럼 이거.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.112,
+                "end": 19.388
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빨간 머리 빨간 머리.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.398,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "한 캐릭터가 디자이너에게 빨간 머리를 해달라고 요구하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_04341_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

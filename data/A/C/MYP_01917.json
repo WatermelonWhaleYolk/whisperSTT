@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_01917",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.033,
+        "format": "MP4",
+        "date": "2021-09-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이 챔스 조별 예선을 말아 먹은 새끼를 무려 두 명의 호날두로 바꿔준다니 저거 정말 물건이잖아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.063
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물건은 무슨 물건이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.073,
+                "end": 6.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저거 진짜 호날두 맞아? 허날득 아니냐고 허날득",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.410,
+                "end": 8.980
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "못 믿으시겠으면 직접 구매하셔서 사용해보시면 되죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.990,
+                "end": 11.813
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 딱 한 번만 더 보여드릴까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.823,
+                "end": 13.722
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 두 명의 호날두 선수 다시 들어주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.732,
+                "end": 17.033
+            }
+        ]
+    },
+    "summary": "아이 챔스 조별 예선을 말아 먹은 사람을 두 명의 호날두로 바꿔준다니 정말 물건이라며 좋아하자 호날두가 아니라 허날득 아니냐며 못 믿어 했고 직접 구매해서 사용해 보라며 두 명의 호날두 선수를 다시 기계에 들여보내며 한 번만 더 보여준다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01917_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

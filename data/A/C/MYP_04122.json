@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_04122",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.596,
+        "format": "MP4",
+        "date": "2020-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모데우스 씨잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혼자 뭘 보는 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.865,
+                "end": 6.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모데우스 뭘 보고 있어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.550,
+                "end": 14.275
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 팬케이크.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.285,
+                "end": 16.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.379,
+                "end": 17.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜긴 너 이거 좋아했잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.237,
+                "end": 20.748
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같이 지옥에서 나갈 때 기억나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.758,
+                "end": 24.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 지금 생각해도 흥겨운 모험이었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.577,
+                "end": 29.596
+            }
+        ]
+    },
+    "summary": "모데우스가 숨어서 남자가 다른 사람에게 팬케이크를 주면서 얘기하는 것을 지켜보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04122_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

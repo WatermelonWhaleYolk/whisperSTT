@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01293",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.651,
+        "format": "MP4",
+        "date": "2022-12-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 승리할 수 있어서 정말 좋고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이가 오늘 결장을 했는데 @이름1이 없이도 다른 선수들이 한 발 더 뛰어줘 가지고 오늘 이길 수 있었던 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.170,
+                "end": 10.032
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직 정상 컨디션을 찾지 못한 케이비 @이름2는 약 1분만 출전해 2득점 2리바운드를 기록했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.042,
+                "end": 16.764
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.774,
+                "end": 18.651
+            }
+        ]
+    },
+    "summary": "컨디션을 찾지 못한 박지수는 2득점 2리바운드를 기록했다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01293_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_01348",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.666,
+        "format": "MP4",
+        "date": "2022-05-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마지막까지 예측할 수 없었던 4위 쟁탈전까지 이러니까 개콘이 망하지라는 말이 나올 정도로 재미있었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 재미를 마지막까지 유지하려면 어떻게 해야 되는지 알고 있지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.212,
+                "end": 9.797
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "최종 순위 4위를 지키면서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.045,
+                "end": 11.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 흥민이 득점 왕까지 만들기 위해 노리치를 상대로 대승을 가져오겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.600,
+                "end": 21.666
+            }
+        ]
+    },
+    "summary": "이번 시즌은 마지막까지 예측할 수 없었던 4위 쟁탈전까지 이러니까 개콘이 망하지라는 말이 나올 정도로 재미있었으며 선수들은 그 재미를 마지막까지 유지하기 위해 노리치를 상대로 대승을 거둬 최종 순위 4위를 지키면서 손흥민을 득점 왕으로 만들겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01348_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

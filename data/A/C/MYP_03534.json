@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03534",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.69,
+        "format": "MP4",
+        "date": "2022-05-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한마디로 사이코즈는 테스트용이란 말이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.463
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭣이 우리를",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.473,
+                "end": 6.974
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "끝내기 맞은 주제에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.984,
+                "end": 8.292
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "풋 난 그럼 난 메이저 가도 되겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.302,
+                "end": 10.526
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그래 그럼 함 해보지 다들 똥구멍 발짝 끌어모아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.536,
+                "end": 15.241
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "아 놔 저 영감탱이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.251,
+                "end": 19.686
+            }
+        ]
+    },
+    "summary": "한마디로 사이코즈는 테스트용이란 말에 다들 똥구멍 바짝 끌어모아 한번 해보기로 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03534_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

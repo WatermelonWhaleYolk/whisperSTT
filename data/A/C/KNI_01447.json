@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01447",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2023-04-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우상혁이 힘찬 도약으로 바를 훌쩍 넘으며 가벼운 몸놀림을 자랑합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유니폼마저 벗어던지고 나선 마지막 시도에선 2 미터 30을 넘어 다음 달 대회를 앞두고 자신감을 얻었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.799,
+                "end": 14.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "컴온",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.737,
+                "end": 18.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 도하 가기 전 마지막 점프라고 코치님이 말씀을 해주셨고 편하게 뛰었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.110,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "우상혁이 힘찬 도약으로 바를 훌쩍 넘으며 가벼운 몸놀림을 자랑했고 유니폼마저 벗어던지고 나선 마지막 시도에선 2 미터 30을 넘어 다음 달 대회를 앞두고 자신감을 얻었다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01447_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 39
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,635 @@
+{
+    "metadata": {
+        "filename": "MYP_00718",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 243.0,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 나이에 대한 부분은 어느 정도 인정해 드리겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 지난 북런던 더비에서의 자책 골은 어떻게 설명하실 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.300,
+                "end": 6.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고작 1살 더 먹었다고 그 정도 볼도 처리하지 못하다니 설마 떡국을 한 10그릇 드시면서 한 번에 10살을 추가하신 건 아니겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.318,
+                "end": 13.702
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그건 솔직히 저의 판단 미스가 있었으나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.712,
+                "end": 16.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마치 손바닥에 기름이라도 발라 놓은 듯 골문 안으로 미끄러져 들어가던데, 혹시 경기 전에 골키퍼 장갑 끼고 김밥이라도 말고 오신 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.066,
+                "end": 23.359
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김밥은 무슨, 물론 저 답지 못한 볼 처리로 선제 골을 내어 주었지만, 그 뒤로 몇 차례의 선방을 보여주며 팀을 위기에서 구해냈다는 거 아시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.369,
+                "end": 30.257
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "솔직히 제가 없었더라면 2골이 뭐야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.267,
+                "end": 32.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최소 4골 이상 내어 주면서 완벽하게 무너졌을 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.391,
+                "end": 35.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "슈팅 몇 번 막았다 해서 자책 골의 죄가 사라지는 건 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.027,
+                "end": 38.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원정 경기에서 모든 슈팅을 막아냈던 아스날의 램스데일, 그 정도 선방은 보여줘야 비로소 무죄 골키퍼가 될 수 있는 거라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.236,
+                "end": 45.330
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "램스데일 앞에는 마갈랑스와 살리바가 있고 제 앞에는 다이와 랑글레가 있다는 거 아시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.340,
+                "end": 49.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "위기 상황만 2배 이상 만들어 내며 하라는 수비는 안 하고 제 시야를 방해하고 앉았는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.646,
+                "end": 54.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "로메르만 쏙 빼놓고 얘기하신 게 살짝 수상하지만, 수비들의 책임도 있다는 것은 어느 정도 인정해 드리겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 54.386,
+                "end": 59.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 형편 없는 수비 라인만큼이나 피고의 형태 없는 빌드업은 어떻게 설명 하실 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 59.763,
+                "end": 64.442
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제 발밑이 좋지 못하다는 건 인정하지만 빌드업 능력이 골키퍼의 필수 요소는 아니지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 64.452,
+                "end": 69.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현대 축구에서는 필수 요소라는 거 모르십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 69.247,
+                "end": 71.709
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것 때문에 피고가 전성기 시절 수준급의 선망을 보여주었음에도 향상 저평가를 당해 왔던 거라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 71.719,
+                "end": 77.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇다고 10점짜리 빌드업을 20점으로 키워봤자 뭐 얼마나 달라지겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 77.547,
+                "end": 81.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "차라리 선방에 좀 더 집중하는 게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 81.290,
+                "end": 83.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "적어도 골킥만큼은 정확하게 차셨어야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 83.201,
+                "end": 85.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오래전부터 피고는 세모발이라는 별명을 갖고 계실 만큼 부정확한 골 킥을 보여줬습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 85.614,
+                "end": 90.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 그래도 공격 기회가 적은 토트넘에서 피고의 골 킥이 상대 스로인으로 이어질 때 최전방에 있던 저의 심정이 어땠을 것 같습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 90.268,
+                "end": 97.238
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그야 뭐 속으로 ‘이런 시발'을 외치고 계셨겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 97.248,
+                "end": 100.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럴 뿐만 아니라 피고는 오른발을 쓰면 무슨 큰일이라도 나는 것처럼 극단적인 왼발잡이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 100.126,
+                "end": 104.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대의 슈팅은 물론 수비들의 백패스도 오른발로 처리해야 할 경우가 많은데 굳이 왼발을 고집하다가 엉뚱한 데로 날려 먹은 게 어디 한두 번이어야 말이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 104.923,
+                "end": 113.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세모발부터 짝다리까지 제 발밑이 부족하다는 건 인정합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 113.374,
+                "end": 116.694
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 적어도 선방만큼은.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 116.704,
+                "end": 118.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼에도 불구하고 리옹에서 두 번의 컵 대회 우승, 프랑스에서는 월드컵 우승까지 해내셨죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 118.179,
+                "end": 122.988
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 왜 도트넘에서는 단 한 차례도 우승하지 못하신 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 122.998,
+                "end": 126.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 피고의 가장 큰 죄라는 건 모르십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 126.157,
+                "end": 128.531
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그건 제 잘못이 아니지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 128.541,
+                "end": 130.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피고가 토트넘의 주장이신데 어떻게 잘못이 없습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 130.475,
+                "end": 133.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무리 수비가 개판이고 아무리 전술이 뒤떨어져도 단 한 골도 허용하지 않았더라면.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 133.379,
+                "end": 138.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이보세요, 검사 양반.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 138.018,
+                "end": 139.247
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그건 솔직히 야신을 데려온다 해도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 139.257,
+                "end": 141.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어찌 됐든 가장 큰 장점이었던 선방 역시 이제 세계 최고는커녕 리그에서도 평범한 수준이 돼버렸는데 아무리 여기가 우승과는 거리가 있는 토트넘이라 할지언정 피고는 인제 그만 물러나야 하지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 141.097,
+                "end": 151.724
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자자, 인제 그만 신문을 마무리하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 151.734,
+                "end": 154.191
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래서 검사께서는 피고의 방출를 원하고 계신다는 말이죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 154.201,
+                "end": 157.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그렇다고 이번 겨울에 쫓아냈다간 유로파도 힘들어질 테니 시즌이 끝나고 여름 이적시장이 열리는 대로 피고 요리스의 방출과 새로운 골키퍼의 영입을 촉구하는 바입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 157.500,
+                "end": 166.467
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래도 방출까진 너무 심하지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 166.477,
+                "end": 168.636
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "피고의 나이가 적지 않은 관계로 이적료를 챙기기도 어려운 데다 주전이 아닌 후보라면 지금 만한 선수가 어디 있겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 168.646,
+                "end": 174.876
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 그야 당연히 피고만 쫓아내면 제가 주장이 될 수 있기에.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 174.886,
+                "end": 178.463
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "제가 누누이 말씀드리지 않았습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 178.473,
+                "end": 180.657
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "검사가 토트넘과 재계약만 해 주신다면 주장 자리는 무조건.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 180.667,
+                "end": 183.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 시발, 차라리 이적해서 우승하고 말지 고작 주장 정도로 재계약을 하겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 183.947,
+                "end": 188.835
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "주장뿐만 아니라 주급까지 넉넉하게 드린다니까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 188.845,
+                "end": 191.639
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무튼 피고 요리스의 최후 변론을 들어 본 뒤 오늘 재판을 마무리하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 191.649,
+                "end": 195.963
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "피고 요리스 변론해주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 195.973,
+                "end": 197.854
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누구보다 도트넘을 사랑하시는 도트넘 팬 여러분께 묻습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 197.864,
+                "end": 200.686
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "솔직히 절 쫓아낸다고 해도 데려올 골키퍼가 있긴 할까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 200.696,
+                "end": 203.683
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "픽포드부터 오블락까지 쟁쟁한 후보들을 나열하며 행복회로를 굴리고 계실 거라 생각하지만 우리 도트넘은 돈도 없고 가오도 없는 팀이라는 거 알고 계시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 203.693,
+                "end": 211.764
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어중간한 골키퍼를 영입할 돈으로 차라리 수비수를 데려오는 게 낫지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 211.774,
+                "end": 215.981
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제 의견에 동의하시는 분이 계신다면 방출 반대 의견을 댓글에 남겨 주시기 바랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 215.991,
+                "end": 220.289
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그럼 이것으로 피고 세모발의 방출 재판을 마치겠으며 구독자 여러분께서는 어떻게 생각하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 220.299,
+                "end": 225.168
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "한때는 월드클래스 골키퍼였지만 현재는 눈에 띄게 기량이 떨어져 버린 토트넘의 수문장 위고 요리스 정말 이대로 도트넘에서 쫓아내야 한다고 생각하시나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 225.178,
+                "end": 234.530
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그리고 그 빈자리는 어떤 선수로 메꾸면 좋겠다고 생각하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 234.540,
+                "end": 243.000
+            }
+        ]
+    },
+    "summary": "한때는 월드클래스 골키퍼였지만 현재는 눈에 띄게 기량이 떨어져 버린 토트넘의 수문장 위고 요리스 정말 이대로 도트넘에서 쫓아내야 한다고 생각하시나요? 그리고 그 빈자리는 어떤 선수로 메꾸면 좋겠다고 생각하십니까?",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00718_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00718_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

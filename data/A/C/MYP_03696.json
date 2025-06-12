@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYP_03696",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.803,
+        "format": "MP4",
+        "date": "2021-10-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "금지된 기술로 고쳤기 때문에 이제 맛탱이 가면 다시는 고칠 수 없다고 하더라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 참 기타 좀 치고 놀려니 이렇게 번거로워서야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.349,
+                "end": 10.626
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거 내 기탄데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.636,
+                "end": 14.295
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미친놈",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.305,
+                "end": 16.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미친놈",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.409,
+                "end": 25.995
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘 지내지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.005,
+                "end": 30.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선천적 얼간이들 보러갈래?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.568,
+                "end": 36.803
+            }
+        ]
+    },
+    "summary": "금지된 기술로 고쳐서 또 고장이 나면 다시는 고칠 수 없다고 했다며 기타 좀 치고 노려니 번거롭다며 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03696_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

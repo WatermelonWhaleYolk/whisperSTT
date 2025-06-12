@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_01360",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.234,
+        "format": "MP4",
+        "date": "2023-01-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이다현은 올해는 단짝 김다인과 함께 팬들을 깜짝 놀라게 할 준비에 한창입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "별들의 잔치를 위해 꼭꼭 숨겨둔 비장의 무기도 살짝 공개했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.204,
+                "end": 12.531
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세대로 팀을 나눈 만큼 언니들에게 한 수 배우겠지만 세리머니만큼은 결코 질 수 없다는 각오입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.541,
+                "end": 25.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연경 언니 저희가 실력에서 많이 밀릴 수는 있어도 저희 세리머니 할 수 있게 몇 개만 봐주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.500,
+                "end": 32.232
+            }
+        ]
+    },
+    "summary": "이다현과 김다인은 별들의 잔치에서 팬들을 위한 세레머니 준비에 여념이 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01360_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

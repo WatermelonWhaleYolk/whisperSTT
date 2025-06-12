@@ -1,0 +1,193 @@
+{
+    "metadata": {
+        "filename": "MYP_02841",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.366,
+        "format": "MP4",
+        "date": "2020-05-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어이 형씨 형씨까지 나한테 그러면 안 됐어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.357
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 오디션 떨어진 화풀이를 왜 여기서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.367,
+                "end": 5.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빵뚜아형은 나가 나가 뒤지기 싫으면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.167,
+                "end": 7.836
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에이 태식이 인석아 까불지 말고 인사해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.846,
+                "end": 10.587
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 김치 유나이티드에 오른쪽 공격수로 새로 들어온 타랍박이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.597,
+                "end": 14.654
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반갑습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.664,
+                "end": 15.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 같은 오른쪽이니까 앞으로 잘 부탁합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.279,
+                "end": 17.718
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무튼 이제 얼추 인사도 나눴고 팩토리 월드컵 개막까지 얼마 안 남았으니 오늘은 감독이 환영식 겸 출정식으로 쏜다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.728,
+                "end": 26.125
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무래도 타랍박이 한국에서 왔으니 고향 음식이 많이 그립겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.135,
+                "end": 30.160
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "감독 그럼 설마 우리 거기 가는 거냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.170,
+                "end": 33.025
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "만세다 만세.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.035,
+                "end": 34.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 뭐 거기라면 나도 기분 풀도록 하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.298,
+                "end": 37.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 뭐 얼마나 대단한 식당이길래 이렇게들 좋아하는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.261,
+                "end": 41.366
+            }
+        ]
+    },
+    "summary": "감독이 저녁을 사겠다고 말하고 선수들이 좋아하는 식당이라고 반긴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02841_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

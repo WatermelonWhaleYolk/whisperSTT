@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_02283",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.833,
+        "format": "MP4",
+        "date": "2016-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신태영 감독 역시 내일 새벽 카타르 전은 집중력과 정신력 싸움이 될 것으로 전망했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.856
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "단 1퍼센트라도 방심보다는 우리가 상대를 어떻게 하면 이길 수 있는 그런 정신력을 강한 투쟁력을 갖고 있으면 좋은 경기 결과가 가져올 거라고 보여지겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.866,
+                "end": 15.833
+            }
+        ]
+    },
+    "summary": "신태용 감독은 카타르 전에서 강한 집중력과 정신력 싸움이 될 것이라고 하며 강한 투쟁력을 갖고 있으면 좋은 경기 결과가 나올 것이라고 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02283_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

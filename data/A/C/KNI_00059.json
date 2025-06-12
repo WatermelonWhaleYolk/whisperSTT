@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00059",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.224,
+        "format": "MP4",
+        "date": "2022-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이유빈은 여자 1000m 준준결승에 나서고 3000m 계주 준결승에도 출전해 3회 연속 정상을 향한 도전을 이어갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박선웁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.531,
+                "end": 12.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남자 피겨 스케이팅의 간판 차준환 선수는 쇼트 프로그램에서 아주 출중한 연기를 선보이며 4위에 올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.649,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "이유빈은 여자 1000m 준준결승에 나서고 3000m 계주 준결승에도 출전했으며 차준환 선수는 쇼트 프로그램에서 아주 출중한 연기를 선보이며 4위에 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00059_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

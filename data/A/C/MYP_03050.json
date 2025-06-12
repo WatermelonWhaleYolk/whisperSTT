@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03050",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.666,
+        "format": "MP4",
+        "date": "2019-12-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어디 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해 받은 트로피만 해도 UEFA 올해의 선수상.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.472,
+                "end": 3.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "PFA 올해의 선수상.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.175,
+                "end": 4.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잉글랜드 올해의 선수상까지 정말 내가 봐도 어마어마 하군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.398,
+                "end": 7.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 예상했겠지만 오늘은 그 대망의 정점을 찍는 발롱도르 시상식에 가는 길이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.458,
+                "end": 12.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "택시.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.609,
+                "end": 13.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 발롱도르 시상식으로 가주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.519,
+                "end": 15.594
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 출발하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.604,
+                "end": 17.666
+            }
+        ]
+    },
+    "summary": "올해 받은 트로피만 해도 UEFA 올해의 선수상 PFA 올해의 선수상 잉글랜드 올해의 선수상까지 받았고 오늘은 발롱도르 시상식에 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03050_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

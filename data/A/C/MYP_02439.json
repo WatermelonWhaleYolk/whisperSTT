@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_02439",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.266,
+        "format": "MP4",
+        "date": "2021-02-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 리그에서 1, 2위를 다투고 있어서 뭐 잘하면 트로피 하나 챙길지도?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.009
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래봤자 너 주전도 아니잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.019,
+                "end": 5.748
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 트로피어 얻을 바에 난 그냥 무관 하련다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.758,
+                "end": 8.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 새끼가 넌 그럼 뭐 주전이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.039,
+                "end": 9.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베르바인인지 뭔지한테도 밀린 것 같더만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.931,
+                "end": 12.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 지금 말 다 했어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.112,
+                "end": 13.214
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 오랜만에 만나서 왜 싸우고들 그래 그러지 말고 들어가자.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.224,
+                "end": 17.266
+            }
+        ]
+    },
+    "summary": "축구 선수들이 오랜만에 만나 경기 관련 토론을 하며 다투었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02439_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYP_03149",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.465,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모두 당장 멈추세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐가 이렇게 소란스러운 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.706,
+                "end": 8.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 대체 무슨 일이에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.992,
+                "end": 10.975
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 성직자님. 이런 누추한 곳까지 십자회께서 어인 일로 오셨답니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.985,
+                "end": 17.571
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "십자회 성직자라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.581,
+                "end": 19.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 십자회의 뜻에 의구심을 품는 것입니까? 형제님? 믿음을 가지고 묻는 말에 대답하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.814,
+                "end": 26.119
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "맨날 용사년 도와주던 개같은 십자회 종교 단체다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.129,
+                "end": 29.324
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저 녀석들 아직도 용사를 지원하고 있는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.334,
+                "end": 32.465
+            }
+        ]
+    },
+    "summary": "여성은 십자회 성직자의 등장에 아직도 십자회가 용사를 도와주고 있는 것임을 예상하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03149_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

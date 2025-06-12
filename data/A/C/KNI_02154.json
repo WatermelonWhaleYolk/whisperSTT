@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "filename": "KNI_02154",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 57.533,
+        "format": "MP4",
+        "date": "2017-01-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 저희들이 훈련에 효율을 가지기 위해서 미리 전지훈련 온 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.234
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강원 동해안 지역에도 전지훈련 선수단 방문이 끊이지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.244,
+                "end": 11.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강원 동해안 지역은 겨울철 기온이 다른 지역에 비해 상대적으로 높기 때문입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.674,
+                "end": 17.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올 겨울 속초에만 축구와 야구 등 10개 종목에서 2300여 명의 선수가 방문했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.504,
+                "end": 24.263
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "속초시는 훈련단 유치를 위해 할인혜택 등 각종 지원책을 펴고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.273,
+                "end": 29.716
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리가 그 시립박물관이라든가 석봉도자기미술관에 우리 이용료를 관람료를 한 50프로 정도 감면을 해주고 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.726,
+                "end": 37.953
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올 겨울 들어 강릉과 동해 등 강원 동해안을 찾은 전지훈련선수단은 440여 개 팀 9000여 명에 이릅니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 37.963,
+                "end": 46.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수단이 지역숙박업소와 음식점 등을 이용하면서 지역경기활성화에도 많은 도움이 되고 있는 것으로 분석됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.194,
+                "end": 54.037
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 54.047,
+                "end": 57.533
+            }
+        ]
+    },
+    "summary": "강원 동해안 지역은 겨울철 기온이 다른 지역에 비해 상대적으로 높아 올 겨울 속초에만 축구와 야구 등 10개 종목에서 2300여 명의 선수가 방문했으며 훈련단 유치를 위해 할인혜택 등 각종 지원책을 펴고 선수단이 지역숙박업소와 음식점 등을 이용하며 지역경기활성화에도 많은 도움이 되고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02154_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

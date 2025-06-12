@@ -1,0 +1,206 @@
+{
+    "metadata": {
+        "filename": "MYP_03107",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.362,
+        "format": "MP4",
+        "date": "2023-08-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니 너희 인간들이 그리 나약한 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.810,
+                "end": 4.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 물어봤다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.816,
+                "end": 5.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 에그머니 마물아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.980,
+                "end": 7.571
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "고생했다 세실아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.581,
+                "end": 9.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 용 용사님 성검은 찾으셨나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.339,
+                "end": 13.494
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오냐 임마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.504,
+                "end": 14.469
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "시간이 없으니 본론만 얘기하마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.479,
+                "end": 16.596
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "잘 들어라 세실아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.606,
+                "end": 17.684
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.694,
+                "end": 18.200
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 보호막이 깨지거든 재빨리 그때 나를 신성력으로 강화시켜라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.210,
+                "end": 21.687
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 왜요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.697,
+                "end": 23.040
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내 힘으로는 부족하니까 그러지 임마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.050,
+                "end": 25.053
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "잔말 말고 모든 신성을 쏟아부어야 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.063,
+                "end": 27.648
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.658,
+                "end": 29.362
+            }
+        ]
+    },
+    "summary": "세실과 마물이 대치하고 있을 때 용사가 성검을 찾았다며 나타나서 세실에게 보호막이 깨지거든 모든 신성력으로 자신을 강화시키라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03107_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

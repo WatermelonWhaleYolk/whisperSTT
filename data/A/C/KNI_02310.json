@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_02310",
+        "category": "스포츠뉴스",
+        "sub_category": 35,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.333,
+        "format": "MP4",
+        "date": "2016-10-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 이번 체전에는 사격의 진종오 선수 등 리우 올림픽 메달리스트들이 대거 참가합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 선수는 선수대로 지도자는 지도자대로 임원은 임원대로 대회를 준비하는 그 모든 마음들을 담아서 정말 어 정성스럽게 대회를 준비하고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.778,
+                "end": 15.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 체전은 2001년 이후 15년 만에 충남에서 열리는 만큼 개최 도시인 아산시는 단순한 스포츠 대회를 넘어 다양한 축제의 장을 준비했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.162,
+                "end": 24.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현충사, 외암 마을, 은행나무길 그리고 코미디 페스티발 이런 문화 축제와 함께 콜라보를 이루어서 체육과 문화 두 가지를 모두 즐길 수 있는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.829,
+                "end": 36.333
+            }
+        ]
+    },
+    "summary": "충남 아산시에서 체전이 열려 체육과 문화를 즐길 수 있는 다양한 축제를 준비했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02310_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 7,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

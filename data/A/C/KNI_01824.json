@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01824",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.965,
+        "format": "MP4",
+        "date": "2021-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘하는 선수 중심으로 어 지도자는 묵인하고 때때로 조장하기도 하고 인권에 민감했더라면 학교에서 이런 일이 일어날 수 있겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.083
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실제 남자 배구 선수 @이름1에게 폭행을 당했던 B씨는 당시 감독에게 해당 사실을 알렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.093,
+                "end": 18.568
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 감독은 배구 팀이 해체될 것을 우려해서 가해자였던 팀 내 ACE @이름1 감싸기에 바빴다고 말했는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.578,
+                "end": 26.960
+            }
+        ]
+    },
+    "summary": "B씨는 남자 배구 선수 @이름1에게 폭행을 당했던 사실을 감독에게 알렸으나 감독은 팀 내 ACE @이름1 감싸기에 바빴다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01824_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

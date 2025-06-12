@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "filename": "KNI_01456",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.907,
+        "format": "MP4",
+        "date": "2022-05-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에이스 @이름1과 @이름2도 끝까지 집중력을 잃지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.239
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국 위너",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.249,
+                "end": 7.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이탈리아에 세트 스코어 6대 0 승리 완벽한 금빛 경기로 관중들의 열정적인 응원에 화답했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.787,
+                "end": 15.064
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뿌듯하고요 이제 베테랑급 형들이랑 같이 단체 금메달 딸 수 있어서 어 이제 꿈에 그리던 목표가 조금씩 하나씩 한발짝씩 나가는 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.074,
+                "end": 25.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여자 대표팀도 결승 상대 독일을 가볍게 제압했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 25.339,
+                "end": 29.156
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시상식에서는 독특한 세리머니로 눈길을 끌었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 29.166,
+                "end": 33.361
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어제 야구를 보는데 기아 타이거스 선수들이 이렇게 뒤집어서 하더라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 33.371,
+                "end": 38.560
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저희는 좀 다르게 아래로 해봤습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 38.570,
+                "end": 40.907
+            }
+        ]
+    },
+    "summary": "남자와 여자 대표팀이 양궁 국제 대회에서 수상한 장면과 선수들이 우승의 기쁨을 누리며 시상식에서 독특한 세리머니를 선보이는 현장을 인터뷰한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01456_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

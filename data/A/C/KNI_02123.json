@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_02123",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.933,
+        "format": "MP4",
+        "date": "2018-09-03",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코마리아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.469
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평화의 한반도 기가 올라가고 아리랑이 울려 퍼지자 남북의 선수들은 함께 웃었고 또 울었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.479,
+                "end": 11.039
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "부르는 순간 되게 눈물이 나더라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.049,
+                "end": 13.902
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래서 굉장히 뭉클했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.912,
+                "end": 16.933
+            }
+        ]
+    },
+    "summary": "평화의 한반도 기가 올라가고 아리랑이 울려 퍼지자 남북의 선수들은 함께 웃고 울었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 65,
+                    "act": 66
+                }
+            ]
+        }
+    ]
+}

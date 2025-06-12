@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_03271",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.939,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새 집으로 모일 때 그는 채무자가 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우꾸꾸꾸꾸꾸꾸 집세 빌려준다 우꾸꾸꾸꾸꾸꾸 무이자로 준다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.110,
+                "end": 9.986
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 정산기를 맞아 현금이 꽉 차서 매우 옹졸한 상태의 거북이 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.996,
+                "end": 15.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 지금은 제 돈 줄이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.474,
+                "end": 17.984
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 양반은 뭔 문명 세계 베어그릴스여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.994,
+                "end": 20.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맨몸으로 돈을 다 뽑아가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.695,
+                "end": 23.923
+            }
+        ]
+    },
+    "summary": "더빙하는 사람들이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03271_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

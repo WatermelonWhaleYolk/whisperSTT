@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_00776",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2023-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘부터 180일.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 행정 안전부 장관 탄핵 여부를 심판하는 헌법 재판소에 주어진 시간입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.484,
+                "end": 7.325
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일할 수도 스스로 물러날 수도 없는 장관을 두고 행안부와 국회는 빠른 심판을 요청했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.335,
+                "end": 13.616
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재판소에 좀 집중 심리라든지 그 법상할 수 있는 어 최대한으로 해서 신속하게 좀 해 해 주십사 하는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.626,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "@이름1 행정 안전부 장관 탄핵 여부를 심판하는 헌법 재판소에 주어진 시간은 180일로 행안부와 국회는 빠른 심판을 요청했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00776_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

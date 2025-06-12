@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_01640",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.877,
+        "format": "MP4",
+        "date": "2022-01-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 마지막까지 우승에 도전하라는 거야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재에 안주하지 않고 끊임없이 노력하면서 팀의 레전드 나아가 프리미어리그의 레전드로 남게 된다면 득점왕에 오르지 못하더라도 끝내 우승하지 못하더라도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.984,
+                "end": 12.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국을 넘어 전 세계의 모든 사람들이 너를 월드 클래스라 불러줄 거다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.702,
+                "end": 18.866
+            }
+        ]
+    },
+    "summary": "현재에 안주하지 않고 끝까지 노력하면 전 세계 모든 사람들이 월드 클래스라고 불러줄 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01640_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

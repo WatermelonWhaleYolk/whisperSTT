@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01395",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2023-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 선수 저희한테만 그냥 모든 거를 이렇게 한 것 같아서 네 조금 아쉬운 부분이 좀 많은 것 같",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.736
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1은 자신의 죄를 뉘우치고 있다며 사면은 시기상조라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.746,
+                "end": 12.143
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팬들이 원하지 않고 그리고 저희가 잘못했던 게 확실하게 맞기 때문에 그게 아니라고 하면은 저 또한",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.153,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "@이름1은 자신의 죄를 뉘우치고 있다며 사면은 시기상조라고 강조했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01395_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

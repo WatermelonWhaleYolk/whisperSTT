@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_00821",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.833,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이 뭐야 FC 매수 오태식 자책골",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 뭐라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.563,
+                "end": 3.251
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오태식이는 우리 팀에서 뛸 때 1번 도 자책골을 넣었던 적이 없었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.261,
+                "end": 6.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 이것들이 왜 이러는 거야? FC 매수 알파고레츠카 자책골 2 대 2 동점",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.476,
+                "end": 11.208
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 인공지능이 자책골을 넣었다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.218,
+                "end": 13.129
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이건 설마 오태식이 돌아왔구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.139,
+                "end": 15.534
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어이 타랍박 이제 너가 결승 골만 넣으면 프로에 갈 수 있는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.544,
+                "end": 20.013
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "알파고레츠카 모드에서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.023,
+                "end": 21.833
+            }
+        ]
+    },
+    "summary": "상대 팀으로 갔던 예전 팀 동료가 다시 돌아와 경기를 동점으로 만들어 주고 이제 경기에서 이길 수 있는 거냐고 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00821_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

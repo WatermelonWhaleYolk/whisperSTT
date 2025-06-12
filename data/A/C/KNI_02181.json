@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_02181",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.0,
+        "format": "MP4",
+        "date": "2017-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하나의 민족, 하나의 언어, 하나의 우리 핏줄이 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 마음을 한 마음으로 경기를 했으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.082,
+                "end": 6.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "별표팀은 경기 시간인 오후 세 시 반에 맞춰 훈련을 실시하며 남북 경기를 준비했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.941,
+                "end": 14.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인도전 대승으로 자신감을 끌어 올린 대표팀은 북측 선수들의 체력이 강한 만큼 탄탄한 수비와 효과적인 역습으로 골문을 열겠다는 각오입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 14.590,
+                "end": 26.000
+            }
+        ]
+    },
+    "summary": "대표팀은 경기 시간에 맞춰 훈련을 실시하며 탄탄한 수비와 효과적인 역습으로 골문을 열겠다는 각오로 남북 경기를 준비했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02181_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

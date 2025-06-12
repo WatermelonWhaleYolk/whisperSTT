@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01807",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2016-08-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2016 리우 패럴림픽에 출전하는 장애인 국가대표 선수단 본진이 출국했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수영과 양궁, 유도, 육상, 조정, 탁구, 테니스 등 7개 종목 80명의 선수단은 미국 애틀랜타에서 전지훈련을 한 뒤 브라질 리우데자네이루로 입성합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.956,
+                "end": 15.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 패럴림픽 참가 선수단은 모두 139명이며 패럴림픽은 다음 달 7일부터 18일까지 12일 동안 열립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.697,
+                "end": 23.800
+            }
+        ]
+    },
+    "summary": "2016 리우 패럴림픽에 출전하는 장애인 국가대표 선수단은 미국 애틀랜타에서 전지훈련을 한 뒤 브라질 리우데자네이루로 입성합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01807_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

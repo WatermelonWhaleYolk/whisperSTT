@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02047",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.166,
+        "format": "MP4",
+        "date": "2021-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오랜만에 훈련장에 오니까 벌써부터 개막전이 기다려지는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재계약도 했겠다 이젠 우승만 하면 진짜 월드 클래스로 인정받는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.171,
+                "end": 6.733
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 흥민아. 그 콘퍼런스 리그인가 그건 어떤 대회야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.743,
+                "end": 10.145
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "듣기로는 일정이 상당히 빡빡하다던데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.155,
+                "end": 12.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 호이비에르 너는 아직 모르고 있었구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.457,
+                "end": 14.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그 대회는 올 시즌에 처음으로 열리는 거잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.688,
+                "end": 17.684
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 정보라도 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.694,
+                "end": 18.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.970,
+                "end": 19.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "17,000여 명의 선수, 700여 개의 팀, 90개 이상의 경기장과 30개 이상의 리그를 갖춘 FIFA 22는.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.769,
+                "end": 25.166
+            }
+        ]
+    },
+    "summary": "콘퍼런스 리그는 올 시즌 처음 열리고 FIFA 22는 17,000여 명의 선수, 700여 개의 팀, 90개 이상의 경기장과 30개 이상의 리그를 갖췄다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02047_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

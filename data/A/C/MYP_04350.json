@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_04350",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.734,
+        "format": "MP4",
+        "date": "2019-10-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안 돼 오늘은 프라푸치노 기분이 아니야 너도 그냥 술이나 한잔해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.201
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "할렘 스타일?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.211,
+                "end": 7.110
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그리고 산티아고는 자기가 깎는다 아직 한가닥 남았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.120,
+                "end": 25.635
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "똥 싸게 나가 이 미친놈아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.645,
+                "end": 29.215
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그리고는 지금 장발을 유지하고 있지만 매번 드는 생각이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.225,
+                "end": 34.734
+            }
+        ]
+    },
+    "summary": "한 캐릭터가 프라포치노 대신에 술로 권하다가 산티아고는 머리를 직접깎는다고 했다가 장발을 유지하며 드는 생각에 대해서 이야기 하려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04350_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_01900",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.386,
+        "format": "MP4",
+        "date": "2022-08-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사선에서 표적까지 70미터 그 위에 장혜진의 양궁 인생이 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2012년 런던 올림픽 선발전 탈락에도 좌절하지 않았고 4년 뒤인 2016년 끝내 올림픽 무대에 서 금메달 2개를 목에 걸었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.519,
+                "end": 15.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "은퇴 시즌이었던 올해 화살 통을 허리에 차지 못하는 만삭의 몸으로 경기를 이어간 모습도 포기를 몰랐던 장혜진다웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.843,
+                "end": 24.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "힘들어도 포기하지 않는다면 생각했던 꿈을 이루는 날이 올 거란 확신을 가지고.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.683,
+                "end": 31.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "25년 양궁 인생 최고의 한 발을 꼽아달란 질문에 장혜진은 2016년 올림픽 선발전에서 대표팀 승선의 희비가 갈렸던 마지막 한 발을 떠올렸습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 31.076,
+                "end": 41.374
+            }
+        ]
+    },
+    "summary": "리우 올림픽 양궁 금메달리스트 장혜진이 은퇴를 선언했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01900_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

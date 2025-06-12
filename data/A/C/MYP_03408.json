@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "filename": "MYP_03408",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.561,
+        "format": "MP4",
+        "date": "2022-09-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시간이 지나면 알 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쏭 아까 어르신 커피 다 됐는데 어디 가셨어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.233,
+                "end": 7.230
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.240,
+                "end": 8.308
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "진동벨 신호 보냈는데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.318,
+                "end": 11.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진정한 연륜에 손해란 없다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.537,
+                "end": 18.541
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그기 머꼬?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.551,
+                "end": 19.774
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "가서 커피 좀 받아 오이소",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.784,
+                "end": 24.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때쯤 되면 퇴근한 직장인들이 몰리기 시작한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.400,
+                "end": 28.561
+            }
+        ]
+    },
+    "summary": "시간이 지나면 알 수 있듯이 진정한 연륜에 손해란 없고 이때쯤 되면 퇴근한 직장인들이 몰리기 시작합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03408_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

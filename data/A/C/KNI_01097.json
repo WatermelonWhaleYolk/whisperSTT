@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_01097",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.562,
+        "format": "MP4",
+        "date": "2022-06-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관중 수는 코로나 이전보다 24퍼센트 감소했지만 응원봉 판매는 568퍼센트 증가하는 등 팬들의 지갑은 더 열렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제 거 사이즈 하나 샀고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.517,
+                "end": 11.647
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 친구들한테 부탁받아서 오늘 3벌 구입했고 일단은 옷 30만 원이 좀 넘죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.657,
+                "end": 17.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아깝지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.848,
+                "end": 18.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 스트레스도 많이 풀리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.649,
+                "end": 20.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제로 대구 구장 관중의 티켓 구입 비용은 30퍼센트 늘었고 구단 상품과 식음료 매출도 30에서 40퍼센트 증가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.795,
+                "end": 29.562
+            }
+        ]
+    },
+    "summary": "코로나 이전보다 관중 수는 줄었지만 응원봉 판매는 증가했고 티켓 구입 비용과 구단 상품과 식음료 매출도 증가했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01097_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

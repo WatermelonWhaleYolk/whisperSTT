@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYP_03933",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.186,
+        "format": "MP4",
+        "date": "2021-01-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "밥 남기는 놈은 살 날이 남지 않을 것이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.467
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우오오오오오오",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.477,
+                "end": 7.591
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 훈련소에 적응해 가던 중 주말 종교활동 시간이 찾아왔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.601,
+                "end": 12.024
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "각자 원하는 팻말 앞에 4열 종대로 모인다 실시.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.034,
+                "end": 17.528
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나는 딱히 가고 싶은 곳이 없었지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.538,
+                "end": 20.186
+            }
+        ]
+    },
+    "summary": "주인공이 훈련소에 적응을 해가던 중 종교활동 시간에 대한 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03933_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

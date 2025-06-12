@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00110",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.121,
+        "format": "MP4",
+        "date": "2022-03-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 축구 대표팀이 오늘 밤 서울 월드컵 경기장에서 이란과 월드컵 최종 예선 9차전을 치릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주장 손흥민 선수 이란을 꺾고 조 1위에 오르겠다는 각오를 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.222,
+                "end": 11.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김기범 기자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.928,
+                "end": 13.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손흥민은 대표 팀 합류 후 딱 한 번 손발을 맞출 수 있는 훈련에 집중 또 집중했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.810,
+                "end": 21.121
+            }
+        ]
+    },
+    "summary": "오늘 밤 대표 팀은 이란과 월드컵 최종 예선을 치르며 주장 손흥민은 이란을 꺾고 조 1위에 오르겠다는 각오를 밝혔다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00110_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

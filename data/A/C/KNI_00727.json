@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00727",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.117,
+        "format": "MP4",
+        "date": "2023-02-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1 이관희의 슈팅 감각이 오늘따라 영 좋지 못한데요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이관희가 주춤하는 사이 @소속1는 알바노를 앞세워 기세를 올립니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.508,
+                "end": 10.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전반까지 동점으로 팽팽했던 승부의 균형은 후반 @소속2 윤원상의 신들린 석 점포로 깨졌습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.194,
+                "end": 17.117
+            }
+        ]
+    },
+    "summary": "@소속1 이관희의 슈팅 감각이 오늘따라 영 좋지 못하는 사이 알바노를 앞세워 기세를 올렸으며 전반까지 동점으로 팽팽했던 승부의 균형은 후반 @소속2 윤원상의 신들린 석점포로 깨졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00727_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

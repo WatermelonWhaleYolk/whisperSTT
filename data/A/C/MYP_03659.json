@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYP_03659",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.461,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "허세심으로 점점 번져갔고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.632
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 이제 어떡할거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.642,
+                "end": 4.314
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "묻어줄 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.324,
+                "end": 5.871
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "응 당연히 묻어줘야지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.881,
+                "end": 9.191
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하지만 그 전에",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.201,
+                "end": 13.336
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "난 이 깃털을 갖고 간다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.346,
+                "end": 17.956
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응 깃털은 왜?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.966,
+                "end": 20.692
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "모양도 다 헝클어졌잖아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.702,
+                "end": 23.444
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그래 엉망이 돼 버렸지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.454,
+                "end": 26.587
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.597,
+                "end": 28.461
+            }
+        ]
+    },
+    "summary": "허세심으로 번져서 비둘기를 묻어주기 전에 깃털을 가져간다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03659_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 13,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

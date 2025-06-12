@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00557",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.088,
+        "format": "MP4",
+        "date": "2023-01-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최근 붉어진 병역 비리 의혹의 중심에는 전문 브로커 구 모 씨와 김 모 씨가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 대상자들에게 신경계 질환 허위 진단을 받도록 해 병역을 면제 또는 감면받게 한 혐의를 받습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.118,
+                "end": 13.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구 씨 등이 재판에 넘겨진 직후 검찰 수사가 본격화되면서 병역 비리로 수사 선상에 오른 이들만 100명이 넘습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.746,
+                "end": 22.088
+            }
+        ]
+    },
+    "summary": "병역 비리 전문 중개인 구 모 씨와 김 모 씨는 대상자들에게 신경계 질환 허위 진단을 받도록 해 병역을 면제 또는 감면받게 한 혐의를 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00557_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

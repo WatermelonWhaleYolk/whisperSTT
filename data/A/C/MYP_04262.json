@@ -1,0 +1,214 @@
+{
+    "metadata": {
+        "filename": "MYP_04262",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.952,
+        "format": "MP4",
+        "date": "2020-02-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대 미만",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘하는 요리.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.861
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "카레.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.871,
+                "end": 1.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒤져.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.487,
+                "end": 3.231
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "빨간 모자야 내 여친이 되어 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.241,
+                "end": 6.170
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "거절할게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.167,
+                "end": 6.873
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "왜?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.883,
+                "end": 7.880
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "성격 나쁜 사람은 싫어 하거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.890,
+                "end": 9.616
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그럼 누가 괜찮은데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.626,
+                "end": 10.687
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "응 곰돌이씨?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.687,
+                "end": 12.202
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "헤에 그 곰들이 자식 짜증나 아 맞아 그 자식의 친구 전부 먹어 버리자 헤헤헤 에헤 에헤",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.202,
+                "end": 20.695
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "곰돌아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.697,
+                "end": 22.188
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "무슨 일이야 토끼 씨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.198,
+                "end": 23.349
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 친구 맞지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.359,
+                "end": 25.397
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아닌데 그야 그런 계약은 한 적 없잖아",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.407,
+                "end": 27.865
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 계약?",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.867,
+                "end": 30.938
+            }
+        ]
+    },
+    "summary": "빨간 모자에게 여자친구가 되어달라했지만 성격 나쁜 사람은 싫다며 곰돌이씨가 좋다고 하자 곰돌이의 친구들을 모두 잡아먹어버리겠다고 다짐하고 한편 토끼씨는 곰돌이에게 우리 친구맞냐며 물어보자 그런 계약 한 적 없다고 친구 아니라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04262_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

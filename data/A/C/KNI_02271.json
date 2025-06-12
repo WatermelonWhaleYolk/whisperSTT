@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_02271",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.901,
+        "format": "MP4",
+        "date": "2016-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "많은 사람들의 지탄을 받는 이런 모습이 너무도 안타깝게 생각을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.048
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어제 경찰 조사를 받은 사재혁은 선수촌에서 뺨을 때린 것과 관련해 오해를 풀려고 황우만을 불러냈지만 대화 도중 감정이 격해져 우발적으로 폭행했다고 진출한 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.058,
+                "end": 18.900
+            }
+        ]
+    },
+    "summary": "경찰 조사에서 사재혁은 뺨을 때린 것에 대해 오해를 풀려고 황우만과 만났지만 대화 도중 감정이 격해져 폭행을 했다고 진술했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02271_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

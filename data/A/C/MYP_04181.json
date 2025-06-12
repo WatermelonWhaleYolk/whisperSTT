@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "filename": "MYP_04181",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.439,
+        "format": "MP4",
+        "date": "2020-05-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다음 정거장인 남포역에서 그가 내릴 채비를 하며 그렇게 일단락 되는 듯했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.614
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번역은 남",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.624,
+                "end": 10.982
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "조심해 알았어?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.992,
+                "end": 12.526
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "예.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.536,
+                "end": 13.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그가 이 말을 내뱉기 전까지는",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.244,
+                "end": 18.370
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "멀쩡하게 생겨서 말이야 말이야.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.380,
+                "end": 20.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그는 야매였다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.723,
+                "end": 34.584
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "본다 눈 뜨고 본다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.594,
+                "end": 37.892
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "망했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.902,
+                "end": 39.439
+            }
+        ]
+    },
+    "summary": "그가 멀쩡하게 생겨서 말이야란 말을 한 순간 야매라는 것을 알았고 눈을 뜨고 보고 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04181_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

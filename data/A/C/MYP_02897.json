@@ -1,0 +1,193 @@
+{
+    "metadata": {
+        "filename": "MYP_02897",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.566,
+        "format": "MP4",
+        "date": "2020-04-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "벌어서 @이름1한테 차 살 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.127
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 얘들아 여기는 우리 팀 윙포워드로 입단 테스트를 보게 될 @이름2이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.137,
+                "end": 6.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서로 인사들 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.500,
+                "end": 7.639
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 감독님 이 사람 뭐라는 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.649,
+                "end": 13.804
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름3이 아직 영어를 잘 못해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.814,
+                "end": 15.925
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대충 만나서 반갑다는 뜻이니 악수하게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.935,
+                "end": 18.671
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "마 만나서 반갑습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.681,
+                "end": 20.019
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "잘 부탁드려요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.029,
+                "end": 20.830
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어우 존나게 무섭네. 씨발",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.842,
+                "end": 24.380
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "헤이 헤이 헤이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.380,
+                "end": 25.914
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.924,
+                "end": 27.669
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어우 씨발 이건 또 뭐야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.679,
+                "end": 29.371
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 자 잘 부탁드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.381,
+                "end": 32.566
+            }
+        ]
+    },
+    "summary": "입단 테스트를 볼 @이름2는 사람들에게 잘 부탁한다는 인사를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02897_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

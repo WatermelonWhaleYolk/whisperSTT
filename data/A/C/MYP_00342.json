@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYP_00342",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 49.466,
+        "format": "MP4",
+        "date": "2023-05-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첼신 참 별나고 이상한 팀이야 선수는 형편없고 형편없고 구단주도 별로야 You got me feeling like a psycho psycho 맨날 내 탓만 해 자꾸자꾸 콘테 형이랑 싸우다 경고 어제도 한 장 추가 두 장이라 그런가 이제 경질이래 맞아 psycho psycho 챔스 우승시킨 바보 바보 나 없이 어디 한 번 잘해봐 누굴 데려오겠냐 난 이만 갈 테니 못 먹고 못 살아라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 37.749
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 겨울 마지막까지 패딩을 벗지 못하고 사라지는구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.759,
+                "end": 41.461
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 그동안 함께해서 즐거웠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.471,
+                "end": 43.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부디 여러분이 응원하시는 팀에 축복이 가득하길",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 43.773,
+                "end": 49.466
+            }
+        ]
+    },
+    "summary": "투헬 감독은 자신을 경질한 첼시는 바보라며 노래 psycho에 맞춰 가사를 넣어 부르고 있고 자신이 없는 첼시를 두고 보겠다며 다른 사람들에게 인사한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00342_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

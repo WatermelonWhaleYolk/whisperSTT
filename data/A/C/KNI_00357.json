@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00357",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.22,
+        "format": "MP4",
+        "date": "2022-12-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기초반 점수를 내주자 탄식이 흘러나왔지만 득점이 곧바로 나오자 목이 터져라 응원 구호를 외칩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.584
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 필승 코리아 오오에오에",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.594,
+                "end": 16.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 짜릿한 역전골로 승리를 끌어냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.965,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "경기초반 점수를 내주자 탄식이 흘러나왔지만 결국 짜릿한 역전골로 승리를 끌어냈다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00357_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

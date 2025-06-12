@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_00956",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.96,
+        "format": "MP4",
+        "date": "2022-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "속옷을 갈아입고 와야 될 것 같습니다라고 이렇게 정확하게 멘트를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 화장실에 또 계속 안 갔거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.698,
+                "end": 6.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 베이징 올림픽에서만큼은 마음을 가다듬고 이제 해설을 하면 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.557,
+                "end": 11.895
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강릉에 그냥 두고 오고 싶었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.905,
+                "end": 13.875
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "피겨에선 김민정이 빙판 위의 예술을 아름답게 풀어낼 예정인 가운데 송승환 감독은 도쿄에 이어 이번 베이징에서도 개폐막식 속에 담긴 숨은 이야기를 전합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.885,
+                "end": 26.960
+            }
+        ]
+    },
+    "summary": "피겨에선 김민정이 빙판 위의 예술을 아름답게 풀어낼 예정인 가운데 송승환 감독은 도쿄에 이어 이번 베이징에서도 개폐막식 속에 담긴 숨은 이야기를 전합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00956_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03172",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.865,
+        "format": "MP4",
+        "date": "2023-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안돼. 내 죽는다 한들 달라지는 건 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 용사 몸에 환생했듯이 용사도 나의 몸에 환생했을 터.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.107,
+                "end": 6.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세계 평화를 사랑하는 그 미친놈이 내 몸을 가지고 인간들이랑 평화 협정을 맺기라도 하는 날엔 이 세계의 악이 영원히 사라질지도 모른다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.841,
+                "end": 15.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안돼. 절대 그렇게 둘 순 없지. 그런 식으로 나오겠다면 이 쪽에서도 네 몸을 이용해 세상을 좀 먹어 주겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.771,
+                "end": 23.334
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "살인은 좋은 거다. 물론 도박도 좋은 일이지. 결코 다시 전쟁.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.344,
+                "end": 29.499
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "마왕의 의지가 굳건해졌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.509,
+                "end": 31.865
+            }
+        ]
+    },
+    "summary": "마왕은 용사가 자신의 몸에 환생 했을 것이란 추측을 하며 자신의 몸으로 인간들과 사이좋게 지낼 경우 자신도 용사의 몸을 이용해 세상을 좀먹겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03172_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

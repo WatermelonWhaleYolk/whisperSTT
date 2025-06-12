@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_02922",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.633,
+        "format": "MP4",
+        "date": "2020-03-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 이 새끼는 왜 차기도 전에 넋이 나가있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할 수 있다. 쿠르투아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.125,
+                "end": 5.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시발 진작에 새로 키퍼를 영입했어야 되는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.052,
+                "end": 11.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가라. 쿠르투아 제발 막아줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.587,
+                "end": 14.882
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "건방진 애송이 자식 여기까지다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.892,
+                "end": 21.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 안 끝났어. 이 문어 새끼야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.001,
+                "end": 26.633
+            }
+        ]
+    },
+    "summary": "포켓몬 배틀에서 쿠르투아는 데브라이너의 공격을 막아보지만 실패한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02922_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

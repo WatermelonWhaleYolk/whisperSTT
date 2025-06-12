@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_01449",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.466,
+        "format": "MP4",
+        "date": "2022-04-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수비적인 경기 운영은 뛰어나지만 공격 전술엔 영 소질이 없어 끽해야 조타나 실바의 역습이나 측면에서 올려준 크로스를 호날두가 꽂아 넣는 것 밖에 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.300
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 마치 누누 감독님이 계실 때의 토트넘 같잖아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.300,
+                "end": 10.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 월드 클래스 선수들을 데리고도 제대로 활용하지 못하는 감독 한마디로 표현하자면 럭키 누누란 말이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.950,
+                "end": 17.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하긴 지난 유로에서 독일한테 지는 걸 봤을 때 문제가 많아 보이긴 했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.270,
+                "end": 20.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 벤투 감독님도 포르투갈 감독 출신이시니까 전술적 문제를 잘 알고 계시지 않을까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.720,
+                "end": 24.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래 한국의 괴물 수비수 그 이름이 민재 킴이었던가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.790,
+                "end": 28.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 녀석이 호날두만 잘 막아내고 흥민이 너가 디아스만 잘 뚫어낸다면 충분히 비벼볼 만하다고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.850,
+                "end": 35.466
+            }
+        ]
+    },
+    "summary": "포르투갈의 감독은 수비적인 경기 운영은 뛰어나지만 공격 전술엔 소질이 없어서 월드 클래스 선수들을 데리고도 제대로 활용하지 못하고 지난 유로에서 독일에 지면서 문제가 많아 보였기에 한국의 괴물 수비수인 김민재 선수가 호날두를 막아내고 손흥민이 디아스를 잘 뚫는다면 충분히 이길 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01449_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

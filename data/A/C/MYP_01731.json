@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01731",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.0,
+        "format": "MP4",
+        "date": "2021-11-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 포그바 너는 인마 재계약할 거면 빨리 좀 하고 안 할 거면 빨리 좀 꺼지란 말야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.995
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.005,
+                "end": 5.572
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선배 근데 훈련이라도 하려면 일단 새로운 감독님이 오셔야 하지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.582,
+                "end": 9.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "언제까지 기다리고 있을 건데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.049,
+                "end": 10.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새 감독이 오기 전에 달라진 모습으로 기다리는 게 정상 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.539,
+                "end": 13.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이 상태로는 퍼거슨 영감님이 온다 한들 우승컵 구경도 못 할 거라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.851,
+                "end": 23.000
+            }
+        ]
+    },
+    "summary": "화자 1이 화자 2에게 새 감독이 오기 전에 달라진 모습으로 기다리는 게 정상이라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01731_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

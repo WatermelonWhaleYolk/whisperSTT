@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_01510",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.266,
+        "format": "MP4",
+        "date": "2022-03-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오바메양과 트라오레는 물론 김영수 김철수 독고만수까지 괜찮은 선수가 생각보다 많이 있었군",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 공격수 모두를 합치더라도 메시 선배가 뭐야 네이마르나 수아레즈 선배 한 명의 임팩트보다 못한데다 중원 역시 감독님이나 이니에스타 선배의 발끝에도 미치지 못한다고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.673,
+                "end": 14.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나나 이니에스타 역시 처음부터 잘하진 않았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.429,
+                "end": 17.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가비와 페드리 곤잘레스와 데용",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.088,
+                "end": 19.266
+            }
+        ]
+    },
+    "summary": "감독이 오바메양과 트라오레는 물론 괜찮은 선수들이 생각보다 많다고 이야기고 있으며 선수는 감독님이나 이니에스타 선배의 발끝에도 미치지 못한다고 말하자 감독은 이니에스타 역시 처음부터 잘하지 않았다고 답변한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01510_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

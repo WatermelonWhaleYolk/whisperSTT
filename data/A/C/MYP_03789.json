@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "MYP_03789",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.266,
+        "format": "MP4",
+        "date": "2021-05-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거기다 같은 야구 광인 그의 친구 @이름1형까지 합류하여 경기장에 도착한 우리는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 역시 주목도를 위해서는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.188,
+                "end": 9.292
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 자리밖엔 없군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.302,
+                "end": 10.444
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "치어리더 앞자리요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.454,
+                "end": 11.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람이 없는 멀 디먼 외야석을 승부처로 정했다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.767,
+                "end": 15.973
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "왁하하 여긴 우리뿐이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.983,
+                "end": 18.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 주인공이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.236,
+                "end": 20.147
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "야구는 정말 뒷전이 되었군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.157,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "경기장에 도착한 우리는 주목도를 위해 사람이 없는 멀 디먼 외야석을 승부처로 정했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03789_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

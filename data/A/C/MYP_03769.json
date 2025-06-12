@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYP_03769",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.168,
+        "format": "MP4",
+        "date": "2021-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 무적의 그에게도 약점은 있었으니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흐흐 음 이 맛있는 냄새의 정체는 무엇일까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.000,
+                "end": 9.190
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "헤헤헤 오늘의 저녁 메뉴는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.200,
+                "end": 11.800
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "굴이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.810,
+                "end": 12.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 이야기는 외강내유",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.828,
+                "end": 18.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옛날 @이름1형이 중학생이었던 어느 날 친구가 반찬으로 굴전을 싸왔더랜다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.720,
+                "end": 24.632
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "짜잔",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.642,
+                "end": 26.159
+            }
+        ]
+    },
+    "summary": "@이름1이 중학생이었을 때 친구가 반찬으로 굴전을 싸왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03769_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 31,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

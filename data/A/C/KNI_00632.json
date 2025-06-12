@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_00632",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.983,
+        "format": "MP4",
+        "date": "2023-01-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "태극 마크를 단 WBC 대표팀으로 처음 만나는 자리.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들의 얼굴에는 긴장감과 설렘이 교차했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.006,
+                "end": 8.039
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "삼사 년 만에 태극 마크 또 다는 거라서 기분 좋고 반가울 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.049,
+                "end": 12.908
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뽑히게 돼서 너무 영광스럽고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.918,
+                "end": 15.132
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하나도 안 떨려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.142,
+                "end": 16.983
+            }
+        ]
+    },
+    "summary": "태극 마크를 단 WBC 대표팀으로 처음 만나는 자리 선수들의 얼굴에는 긴장감과 설렘이 교차했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00632_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00632_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00715",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.224,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공기열 히트 펌프라는 그게 지금 이제 많이 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 기계값이 너무 비싸요 그래서 이런 부분은 정부에서 장기적인 저리 저금을 지원을 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.903,
+                "end": 11.030
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "난방비 부담에 벼랑 끝에 내몰린 농민들은 정부와 자치 단체에 더 적극적인 대책을 요구하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.040,
+                "end": 18.296
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.306,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "난방비 부담에 벼랑 끝에 내몰린 농민들은 정부와 자치 단체에 더 적극적인 대책을 요구하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00715_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03268",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.159,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 노동자 다이어리 6 잭 팟",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새집으로 이사 오기 전까지의 내 생활은 매우 단조로웠기 때문에 돈이 절로 쌓였다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.243,
+                "end": 21.239
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 놈이 우리집 최고 부자다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.249,
+                "end": 23.502
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "사람이냐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.512,
+                "end": 26.159
+            }
+        ]
+    },
+    "summary": "더빙하는 사람들이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03268_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

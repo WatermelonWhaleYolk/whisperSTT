@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYP_03961",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.554,
+        "format": "MP4",
+        "date": "2020-12-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "끄으음.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.383
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아침 식사도 평소보다 적게 먹은 후",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.393,
+                "end": 6.605
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "배가 차면 잠이 오니 적당한 공복감을 위해 아침을 적게 먹어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.615,
+                "end": 11.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 정도면 배는 안 부를거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.512,
+                "end": 15.176
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당당히 시험장으로 향했다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.186,
+                "end": 17.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 가 볼까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.093,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "주인공은 선생님 말씀대로 일찍 일어나서 적게 먹고 시험장으로 출발하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03961_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

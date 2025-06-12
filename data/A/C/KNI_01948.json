@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "KNI_01948",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.2,
+        "format": "MP4",
+        "date": "2020-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이른바 대포 카메라에다가 응원 도구까지 아이돌 스타 부럽지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 저는 허선행 선수님이요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 7.060,
+                "end": 9.440
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저 박정우 선수요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.454,
+                "end": 11.793
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "황찬섭, 전도언 파이팅.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.793,
+                "end": 14.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "씨름의 매력에 빠진 이유 가지각색입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 14.708,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "대포 카메라와 응원 도구까지 챙긴 팬들이 씨름 경기를 관람할 정도로 인기가 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01948_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

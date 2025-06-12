@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_01664",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.617,
+        "format": "MP4",
+        "date": "2023-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "SK는 경기 종료 4분 전 특유의 속공 공격을 성공시키며 다시 리드를 가져갔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "석 점 앞서 있던 종료 38초 전 해결사는 오재현이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.785,
+                "end": 10.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코너에서 승부를 결정짓는 쐐기 석 점 슛을 성공시켰고 전희철 감독은 두 팔을 번쩍 들었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.709,
+                "end": 17.617
+            }
+        ]
+    },
+    "summary": "SK는 경기 종료 전 공격을 성공시켰고 승부를 결정짓는 쐐기 석 점 슛을 성공시켰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01664_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01664_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

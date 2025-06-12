@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00106",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.917,
+        "format": "MP4",
+        "date": "2023-04-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 번 살아난 대한항공 공격은 3세트에 이어 4세트 역시 일찌감치 점수 차를 벌렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 세트까지 가는 접점 대한항공이 3 대 2 짜릿한 역전승을 거두자 선수들은 기쁨을 감추지 못합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.707,
+                "end": 17.917
+            }
+        ]
+    },
+    "summary": "대한항공이 역전승을 거둬 선수들은 기쁨을 감추지 못한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00106_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

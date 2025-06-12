@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYP_03725",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.424,
+        "format": "MP4",
+        "date": "2021-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 내가 숨겨둔 데로 가야 되잖아 귀찮게",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.960
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "있었어 안 쓸려고 애꼈어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.970,
+                "end": 4.762
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "숨겨 놓은 자식도 있을지 몰라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.772,
+                "end": 6.866
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "결국 숨겨 두었던 비장의 카드를 꺼냈다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.876,
+                "end": 11.186
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "말인 즉슨 지리산 중턱에 고모님이 하시던 민박집이 오랫동안 비어있다는 것이었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.196,
+                "end": 18.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 앞이 강이고 원두막도 있어 집에는 아무도 없고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.314,
+                "end": 22.092
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.102,
+                "end": 22.510
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가자 가자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.520,
+                "end": 23.076
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "굿굿",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.086,
+                "end": 24.424
+            }
+        ]
+    },
+    "summary": "형이 숨겨두었던 비장의 카드는 지리산 중턱에 고모님의 민박집이 오랫동안 비어있는데 바로 앞이 강이고 원두막도 있다고 말하자 다들 가자고 좋아한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03725_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 154
+                }
+            ]
+        }
+    ]
+}

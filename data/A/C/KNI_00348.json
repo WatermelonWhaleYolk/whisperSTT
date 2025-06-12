@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00348",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2022-11-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "줄기차게 내린 비도 응원 열기는 식히지 못했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.282
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시민들은 우비를 입고 거리로 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.292,
+                "end": 7.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붉은 응원 도구를 들고 힘차게 대한민국을 외쳤습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.376,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "줄기차게 내린 비에도 시민들은 우비를 입고 거리로 나와 붉은 응원 도구를 들고 힘차게 대한민국을 외쳤다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00348_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "metadata": {
+        "filename": "MYP_02558",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.866,
+        "format": "MP4",
+        "date": "2020-12-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어디보자 여기가 대결 장소인데 이것들은 아직인건가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "메시포터 오랜만에 만나는군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.555,
+                "end": 6.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "건방진 호네이프 오늘이야말로 메호 대전을 종결짓고 승리를 가져야겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.214,
+                "end": 10.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직도 정신을 못 차렸군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.071,
+                "end": 12.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 메시포터 네놈을 끝장내고 8 8 8 4 8에 더해 8 8 8 4 8 16의 저주를 내려주지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.017,
+                "end": 19.121
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어이 호네이프 교수",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.131,
+                "end": 20.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 넌 누구지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.193,
+                "end": 21.787
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "끼어들어서 미안하지만 메호 대전은 2019년 7월 26일에 이미 끝났다고 하던데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.797,
+                "end": 26.343
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누 누가 그래?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.353,
+                "end": 27.230
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "빤스 구독자 중에 의사양반님이 댓글로 그러던 걸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.240,
+                "end": 29.601
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그리고 알 만한 사람은 이미 다 알고 있다고",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.611,
+                "end": 31.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞다 호네이프 저놈 한국에 갔다가 호되게 한번 당했었지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.961,
+                "end": 34.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 몸이 건재한데 누구 마음대로 끝을 내?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.577,
+                "end": 37.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "받아라 패널티키움 레비 호우사",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.320,
+                "end": 40.924
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으악",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.934,
+                "end": 41.866
+            }
+        ]
+    },
+    "summary": "메시포터와 호네이프 교수는 신경전을 벌이고 있고 메호 대전은 2019년 7월 26일에 이미 끝났다는 얘기에 호네이프 교수는 화를 낸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02558_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

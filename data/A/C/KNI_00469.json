@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_00469",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.992,
+        "format": "MP4",
+        "date": "2023-05-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사직구장 앞은 팬들로 장사진을 이뤘습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 롯데가 선두권을 달리면서 관중들도 늘고 있어 경기장 앞 주변 상권은 활기를 되찾고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.772,
+                "end": 10.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구단 상품 판매점도 물품 등을 사려는 팬들로 북적였는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.354,
+                "end": 14.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기가 시작되자 사직구장은 관중석을 가득 채운 팬들의 우렁찬 함성으로 뒤덮혔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 14.533,
+                "end": 20.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "롯데를 상징하는 응원가 부산 갈매기가 울려퍼질 땐 열기가 절정에 달했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 20.506,
+                "end": 25.992
+            }
+        ]
+    },
+    "summary": "최근 롯데가 선두권에 올라서며 부산 사직구장을 찾는 팬들의 열기로 구단 상품 판매점과 주변 상권도 활기를 찾고 있다는 소식이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00469_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00469_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_00277",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.963,
+        "format": "MP4",
+        "date": "2022-11-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.845
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.855,
+                "end": 15.367
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국 여자 유도는 1996년 애틀랜타 올림픽 이후로 금맥이 끊겼습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.377,
+                "end": 22.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모처럼 등장한 2002년생 유도 샛별 허미미의 등장에 한국 유도계가 장밋빛 미래를 꿈꾸고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.279,
+                "end": 29.963
+            }
+        ]
+    },
+    "summary": "모처럼 등장한 2002년생 유도 샛별 허미미의 등장에 한국 유도계가 장밋빛 미래를 꿈꾸고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00277_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 102
+                }
+            ]
+        }
+    ]
+}

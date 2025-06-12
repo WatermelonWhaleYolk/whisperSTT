@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_02235",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.933,
+        "format": "MP4",
+        "date": "2016-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정말 심리적으로 흔들리지 않고 집중력도 정말 끝없이 집중하는 글쎄요 다시 붙어도 과연 이길 수 있을까 하는 의문은 들긴 하는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "확실히 실력적인 부분 보다는 심리적인 부분 그런 집중력이라든지 이런 부분에서는 인간이 따라올 수 없기 때문에 실력적으로 우위를 인정은 못하겠지만 그런 부분에서는 역시 사람이 이긴다라는 건 좀 어려운 부분이 있는 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.865,
+                "end": 33.933
+            }
+        ]
+    },
+    "summary": "이세돌 9단은 알파고와의 대결에서 집중력을 크게 요하는 대결이었던 만큼 다시 붙는다고 해도 집중하는 면에서 이기는 것이 힘들 거라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02235_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 38,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

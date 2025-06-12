@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01840",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.332,
+        "format": "MP4",
+        "date": "2023-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "만 17살 오준성이 대표팀 선별 조대성과 숨 가쁜 랠리를 이어갑니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오준성은 유남규가 보유했던 아시안 게임 탁구 최연소 국가대표 기록을 37년 만에 갈아치워 주목받고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.266,
+                "end": 15.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오른손 쉐이크 핸드 전형에 백 핸드 드라이브가 주 무기인 점은 마치 아버지 오상은 감독을 보는 것 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.614,
+                "end": 24.594
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아시안 게임이라고 또 너무 긴장하지 말고 형들한테 많이 배우면서 잘할 수 있도록 하라고 어? 오케이?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.604,
+                "end": 32.332
+            }
+        ]
+    },
+    "summary": "오상은 감독의 아들인 오준성은 37년 만에 아시안 게임 탁구 최연소 국가대표라는 타이틀을 얻었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

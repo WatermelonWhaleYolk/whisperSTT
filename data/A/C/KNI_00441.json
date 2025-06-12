@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00441",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.957,
+        "format": "MP4",
+        "date": "2023-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실제로 자료를 분석한 결과 동일 보험사 간 사고의 분심위 진행 비율은 다른 보험사 간 사고 때보다 훨씬 적었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수고와 비용을 줄이기 위해 보험사가 소비자 권리를 제한하는 꼼수를 부리는 건 아닌지 점검이 필요한 대목입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.465,
+                "end": 14.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동일 보험사 간 사고는 최근 3년 동안 꾸준히 증가하는 추세지만 금융당국은 이와 관련한 별다른 대책을 내놓고 있지 않습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 14.160,
+                "end": 22.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.236,
+                "end": 23.957
+            }
+        ]
+    },
+    "summary": "동일 보험사 간 사고는 최근 3년 동안 꾸준히 증가하는 추세지만 금융당국은 이와 관련한 별다른 대책을 내놓지 않고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00441_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

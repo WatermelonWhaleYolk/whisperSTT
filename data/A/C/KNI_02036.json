@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "KNI_02036",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.712,
+        "format": "MP4",
+        "date": "2019-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우치 오신 느낌어때요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋아요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.330,
+                "end": 2.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어때요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.029,
+                "end": 2.590
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "행복해요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.590,
+                "end": 4.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특급 조커 엄원상은 결승전에 대한 기대감을 드러냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.162,
+                "end": 7.861
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "결승전이란거 상상이 잘 안돼 가지고 경기장 가 봐야 알 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.871,
+                "end": 12.660
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우승할 것 같아요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.667,
+                "end": 13.150
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어때요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.150,
+                "end": 14.327
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "할 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.330,
+                "end": 16.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀은 숙소에 도착한 뒤 휴식을 취했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.046,
+                "end": 19.700
+            }
+        ]
+    },
+    "summary": "엄원상은 결승에 대한 기대감을 드러내며 우승할 것 같다고 했고 대표팀은 숙소에 도착한 후 휴식을 취했다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_02036_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 64,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

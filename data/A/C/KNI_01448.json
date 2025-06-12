@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_01448",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.022,
+        "format": "MP4",
+        "date": "2023-04-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한번 이기던 거 그 승리하는 횟수를 조금 더 늘리고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파리올림픽 때 한번 더 보여줘야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.542,
+                "end": 8.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우상혁은 몸의 균형을 잡고 폭발적인 속도를 내기 위한 훈련을 펼쳐가고 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 8.282,
+                "end": 15.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "높이뛰기는 걸리는 횟수가 더 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.390,
+                "end": 18.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그날 뭐 걸리더라도 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.988,
+                "end": 22.022
+            }
+        ]
+    },
+    "summary": "우상혁은 승리하는 횟수를 더 늘리고 싶다고 말했고 몸의 균형을 잡고 폭발적인 속도를 내기 위한 훈련을 펼쳐가고 있다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

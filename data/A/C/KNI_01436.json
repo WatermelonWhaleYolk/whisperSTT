@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_01436",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.257,
+        "format": "MP4",
+        "date": "2023-04-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김태성에 이어 2 위로 골인한 황대헌은 500 미터와 1000 미터 1500 미터 합산 종합 점수 1 위로 국가대표에 뽑혔습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 코로나 감염으로 대표 선발전에 기권한 황대헌은 1 년 만에 베이징 올림픽 금메달리스트의 위용을 찾았습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 8.499,
+                "end": 16.833
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 1 년 만에 복귀를 해서 우선 너무 기쁘고 또 또 한번 더 이 자리가 너무 소중하다는 거를",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.843,
+                "end": 24.257
+            }
+        ]
+    },
+    "summary": "김태성에 이어 2 위로 골인한 황대헌은 종합 점수 1 위로 국가대표에 뽑혔다며 지난해 코로나 감염으로 대표 선발전에 기권하고 1 년 만에 베이징 올림픽 금메달리스트의 위용을 찾았다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01436_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

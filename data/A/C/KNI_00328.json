@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00328",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.791,
+        "format": "MP4",
+        "date": "2022-11-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "7000킬로미터를 날아왔지만 지친 기색 하나 없이 당장 태극전사 응원에 나설 태셉니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 부상 중인 에이스 손흥민 선수의 회복에 조금이라도 도움이 되고자 하는 마음입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.490,
+                "end": 13.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희들도 마침 걱정하고 있는데 손흥민 선수는 의지력이 있고 또 대한민국 모든 선수들이 팀이라는 이름으로 열심히 해서 승리를 꼭 할 거라고 믿어 의심치 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.786,
+                "end": 24.791
+            }
+        ]
+    },
+    "summary": "붉은 악마들은 7000킬로미터를 날아왔지만 지친 기색 하나 없이 당장 태극전사 응원에 나설 태세이고 특히 부상 중인 손흥민 선수의 회복에 조금이라도 도움이 되고자 하는 마음이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00328_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

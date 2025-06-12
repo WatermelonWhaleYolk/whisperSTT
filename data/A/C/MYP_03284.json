@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYP_03284",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "승리에 도취된 나는 축배를 쐈다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 내가 쏜다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.546,
+                "end": 5.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.713,
+                "end": 6.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아하하하하 하하하 아하하하 아하하하하 아하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.608,
+                "end": 12.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "57달러가 나왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.333,
+                "end": 14.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 생선 새끼가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.798,
+                "end": 17.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 문제의 그 바지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.437,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "승리에 도취된 나는 축배를 쐈고 57달러가 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03284_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 2
+                }
+            ]
+        }
+    ]
+}

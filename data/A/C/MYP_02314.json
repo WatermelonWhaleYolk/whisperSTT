@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02314",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.3,
+        "format": "MP4",
+        "date": "2021-04-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스피드 87, 슛 86, 패스 85, 드리블 88 종합 축구 능력치는 86입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.546
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 정말 신기하네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.556,
+                "end": 7.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "180센치미터에 75킬로그램, 마른 체형, 피지컬 점수는 78입니다 다음으로 외모 점수는 축하합니다 99점이시네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.064,
+                "end": 15.067
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하 이거 이거 부끄럽네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.077,
+                "end": 16.549
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와 주장도 외모가 99시네요 저도 99였는데 헤헤.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.559,
+                "end": 19.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 홀란드?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.838,
+                "end": 20.836
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응 자기야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.846,
+                "end": 21.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홀란드의 외모 점수를 다시 분석해봤더니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.506,
+                "end": 24.300
+            }
+        ]
+    },
+    "summary": "주장의 외모 점수가 99점이라는 공순이의 측정에 홀란드도 99점이라며 얘기하지만 공순이는 홀란드의 외모 점수를 다시 측정하기 시작한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02314_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

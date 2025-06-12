@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "KNI_00622",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.815,
+        "format": "MP4",
+        "date": "2023-01-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "별들의 축제 덩크 대결에선 @이름1가 @이름2의 판정승을 거뒀습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "필리핀 특급 @이름1는 고난도 리버스 덩크를 단 2차례 만에 성공시키며 덩크왕 상금 200만 원을 거머쥐었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 5.583,
+                "end": 15.815
+            }
+        ]
+    },
+    "summary": "필리핀 특급 @이름1는 고난도 리버스 덩크를 단 2차례 만에 성공시키며 덩크왕 상금 200만 원을 거머쥐었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00622_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

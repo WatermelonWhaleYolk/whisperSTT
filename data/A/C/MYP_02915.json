@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02915",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.833,
+        "format": "MP4",
+        "date": "2020-03-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빡빡이 새끼들끼리 모자람이 없다고 떠들고 있긴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.299
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네놈도 이마를 보아하니 얼마 남지 않았구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.309,
+                "end": 5.792
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래서 첫 번째 시련이 무엇이냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.802,
+                "end": 8.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첫 번째 시련은 바로 포켓몬 배틀이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.206,
+                "end": 11.415
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐? 포켓몬 배틀?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.425,
+                "end": 13.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.817,
+                "end": 14.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네놈도 보아하니 요괴를 전부 이끌고 온 게 아니군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.607,
+                "end": 17.692
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 특별히 원격 소환 장치를 제공해 줄테니 나와 함께 4명의 요괴를 선택해 포켓몬 시합으로 승부를 겨뤄 보자꾸나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.702,
+                "end": 27.833
+            }
+        ]
+    },
+    "summary": "원격 소환 장치를 이용하여 첫 번째 시련인 포켓몬 배틀을 하자고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02915_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

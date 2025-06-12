@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYP_03958",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.997,
+        "format": "MP4",
+        "date": "2020-12-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수능 대작전.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "체벌, 꾸중, 벌점 한때 이 학교의 모든 힘을 손에 넣은 사나이 고3 담임.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.257,
+                "end": 21.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그는 수능 전날 학생들을 위한 마지막 가르침을 남기고 있었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.829,
+                "end": 27.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평소보다 일찍 일어나라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.797,
+                "end": 30.997
+            }
+        ]
+    },
+    "summary": "고 3 담임선생님이 수능 전날 학생들에게 평소보다 일찍 일어나라고 말하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03958_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_02221",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.066,
+        "format": "MP4",
+        "date": "2017-08-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특기자 장학금 나온 줄도 몰랐고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.794
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "불투명한 돈처리 때문에 공금유용 의혹이 제기됐는데 당시 축구단 단장은 이를 부인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.804,
+                "end": 9.211
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "통장 있느냐고 하니까 없다고 해서, 우리 거래 은행 가서 만들라고 한 것 뿐이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.221,
+                "end": 14.718
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "중요한 것은 내가 통장이나 체크카드를 가져본 적이 없다는 말씀입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.728,
+                "end": 20.066
+            }
+        ]
+    },
+    "summary": "학부모 측은 특기자 장학금 나온 줄 몰랐고 당시 축구부 안장은 학생들이 통장이 없다고 해서 거래 은행가서 만들라고 했을 뿐 통장이나 체크카드를 가져본 적 없다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02221_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 95
+                }
+            ]
+        }
+    ]
+}

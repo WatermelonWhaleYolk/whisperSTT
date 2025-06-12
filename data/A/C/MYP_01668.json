@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_01668",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.433,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나도 안 걸려 부상도 안 당해 그야말로 최고의 선수 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.882
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 뭐해 골을 못 넣고 있잖아 골을.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.892,
+                "end": 6.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 뭐 저도 연기 덕분에 충분한 휴식을 취했으니 조만간 득점 행진을 이어갈 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.643,
+                "end": 11.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 오늘 새벽 드디어 경기가 열린다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.731,
+                "end": 14.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "리그 2위를 달리고 있는 리버풀을 상대로 말이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.021,
+                "end": 16.867
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "간만에 하는 경기가 리버풀전이라니 차라리 한 경기 더 연기하는 게 낫지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.877,
+                "end": 21.879
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 오래 쉬는 것도 경기 감각에 문제가 생기는 거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.889,
+                "end": 25.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 넌 어차피 벤치일 텐데 무슨 걱정이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.290,
+                "end": 28.129
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "케인 말이 맞다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.139,
+                "end": 29.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기 감각도 그렇고 미뤄 놓은 경기들은 나중에 가서 어떡하려고 아무리 상대가 리버풀이라도 이번 경기만큼은 진행해야 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.194,
+                "end": 36.433
+            }
+        ]
+    },
+    "summary": "감독은 오늘 새벽 리그 2위를 달리고 있는 리버풀과 경기를 한다고 얘기했고 알리는 상대가 리버풀이라면 한 경기 더 연기하는 게 낫다고 말하고 있고 케인은 경기를 너무 많이 미루면 경기 감각에 문제가 생기니 해야 한다고 하면서 알리는 어차피 벤치에 있으니 걱정할 게 없다며 핀잔을 준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01668_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

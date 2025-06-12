@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_04210",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.693,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금부터 인사청문회를 시작한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.495
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제 일처리는 이상 없었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.505,
+                "end": 13.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 이 잡것지 지금 CCTV 전 라인으로 연병 생중계를 때려놓고 발뺌을 살짝쿵 시전해야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.504,
+                "end": 20.390
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "판결은 해고야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.400,
+                "end": 21.888
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "판결은 펀치형.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.898,
+                "end": 24.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 결정적인 증언을 입수했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.037,
+                "end": 26.693
+            }
+        ]
+    },
+    "summary": "인사청문회가 열렸고 일처리에는 이상 없었다고 했지만 판결은 해고로 났고 결정적인 증언도 입수했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04210_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

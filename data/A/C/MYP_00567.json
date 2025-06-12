@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_00567",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.3,
+        "format": "MP4",
+        "date": "2023-03-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "벤치도 벤치 나름이지 전 그렇게 들어 올린 우승컵 따위는 절대 인정할 수 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.496
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당신이 인정하지 않더라도 나무위키는 인정하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.506,
+                "end": 7.624
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞서 말했던 선수들의 경력란이 수많은 우승컵으로 채워져있는 반면 해리 케인 당신의 경력란은 텅텅 비어있던데 어떻게 직접 수정이라도 신청하셔서 아우디컵이라도 추가하시는 게 낫지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.634,
+                "end": 18.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 그냥 우승컵 몇 개 있다고 눈에 뵈는 게 없죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.641,
+                "end": 21.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지나가는 사람을 붙잡고 저와 당신 중에 누가 더 뛰어난 선수냐고 묻는다면 100명 중의 99명은 저 해리 케인이라고 하지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.445,
+                "end": 28.778
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현재로선 그렇겠지만 후대의 사람들은 다르지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.788,
+                "end": 31.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2048년 피파온라인 8을 즐기고 있는 잼민이가 세뱃돈을 탈탈 털어 카드깡을 했다고 가정해 보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.865,
+                "end": 38.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첫 번째로 오픈한 카드에서 잉글랜드 스트라이커 해리 케인",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.250,
+                "end": 43.300
+            }
+        ]
+    },
+    "summary": "화자2가 지금은 화자1이 뛰어난 선수라고 할지 몰라도 후대에 기억하는 뛰어난 선수는 다를 것이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00567_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": 43,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

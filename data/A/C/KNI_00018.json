@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00018",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2022-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4년 전 평창에서 동메달을 거머쥔 스피드 스케이팅의 김민석은 오늘 밤 남자 1500미터 경기에서 메달에 도전합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올 시즌 월드컵 1, 2차 대회에서 각각 금메달과 동메달을 획득했던 김민석의 2회 연속 올림픽 메달 획득 여부에 관심이 쏠리고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.220,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "4년 전 평창에서 동메달을 거머쥔 스피드 스케이팅의 김민석은 오늘 밤 남자 1500미터 경기에서 메달에 도전합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00018_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

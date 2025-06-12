@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYP_02239",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.2,
+        "format": "MP4",
+        "date": "2021-05-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무도 우리 감독 안 해 줘.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감독해 줄 사람 너밖에 없는데 제발 떠나가지 마.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.283,
+                "end": 20.200
+            }
+        ]
+    },
+    "summary": "아무도 감독해 줄 사람이 없다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02239_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

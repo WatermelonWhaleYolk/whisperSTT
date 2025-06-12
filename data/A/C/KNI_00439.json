@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_00439",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.859,
+        "format": "MP4",
+        "date": "2023-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "해당 보험사는 취재가 시작되자 실제 절차와 다른 설명이었다며 잘못을 인정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.354
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보험사가 사실과 다르게 안내를 한 건 사고 차량 운전자가 모두 동일 보험사 가입자이기 때문이라는 게 전문가 판단입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.364,
+                "end": 13.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자신들이 판단 기관이나 마찬가지입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.619,
+                "end": 16.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "6대4면 6대4 판단을 했는데 분심위에서 다른 결정 나와 버린다 이렇게 되면 오히려 난감해지거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.650,
+                "end": 23.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보험사에서 그다지 원치 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.388,
+                "end": 25.859
+            }
+        ]
+    },
+    "summary": "보험사가 사실과 다르게 안내를 한 건 사고 차량 운전자가 모두 동일 보험사 가입자이기 때문이라는 게 전문가 판단이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00439_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03673",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.317,
+        "format": "MP4",
+        "date": "2021-11-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두번째 접시를 먹어볼까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "속았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.021,
+                "end": 3.023
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시간차 공격이라니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.033,
+                "end": 4.899
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 집은 양으로 유명했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.909,
+                "end": 7.156
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "첫 접시의 양이 엄청났기에 2개를 한데로 모은것으로 착각했던 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.166,
+                "end": 12.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하하 내가 손이 쬐매 커서 말이여",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.943,
+                "end": 16.084
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사장님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.094,
+                "end": 17.317
+            }
+        ]
+    },
+    "summary": "이 집은 양으로 유명한데 사장님이 두 번째 탕수육을 가져왔고 첫 접시의 양이 많았기에 2개를 한 데로 모은 줄 착각했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03673_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_00628",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.933,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 사장님, 눈을 감았어요. 시간 다 됐죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.984
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 예 그 그렇네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.994,
+                "end": 4.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 얼른 승점 3점 주시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.760,
+                "end": 6.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 손님 강팀이 되실 수 있는 기회였는데 승점을 택하시다니 참 딱하시네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.678,
+                "end": 11.594
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 예 강팀은 사장님이나 실컷 하시고, 저는 승점이나 챙겨가겠습니다. 아 참 그리고 15등이 강팀 판독기라니 이거 좀 억지 아닙니까? 하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.604,
+                "end": 19.591
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시발",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.601,
+                "end": 21.933
+            }
+        ]
+    },
+    "summary": "남성 두 명이 이야기를 나누고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00628_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

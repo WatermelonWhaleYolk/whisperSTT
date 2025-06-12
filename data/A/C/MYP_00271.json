@@ -1,0 +1,517 @@
+{
+    "metadata": {
+        "filename": "MYP_00271",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 173.166,
+        "format": "MP4",
+        "date": "2023-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너 지금 뭐라고 했어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개똥같은 크로스가 나 때문이었다니",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.480,
+                "end": 3.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 무슨 말 같지도 않는 소리야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.543,
+                "end": 4.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선배가 드리블을 사랑하는 마음은 알겠다만 할 줄 아는 거라곤 실컷 드리블하다가 막히면 저한테 넘겨주는 것뿐이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.877,
+                "end": 11.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 상황에서 제가 할 수 있는 선택이 크로스밖에 더 있겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.456,
+                "end": 14.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크로스를 못 올린건 @이름1 너면서 지금 내 탓하는 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.647,
+                "end": 17.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 크로스 못 올리는 거 뻔히 아시면서 굳이 그렇게 주셔야 했었냐구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.685,
+                "end": 21.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윙백이면 크로스는 기본으로 잘해야지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.632,
+                "end": 23.893
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 어째서 선배가 벤치로 밀려나신 뒤로 제 경기력이 올라갔을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.902,
+                "end": 27.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거야 뭐 어디서 장어라도 먹고 왔나 보지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.575,
+                "end": 29.640
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "폐급들끼리 그만 싸우고 @이름1 너의 주장을 뒷받침 해 줄 변호인이라도 불러오던가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.640,
+                "end": 34.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 그래도 그럴 참이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.652,
+                "end": 36.444
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 판사님",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.454,
+                "end": 37.602
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 다른 오른쪽 공격수 @이름2를 변호인으로 신청합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.602,
+                "end": 40.785
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "좋습니다. 피고측 변호인 발언해 주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.785,
+                "end": 43.257
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "안녕하세요. @이름3 선배는 넘어선지 오래이며 누구를 데려와도 토드넘의 오른쪽은 내 차지다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.257,
+                "end": 48.919
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "나이에 비해 잘하는 스키 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.929,
+                "end": 51.557
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그래서 변호인은 @이름1에게 문제가 없다고 생각하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.557,
+                "end": 54.990
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "문제가 없는 건 아니지만 굳이 방출시킬 필요는 없다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.992,
+                "end": 58.915
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어째서죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 58.922,
+                "end": 59.745
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "앞서 말했듯 @이름3 선배와 함께 뛰었을 땐 @이름1의 선택지는 크로스뿐이었었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.755,
+                "end": 64.582
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "하지만 제가 팀에 합류한 뒤로 제가 크로스를 도맡아하고 @이름1은 연계와 수비에 집중하고 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 64.582,
+                "end": 70.877
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "덕분에 우측 수비는 탄탄해지고 중원도 @이름1의 커버로 한층 더 안정적으로 변했으며",
+                "sound_type": [
+                    2
+                ],
+                "start": 70.877,
+                "end": 76.302
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "전 마음놓고 깊숙이 올라갈 수 있게 된 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 76.312,
+                "end": 79.012
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 팀이 4백이었다면 몰라도 3백에 윙백을 쓰고 있잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 79.022,
+                "end": 82.710
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "수비를 엄청나게 잘하는 것도 아니고 공격은 빵점짜리 선수를 굳이 윙백으로 써야겠어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 82.710,
+                "end": 87.472
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그렇다고 더 나은 선수를 데려올 입장도 아니잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 87.472,
+                "end": 90.062
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네가 아직 모르나 본데 회장님께서 곧 @이름4를",
+                "sound_type": [
+                    2
+                ],
+                "start": 90.062,
+                "end": 93.012
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그래봤자 2부 출신 아니었습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 93.025,
+                "end": 95.435
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "거긴 1부에서 맨날 골찌만 하는 노리치가 밥 먹듯이 우승하는데 아니었어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 95.435,
+                "end": 99.536
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래도 승격팀의 핵심 선수라면 @이름1보단 낫지 않겠냐고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 99.546,
+                "end": 103.075
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "@이름1도 라리가에서 나쁘지 않은 선수였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 103.075,
+                "end": 105.942
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그것도 바르셀로나에서 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 105.942,
+                "end": 107.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 라리가로 돌아가라 그래.",
+                "sound_type": [
+                    2
+                ],
+                "start": 107.760,
+                "end": 109.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굳이 욕먹으면서까지 남아 있을 필요가 있어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 109.170,
+                "end": 111.442
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러는 선배야말로 리그앙으로 돌아가시지 그럽니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 111.442,
+                "end": 114.271
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아, 지금의 파리라면 벤치에도 자리가 없으시려나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 114.281,
+                "end": 117.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고, 너 지금 뭐라고 했어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 117.337,
+                "end": 119.487
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 @이름4가 잘할지 못할지도 모르는 거고 @이름5 선배가 언제 또 다칠지 모르는 건데 어디 뭐 쿠쿠렐라 하이재킹이라도 하실 게 아니라면 저라도 남겨놓으셔야 하지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 119.487,
+                "end": 129.565
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그치만 실력이 애매해도 너무 애매하잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 129.565,
+                "end": 132.225
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "크로스는 포기한다 쳐도 뭐하나 장점이 있어야 말이지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 132.225,
+                "end": 135.125
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다른 윙백들이 죄다 줄줄이 부상으로 실려 나갈 때 전 끝까지 살아 남아있던거 아시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 135.130,
+                "end": 140.087
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "튼튼하고 어린데다 점점 더 발전하고 있으니 어떻게 딱 일년만 더 지켜봐주시면",
+                "sound_type": [
+                    2
+                ],
+                "start": 140.087,
+                "end": 144.790
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "일년 뒤면 나도 서른이거든?",
+                "sound_type": [
+                    2
+                ],
+                "start": 144.790,
+                "end": 146.587
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "서른이 넘도록 우승 못하면 네가 책임질거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 146.587,
+                "end": 149.546
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "자자 이렇게 싸운다고 결판이 나겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 149.556,
+                "end": 152.202
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "오늘도 역시 선택은 구독자 여러분들께 맡겨야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 152.212,
+                "end": 155.285
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "먼저 크로스는 거의 배우지 않은 거나 다름없는 수준의 수비도 평범한 선수를 뭐하러 남겨놓냐 당장 팔어라라고 생각하시나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 155.285,
+                "end": 163.618
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아니면 @이름4 데려와봤자 제 2의 @이름1이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 163.628,
+                "end": 166.539
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어차피 주전은 @이름5로 쓰면 되니까 탑 클래스 데려올 거 아니면 @이름1 키워보자라고 생각하시나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 166.549,
+                "end": 173.167
+            }
+        ]
+    },
+    "summary": "실력이 평범한 선수를 방출시킬지, 탑 클래스 데려올 거 아니면 키우는게 나을지 한 선수의 방출에 대해 논의하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00271_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

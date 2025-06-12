@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYP_04187",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.724,
+        "format": "MP4",
+        "date": "2020-04-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "남학교의 첫인상을 중요하지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무조건 강하게 만나서 반갑다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.169,
+                "end": 8.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "괴롭히는 애들 있으면 나한테 다 말해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.826,
+                "end": 12.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 얘들아 내가 괴롭다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.417,
+                "end": 18.882
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 학교에는 아는 친구가 한명도 없었기 때문에 굉장히 심심했었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.892,
+                "end": 23.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이씨.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.573,
+                "end": 24.724
+            }
+        ]
+    },
+    "summary": "그 학교에는 아는 친구가 한명도 없었기 때문에 굉장히 심심했었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04187_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_02909",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.5,
+        "format": "MP4",
+        "date": "2020-03-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배추김치로 때릴 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.433
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.443,
+                "end": 2.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "린가드 겁나 좋아하시네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.563,
+                "end": 3.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 @이름1. 베베, 리키 램버트, 제이미 바디 이 선수들의 공통점 뭔지 아나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.562,
+                "end": 9.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.786,
+                "end": 10.528
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 다들 홈리스나 노동자 출신에서 프리미어리그 선수로 인생 역전을 했던",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.538,
+                "end": 14.792
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.802,
+                "end": 15.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2가 뭐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.331,
+                "end": 16.500
+            }
+        ]
+    },
+    "summary": "@이름2가 @이름1에게 베베, 리키 램버트, 제이미 바디 선수들의 공통점이 뭔지 아냐고 질문했고 @이름1는 그 선수들이 홈리스나 노동자 출신에서 프리미어리그 선수로 활약했다는 공통점이 있다고 답했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02909_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00054",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.923,
+        "format": "MP4",
+        "date": "2022-06-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사오십 미터 이후에 폭발적으로 속도를 더 내며 치고 나가는 능력은 외국 선수들을 방불케 한다는 것이 육상 전문가들의 평가입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몸이 상당히 좀 잘 빠졌고 구조 자체가 그다음에 가속 능력을 보니까 상당히 좀 다른 선수들하고 비교가 안 돼서 상당히 좋고 폼도 굉장히 그 자연스럽고 굉장히 가능성이 좀 큰 것으로 봐서",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.985,
+                "end": 21.722
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서말구와 장재근이 이루지 못했고",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.732,
+                "end": 23.923
+            }
+        ]
+    },
+    "summary": "사오십 미터 이후에 폭발적으로 속도를 더 내며 치고 나가는 능력은 외국 선수들을 방불케 한다는 것이 육상 전문가들의 평가이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00054_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_00836",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.485,
+        "format": "MP4",
+        "date": "2023-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 지금 바로 가서 밥 먹을 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아뇨 아직 피지컬이 다 안 끝나 가지고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.459,
+                "end": 5.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "준비 잘하고 뭐 있으면 연락하고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.260,
+                "end": 8.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.869,
+                "end": 11.469
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "태극 마크를 달고 뛰었던 본인의 경험을 되살려 @이름1에게 건넨 조언의 핵심은 바로 팀워크입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.479,
+                "end": 18.485
+            }
+        ]
+    },
+    "summary": "박찬호는 본인의 경험을 되살려 @이름1에게 팀워크가 중요하다고 조언했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00836_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 61,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

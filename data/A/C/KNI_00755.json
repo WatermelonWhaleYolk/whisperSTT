@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00755",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.018,
+        "format": "MP4",
+        "date": "2023-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어느새 서른다섯 살이 된 양현종은 WBC 등 자신의 국제무대 경험을 아낌없이 전수 중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 대회에도 정말 막내로 이제 합류하지만 의리가 정말 잘했으면 좋겠고 많이 배우고 느꼈으면 좋겠다는 생각이 드는 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.610,
+                "end": 18.018
+            }
+        ]
+    },
+    "summary": "서른다섯 살이 된 양현종은 막내로 합류한 이의리에게 WBC 등 자신의 국제 무대 경험을 아낌없이 전수 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00755_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

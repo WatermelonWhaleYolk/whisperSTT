@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00504",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.767,
+        "format": "MP4",
+        "date": "2021-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "산 정상까지 쉬지 않고 오르면서는 체력을 실전을 방불케 하는 연습 경기로는 담력을 키웁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.827
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새로운 기술을 연마하면서 저의 씨름을 만들어서 새로운 곳에서 새로운 스타가 났다난 나타날 수 있다는 것을",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.837,
+                "end": 18.268
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자 씨름단은 2011년 전남 구례 군청에 처음 창단된 뒤 한동안 주춤하다가 최근 5년 새 6곳이 연이어 생겨났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.278,
+                "end": 28.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "충북에선 올해만 영동군과 괴산군 2곳에 창설됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.950,
+                "end": 33.767
+            }
+        ]
+    },
+    "summary": "여자 씨름단은 2011년 전남 구례 군청에 처음 창단된 뒤 최근 5년 새 6곳이 연이어 생겨났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00504_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 150
+                }
+            ]
+        }
+    ]
+}

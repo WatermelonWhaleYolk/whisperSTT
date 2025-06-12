@@ -1,0 +1,176 @@
+{
+    "metadata": {
+        "filename": "KNI_02416",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.411,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 출발했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "출발은 지금 @이름1 선수가 좋았거든요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 1.037,
+                "end": 3.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직까진 각축이 있고 3레인 3레인 3레인",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.357,
+                "end": 8.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 선수가 조금씩 나오는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.563,
+                "end": 10.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 4레인 @이름2 입니다 @이름2.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.631,
+                "end": 12.522
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 @이름2 선수",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.532,
+                "end": 15.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 선수가 제일 먼저 들어왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.198,
+                "end": 17.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이 3레인의 @이름1 선수와 아주 각축이었었는데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.328,
+                "end": 22.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "확실히 이 두 선수가 좋은 기록을 갖고 있었기 때문에 사실 출발은 3번의 @이름1 선수가 훨씬 더 좋았거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.143,
+                "end": 28.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.429,
+                "end": 28.784
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 후반에서 이 거리 차이를 @이름2 선수가 좁히면서 1위를 어 들어오는 모습을 볼 수가 있었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.794,
+                "end": 35.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 전남 체고의 지금 이제 분홍색 유니폼을 입고 있는 선수입니다 542번 이 선수가 @이름2 선수가 1위로 들어왔고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 35.929,
+                "end": 44.411
+            }
+        ]
+    },
+    "summary": "3레인과 4레인의 각축이었는데 4레인의 @이름2 선수가 먼저 들어오며 1위를 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02416_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

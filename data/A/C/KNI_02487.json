@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNI_02487",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 60.928,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이러면 이제 우상혁 선수만 2미터 16에 성공했기 때문에 우상혁 선수가 이번 KBS배 육상대회 우승을 어 차지했고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 우상혁 선수는 어 사실은 안 뛰어도 되는데 이번 대회만을 위해선 안 뛰어도 되는데 세계선수권대회가 있으니까 아 뛰어야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.724,
+                "end": 19.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 세계선수권 기준 기록이 2미터 32의 기록이기 때문에 아마 그 기록을 도전할 것으로 예상이 되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.752,
+                "end": 26.861
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 2미터 16에서 16센티미터를 바로 올려서 @이름1 코치와 상의를 해서 2미터 32의 기록에 도전합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.871,
+                "end": 37.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 2미터 32를 넘어가면 어 부다페스트 헝가리에서 열리는 이번 세계선수권 대회에 출전 자격이 주어집니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 37.925,
+                "end": 44.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그리고 여기서 넘게 된다면 또 세계랭킹에 3위까지도 올라갈 수 있는 그런 위치에 와있거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 44.638,
+                "end": 51.044
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 2미터 32 어 이번 시즌 자신의 성공하면 이번 시즌 자신의 최고기록",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 51.054,
+                "end": 60.927
+            }
+        ]
+    },
+    "summary": "남자 높이뛰기 결승전에서 우상혁 선수는 2미터 16 성공으로 우승을 차지했고 세계선수권 대회 출전 자격을 얻기 위해 2미터 32 높이에 도전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02487_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

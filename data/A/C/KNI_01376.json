@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01376",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 38.571,
+        "format": "MP4",
+        "date": "2023-01-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안현수와 중국 대표팀 감독을 지낸 김선태 감독의 실명을 거론하며 채용이 부적절하다는 입장을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여론이 시끄러워지면서 성남시청은 안현수와 김선태를 탈락시켰고 오늘 오전 합격자를 발표할 예정이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.168,
+                "end": 15.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 성남 시청 소속 국가대표 최민정이 오늘 새벽 SNS를 통해 입장문을 올렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.619,
+                "end": 22.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수가 어떠한 지도자를 원한다는 입장문이 조심스럽지만 지도자 선임은 외부 영향력에 의하지 않은 공정한 선발이어야 한다고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.668,
+                "end": 32.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "논란이 가열되자 결국 성남시청은 오늘 합격자 없음이라고 발표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.978,
+                "end": 38.571
+            }
+        ]
+    },
+    "summary": "여론이 시끄러워지면서 성남시청은 안현수와 김선태를 탈락시켰고 오늘 오전 합격자를 발표할 예정이었으나 성남 시청 소속 국가대표 최민정이 지도자 선임의 공정성을 주장하여 논란이 가열되자 성남시청은 오늘 합격자 없음이라고 발표했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01376_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

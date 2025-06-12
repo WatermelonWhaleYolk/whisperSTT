@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYP_02492",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.533,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "채색 같은 건 특히나 브러시 효과를 많이 사용하시는데 저는 없습니다 그런 게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 그냥 뭐랄까 절대 잘났다는 게 아니라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.804,
+                "end": 9.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멍청한 거죠 할 줄 몰라 가지고 이게 펜 하나만 써요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.512,
+                "end": 14.746
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "펜, 펜 하나로 모든 그림을 그리고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.756,
+                "end": 18.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 어릴 때 등고선 같은 걸 그리잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.379,
+                "end": 22.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거랑 비슷해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.733,
+                "end": 23.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 살라가 갈색이니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.921,
+                "end": 26.533
+            }
+        ]
+    },
+    "summary": "채색이나 브러시 효과를 사용할 줄 몰라서 펜 하나로 모든 그림을 그립니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02492_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

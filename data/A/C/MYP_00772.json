@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_00772",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.966,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 아뇨 그게 아니라 센스가 엄청나다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전국에 효돌이들 다 어디 가 있나 했더니 여기 모여있었구만 나 같은 불효자는 나가 뒤져야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.462,
+                "end": 7.232
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 첫 번째 참가자 매드 클라운도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.242,
+                "end": 12.702
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "평소완 다른 말투 심장이 시큰해 난 니가 낯설었고 비가 내릴 듯 하늘은 시커매 반복된 실망과 다툼 속 서론 지쳤고 넌 아마 오늘 여기서 내게 꼭 꼭꼭꼭꼭 꼭이야 완전 꼭이야 틀딱이 나타났다 지금",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.712,
+                "end": 33.966
+            }
+        ]
+    },
+    "summary": "전국에 효돌이들이 여기 모여있고 첫 번째 참가자 매드 클라운도이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00772_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_02347",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.933,
+        "format": "MP4",
+        "date": "2016-07-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리나라에서 열리는 올림픽에 이미지와 딱 맞는 것 같고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 일단 너무 귀엽고 해서 많은 분들이 좋아하실 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.056,
+                "end": 7.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평창 조직 위원회는 수호랑과 반다비 두 쌍을 리우로 보내 리우 올림픽 기간 홍보에 주력할 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.828,
+                "end": 14.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직은 생소한 동계 종목에 대한 이해도를 높이기 위한 미니 올림픽도 개최됐습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 14.942,
+                "end": 21.933
+            }
+        ]
+    },
+    "summary": "평창 조직위는 동계 올림픽 마스코트 2쌍을 리우로 보내 홍보에 주력할 예정이며 아이들에겐 동계 종목에 대한 이해도를 위해 미니 올림픽도 개최했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02347_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

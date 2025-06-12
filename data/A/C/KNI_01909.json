@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "KNI_01909",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.457,
+        "format": "MP4",
+        "date": "2022-12-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월드컵에서 외롭게 싸우고 있는 선수들이 기댈 곳이 필요할 때 도하에 있는 구자철은 멘탈 코치 같은 역할을 해주고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.980
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정상적인 멘탈로 포르투갈 전에 나갈 수 있냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.990,
+                "end": 10.768
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거의 불가능에 가깝죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.778,
+                "end": 11.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이겨내야 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.962,
+                "end": 13.062
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그게 지금 대표 선수들이 해야 되는 숙명인 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.072,
+                "end": 16.650
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.660,
+                "end": 17.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그리고 분명히 선수들이 그렇게 할 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.124,
+                "end": 19.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 순간 대표팀에게 가장 필요한 건 바로 국민들의 응원이라고 전합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.556,
+                "end": 24.457
+            }
+        ]
+    },
+    "summary": "도하에 있는 구자철은 월드컵에서 외롭게 싸우고 있는 후배 선수들에게 멘탈 코치 같은 역할을 해주고 있으며 대표팀에게 가장 필요한 건 국민들 응원이라고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01909_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 98
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_03365",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2022-09-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 이야기는 클린 업 솔로 그렇게 다음날 형과 함께 청소 코스를 들며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.907
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미안 아침에 나오려니 힘들지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.917,
+                "end": 11.102
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와하하 저 새벽 공장 출신입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.112,
+                "end": 13.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러 가지 청소 기술을 전수 받았는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.888,
+                "end": 16.062
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "복도, 엘리베이터, 분리수거실 다 빠짐없이 둘러봐야 해 요일 별로 일이 다 달라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.072,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "다음날 형과 함께 청소 코스를 돌며 다 빠짐없이 요일 별로 다 달라서 둘러봐야 된다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03365_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

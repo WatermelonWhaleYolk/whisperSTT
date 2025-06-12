@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "filename": "MYP_00872",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 55.533,
+        "format": "MP4",
+        "date": "2022-12-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 시발 우승 한번 해보겠다고 이렇게까지 하는 거 맞아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어찌 됐든 저기가 그 연못인 거 같은데 아깝지만 뭐 별 수 있나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.590,
+                "end": 7.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 가라 내 보물 1호 휙 풍덩 에 오케이 제대로 맞은 거 같은데 꼭두새벽부터 내 잠자리에 트로피를 던진 게 너인가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.365,
+                "end": 15.702
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇습니다 신령님 아니 어째서 어디서 본 거 같은데 설마 린가 요즘 하도 소원 빌러 오는 놈들이 없어서 무관은 죄다 멸종된 줄 알았더만 아직 남아있었나 보군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.712,
+                "end": 24.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 일단 얼마나 정직한 선수인지 테스트부터 해야겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.205,
+                "end": 26.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 또 정직하면 어디 가서 꿀리지 않죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.808,
+                "end": 29.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 일단 무관이고요 엠자 탈모도 있으며 넌 동화책도 안 읽었냐 테스트는 니가 하는 게 아니라 내가 거라고 아이 제가 어릴 적부터 축구만 하느라 흥부놀부 1권밖에 읽지 못하는 바람에 그 콩쥐팥쥐에 나오시는 분 맞죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.118,
+                "end": 40.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 딱 2페이지 읽고 포기하는 바람에 금도끼 온도끼거든 아무튼 테스트를 시작하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.690,
+                "end": 45.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딱 봐도 리그 우승컵은 없을 거 같고 이 카라바오 컵이 니 우승컵이냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.230,
+                "end": 48.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시발 저거 그냥 내 거 그래 버려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.851,
+                "end": 51.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니지 아니야 정신 차려 해리 케인 분명 더 큰 선물이 기다리고 있을 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 51.120,
+                "end": 55.533
+            }
+        ]
+    },
+    "summary": "연못에다가 트로피를 던졌더니 신령님이 나와서 얼마나 정직한 선수인지 테스트를 해본다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00872_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00872_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

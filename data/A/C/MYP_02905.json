@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_02905",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.933,
+        "format": "MP4",
+        "date": "2020-04-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 그 그게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.076,
+                "end": 1.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 가 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.882,
+                "end": 3.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영국에 처음 와서 사기만 당하고 인종 차별에 너무 힘들었었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.433,
+                "end": 7.145
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기운 내라. @이름1",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.155,
+                "end": 8.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나도 처음에 정말 힘들었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.757,
+                "end": 10.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지만 김치 유나이티드 하면서 힘든 거 다 잊어버렸다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.898,
+                "end": 15.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고마워요. 정말 근데 아무리 생각해도 뜨끈한 맥주는 좀 아닌 것 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.133,
+                "end": 18.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.792,
+                "end": 21.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그게 뜨끈한 맥주는 좀 아닌 것 같다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.422,
+                "end": 24.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 씨발 누가 이렇게 시끄럽게 굴어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.277,
+                "end": 30.933
+            }
+        ]
+    },
+    "summary": "@이름1은 영국에 처음 와서 사기, 인종 차별 등 힘들었다는 감정을 털어놓은 후 주문했던 뜨끈한 맥주에 대해서는 곤란한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02905_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

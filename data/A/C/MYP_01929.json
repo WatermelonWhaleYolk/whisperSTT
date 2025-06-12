@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_01929",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.972,
+        "format": "MP4",
+        "date": "2021-09-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "드리블부터 수비까지 맨유를 상대로도 꿇리지 않았으나 결국 마무리를 결정짓지 못해 한 골도 넣지 못하고 있다네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.867
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 거라면 걱정하지 않으셔도 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.877,
+                "end": 8.967
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 영국에 넘어오기 전에 특훈을 받으며 마무리 능력을 길러왔거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.977,
+                "end": 13.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그치만 자네 분데스리가에서도 많은 골을 넣지 못한 거로 아는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.080,
+                "end": 17.966
+            }
+        ]
+    },
+    "summary": "드리블부터 수비까지 맨유를 상대로 꿇리지 않았지만 마무리를 결정짓지 못해 한 골도 넣지 못하고 있다고 하자 영국에 넘어오기 전에 특훈을 받았으니 걱정하지 않아도 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01929_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

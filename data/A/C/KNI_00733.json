@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00733",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.132,
+        "format": "MP4",
+        "date": "2023-02-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "핵 위협 수위를 높이고 있는 북한에 경고 메시지를 보내는 동시에 미국 핵우산의 신뢰를 단단하게 해 한국 내 자체 핵무장이나 전술핵 배치 여론을 진화하겠다는 의도로 풀이됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 12.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박 장관은 이어 북한의 불법적인 자금 흐름을 차단해야 한다며 한미일 세 나라의 공조와 유엔 안보리 이사국들의 대응도 촉구했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.545,
+                "end": 23.252
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안보리가 조속히 단합해서 북한의 반복적인 결의 위반에 대해서 강력히 대응해 나갈 것을 촉구했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.262,
+                "end": 32.132
+            }
+        ]
+    },
+    "summary": "핵 위협 수위를 높이고 있는 북한에 경고 메시지를 보내는 동시에 미국 핵우산의 신뢰를 단단하게 해 한국 내 자체 핵무장이나 전술핵 배치 여론을 진화하겠다는 의도로 풀이되며 박 장관은 이어 북한의 불법적인 자금 흐름을 차단해야 한다며 한미일 세 나라의 공조와 유엔 안보리 이사국들의 대응도 촉구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00733_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

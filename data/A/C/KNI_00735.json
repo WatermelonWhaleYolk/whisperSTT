@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_00735",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.69,
+        "format": "MP4",
+        "date": "2023-02-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수비 두 명을 단번에 뚫어낸 변준형의 돌파에 @소속1 은희석 감독은 씁쓸한 표정을 감추지 못했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@소속2는 변준형의 19득점 활약으로 @소속1을 꺾고 4연승을 질주했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 7.208,
+                "end": 12.886
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팬분들한테 이제 커피를 선물했는데 또 오늘 못하면은 팬분들 돌아가실 이제 집에 돌아가실 때나 저도 집에 갈 때 좀 기분이 안 좋을 것 같아서 오늘은 진짜 승리하겠다고 생각하고 열심히 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.896,
+                "end": 23.690
+            }
+        ]
+    },
+    "summary": "수비 두 명을 단번에 뚫어낸 변준형의 돌파에 @소속1 은희석 감독은 씁쓸한 표정을 감추지 못했고 @소속2는 변준형의 19득점 활약으로 @소속1을 꺾고 4연승을 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00735_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

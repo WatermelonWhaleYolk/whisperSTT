@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_02129",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.966,
+        "format": "MP4",
+        "date": "2018-07-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "호흡을 맞춘 지 이틀밖에 되지 않은 두 선수의 기적 같은 명승부에 뜨거운 환호가 쏟아졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.791
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가슴 안에서 뭐가 이렇게 좀 올라오면서 @이름1 선수랑 포옹 딱 하는데 너무 기분이 좋았고 저한테는 1등하는 것 같은 기분이 들었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.801,
+                "end": 13.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기장에는 우리는 하나다라는 구호 아래 남과 북의 선수들을 향한 뜨거운 응원이 펼쳐졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.813,
+                "end": 20.966
+            }
+        ]
+    },
+    "summary": "두 선수는 호흡을 맞춘 지 이틀밖에 되지 않았지만 기적 같은 명승부에 환호가 쏟아졌고 경기장에는 우리는 하나다라는 구호 아래 남과 북의 뜨거운 응원이 펼쳐졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02129_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

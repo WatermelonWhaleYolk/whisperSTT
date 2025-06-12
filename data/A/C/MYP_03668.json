@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03668",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2021-11-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 20대 초반까지만 해도 자주 모여 놀았지만 모두 비슷한 시기에 입대를 하는 바람에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2년이 넘도록 모일 수가 없었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.242,
+                "end": 8.573
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 참 길었다 세월",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.583,
+                "end": 14.357
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그러게 드디어 다 나오는구나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.367,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "20대 초반에는 자주 모여서 놀았는데 비슷한 시기에 군대에 입대를 하게 돼서 2년이 넘도록 모일 수 없었다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_03668_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

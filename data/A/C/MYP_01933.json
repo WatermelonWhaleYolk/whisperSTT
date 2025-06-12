@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01933",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.733,
+        "format": "MP4",
+        "date": "2021-09-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어쩌다 한 골 넣었다고 뭐 지구방위대 이터널스가 스승이라고 그럼 내 스승은 헐크 아니 내가 헐크의 스승이다 이 자식아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.569
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떤 새끼가 우리 희찬이 기를 죽이고 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.579,
+                "end": 10.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 당신은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.729,
+                "end": 11.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어이 덩치 저 밖에 세워 놓은 까만색 벤틀리 니 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.881,
+                "end": 15.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.867,
+                "end": 16.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데요라니 개새끼가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.516,
+                "end": 18.733
+            }
+        ]
+    },
+    "summary": "어쩌다 한 골 넣었다고 이터널스가 스승이라고 하냐며 그럼 난 헐크의 스승이다라고 하자 화자2가 우리 희찬이 기를 누가 죽이냐며 밖에 세워 놓은 까만 벤틀리의 주인이냐고 물어보았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01933_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

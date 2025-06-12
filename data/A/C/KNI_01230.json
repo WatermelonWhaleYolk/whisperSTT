@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_01230",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 37.871,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "달라졌는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.176
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "호텔방 건너편 빌딩에 장식된 거대한 사진을 바라보며 월드컵을 실감하기도 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.186,
+                "end": 8.036
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손흥민 등 세계적인 축구스타들이 하나 둘 입성하면서 개막을 닷새 앞둔 대회 분위기도 점점 달아오르고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.046,
+                "end": 16.714
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.724,
+                "end": 26.471
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "단 1퍼센트에 가능성이라도 붙잡고 말겠다는 주장 손흥민에 간절한 세 번째 월드컵 도전기가 시작됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.481,
+                "end": 35.078
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도하에서 kbs뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.088,
+                "end": 37.871
+            }
+        ]
+    },
+    "summary": "세계적인 축구스타들이 하나 둘 입성하면서 개막을 닷새 앞둔 대회 분위기도 점점 달아오르고 있으며 1퍼센트에 가능성이라도 붙잡고 말겠다는 손흥민에 간절한 세 번째 월드컵 도전기가 시작됐다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01230_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

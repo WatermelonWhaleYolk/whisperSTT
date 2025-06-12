@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_00503",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.514,
+        "format": "MP4",
+        "date": "2021-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최고의 장사를 뽑는 씨름 대회 현장입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단단하고 날렵한 몸짓으로 실력을 겨루는 선수들 한 치의 양보도 없는 팽팽한 신경전이 이어지고 오른 다리를 걸어 젖히는 화려한 기술로 상대를 단숨에 무너뜨립니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 3.387,
+                "end": 17.260
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 샅바라는 도구만 있으면은 배우지 않더라도 어떻게든 승부가 나고 충분히 여자들도 이제 좋은 경기도 볼 수 있 보여줄 수 있고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.270,
+                "end": 27.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들은 끝없는 맹훈련으로 기량을 쌓으면서 자신의 한계를 뛰어넘고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.799,
+                "end": 33.500
+            }
+        ]
+    },
+    "summary": "씨름 선수들은 끝없는 맹훈련으로 기량을 쌓으며 자신의 한계를 뛰어넘고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 150
+                }
+            ]
+        }
+    ]
+}

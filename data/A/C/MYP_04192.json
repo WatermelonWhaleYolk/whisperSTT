@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_04192",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.519,
+        "format": "MP4",
+        "date": "2020-04-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모유수유하러 왔냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.237
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "병원으로 전학 가 볼텨?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.237,
+                "end": 4.422
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래야 내 손님답지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.432,
+                "end": 6.832
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이 일은 십여 년이 지난 지금 까지도 놀림감이 되어 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.842,
+                "end": 12.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모유수유 육유두.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.375,
+                "end": 15.087
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아줌마 차 버릴거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.087,
+                "end": 19.519
+            }
+        ]
+    },
+    "summary": "그 일은 십여 년이 지난 지금 까지도 놀림감이 되어 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04192_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

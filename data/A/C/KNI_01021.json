@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "KNI_01021",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 42.986,
+        "format": "MP4",
+        "date": "2022-01-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "페퍼 저축은행의 추격이 본격화되면 어김없이 철벽으로 상대를 따돌렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "블로킹 4개를 포함해 11 득점 야스민 양효진과 함께 두 자릿수 득점을 올려 3 대 0 완승을 이끌었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.137,
+                "end": 13.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현대건설의 창단 첫 13연승입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.055,
+                "end": 16.085
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시즌 25승을 올려 V리그 역대 단일 시즌 최다승 타이를 기록했고 최다 승점 신기록까지 세웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.095,
+                "end": 24.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기록을 쓰고 있는 거에 함께 할 수 있어서 너무 영광이라고 생각하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.289,
+                "end": 28.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 저희 응원해 주시고 항상 격려해 주셔서 너무 감사드리고 새해 복 많이 받으세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.800,
+                "end": 33.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼성화재는 현대 캐피탈과의 라이벌전에서 러셀의 파괴력을 앞세워 완승을 거뒀습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 33.697,
+                "end": 40.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 40.813,
+                "end": 42.976
+            }
+        ]
+    },
+    "summary": "현대건설의 창단 첫 13연승이며 시즌 25승을 올려 V리그 역대 단일 시즌 최다승 타이를 기록했고 최다 승점 신기록까지 세웠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01021_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

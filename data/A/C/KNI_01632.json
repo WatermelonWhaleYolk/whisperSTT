@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01632",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.685,
+        "format": "MP4",
+        "date": "2020-10-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동료에게 날카롭게 찔러 주는 도움도 여전했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김선형의 존재감은 4쿼터 막바지 더욱 빛났습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.592,
+                "end": 8.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "속공 상황에서 수비 2명을 따돌리고 성공시킨 득점이 압권이었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.092,
+                "end": 13.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 막바지 넉 점 차까지 추격했던 현대모비스에 찬물을 끼얹었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.534,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "김선형은 수비 2명을 따돌리고 득점했고 현대모비스에 찬물을 끼얹었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01632_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

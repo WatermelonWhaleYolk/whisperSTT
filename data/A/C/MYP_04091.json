@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_04091",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.662,
+        "format": "MP4",
+        "date": "2020-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아주 기분 좋게 취한 그는 왜인지 내게 친근감을 표시했는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.945
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "끼야아아임므아아앙",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.955,
+                "end": 9.223
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "교태 부리지마 여자라도 때릴 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.233,
+                "end": 14.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막차가 급했던 나는 이에 응해주지 못하고 개찰구에 표를 넣었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.702,
+                "end": 23.023
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "투입",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.033,
+                "end": 25.064
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "미안하지만 지금은 막차가 더 중요해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.074,
+                "end": 29.662
+            }
+        ]
+    },
+    "summary": "만취한 남자가 내게 친근감 표시했지만 막차가 급했던 나는 무시하고 개찰구에 표를 넣었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04091_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

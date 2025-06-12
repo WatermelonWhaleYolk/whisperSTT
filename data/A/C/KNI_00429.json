@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_00429",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.953,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "참여 연대는 지난해 10월 시민 700여 명과 함께 대통령실과 관저 이전 관련 논란에 대한 국민 감사를 청구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야당이 당초 인수위가 밝혔던 500억 원보다 훨씬 커졌을 거라고 주장하는 이전 관련 비용과 김건희 여사가 설립한 코바나 콘텐츠 관련 업체의 공사 참여 의혹 등에 대해섭니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.420,
+                "end": 19.953
+            }
+        ]
+    },
+    "summary": "참여 연대는 지난해 10월 시민 700여 명과 함께 야당이 인수위가 밝혔던 500억 원보다 훨씬 커졌을 거라고 주장하는 대통령실과 관저 이전 관련 비용과 김건희 여사가 설립한 코바나 콘텐츠 관련 업체의 공사 참여 의혹에 대해 국민 감사를 청구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00429_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

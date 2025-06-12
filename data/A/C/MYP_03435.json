@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYP_03435",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.766,
+        "format": "MP4",
+        "date": "2022-07-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 회사의 빚이 어우 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.016
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 크리에이티브하네 백수 하나 갖고 이런 에스에프소설을 쓰다니",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.026,
+                "end": 8.504
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 디자인에 대한 형의 야망을 나는 잘 알고 있었기에 모든 걸 긍정적으로 생각했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.514,
+                "end": 15.927
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 그래 뭐 잠깐 쉬고 있는 거겠지 쉴 땐 마음껏 쉬고 다른 회사 또 알아보겠지 형은 디자이너니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.937,
+                "end": 24.116
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 오 역시 놀 땐 노는 사나이 여긴 놀 게 많아서 피부가 많이 탔네요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.126,
+                "end": 30.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "샤크썸바디헬프",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.558,
+                "end": 32.766
+            }
+        ]
+    },
+    "summary": "디자인에 대한 형의 야망을 나는 잘 알고 있었기에 긍정적으로 생각하고 쉴 때는 마음껏 쉬고 다른 회사 알아보겠지 생각했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03435_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

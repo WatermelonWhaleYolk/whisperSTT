@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_01263",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.088,
+        "format": "MP4",
+        "date": "2022-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1 시간가량의 회복 훈련을 전체 공개한 우리와 달리 가나는 이처럼 훈련장 문을 걸어 잠그고 전력을 꽁꽁 숨기고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가나는 축구 협회가 제공한 4 분 가량의 짧은 영상만을 공개했습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 8.542,
+                "end": 15.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "졌지만 잘 싸웠다는 평가 속에 회복 훈련에 나선 가나 선수단의 분위기도 나쁘지 않아 보였습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 15.019,
+                "end": 22.088
+            }
+        ]
+    },
+    "summary": "가나는 훈련장 문을 걸어 잠그고 전력을 꽁꽁 숨기고 있다며 축구 협회가 제공한 4 분가량의 짧은 영상만을 공개했는데 졌지만 잘 싸웠다는 평가 속에 가나 선수단의 분위기도 나쁘지 않아 보였다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01263_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

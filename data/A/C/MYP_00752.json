@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_00752",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.97,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공 좀 차는 거냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.197
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 드리블 하나는 날강두 저리 가라죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.207,
+                "end": 3.282
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "린가드 같은 선수 10명은 갖다 놔도 제 공은 못 뺐을걸요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.292,
+                "end": 6.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "린가드 욕하지 마라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.214,
+                "end": 7.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빵뚜아 린가드 팬이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.539,
+                "end": 9.182
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.192,
+                "end": 10.195
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 갑자기 축구는 왜요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.205,
+                "end": 11.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옛날에 맨유에서 뛰었던 베베라고 아나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.296,
+                "end": 13.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 베베 알죠. 린가드급 먹튀였잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.912,
+                "end": 16.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번만 더 린가드 욕하면 빵뚜아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.467,
+                "end": 18.966
+            }
+        ]
+    },
+    "summary": "드리블 하나는 날강두 저리 가라로 린가드 같은 선수 10명은 갖다 놔도 제 공은 못 뺐을 거라고 하니 빵뚜아는 린가드 팬이라고 욕하지 말라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00752_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 20,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

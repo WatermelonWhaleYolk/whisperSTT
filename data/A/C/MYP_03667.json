@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYP_03667",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.498,
+        "format": "MP4",
+        "date": "2021-11-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하필 이 타이밍에 뷔페 결혼식이라니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에효 배고프",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.284,
+                "end": 4.435
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 이런 세상 속에서조차 우리의 식욕은 잔반을 허락하지 않는다",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.445,
+                "end": 9.928
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아휴 나는 안 먹고 싶었지 안 먹고 싶었는데 어유 벌금이 에헤헤헤헤 사람이 애껴야지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.938,
+                "end": 18.813
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘의 이야기는 테이크아웃",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.823,
+                "end": 23.490
+            }
+        ]
+    },
+    "summary": "안 먹고 싶었지만 잔반을 남기면 벌금이 있어서 어쩔 수 없이 먹었라며 사람이 아껴야지라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03667_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

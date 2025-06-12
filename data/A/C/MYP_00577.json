@@ -1,0 +1,230 @@
+{
+    "metadata": {
+        "filename": "MYP_00577",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 90.133,
+        "format": "MP4",
+        "date": "2023-03-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수들의 마음가짐도 중요했지만 오늘의 승리는 나 그레이엄 포터의 필살기가 한몫했다고 봐야지",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.442
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "필살기가 있으셨다고요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.442,
+                "end": 6.835
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 게 있으셨다면 진작에 안 쓰시고 뭐 하셨어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.837,
+                "end": 9.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안은 나 역시 이게 필살기가 맞나 싶었는데 오늘부로 확실해졌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.229,
+                "end": 13.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쿠쿠렐라를 센터벡으로 보내면서 쓰리백 가동 공수 전환이 빠른 칠웰과 제임스를 윙백으로 기용 탄탄한 수비를 바탕으로 한 역습 축구야말로 나 그레이엄 포터의 필살기이자 우리 첼시의 공식이란 말이지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.169,
+                "end": 24.851
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 오늘 수비가 좋았다는 건 인정하지만 고작 한 경기 가지고 필살기라니요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.861,
+                "end": 28.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고작 한 경기라니 내가 첼시에 부임한 뒤 쓰리백을 경기했던 경기는 총 세 번 그 3번의 경기를 모두 승리했기에 필살기라 부를 수 있는 거지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.272,
+                "end": 35.736
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "쓰리백을 2번이나 더 했었다고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.746,
+                "end": 37.398
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 생각해 보니 AC밀란과의 챔스 조별 예선 경기에서도 2번 모두 쓰리백을 썼던 것 같이도 하고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.408,
+                "end": 41.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2번 써서 두 번 모두 완벽한 승리를 가져왔었지 비록 당시 쓰리백의 중심이었던 실바가 부상으로 이탈했으나 포파나가 그 공백을 잘 메꿔주고 있으며 쿨리발리 역시 포백보단 쓰리백에서 안정적인 모습을 보여주었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.769,
+                "end": 53.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 시즌 내내 물음표가 달려있던 쿠쿠렐라 역시 성공적인 센터벡 전환을 마치며 철벽 쓰리백 완성 지금의 쓰리백이 건제한 이상 우리 첼시를 8강을 넘어 4강까지 올라갈 갈 수 있을 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 53.865,
+                "end": 64.758
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "거기다가 칠웰 선배와 제임스의 기량이 날이 갈수록 좋아지고 있으니 5명의 수비만큼은 어느 팀에도 꿀리지 않는다고 봐야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 64.768,
+                "end": 70.888
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "솔직히 이 정도의 수비라면 4강을 넘어 결승까지도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 70.898,
+                "end": 73.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4강은 무슨 결승은 무슨 아무리 수비가 좋다 한들 골을 넣어야 경기를 이긴다는 거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 73.640,
+                "end": 78.125
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "골이야 제가 넣으면 되죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 78.135,
+                "end": 79.437
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "솔직히 빌드업 전술을 구사할 때보다 오늘 같은 역습 전술이 저에겐 더 맞다고 생각하며",
+                "sound_type": [
+                    2
+                ],
+                "start": 79.435,
+                "end": 83.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하베르츠나 스털링 너나 오늘은 운이 좀 따라줬던 거지 레알이나 멘시티 수비를 상대로 유효슈팅이나 때릴 수 있겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 83.216,
+                "end": 90.133
+            }
+        ]
+    },
+    "summary": "화자 1은 탄탄한 수비를 바탕으로 한 본인의 필살기 덕에 승리하여 결승까지 갈 수 있을 거라고 이야기하지만 화자 2는 수비가 아무리 좋더라도 골을 넣어야 승리하는 것이라고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00577_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

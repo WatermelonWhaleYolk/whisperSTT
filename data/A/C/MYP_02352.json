@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "filename": "MYP_02352",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.366,
+        "format": "MP4",
+        "date": "2021-03-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바람처럼 스쳐 가는",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.595
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 정열과 낭만",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.605,
+                "end": 4.958
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 노래 부르는 척하더니 선빵을 날렸어",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.968,
+                "end": 7.495
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "치사한 자식 노래 한 곡하고 시작하자는 거 아니었나",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.505,
+                "end": 10.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치사하다니 이게 바로 빈 공간 침투라는 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.378,
+                "end": 12.859
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지만 아쉬워서 어떡하나 정확도가 낮은 네 놈의 주먹은 내 얼굴에 살짝 스쳤을 뿐 치명타를 주지 못했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.869,
+                "end": 18.797
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "글쎄 과연 그럴까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.807,
+                "end": 20.881
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 스친 것만으로 얼굴에서 피가 흐른다고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.891,
+                "end": 23.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 괜히 유리 주먹이겠어 내 몸은 99 퍼센트 유리로 구성돼 있어 살짝 스치기만 해도 베어 버린다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.391,
+                "end": 28.804
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "세상에 유리 몸이 진짜 유리로 만든 몸이었던 기래?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.814,
+                "end": 32.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "휙 휙 휙",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.242,
+                "end": 33.366
+            }
+        ]
+    },
+    "summary": "베일이 노래를 부르는 척하다가 오바메양에게 주먹질을 하였고 오바메양의 얼굴에서 피가 흐릅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02352_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

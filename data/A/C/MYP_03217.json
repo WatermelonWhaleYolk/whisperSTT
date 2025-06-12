@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_03217",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.717,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전기그릴 타왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.870
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엄마 모르게 해 그거 탈려고 그 난리 친 거 알면 다 죽을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.880,
+                "end": 6.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 걸음 더 가정적인 남자에 나가섰다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.350,
+                "end": 9.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연기가 안 난다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.961,
+                "end": 11.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "겉과 속이 고루 익는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.724,
+                "end": 13.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 모든 구성이 9만 9900원",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.600,
+                "end": 16.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고마해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.030,
+                "end": 17.717
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03217_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

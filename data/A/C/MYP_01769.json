@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_01769",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.3,
+        "format": "MP4",
+        "date": "2021-11-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "드리블은 물론 터치까지 확실하게 다듬어 놓겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 다음은 호이비에르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.640,
+                "end": 6.180
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 감독님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.190,
+                "end": 6.934
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맨마킹과 패스 차단은 물론 수비 조율까지 아주 잘해 주고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.944,
+                "end": 10.910
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자고로 우승팀에 너 같은 살림꾼이 반드시 필요하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.920,
+                "end": 14.050
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "감사합니다. 감독님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.060,
+                "end": 15.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 수비형 미드필더도 기본적인 탈압박 능력을 갖춰야 후방 빌드업이 가능한 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.030,
+                "end": 20.300
+            }
+        ]
+    },
+    "summary": "호이비에르에게 맨마킹과 패스 차단, 수비 조율까지 잘해주고 있다고 칭찬하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01769_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

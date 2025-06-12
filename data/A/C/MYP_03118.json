@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYP_03118",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.016,
+        "format": "MP4",
+        "date": "2023-07-21",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아주 그냥 입만 열면 구라가 자동 반사인 너그들 꼴을 보고 있자니 울화가 치밀어 속이 뒤틀리는구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 그 더러운 주둥아리를 언제까지 나불댈 수 있나 한번 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.564,
+                "end": 11.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "천벌이 내릴지어다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.011,
+                "end": 16.016
+            }
+        ]
+    },
+    "summary": "마왕은 그들이 계속 거짓말을 해서 화가 치밀어 오른다며 천벌이 내릴 거라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03118_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

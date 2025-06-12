@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYP_00080",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.9,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래 마침 관상가 양반도 와 있었구먼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 오랜만에 뵙습니다 흥민대군",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.316,
+                "end": 4.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자네 혹시 저번에 나에게 했던 말 기억하나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.302,
+                "end": 6.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 왕이 될 상이라고 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.801,
+                "end": 8.936
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.946,
+                "end": 9.522
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 걱정 마시죠 주상 주상이 열일곱 골, 내가 열세 골 보기 좋게 밀려났지 않았습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.532,
+                "end": 16.900
+            }
+        ]
+    },
+    "summary": "20대 남성이 한 30대 남성에게 자신의 관상에 대해 기억을 하는지 이야기하자 다른 30대 남성이 놀란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

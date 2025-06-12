@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "filename": "MYP_04261",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.417,
+        "format": "MP4",
+        "date": "2020-02-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하던 중이었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "간단해 엄청난 비장의 수가 있다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.394,
+                "end": 4.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 뭐야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.272,
+                "end": 5.146
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "탁구 하면서 질문에 대답하는 거야 상대에 대해 알게 되면서 엄청 사이 좋아진다고 내가 질문할 테니까 그거에 대답해 봐 그럼 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.156,
+                "end": 14.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하앗.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.282,
+                "end": 14.602
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋아하는 음식.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.612,
+                "end": 15.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카레.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.497,
+                "end": 16.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "싫어하는 음식.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.197,
+                "end": 16.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카레.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.894,
+                "end": 17.417
+            }
+        ]
+    },
+    "summary": "탁구 하면서 질문에 대답하면 상대에 대해 알게 되면서 사이가 좋아지니까 탁구를 치자고 했고 싫어하는 음식과 좋아하는 음식을 물었더니 둘다 카레라고 답했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_03062",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.8,
+        "format": "MP4",
+        "date": "2019-11-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마포구 상암동 먹튀골목인데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "백대표님 어제 많이 놀라셨죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.964,
+                "end": 4.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 내가 요식업을 하다 하다 저런 양반은 또 처음 봤어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.067,
+                "end": 7.674
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "손님이 오는데 자빠져 자는 사람은 또 처음 봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.684,
+                "end": 10.248
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 오늘 보고 아니다 싶으면 저도 안 하려고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.258,
+                "end": 13.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 오늘 문은 열려있네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.597,
+                "end": 15.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 사장님도 뭔가 청소도 하는 것 같고 이제 와서 이미지 좀 세탁해 보려고 하는 것 같은데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.305,
+                "end": 19.833
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이제 와가지고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.843,
+                "end": 20.944
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 내려가 보겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.954,
+                "end": 22.800
+            }
+        ]
+    },
+    "summary": "오늘은 사장님이 문도 열어 놓고 청소도 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03062_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 133
+                }
+            ]
+        }
+    ]
+}

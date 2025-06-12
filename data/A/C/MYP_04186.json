@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYP_04186",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2020-04-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "할릴리예",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 놈 합격시켜.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.740,
+                "end": 3.577
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.587,
+                "end": 4.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "늘 곁에 두고 직접 조지겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.322,
+                "end": 7.826
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "오늘의 이야기는 첫 만남의 임팩트",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.836,
+                "end": 15.658
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "나는 고등학생 때 전학을 한번 했는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.668,
+                "end": 18.795
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "자 주목 오늘의 전학생이 왔으니 자기 소개 한번 들어 볼까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.805,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "오늘의 이야기는 첫 만남의 임팩트이고 나는 고등학교때 전학을 한번 했었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04186_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

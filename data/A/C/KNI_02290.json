@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_02290",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.306,
+        "format": "MP4",
+        "date": "2016-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한체육회는 오늘 이사회를 열고 금지약물 복용으로 징계를 받은 선수는 징계가 끝나고 3년간 국가대표로 선발 될 수 없다는 규정을 바꾸지 않기로 결정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박태환은 지난 2014년 9월 도핑 양성반응이 나와 국제수영연맹 FINA로부터 18개월 선수자격 정지 징계를 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.236,
+                "end": 19.300
+            }
+        ]
+    },
+    "summary": "대한체육회는 오늘 이사회를 열어 금지약물 복용으로 징계를 받은 선수는 징계가 끝나고 3년간 국가대표로 선발 될 수 없다는 규정을 바꾸지 않기로 결정해 2014년 9월 도핑 양성반응이 나와 국제수영연맹으로부터 18개월 선수자격 정지 징계를 받은 박태환은 3년간 출전이 불가피해졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02290_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

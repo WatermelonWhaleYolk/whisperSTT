@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_02364",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.566,
+        "format": "MP4",
+        "date": "2016-08-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "순간 동작이 중요한 유도나 펜싱에서는 3D 모션 캡쳐 시스템을 활용해 움직임과 각도, 힘의 세기까지 면밀히 분석합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.499
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빠른 동작들을 수행을 하기 때문에 그 자기의 미세한 동작의 어떤 잘못이나 어떤 특징들을 이런 모션 캡쳐를 이용을 하면 빨리 파악을 할 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.509,
+                "end": 20.566
+            }
+        ]
+    },
+    "summary": "모션 캡쳐 기능을 활용해 순간 동작이 중요한 유도나 펜싱 등에 활용해 동작이나 특징들을 파악, 분석하고 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02364_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

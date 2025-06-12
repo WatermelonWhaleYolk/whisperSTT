@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_03379",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.286,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 참 오늘 테스트에 참여할 애들을 저기 뽑아 놨습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.649,
+                "end": 5.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 얘들입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.001,
+                "end": 7.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현시점의 전국 고요 선수탑 10에 들어갈 저희 학교 최고 선수들입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.215,
+                "end": 12.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 3학년 방신욱, 하진오 장타력이 발군입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.722,
+                "end": 17.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 유수의 여러 대학에서 스카웃 경쟁을 벌이고 있죠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.129,
+                "end": 20.286
+            }
+        ]
+    },
+    "summary": "오늘 테스트에 참여할 얘들은 전국 고요 선수탑 10에 들어갈 저희 학교 최고 선수들이고 장타력이 발군입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03379_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

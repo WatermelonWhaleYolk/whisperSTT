@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNI_01740",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 46.033,
+        "format": "MP4",
+        "date": "2018-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단일팀의 첫 골이 터지자 남북 선수들이 서로 얼싸안습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창 올림픽에서 뜨거운 관심을 모았던 여자 아이스하키 단일팀 눈물로 기약 없는 이별을 한 단일팀을 중심으로 실업팀 창단이 추진됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.375,
+                "end": 14.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상설팀을 만들어 남북 화해 분위기를 이어간단 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.464,
+                "end": 19.026
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "계속해서 이제 훈련을 같이 하면서 베이징 올림픽이나 큰 대회에 나가서 어 성적을 냈으면 좋겠다는 뜻을 아주 분명히 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.036,
+                "end": 28.303
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남북 단일 실업팀이 생기면 대표팀 전력에 힘을 보태고 강릉 하키 센터도 지속적으로 활용할 수 있을 것으로 기대됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.313,
+                "end": 36.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 북한 국적 선수가 국내 실업팀에서 뛴 사례가 없고 아시아권 실업 리그도 없는 등 풀어야 할 숙제가 많습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 36.997,
+                "end": 46.033
+            }
+        ]
+    },
+    "summary": "평창 올림픽에서 관심이 많았던 여자 아이스하키 단일팀을 중심으로 실업팀 창단이 추진되지만 북한 선수가 국내 실업팀에서 뛴 사례가 없는 등 풀어야 할 숙제가 많습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01740_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

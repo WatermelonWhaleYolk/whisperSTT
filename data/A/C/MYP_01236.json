@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_01236",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 46.718,
+        "format": "MP4",
+        "date": "2022-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데도 데려오는 선수마다 빠짐없이 저주에 시달린다면 스트라이커를 쓰지 말아야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.554
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그럼 골은 누가 넣습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.564,
+                "end": 6.333
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 내가 반 정도는 날려먹겠지만 어지간한 스트라이커보다 훨씬 많이 넣는다니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.343,
+                "end": 10.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음 시즌엔 홈런은 10개 미만 득점은 20개 이상으로 해줄 수 있지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.301,
+                "end": 14.388
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "맡겨만 주십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.398,
+                "end": 15.347
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "맨시티에서는 주인공이 되지 못했지만 첼시에서는 제가 주인공 아니겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.357,
+                "end": 18.748
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "기대에 부응할 수 있도록 최선을 다하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.758,
+                "end": 20.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "퇴물 소리를 듣고 싶지 않다면 최선을 넘어 죽도록 뛰어야 할 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.706,
+                "end": 24.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 스트라이커의 저주를 안고 가느니 하피냐와 스털링이라는 초특급 측면을 가동하면서 하베르츠를 제로톱에 세우는 게 낫지 않겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.896,
+                "end": 33.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 모르지 홀란드가 프리미어리그 검증에 실패한다면 스털링을 데려온 우리 첼시가 뜻밖의 우승을 차지할지도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.076,
+                "end": 46.701
+            }
+        ]
+    },
+    "summary": "첼시는 데려오는 선수마다 빠짐없이 저주에 걸린다는 소리가 있었지만 하피냐와 스털링이라는 초특급 측면을 가동하면서 하베르츠를 제로톱에 세우며 우승을 기대합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01236_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

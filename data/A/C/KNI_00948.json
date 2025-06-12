@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_00948",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.924,
+        "format": "MP4",
+        "date": "2122-12-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스케이트장을 한 시간 이용하는데 헬멧과 스케이트 대여까지 포함해서 입장료 1000원만 내면 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2004년 가격 그대로입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.232,
+                "end": 9.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 양말이나 장갑 등 개인 방한 용품은 따로 준비하거나 사야 하고 물품 보관함은 500원에 이용 가능합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.619,
+                "end": 18.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울시는 시민 안전을 위해 안전 요원을 배로 늘리고 의무 요원도 상시 배치할 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.126,
+                "end": 24.924
+            }
+        ]
+    },
+    "summary": "스케이트장을 한 시간 이용하는데 헬멧과 스케이트 대여까지 포함해서 입장료 1000원만 내면 됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00948_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

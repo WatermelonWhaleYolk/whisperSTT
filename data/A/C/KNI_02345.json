@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_02345",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.466,
+        "format": "MP4",
+        "date": "2016-07-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거의 메달권에 벗어나서 6위기 때문에 부담감을 좀 줄여서 마지막까지 열심히 한다면 좋은 색깔이 따라오지 않을까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마지막이 될 지도 모르는 올림픽에서 명예 회복을 노리는 박태환은 모레 미국 올랜도로 떠나 마무리 훈련에 돌입합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.637,
+                "end": 17.457
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.467,
+                "end": 20.466
+            }
+        ]
+    },
+    "summary": "메달권에서 멀어 부담스럽지만 최선을 다하겠다고 한 박태환은 마지막이 될지도 모르는 올림픽을 위해 미국으로 훈련을 떠난다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02345_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 59
+                }
+            ]
+        }
+    ]
+}

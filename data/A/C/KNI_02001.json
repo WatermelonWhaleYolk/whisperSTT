@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_02001",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.366,
+        "format": "MP4",
+        "date": "2019-02-08",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 영광 뒤에는 해결해야 할 과제도 많이 남아 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관리의 주체가 확정되지 않아 방치된 시설 등 경기장 활용 대책이 특히 시급한 과제입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.960,
+                "end": 10.495
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 너무 아쉽지만 항상 좋은 환경에서만 훈련을 할 수",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.505,
+                "end": 17.366
+            }
+        ]
+    },
+    "summary": "영광스러운 금메달을 얻었지만 해결해야 할 문제도 많고 관리의 주체가 확정되지 않아 방치된 시설 등 경기장 활용 대책이 시급한 과제라고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_02001_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00584",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.154,
+        "format": "MP4",
+        "date": "2023-01-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사기업의 성격이 좀 강한 편인데 다른 업종 대비 집중적으로 포화를 받는 거 같아서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.171
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기에 코로나19 여파로 단축된 영업 시간 정상화 문제까지 잇따라 거론하고 있는 상황 연초부터 은행권에 대한 압박 수위가 점점 강해지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.181,
+                "end": 16.388
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.398,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "코로나19 여파로 단축된 영업 시간 정상화 문제까지 잇따라 거론하고 있어 연초부터 은행권에 대한 압박 수위가 점점 강해지고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00584_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

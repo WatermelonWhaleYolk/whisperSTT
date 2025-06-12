@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03672",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.717,
+        "format": "MP4",
+        "date": "2021-11-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 굶주렸던 우리는 음식들을 순식간에 먹어치웠고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.756
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어억 억 배불러",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.766,
+                "end": 6.698
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 정신없이 먹었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.708,
+                "end": 8.826
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우리 너무 빨리 먹었다. 하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.836,
+                "end": 10.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "포만감에 젖어 한숨 돌리려 했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.856,
+                "end": 13.864
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "어이구 빨리도 잡쉈네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.874,
+                "end": 17.717
+            }
+        ]
+    },
+    "summary": "굶주려서 음식을 순식간에 먹었고 포만감에 한숨 돌리려 했는데 빨리도 먹었다며 사장님이 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03672_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 31,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

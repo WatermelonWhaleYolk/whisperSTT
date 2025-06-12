@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_02231",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.566,
+        "format": "MP4",
+        "date": "2016-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흑으로 소목을 두며 심리작전을 펼쳤던 이 구단은 대국 중반 이후 알파고의 세력에 밀려 조금씩 밀리는 형세였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1분 초읽기에 몰리면서도 이번 대국 가운데 가장 긴 시간인 5시간 동안 투혼을 발휘한 이세돌은 마지막까지 최선을 다했지만 더 이상 알파고를 추격하지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.226,
+                "end": 18.566
+            }
+        ]
+    },
+    "summary": "1분 초읽기에 몰리면서도 5시간 동안 투혼을 발휘한 이세돌은 마지막까지 최선을 다했지만 더 이상 알파고를 추격하지 못했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02231_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 45,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

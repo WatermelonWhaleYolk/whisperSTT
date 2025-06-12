@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "filename": "KNI_01358",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.46,
+        "format": "MP4",
+        "date": "2023-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 그 이면을 분석하고 싶다는 류 위원은 WBC 대표팀 응원을 포함한 일명 5글자 질의 응답을 재치있게 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "작년 어땠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.412,
+                "end": 11.282
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "행복했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.292,
+                "end": 13.298
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감독 힘들어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.308,
+                "end": 15.798
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "많이 힘들어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.808,
+                "end": 17.496
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "특히 힘들어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.506,
+                "end": 20.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "해설 기대돼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.030,
+                "end": 21.703
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "긴장 많이 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.713,
+                "end": 24.016
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더블유비씨?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.026,
+                "end": 25.936
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "성적 기대 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.946,
+                "end": 27.460
+            }
+        ]
+    },
+    "summary": "류 위원은 WBC 대표팀 해설을 맡아 경기 이면을 분석하고 싶다고 포부를 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01358_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_01918",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.904,
+        "format": "MP4",
+        "date": "2023-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결국 여론의 거센 역풍을 맞아 전면 철회했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "10년 이상 오랜 세월 동안 그들이 충분히 반성을 했고 죗값을 어느 정도는 치렀으니 이제 관용을 베푸는 게 어떻겠느냐는 일부 축구인들의 건의를 계속 받아 왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.475,
+                "end": 18.418
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결과적으로 그 판단은 사려 깊지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.428,
+                "end": 21.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사면 철회라는 중요 사안에 대해 입장문만 발표하고 나가버려 여전히 소통 부족이라는 비판도 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.973,
+                "end": 29.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "축구인 헌장 7조인 부정과 부패에 대한 배격보다 우리는 축구 가족이라는 동업자 의식에 사로잡힌 듯한 축구 협회",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.790,
+                "end": 37.904
+            }
+        ]
+    },
+    "summary": "부정과 부패에 대한 배격보다 축구 가족이라는 동업자 의식에 사로잡힌 듯한 축구 협회는 여론의 역풍을 맞아 전면 철회했지만 사면 철회에 대해 입장문만 발표해 소통 부족이라는 비판도 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01918_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

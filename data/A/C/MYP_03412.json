@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_03412",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.298,
+        "format": "MP4",
+        "date": "2022-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이들이 웃는 모습을 보는 것만큼 만족스러운 건 없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기에 아이들의 꿈에 불을 붙이는 불꽃이 되길 원합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.014,
+                "end": 7.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희들의 장난감이 아이들에게 필요하듯이 우리 회사 장난감들도 아이들 없이 아무것도 아니지요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.944,
+                "end": 14.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 플레이타임의 창시자로서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.633,
+                "end": 17.283
+            }
+        ]
+    },
+    "summary": "아이들이 웃는 모습을 보는 것만큼 만족스러운 건 없어서 아이들의 꿈에 불을 붙이는 불꽃이 되길 원합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03412_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

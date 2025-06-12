@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_00824",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.866,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "으악 아니 바람이 무슨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 갑자기 폭우까지 쏟아진다고 분명 일기예보엔 하루종일 맑음이었는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.740,
+                "end": 7.180
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하 자고로 매수란 무엇이냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.420,
+                "end": 9.568
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "바람을 매수해 돌풍을 일으키고 마른 하늘을 매수해 비를 내리고",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 9.570,
+                "end": 18.540
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이이런 타랍박 위험하다 이만 내려와라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.540,
+                "end": 20.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 젠장",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.980,
+                "end": 23.866
+            }
+        ]
+    },
+    "summary": "축구경기 도중 갑자기 맑은 하늘에 바람이 불고 폭우가 내리자 한 선수가 바람을 매수해 돌풍을 일으키고 마른 하늘을 매수해 비를 내렸다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00824_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

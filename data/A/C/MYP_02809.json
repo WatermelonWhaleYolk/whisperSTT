@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_02809",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.266,
+        "format": "MP4",
+        "date": "2020-06-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 다들 준비됐나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "큰 형님과 애들이 지금 아스날 매장에서 시간을 끌고 있으니 우린 옥상에서 로프를 타고 건물 내부로 잠입해 기밀 문서를 빼내온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.393,
+                "end": 9.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형님 근데 건물이 이렇게 큰데 그게 어딨는 줄 알고 찾아옵니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.577,
+                "end": 12.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 쪽 정보원이 입수한 바로는 18층의 아르테타 화장실이나 17층에 벵거 전 회장 사무실에 있을 거라 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.815,
+                "end": 19.266
+            }
+        ]
+    },
+    "summary": "남성 2명이 기밀문서를 빼내는 것에 대한 이야기를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02809_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

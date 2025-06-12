@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "filename": "KNI_00560",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.851,
+        "format": "MP4",
+        "date": "2023-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마이클 잭슨 댄스곡 메들리에 몸을 맡긴 채 특유의 안무를 섞어가며 빙판을 누빈 차준환 2분 50초의 완벽한 쇼트 연기가 마무리되자 관중석에서는 기립 박수가 쏟아졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 17.851
+            }
+        ]
+    },
+    "summary": "마이클 잭슨 댄스곡 메들리에 특유의 안무를 섞어가며 2분 50초의 완벽한 쇼트 연기가 마무리되자 관중석에서는 기립 박수가 쏟아졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00560_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 137
+                }
+            ]
+        }
+    ]
+}

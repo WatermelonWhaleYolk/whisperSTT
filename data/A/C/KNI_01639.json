@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01639",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.933,
+        "format": "MP4",
+        "date": "2019-03-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "팀 성적을 위해 실력있는 코치가 필요하다는 게 이유입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.273
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수들은 오직 성적으로 보답하는 것이 최소한의 도리라고 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.283,
+                "end": 8.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들은 코치 임용이 철회되지 않으면 20명 전원 사표를 내겠다며 강하게 반발하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.841,
+                "end": 15.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전국 춘계 남녀 하키 대회가 불과 2주 앞으로 다가왔지만 훈련도 파행되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.970,
+                "end": 21.933
+            }
+        ]
+    },
+    "summary": "김해시의 코치 임용은 팀 성적을 위해 실력있는 코치가 필요하다는 이유에서인데 선수들은 코치 임용이 철회되지 않으면 20명 전원 사표를 내겠다며 강하게 반발하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01639_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

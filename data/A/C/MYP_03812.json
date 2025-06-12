@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYP_03812",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.72,
+        "format": "MP4",
+        "date": "2021-05-02",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "헉 요앞에 있는 가게잖아?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "학교 앞의 한 가게에서 그녀가 나오는 프로의 촬영이 진행되다는 소식을 접했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.654,
+                "end": 10.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "코앞에 다가온 일생의 기회였지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.460,
+                "end": 13.396
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으 이건 엄청난 기회야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.406,
+                "end": 16.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 오늘 수업은 빠지면 안되는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.119,
+                "end": 20.720
+            }
+        ]
+    },
+    "summary": "남자가 학교 앞의 한 가게에서 관심을 가지고 있는 여성이 촬영을 한다는 사실을 알고 수업을 빠질지 말지 갈등하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03812_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

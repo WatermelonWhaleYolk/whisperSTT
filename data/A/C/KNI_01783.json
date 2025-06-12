@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_01783",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 55.066,
+        "format": "MP4",
+        "date": "2016-05-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "친목 단체인 기사회의 회원은 누구나 같은 회비를 내는 것이 합리적이라고 주장합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.222
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국내 기전은 3프로 해외 기전은 5프로 상위 랭킹 10위 안에 드는 기사는 뭐 5대 기전에 의무적으로 참가해야 한다던가 불공정한 것들이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.232,
+                "end": 18.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "초유의 사태에 당혹감을 감추지 못한 기사회는 긴급회의를 열고 @이름1 9단에게 대화를 제의했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.341,
+                "end": 25.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지나친 상금 공제 등 이 9단이 제기한 문제를 일부 수용할 의사도 있다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.385,
+                "end": 31.332
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대화로서 풀 수 있는 내용들이 있고 뭐 서로 뭐 감정이 나쁘고 그런 것도 아니고 바둑계 발전에 같이 예 노력했으면 하는 바램있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.342,
+                "end": 40.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국기원도 대화를 주선하는 등 적극 중재에 나설 계획이지만 오래전부터 이 문제를 제기했던 이 9단의 입장이 단호해 접점을 찾기가 쉽지만은 않을 것으로 전망됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 40.378,
+                "end": 52.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.240,
+                "end": 55.066
+            }
+        ]
+    },
+    "summary": "이 9단은 기사회의 회원은 누구나 같은 회비를 내는 것이 합리적이라고 주장하자 이에 기사회는 상금 공제 등 제기한 문제를 일부 수용할 의사가 있다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01783_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 39,
+                    "act": 58
+                }
+            ]
+        }
+    ]
+}

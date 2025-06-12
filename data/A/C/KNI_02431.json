@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "KNI_02431",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.779,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 539번의 @이름1 이 @이름1 선수는 4월에 있었던 춘계 중고 대회 때 100미터, 200미터 금메달을 땄던 선수입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이 부정 출발에 대해서 정말 다른 400미터 선수들보다 훨씬 더 예민한 선순데 아",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.233,
+                "end": 16.625
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 @이름1 선수가 준결승에서 55초 아 59초 52의 기록으로 좀 기록이 좋았거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.635,
+                "end": 22.764
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이게 컨디션이 너무 좋아도 부정 출발 할 수가 있는 상황입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.774,
+                "end": 29.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름2 선수 춘계 대회 금메달리스트 바로 옆에 3레인에는 @이름3 선수가 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.111,
+                "end": 37.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 남아있는 선수들도 이제 집중을 해야 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 37.200,
+                "end": 40.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 출발했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 40.181,
+                "end": 42.885
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "출발 좋았고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 42.895,
+                "end": 43.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 43.945,
+                "end": 45.779
+            }
+        ]
+    },
+    "summary": "여자 고등학교부 400미터 결승 중 부정 출발로 실격한 선수에 대해 얘기하며 남은 선수들은 집중을 해야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02431_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

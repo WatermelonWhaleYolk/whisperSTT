@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_03891",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.392,
+        "format": "MP4",
+        "date": "2021-02-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 난 정당하게 돈 내고 온 손님이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마음 편히 목욕을 즐길 권리가 있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.024,
+                "end": 6.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "확인 해야겠어. 꼭 봐야겠어. 봐야만 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.168,
+                "end": 10.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국 심신의 평화를 위해",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.529,
+                "end": 15.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보자. 을 보자.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.294,
+                "end": 21.307
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나의 정체를 갈망하게 된다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.317,
+                "end": 25.392
+            }
+        ]
+    },
+    "summary": "장발 남자가 남탕에 들어 갔을 때 다른 남자들이 여자로 오인해서 마음 놓고 목욕을 할 수 없게 되는 에피소드에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03891_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

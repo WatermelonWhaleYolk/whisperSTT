@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00269",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.087,
+        "format": "MP4",
+        "date": "2023-04-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인삼공사는 스펠맨이 잇따라 화끈하게 덩크를 성공시키며 홈팬들을 열광시켰습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 알고도 못 막는다는 자밀 워니의 플로터를 앞세운 SK도 밀리지 않았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.724,
+                "end": 12.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근소하게 SK가 앞서던 경기에서 승패를 가르 건 정규 리그 MVP 경쟁을 벌였던 변준형과 김선형의 대결이었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 12.819,
+                "end": 21.087
+            }
+        ]
+    },
+    "summary": "근소하게 SK가 앞서던 경기에서 승패를 가르 건 정규 리그 MVP 경쟁을 벌였던 변준형과 김선형의 대결이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00269_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

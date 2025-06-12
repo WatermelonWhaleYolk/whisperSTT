@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "filename": "MYP_02885",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.733,
+        "format": "MP4",
+        "date": "2020-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 저기 명보 형님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 지성아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.419,
+                "end": 14.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 시간에 무슨 일이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.240,
+                "end": 15.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 형님 제가 미래에서 왔는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.470,
+                "end": 17.759
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.769,
+                "end": 18.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘가 뭔 소리를 하는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.449,
+                "end": 19.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네가 미래에서 왔으면 형은 대표팀 감독하면서 월드컵 우승도 했겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.688,
+                "end": 24.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그 그게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.015,
+                "end": 25.062
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "들떠있는 마음은 이해하지만 늦지 않게 얼른 자라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.072,
+                "end": 27.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아휴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.982,
+                "end": 28.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정환이 형이라면 알아주시겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.881,
+                "end": 30.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미래엔 예능까지 하시니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.669,
+                "end": 32.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 저기 정환이 형.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.066,
+                "end": 33.519
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어이 박지성이 뭔 일이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.529,
+                "end": 35.360
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야. 우리 와이프 진짜 예쁘지 않냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.370,
+                "end": 37.090
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "형이 올리버 칸을 상대로 골을 또 넣은 다음에 또 한 번 반지에 캬",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.100,
+                "end": 41.733
+            }
+        ]
+    },
+    "summary": "박지성이 미래에서 왔다고 말하며 홍명보2와 안정환에게 말을 걸지만 박지성의 말을 귀 기울여 듣지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02885_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_03331",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.124,
+        "format": "MP4",
+        "date": "2022-11-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너클볼 하 역시 선생님께 전수 받았군요 하 저 녀석이는 그간 대체 뭔 일 꾸미는가 했더니만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.063
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초구는 스트라이크 타자는 바라만 보고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.073,
+                "end": 15.446
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내 전성기에 비하면 우습지 이제 탯줄 끊었다 그러나 저 공도 한 가지 구종일 뿐이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.456,
+                "end": 24.124
+            }
+        ]
+    },
+    "summary": "감독은 수호가 영감에게 기술을 전수 받았다는 것을 인정한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03331_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "KNI_00671",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.357,
+        "format": "MP4",
+        "date": "2023-01-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앞서가던 @소속1가 3 쿼터 3점 차로 추격을 허용하자 조동현 감독이 선수들을 강하게 질책했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.453
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "게임에 집중해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.463,
+                "end": 10.563
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지킬 거 지키라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.573,
+                "end": 12.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정신이 번쩍 든 @소속1가 점수 차를 벌리자 이번에는 @소속2 조상현 감독이 작전 지시에 나섭니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.562,
+                "end": 19.853
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "슛을 한 번 쏴 보자고 슛을.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.863,
+                "end": 22.096
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "4번이야. 충분해.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.106,
+                "end": 24.357
+            }
+        ]
+    },
+    "summary": "@소속1가 추격을 허용하자 조동현 감독이 선수들을 질책했고 @소속1 선수들이 점수 차를 벌리자 이번엔 @소속2 조상현 감독이 작전 지시에 나선다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00671_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 90
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00671_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 90
+                }
+            ]
+        }
+    ]
+}

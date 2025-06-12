@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03792",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2021-05-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그때는 아직 스마트폰이나 디엠비가 대중화된 시기가 아니었기 때문에 지금 TV에 나오고 있는지 확인할 길이 없었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.669
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아마 지금쯤 찍히지 않았을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.679,
+                "end": 12.155
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아직 몰라 임마 더 흔들어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.165,
+                "end": 15.176
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "차라리 야구를 시켜줘.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.186,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "우리가 지금 TV에 나오고 있는지 확인할 길이 없었고 현수막을 더 크게 흔든다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03792_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

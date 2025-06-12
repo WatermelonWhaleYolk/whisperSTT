@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNI_02002",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.568,
+        "format": "MP4",
+        "date": "2019-02-08",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "있다고 생각하진 않거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일 주년 기념 행사 설명회에 나선 최문순 강원 도지사는 올림픽 기념 재단을 설립해 사후 활용 업무를 맡기겠다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.633,
+                "end": 11.089
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "일찌감치 만들어서 국민 여러분들께 보고해 드리지 못한 점에 대해서 송구스럽다는 말씀을 올립니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.099,
+                "end": 18.419
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 3월 말 4월 초가 되면 평창 동계 올림픽 기념 재단이 만들어져서 이 기념 재단에서 앞으로 경기장을 어떻게 관리할 것인가.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.429,
+                "end": 29.566
+            }
+        ]
+    },
+    "summary": "최문순 강원 도지사는 일찌감치 올림픽 기념 재단을 설립해 관리하지 못한 점에 대해서 송구스럽고 앞으로 경기장 등 사후 활용 업무를 맡겨 관리하겠다고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_02002_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

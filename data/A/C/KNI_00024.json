@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_00024",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.858,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 중 뒷 선수를 확인하는 특유의 기술까지 선보이며 인터넷에서 연일 화제입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누구보다 올림픽을 즐기고 있는 그는 이번에 세 번째인 동시에 마지막 올림픽 무대입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.668,
+                "end": 11.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "곽윤기는 자신의 유튜브 채널 영상을 통해 담담하게 마지막 경기에 나서는 소감을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.945,
+                "end": 18.852
+            }
+        ]
+    },
+    "summary": "곽윤기는 특유의 기술로 인터넷에서 화제가 되고 있으며 마지막 올림픽 경기에 나서는 소감을 자신의 유튜브 채널을 통해 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00024_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 71,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

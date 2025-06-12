@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_03120",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.79,
+        "format": "MP4",
+        "date": "2023-07-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마땅히 세상을 공포로 몰아넣어야 할 내가 어째서 인간들의 눈치를 보며 사회적 스트레스를 받는 있는 거지?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "괴롭다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 6.607,
+                "end": 7.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "탈주하고 싶어.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 7.786,
+                "end": 9.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금쯤이면 용사도 내 몸으로 깨어났을텐데 이게 대체 무슨 삽질이냐.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.681,
+                "end": 15.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 미친놈은 벌써 내 마왕군을 지 맘대로 통솔하고 있는 중이겠지?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 15.161,
+                "end": 19.947
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 생각을 그리 골똘히 하세요?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 19.957,
+                "end": 22.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "깜짝이야.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 22.470,
+                "end": 23.790
+            }
+        ]
+    },
+    "summary": "용사의 몸 안에 있는 누군가가 자신이 왜 인간들의 눈치를 보며 스트레스를 받고 있는지 괴로워하며 지금쯤 용사가 자신의 몸으로 깨어나서 제멋대로 행동하고 있을까 봐 걱정하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 66
+                }
+            ]
+        }
+    ]
+}

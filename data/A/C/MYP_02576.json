@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02576",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.933,
+        "format": "MP4",
+        "date": "2020-11-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첨벙",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.518,
+                "end": 1.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방금 입질이 온 거 같은데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.189,
+                "end": 2.271
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "반응이 오는 건가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.281,
+                "end": 3.393
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하이고 물고고님 한번만 잡혀주신 다면 잡아먹진 않고 맛만 볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.403,
+                "end": 7.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첨벙",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.923,
+                "end": 8.966
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물고기가 물었나봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.966,
+                "end": 10.025
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "역시 무슨 일이든 잘 안 풀릴 땐 감성팔이만 한게 없지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.035,
+                "end": 13.450
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 다음 모드로 넘어가자고",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.460,
+                "end": 16.933
+            }
+        ]
+    },
+    "summary": "은돔벨레의 감성팔이에 낚시의 입질이 오기 시작해서 2명의 좋은 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02576_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

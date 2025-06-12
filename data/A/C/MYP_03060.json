@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYP_03060",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.866,
+        "format": "MP4",
+        "date": "2019-11-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이 시끄럽게 왜 이렇게 두드려요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.124
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 사장님 지금 손님이 와가지고 기다리는데 왜 문을 안 열고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.134,
+                "end": 6.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 원래 저녁 장사를 하려고 컨디션 조절을 위해 낮에는 장사 안 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.120,
+                "end": 10.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그럼 써 붙여 놓기라도 해야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.194,
+                "end": 12.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 말도 안 되는 소리를 하고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.115,
+                "end": 13.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 기분 더러워서 에이 오늘 저녁 장사도 안 하려니까 내일 와요 내일.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.808,
+                "end": 17.866
+            }
+        ]
+    },
+    "summary": "대표가 잔소리를 하니 사장이 기분이 더러워서 장사를 안 한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03060_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

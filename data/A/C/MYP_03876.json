@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_03876",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.32,
+        "format": "MP4",
+        "date": "2021-02-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이에 재능이 합쳐져 어느덧 바야바 개인기는 완성 단계에 접어들고 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.965
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바야바.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.976,
+                "end": 6.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 바야바 놀이에 열중하던 그는 어느 날 완성도를 시험해 보기로 하고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.495,
+                "end": 13.676
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "좋았어. 이번엔 완전 세게 가 보는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.686,
+                "end": 17.017
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "좋았어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.027,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "20대 남성이 대학 시절에 성대모사를 잘하던 형님이 바야바 흉내내기를 열심히 연구한 끝에 완성 단계에 접어들었다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03876_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

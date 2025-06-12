@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00576",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.557,
+        "format": "MP4",
+        "date": "2023-01-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올스타 선수 소개 때부터 @이름1이 개성을 뿜어냅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1은 블루스타 유니폼을 입고 득점할 때마다 재미있는 세리머니를 펼쳐 팬들의 눈길을 사로잡았는데요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.159,
+                "end": 12.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3쿼터 중반 이른바 팀 환승으로 @이름2과 1 대 1 트레이드가 돼 핑크스타 유니폼으로 갈아입은 @이름1 장난기까지 발동된 @이름1의 세리머니 쇼는 계속됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.995,
+                "end": 24.557
+            }
+        ]
+    },
+    "summary": "선수는 올스타전에서 득점할 때마다 재미있는 세리머니를 펼쳐 팬들의 눈길을 사로잡았고 유니폼을 갈아입고 장난기까지 발동된 세리머니 쇼는 계속됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00576_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 137
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03917",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.818,
+        "format": "MP4",
+        "date": "2021-01-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나도 한숨 자고 일어나면 모두 끝나있을",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.492
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에헤이 거기가 아니지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.502,
+                "end": 5.029
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니아니 그 옆에",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.039,
+                "end": 7.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모두 끝나있",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.664,
+                "end": 8.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거 꺼 꺼꺼꺼꺼.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.989,
+                "end": 11.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "큰일 나겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.333,
+                "end": 12.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 인생이 끝나있겠지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.528,
+                "end": 13.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "편도와 함께 적출될 내 인생.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.733,
+                "end": 18.818
+            }
+        ]
+    },
+    "summary": "주인공이 수술실을 보고 있는데 수술실이 다급해진 상황을 보고 걱정하는 모습입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03917_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 7,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

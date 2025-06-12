@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00518",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.551,
+        "format": "MP4",
+        "date": "2023-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2위 팀 사령탑이 단 18경기 만에 지휘봉 내려놓는 상황은 팬들도 좀처럼 수긍하기 어렵습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올 아침에요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.287,
+                "end": 8.611
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갑자기 뭐 팀에 부합하지 않는다는 얘기하고 뭐 내가 뭐 일을 저질러서 이렇게 했다 그러면 나 진짜 와 억울하지도 않지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.621,
+                "end": 18.551
+            }
+        ]
+    },
+    "summary": "2위 팀 사령탑이 단 18경기 만에 지휘봉 내려놓는 상황은 팬들도 좀처럼 수긍하기 어렵다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00518_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

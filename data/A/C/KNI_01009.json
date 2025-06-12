@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01009",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.753,
+        "format": "MP4",
+        "date": "2022-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우승으로 보답하고 싶다고 말씀드리고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "처음엔 얼마나 간절하겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.793,
+                "end": 5.253
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "건우 이상으로 또 우승 반지 또 한국 시리즈라는 무대가 정말 간절하기 때문에 뛰어보고 싶고",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.263,
+                "end": 13.867
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "NC는 나상범이 떠났지만 호타준족인 두 선수의 영입으로 외야가 더 탄탄해졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.877,
+                "end": 19.753
+            }
+        ]
+    },
+    "summary": "NC는 나상범이 떠났지만 호타준족인 두 선수의 영입으로 외야가 더 탄탄해졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01009_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

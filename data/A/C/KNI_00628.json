@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNI_00628",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.059,
+        "format": "MP4",
+        "date": "2023-01-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이어서 출전한 세계 랭킹 1위 프랑스 @이름1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우 중도에 떨어지고 마는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.494,
+                "end": 8.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아쉬워 하는 @이름1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.198,
+                "end": 10.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내려와서는 신경질적인 행동도 보였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.428,
+                "end": 13.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 @이름2이 금메달을 따며 청송 대회 세 번째 우승을 기록했고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.623,
+                "end": 18.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "12미터 수직 얼음벽을 빠르게 올라가는 스피드 종목에선 @이름3가 여자부 금메달을 획득했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.660,
+                "end": 26.059
+            }
+        ]
+    },
+    "summary": "@이름2이 금메달을 따며 청송 대회 세 번째 우승을 기록했고 12미터 수직 얼음벽을 빠르게 올라가는 스피드 종목에선 @이름3가 여자부 금메달을 획득했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00628_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 28
+                }
+            ]
+        }
+    ]
+}

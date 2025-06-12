@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00025",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1500m에서 우승한 황대헌의 2관왕 여부도 걸려있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.003
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "개인 종목은 끝났지만 이제 저 우리 단체 종목이 있기 때문에 거기서 쫌 더 집중력을 발휘해서 어 대표팀 동료들과 더 좋은 모습 보여드릴 수 있도록",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.013,
+                "end": 16.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여자 대표팀도 밤 8시 30분 1500m 준준결승을 시작으로 금메달에 도전합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.865,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "황대헌은 단체 종목에서 집중력을 발휘해 좋은 모습을 보여주겠다고 말했고 여자 대표팀은 밤에 1500m 준준결승을 시작으로 금메달에 도전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00025_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

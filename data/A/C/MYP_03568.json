@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "filename": "MYP_03568",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 48.982,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어찌나 부담스럽던지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.614
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어쩌겠나 내 탓인 것 같아 내가 그렇게 만든 것 같아 지금까지 같이 뛰고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.624,
+                "end": 13.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "체력이 떨어지나 아이고 왜 자꾸 늦잠을 자냐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.260,
+                "end": 26.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여하튼 녀석은 시간이 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.782,
+                "end": 30.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한순간도 헛되이 보내서는 안된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.419,
+                "end": 34.113
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "큰 책임을 느낀다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.123,
+                "end": 36.456
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "크아암",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.466,
+                "end": 37.988
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 오늘도 조지러 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.998,
+                "end": 42.261
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "푹 잤네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 42.271,
+                "end": 44.290
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "잠은 역시 맛있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.300,
+                "end": 46.906
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "꿀잠이제.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 46.916,
+                "end": 48.982
+            }
+        ]
+    },
+    "summary": "내 탓인 것 같아 지금까지 같이 뛰고 있고 시간을 헛되이 보내서 안 된다고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03568_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

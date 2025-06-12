@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00818",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.751,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1이 호주에 캠프를 차려 시드니에서 인천공항 그리고 애리조나로 향하는 무려 만 8000킬로미터의 비행 끝에 합류한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.314
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "처음 있는 일이고 앞으로는 없을 일일 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.324,
+                "end": 12.575
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "열심히 해서 갈 상황 갈 수 있는 목표로 최선을 다할 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.585,
+                "end": 17.751
+            }
+        ]
+    },
+    "summary": "@소속1이 호주에 캠프를 차려 긴 비행 끝에 합류했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00818_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

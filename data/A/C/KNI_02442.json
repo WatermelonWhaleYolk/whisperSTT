@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_02442",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.834,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 그 포환 던지기인데 팔의 힘으로만 던지면 안 되고 온 몸의 힘을 다 써야 되는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.731
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몸통에 몸 몸통의 어떤 꼬임을 만들면서 그 꼬임을 풀면서 이제 멀리 던져야 되 되는 종목 중의 하나입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.741,
+                "end": 17.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이어서 안산시청 @이름1 선수가 3차 시기에 도전하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.382,
+                "end": 22.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2차 시기에서도 다른 선수보다 좀 월등히 많 오 이번에도 오 자 대회 신기록",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.220,
+                "end": 29.347
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신기록에 선에 맞췄거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.357,
+                "end": 32.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.663,
+                "end": 34.834
+            }
+        ]
+    },
+    "summary": "몸의 꼬임을 이용해 공을 던져야 하는 포환 종목의 안산 시청 @이름1 선수가 3차 시기에서 대회 신기록 선에 공을 맞췄다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02442_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

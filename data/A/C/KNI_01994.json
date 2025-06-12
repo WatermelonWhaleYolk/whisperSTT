@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "KNI_01994",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.259,
+        "format": "MP4",
+        "date": "2020-11-30",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 지금 그 우승의 주역들의 앳된 모습들이 좀 담겨 있는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박민우, 노진혁 선수들의 얼굴도 보이는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.156,
+                "end": 6.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사인 연습에 한창입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.822,
+                "end": 8.097
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 사인 연습을 하는 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.105,
+                "end": 9.692
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자식아 대학교 4년 허투루 쓴 게 아니야 인마.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.692,
+                "end": 13.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사인도 하나 없는 선수들이었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.642,
+                "end": 15.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 대학 때까지 그 에이스 왼손 투수로 활약했던 나성범 선수는 NC 입단 후 이제 타자로 전향해 훈련에 한창인 모습입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.907,
+                "end": 23.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때만 해도 나성범 선수의 가장 큰 꿈은",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.150,
+                "end": 26.259
+            }
+        ]
+    },
+    "summary": "NC의 박민우와 노진혁 선수가 앳된 모습으로 사인을 연습하고 있고 또 대학 때까지 에이스 왼손 투수로 활약한 나성범 선수는 입단 후 타자로 전향했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01994_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

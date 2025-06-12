@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_02676",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.766,
+        "format": "MP4",
+        "date": "2020-09-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 뭐 물론 지난 경기는 흥민이와 케인의 활약으로 승리했지만 에버튼전에서 져버린 게 너무 아쉽구만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저게 뭐지 이거 램프잖아? 설마 소원을 이루어준다는 지니의 마법 램프?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.055,
+                "end": 12.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "속는 셈치고 한번 문질러 봐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.099,
+                "end": 14.036
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두루르르르",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.046,
+                "end": 17.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐야 이거?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.566,
+                "end": 18.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토라비안 나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.750,
+                "end": 20.766
+            }
+        ]
+    },
+    "summary": "무리뉴가 램프를 발견하고 설마 소원을 이루어준다는 지니의 마법 램프인가 하면서 속는 셈치고 문질러본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02676_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

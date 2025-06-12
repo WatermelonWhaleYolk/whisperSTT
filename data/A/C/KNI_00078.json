@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00078",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.895,
+        "format": "MP4",
+        "date": "2022-02-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "매스스타트 출전을 앞둔 김보름이 밝은 표정으로 빙판 위를 가릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김보름이 다시 웃음을 되찾기까진 꼬박 4년이 걸렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.448,
+                "end": 9.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김보름은 평창 올림픽 팀 추월 당시 노선영을 따돌렸다는 이른바 왕따주행 논란으로 국민적 미움을 샀습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.247,
+                "end": 17.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 평창 대회 후 실시된 문체부 특정감사에 이어 지난 16일 법원에서도 왕따 주행은 없었다는 결론이 나와 고통의 굴레에서 완전히 벗어났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.626,
+                "end": 28.895
+            }
+        ]
+    },
+    "summary": "왕따 주행 논란에서 벗어난 김보름이 매스스타트 출전을 앞두고 밝은 표정으로 빙판 위를 가른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00078_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

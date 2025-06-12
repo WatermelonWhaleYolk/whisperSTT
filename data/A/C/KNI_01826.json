@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_01826",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.495,
+        "format": "MP4",
+        "date": "2021-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모든 스포츠가 페어플레이 정신을 가지고 깨끗한 클린한 그런 스포츠가 되길 정말로 간절히 기원합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.643
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 파문이 계속돼서 이 감독은 그동안 용기가 나지 않았다고 해명하며 이번 시즌 남은 경기에 출장하지 않기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.653,
+                "end": 15.563
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KB 손해 보험은 어제 경기부터 감독이 빠진 채로 시즌을 치르고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.573,
+                "end": 20.088
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공교롭게도 어제 경기 상대팀이었던 OK저축은행 또한 학교 폭력 파문을 일으킨 @이름1, @이름2 선수가 속해있는 팀이죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.098,
+                "end": 28.495
+            }
+        ]
+    },
+    "summary": "한 선수가 페어플레이 정신을 가진 스포츠를 기원하는 마음을 전했고 이번 파문으로 인해 KB 손해 보험 감독은 용기가 나지 않았다는 해명을 하며 감독이 결장한 채로 시즌을 진행하고 있는 한편 공교롭게도 어제 경기 상대팀인 OK저축은행도 학교 폭력 파문과 관련된 @이름1, @이름2 선수가 속한 팀이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01826_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01826_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

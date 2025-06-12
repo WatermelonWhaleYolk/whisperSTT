@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "KNI_01986",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.507,
+        "format": "MP4",
+        "date": "2020-08-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희들이 어떻게 개인 학적을 열 순 없잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인 신상을 열고 이런 거는 사실은 할 수 없는 저거 있잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.826,
+                "end": 8.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지명 전까지는 메디컬 테스트도 할 수 없게 돼 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.228,
+                "end": 11.035
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스카우트 매수 등 전부 다 사전에 만나면 템퍼링이잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.045,
+                "end": 14.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 이렇듯 현재 제도에서는 선수의 개인정보에 대해 주변인들의 입을 통해서 사실을 확인하는 등 구멍이 조금 많습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.290,
+                "end": 22.579
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현재 신인 드래프트가 선수에게 별도의 신청서를 받지 않고 열리기 때문인데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.589,
+                "end": 27.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 때문에 구단은 선수의 개인정보를 요구할 수가 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.731,
+                "end": 31.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 일반 입시처럼 학생 선수가 직접 구단에 영입 원서를 넣는 방식도 하나의 대안으로 제시됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.110,
+                "end": 37.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이를 통해 개인정보를 열람할 수 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.563,
+                "end": 40.507
+            }
+        ]
+    },
+    "summary": "현재 신인 드래프트는 선수에게 별도의 신청서를 받지 않고 열리기 때문에 구단에서 선수의 개인정보를 요구할 수가 없는데 일반 입시처럼 학생 선수가 직접 구단에 영입 원서를 넣으면 구단이 이를 통해 개인정보를 열람할 수 있어 하나의 대안으로 제시되고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01986_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

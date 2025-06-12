@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00362",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2022-12-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "포르투갈전 뒤 하루 휴식을 취한 대표팀은 어제 밝은 분위기 속에서 처음이자 마지막인 브라질 전 대비 훈련을 진행했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3차전에서 결장했던 김민재는 자전거를 타며 가볍게 몸을 푼 가운데 벤투 감독은 김민재의 출전 가능성에 대해선 말을 아꼈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.622,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "대표팀은 포르투갈전 후 짧은 휴식을 갖고 브라질 전 대비 훈련을 진행했으며 벤투 감독은 김민재의 출전 가능성에 대해 말을 아꼈다는 소식이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00362_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00362_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00171",
+        "category": "스포츠뉴스",
+        "sub_category": 38,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.786,
+        "format": "MP4",
+        "date": "2023-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "완벽한 강약 조절과 호흡으로 여자 복식에서 우승한 쌍둥이 자매 그런데 약 1시간 뒤 다시 코트에 섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여자 단식 결승에서 서로를 만났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.635,
+                "end": 11.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3세트 대접전이 끝났을 때 두 선수 모두 주저앉을 정도로 치열했던 승부에서 동생 김민선이 웃었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.771,
+                "end": 19.786
+            }
+        ]
+    },
+    "summary": "여자 단식 결승에서 서로를 만났고 3세트 대접전이 끝났을 때 두 선수 모두 주저앉을 정도로 치열했던 승부에서 동생 김민선이 웃었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00171_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 62,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

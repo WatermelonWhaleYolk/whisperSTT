@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01078",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.059,
+        "format": "MP4",
+        "date": "2022-06-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김국영은 이달 말 전국 선수권에서 기준 기록 10초 05를 통과해 6회 연속 세계 선수권 꿈을 이루겠다는 각옵니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1가 선수 기준 역대 공동 2위인 10초 18 대학생 @이름2이 10초 22를 작성해 김국영을 위협했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.873,
+                "end": 18.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 아직 어리고 더 성장 가능성이 있기 때문에 다음을 또 기약할 수 있는 날이 되지 않았나 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.266,
+                "end": 24.763
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아쉽진 않습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.773,
+                "end": 26.059
+            }
+        ]
+    },
+    "summary": "김국영은 이달 말 전국 선수권에서 기준 기록 10초 05를 통과해 6회 연속 세계 선수권 꿈을 이루겠다는 각오이며 @이름1가 선수 기준 역대 공동 2위인 10초 18 대학생 @이름2이 10초 22를 작성해 김국영을 위협했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01078_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

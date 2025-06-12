@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "KNI_00982",
+        "category": "스포츠뉴스",
+        "sub_category": 9,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.009,
+        "format": "MP4",
+        "date": "2022-01-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 몸에 맞는 공을 두려워하지 않는 150센티미터의 소녀 @이름1처럼 열정만큼은 프로입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오로지 남자 팀만을 상대해 온 JDB의 성적은 창단 후 1승 6패 하지만 그들의 저력은 인정받고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.236,
+                "end": 13.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "던지는 거 하나는 이미 3부 남자들보다 잘 던지시는 것 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.300,
+                "end": 18.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3번 4번 5번 친 그런 분들 보면 의외로 막 펑펑 날아가더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.850,
+                "end": 22.532
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "같이 할 수 있는 종목이라고 생각하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.542,
+                "end": 26.667
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "국가 대표 일단 먼저 되는 게 제 목표고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.677,
+                "end": 29.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호주에서는 최초의 여자 프로 선수가 나오는 등 성별의 장벽이 낮아지고 있는 야구계 한국 여자 야구의 미래를 향한 당찬 도전은 오늘도 계속됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.237,
+                "end": 38.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.549,
+                "end": 43.009
+            }
+        ]
+    },
+    "summary": "호주에서는 최초의 여자 프로 선수가 나오는 등 성별의 장벽이 낮아지고 있는 야구계 한국 여자 야구의 미래를 향한 당찬 도전은 오늘도 계속됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00982_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_02176",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.566,
+        "format": "MP4",
+        "date": "2019-10-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 역할 제가 해야 할 일 그런 것만 잘 신경쓰고 있고 꼭 팀이 이기는데에 거기 그 한 가지만 생각하고 있기 때문에 MVP에 대한 생각은 전혀 하고 있지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.432
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두산은 이정후의 상승세를 경계하면서도 우승에 자신감을 나타냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.442,
+                "end": 17.566
+            }
+        ]
+    },
+    "summary": "두산은 키움과의 경기에 앞서 이정후 선수를 경계하면서도 우승에 대한 자신감을 보였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02176_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

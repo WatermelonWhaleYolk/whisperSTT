@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "KNI_02315",
+        "category": "스포츠뉴스",
+        "sub_category": 11,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 53.966,
+        "format": "MP4",
+        "date": "2015-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미국 리틀 야구 챔피언인 시카고의 재키 로빈슨 웨스트팀이 챔피언 자격을 박탈당했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 여름 시카고의 재키 로빈슨 웨스트팀이 리틀 리그에서 우승했을 때 미국 전역은 감동에 휩싸였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.488,
+                "end": 17.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "열악한 지역에 약체로 평가받았지만 특유의 근성으로 우승했기 때문인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.036,
+                "end": 22.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이후 월드 시리즈의 미국 대표팀으로 출전해 한국 대표팀과 맞붙었고 오바마 대통령과도 만나며 영웅 대접을 받았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.854,
+                "end": 32.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 모든 게 물거품이 됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.627,
+                "end": 35.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국 리틀 리그 연맹은 이 팀이 해당 지역에 사는 선수로 팀을 구성해야 한다는 규정을 어기고 팀 전력 향상을 위해 다른 지역 선수를 기용한 것을 확인 챔피언 자격을 박탈했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 35.800,
+                "end": 49.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 49.255,
+                "end": 53.966
+            }
+        ]
+    },
+    "summary": "지난해 여름 재키 로빈슨 웨스트 팀이 리틀 리그에서 우승했지만 해당 지역에 사는 선수로 팀을 구성해야 한다는 규정을 어겨 챔피언 자격을 박탈당했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02315_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 61,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

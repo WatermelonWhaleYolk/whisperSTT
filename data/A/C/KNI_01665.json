@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_01665",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.329,
+        "format": "MP4",
+        "date": "2023-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "66대 60 SK의 5차전 승리가 확정된 순간 오재현은 참았던 눈물을 쏟았고 수훈 선수 인터뷰를 하면서도 감격스러운 듯 내내 울먹였습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.216
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 중요한 시리즈에서 도움이 못 되는 것 같아서 형들한테 너무 미안했고 저희 스태프들한테 너무 미안했는데 오늘 경기로 좀 이겨낸 것 같아서 너무 좋게 생각하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 11.226,
+                "end": 21.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3승 2패를 기록한 SK는 이제 두 시즌 연속 우승까지 단 1승만을 남겼습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 21.229,
+                "end": 27.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 27.771,
+                "end": 29.329
+            }
+        ]
+    },
+    "summary": "승리가 확정된 순간 오재현은 참았던 눈물을 쏟았고 도움이 못 되는 것 같아서 미안했는데 오늘 경기로 이겨낸 것 같아서 좋게 생각한다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01665_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 66
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01665_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYP_03907",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.222,
+        "format": "MP4",
+        "date": "2021-01-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보다못한 그는 요령을 설명해 주었지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.505
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘 봐. 너는 입에다 채워서 그걸 한 모금씩 삼키는 거잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.515,
+                "end": 7.448
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어엉. 다들 그렇게 먹지 않나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.458,
+                "end": 10.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니지. 목구멍 뚜껑을 열고 위장에 다이렉트로 꽂아야지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.159,
+                "end": 14.259
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 뚜껑이 맘대로 움직이냐. 지 혼자 진화했나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.269,
+                "end": 18.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "별 도움은 안됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.155,
+                "end": 22.222
+            }
+        ]
+    },
+    "summary": "20대 남성이 자신의 지인이 음료를 빨리 먹는 것을 보고 요령을 알려달라고 했지만 별 도움은 되지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03907_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

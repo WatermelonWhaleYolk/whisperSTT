@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYP_03573",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.029,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "투구에는 2절은 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.034
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손끝이 숨 쉬는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.044,
+                "end": 4.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대충하면 죽어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.569,
+                "end": 6.349
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "콧구멍이 있는데 손끝이 뭔",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.359,
+                "end": 9.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나도 발란스, 둘도 발란스, 셋도 발란스 그래야 산다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.461,
+                "end": 19.214
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "OK 떴다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.224,
+                "end": 24.230
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "마이 마이",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.240,
+                "end": 25.245
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아웃 아웃 게임 종료 양팀",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 25.255,
+                "end": 29.029
+            }
+        ]
+    },
+    "summary": "발란스를 잘 잡고 손끝이 숨 쉬듯이 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03573_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

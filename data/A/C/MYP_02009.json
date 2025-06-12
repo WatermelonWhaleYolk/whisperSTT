@@ -1,0 +1,308 @@
+{
+    "metadata": {
+        "filename": "MYP_02009",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 99.5,
+        "format": "MP4",
+        "date": "2021-08-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 돌아온 린가드와 그린우드라는 확실한 백업 자원도 있고 무엇보다 2선에는 브루노가 버티고 있으니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.687
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 왜 빼놓고 말씀하시는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.697,
+                "end": 7.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 마샬 너도 잠깐 너 머리가 왜 그래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.939,
+                "end": 10.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정신 무장을 하기 위해 밀었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.297,
+                "end": 12.456
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 시즌 확실히 달라진 모습으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.466,
+                "end": 14.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 녀석이 무슨 삭발 투쟁이라도 하는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.575,
+                "end": 16.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "머리라도 남아 있어야 팔리기라도 할 거 아냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.724,
+                "end": 19.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요? 아니 몸과 마음 모두 제대로 무장했으니 한번만 선발로 써보시면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.010,
+                "end": 24.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 재작년 리버풀이 리그에서 우승을 차지했을 때 맨시티는 2위에 머물렀었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.026,
+                "end": 28.557
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 작년 맨시티가 우승을 차지했을 때 우리 맨유가 2위에 머물렀었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.567,
+                "end": 32.576
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 말인즉슨 올해는 우리가 우승할 차례란 거네요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.586,
+                "end": 35.503
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 스쿼드 보강도 확실하게 했겠다 모두의 예측을 깨고 리그 우승은 물론 챔스에서도 좋은 성적을 가져오는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.513,
+                "end": 41.745
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그치만 화끈한 공격 라인에 비해 수비는 다소 불안하지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.755,
+                "end": 46.062
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "풀백들은 뭐 완 비사카와 루크 쇼가 있어 든든하다지만 센터백은 저를 제외하면 린델로프나 바이도 어딘가 모르게 부족한 데다 존스 녀석은 왜 우리 팀에 있는 지도 모르겠다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 46.072,
+                "end": 58.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럴 줄 알고 매과이어 너의 파트너로 엄청난 녀석을 데려왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 58.405,
+                "end": 61.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 들어오게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 61.599,
+                "end": 62.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반갑다. 레알에서 온 라파엘 바란이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 62.757,
+                "end": 65.211
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "세상에 바란이 우리 팀에 왔다고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 65.221,
+                "end": 67.730
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아니 뭐 저야 너무 좋지만 레알은 라모스에 바란까지 내보내면 수비는 누가 합니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 67.740,
+                "end": 73.516
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "주전 수비수 둘을 내보냈지만 베테랑 알라바를 영입했잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 73.526,
+                "end": 77.037
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "뭐 라모스와 나에 비하면 부족한 건 사실이지만 밀리탕과 함께 잘해주길 바래야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 77.047,
+                "end": 81.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바르샤가 메시를 내보내고 레알이 라모스와 바란을 내보낼 수 밖에 없었던 건 라리가엔 샐러리캡이란 제도가 있기 때문이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 81.856,
+                "end": 88.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팀 전체 연봉을 수익의 70프로 미만으로 맞춰야 하니까 고액 연봉자를 정리할 수 밖에 없던 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 88.087,
+                "end": 92.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 재정난에 직격탄을 맞은 건 안타깝지만 덕분에 바란을 데려왔으니 우리로선 땡큐지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 92.974,
+                "end": 99.500
+            }
+        ]
+    },
+    "summary": "감독이 마샬은 빼고 말하자 왜 저는 빼놓고 말하냐면서 정신 무장을 하기 위해 머리도 밀었고 한번만 선발로 써 달라고 애원하고 한편 감독은 이번에는 우리가 우승할 차례이며 스쿼드 보강도 확실하게 했겠다 모두의 예측을 깨고 좋은 성적을 내보자고 하고 매과이어는 수비가 불안하다 하니 라파엘 바란을 영입했다고 소개하고 이렇게 다 내보내면 레알은 어쩌냐고 하니 라리가에는 팀 전체 연봉을 수익의 70프로 미만으로 맞춰야 는 샐러리캡이란 제도가 있어서 어쩔 수 없다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02009_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

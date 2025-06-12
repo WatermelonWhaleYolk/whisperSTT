@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_02027",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.566,
+        "format": "MP4",
+        "date": "2019-01-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 전문 상담을 통해 심리 치료와 수사 의뢰 피해자 연대 모임 지원 등도 강화하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "체육 단체를 대상으로 재발 방지 컨설팅도 하고 체육 분야 폭력 예방 교육 전문 강사를 양성하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.205,
+                "end": 15.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "체육 분야 전수조사도 이뤄지는데 여기에 학생 선수 6만 3000여 명도 포함하는 방안이 검토됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.192,
+                "end": 22.566
+            }
+        ]
+    },
+    "summary": "체육 단체를 대상으로 전문 상담을 통해 심리 치료와 수사 의뢰 피해자 연대 모임 등 지원도 강화하고 폭력 예방 교육 전문 강사를 양성하며 학생 선수를 포함하여 전무 조사도 이뤄지는 방안도 검토된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02027_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 41,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

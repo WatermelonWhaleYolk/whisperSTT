@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01767",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.0,
+        "format": "MP4",
+        "date": "2021-11-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기력이 차츰 올라오고는 있다지만 그렇게 무득점으로 버틸 거면 골키퍼나 하라는 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.876
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "득점왕 라이벌인 살라는 벌써 리그에서만 10골인 반면 케인 너는 리그에서 고작 1골에 머물러 있잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.886,
+                "end": 10.594
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 저라고 뭐 넣기 싫어서 안 넣었습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.604,
+                "end": 12.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 다 누더기 새끼가 라인을 내려버리는 바람에.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.812,
+                "end": 15.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전술 핑계를 대는 순간 월드클래스 자격도 박탈되는 법.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.614,
+                "end": 19.000
+            }
+        ]
+    },
+    "summary": "케인이 리그에서 1골에 머물러 있어서 감독이 한 소리를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01767_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

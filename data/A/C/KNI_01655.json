@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_01655",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.6,
+        "format": "MP4",
+        "date": "2019-07-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스마트 기기가 자세 교정도 돕습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "키, 몸무게, 나이를 입력하면 바른 자세를 유지할 수 있는 최적의 등받이 각도를 설정합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.077,
+                "end": 10.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의자에 달린 센서는 좋은 자세와 나쁜 자세로 앉은 시간을 주 단위로 분석해 줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.461,
+                "end": 16.716
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋지 않은 자세가 됐을 경우에 스마트폰 앱을 통해서 빨리 좋은 자세를 하세요라고 하는 어떤 알림을 주는 기능이라고 보시면 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.726,
+                "end": 24.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "센서가 달린 모니터 받침대 거북목처럼 구부정한 자세를 하면 경고등이 켜집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.076,
+                "end": 30.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "센서가 상체와의 거리를 감지하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.667,
+                "end": 34.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한층 더 똑똑해진 스마트 기기들의 등장으로 업무능률부터 건강까지 챙겨주는 스마트 오피스가 현실로 다가왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.418,
+                "end": 42.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.384,
+                "end": 44.600
+            }
+        ]
+    },
+    "summary": "한층 더 똑똑해진 스마트 기기들의 등장으로 업무능률부터 건강까지 챙겨주는 스마트 오피스가 현실로 다가왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01655_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

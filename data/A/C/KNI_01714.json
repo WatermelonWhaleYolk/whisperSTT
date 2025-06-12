@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "KNI_01714",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 48.266,
+        "format": "MP4",
+        "date": "2018-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차례를 마친 뒤 새해 아침 떡국도 함께 나눴습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새해 복 많이 받으세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.771,
+                "end": 6.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가족이나 다름없는 동료 선수들과 덕담을 주고받으며 고향에 대한 그리움을 달랩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.224,
+                "end": 12.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고국 독일을 떠나 한국 루지 사상 최고 순위에 오른 귀화 선수 에일린도 처음 한국 설을 쇘습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.575,
+                "end": 19.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투호와 윷놀이 등 한국 전통 놀이는 낯설고도 신기한 체험입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.921,
+                "end": 24.988
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.998,
+                "end": 33.718
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "새해 복 많이 받으세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.728,
+                "end": 36.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남녘 땅에서 설을 맞은 북한 응원단도 숙소에서 인제군과 호텔 측이 마련해 준 떡국과 황태 구이, 송편 등을 먹으며 명절을 보냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 36.097,
+                "end": 46.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.281,
+                "end": 48.266
+            }
+        ]
+    },
+    "summary": "대표팀은 차례를 마친 뒤 새해 아침 떡국도 함께 나누며 동료 선수들과 덕담을 주고받았고 북한 응원단은 인제군과 호텔 측이 마련해 준 떡국과 황태 구이, 송편 등을 먹으며 명절을 보냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01714_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

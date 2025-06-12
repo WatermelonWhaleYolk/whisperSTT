@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYP_02486",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.166,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 예를 들면 정말 못하는 친구 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "못하는 친구들이 까불어 근데 친구는 절대 얄밉지가 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.346,
+                "end": 6.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 못 하니까 못하면 얄밉기도 힘들어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.730,
+                "end": 10.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 우리 팀 팬들은 답답하고 상대 팀 팬들은 이제 웃긴 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.449,
+                "end": 14.538
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 뭐 얄미운 건 절대 아니고 얄미운 선수들은 대부분 실력이 좋은 편입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.548,
+                "end": 20.166
+            }
+        ]
+    },
+    "summary": "우리 팀 팬들은 답답한 상황이지만 얄미운 선수들은 대부분 실력이 좋은 편입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02486_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

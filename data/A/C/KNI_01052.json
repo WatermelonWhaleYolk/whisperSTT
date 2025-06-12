@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01052",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2022-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 A선수의 아버지는 가해 학생들에 대한 형사 처벌보다 스스로 축구를 그만두길 원한다며 어렵게 말문을 열었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아들이 제일 좋아하는 축구를 못하는데 그런 원인 제공을 한 사람들은 웃으면서 축구를 할 수 없어야 된다는 취지인 거거든요 제가 그거를 쓴 게.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.673,
+                "end": 18.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김포 FC 구단은 유가족이 원하는 대로 수사에 협조하고 한 치의 숨김 없이 모든 자료를 경찰에 공개하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.023,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "A선수의 아버지는 가해 학생들에 대한 형사 처벌보다 스스로 축구를 그만두길 원한다고 말했고 김포 FC 구단은 유가족이 원하는 대로 수사에 협조하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01052_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

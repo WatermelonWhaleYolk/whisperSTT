@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYP_02228",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.7,
+        "format": "MP4",
+        "date": "2021-05-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나처럼 13년 무관에 리그 7위 팀의 벤치가 사과해야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 미안하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.344,
+                "end": 4.372
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 이분들은 내가 감당할 수 있는 수준이 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.382,
+                "end": 6.905
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그야말로 암흑 그 자체 저기 선배를 저는 아직 여기 올 수준이 못 되는 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.915,
+                "end": 11.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시간 뺏어서 죄송했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.031,
+                "end": 12.365
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 사과는 우리 더보기 리그 소속 선수들이 하는 거래도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.375,
+                "end": 15.198
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 그럼 먼저 들어가 보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.208,
+                "end": 17.199
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그래 다음 경기에 나오려면 무릎 아껴놔야 해서 마중은 못 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.209,
+                "end": 20.606
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "수고해.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.616,
+                "end": 22.700
+            }
+        ]
+    },
+    "summary": "한 선수는 다른 선수의 이야기를 듣고 자신은 그 수준은 아니라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02228_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03078",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.833,
+        "format": "MP4",
+        "date": "2019-11-05",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사장님 여기 바르셀로나 불백 하나요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.078
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 베로나 정식 2개요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.088,
+                "end": 4.166
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "바빠요 바빠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.176,
+                "end": 5.348
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "인터뷰는 나중에 할게요 나중에.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.358,
+                "end": 7.060
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "들어는 봤나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.070,
+                "end": 7.959
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "바르셀로나 불백",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.969,
+                "end": 9.577
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "언뜻 들어서는 낯선 이름이겠지만 카탈루냐에서 직수입한 마늘부터 축구 도사 이니에스타가 직접 담근 와인에다 숙성까지 팔방미인 사비네 텃밭에서 캔 양파까지 곱게 갈리면 오호호홍 환상적 조화를 이룬단다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.587,
+                "end": 26.833
+            }
+        ]
+    },
+    "summary": "바르셀로나 불백은 언뜻 들어서는 낯설지만 카탈루냐에서 직수입한 마늘과 이니에스타가 직접 담근 와인에 숙성 그리고 사비네 텃밭에서 캔 양파까지 갈아 만든 양념과 고기가 환상적 조화를 이룬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03078_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 51
+                }
+            ]
+        }
+    ]
+}

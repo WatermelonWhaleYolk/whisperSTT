@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYP_03446",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2022-07-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "응?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.349
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고무장갑이 끝부터 녹았다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.359,
+                "end": 2.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세제라며 세차게 제거한다 뜻인가?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.852,
+                "end": 6.489
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직도 비가 오면 손끝의 흉터들이 아리다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.499,
+                "end": 10.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 마지막으로",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.792,
+                "end": 12.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "땡스더마린스트레이",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.096,
+                "end": 14.536
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "웟알유두노우",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.546,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "세제가 고무장갑 끝부터 녹여서 아직도 비가 오면 나는 손끝의 흉터들이 아리다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03446_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

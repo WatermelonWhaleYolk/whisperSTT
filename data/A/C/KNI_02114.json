@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_02114",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.766,
+        "format": "MP4",
+        "date": "2019-09-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선교사이던 남편을 따라 몽골에 갔던 양영자 선수 그곳에서 아이들에게 탁구를 가르쳤다는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.754
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러던 중 두 아이가 유독 눈에 들어옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.764,
+                "end": 10.278
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네이멍구에서는 여자 중에서는 은혜, 시은이가 제일 잘했었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.288,
+                "end": 14.944
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떤 때는 재정이 넉넉하지 않아서 중국 안에 시합조차도 가끔 참석하지 못하는 실력은 있는데 그러한 모습들을 보면서 좀 도와주고 싶다라는 그런 면이 발동이 됐던 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.954,
+                "end": 31.766
+            }
+        ]
+    },
+    "summary": "양영자 선수 몽골에서 아이들에게 탁구를 가르치다 눈에 띄는 아이들을 발견했고 재정사정상 대회에 참여하지 못하는 아이들을 보고 도와주고 싶다는 생각을 들었다고 이야기했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02114_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

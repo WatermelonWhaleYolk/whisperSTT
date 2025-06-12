@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_01645",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.9,
+        "format": "MP4",
+        "date": "2019-04-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경남 구단은 대표이사와 직원들이 상벌위에 참석해 적극적으로 소명했지만 징계를 피하지는 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.738
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 주말 재보궐 선거 운동 지원을 위해 창원을 찾은 황교안 대표 일행은 경남의 홈구장에서 지지를 호소해 규정위반 논란을 일으켰습니 다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.748,
+                "end": 17.900
+            }
+        ]
+    },
+    "summary": "황교안 대표 일행은 경남의 홈구장에서 지지를 호소해 규정위반 논란을 일으켰는데 이에 대해 경남 구단은 적극적으로 소명했지만 징계를 피하지는 못했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01645_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

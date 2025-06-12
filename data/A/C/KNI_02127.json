@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_02127",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.766,
+        "format": "MP4",
+        "date": "2018-07-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "남측 청팀의 7점 차 승리로 경기는 끝났지만 최선을 다한 모든 선수들에게 뜨거운 박수가 쏟아졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "책임감을 가지고 뛰어야 된다는 마음으로 하다 보니까 그런 경기가 나왔던 것 같아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.196,
+                "end": 13.274
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 선수들도 다 기량이 너무 좋아 가지고 어 좀 이렇게 호흡 맞춰보다 보면",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.284,
+                "end": 20.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10년 가까이 국제대회의 모습을 드러내지 않아 베일에 가려져 있던 북한 남자 농구도 만만치 않은 기량을 선보였습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.697,
+                "end": 28.766
+            }
+        ]
+    },
+    "summary": "남측 청팀의 승리로 경기는 끝났지만 모든 선수들에게 박수가 쏟아졌고 북한 남자 농구도 만만치 않은 기량을 선보였다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02127_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

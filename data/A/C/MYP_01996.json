@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_01996",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.1,
+        "format": "MP4",
+        "date": "2021-08-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "로메로 1명을 데려왔다지만 엉망부터 진창까지 아니 산체스부터 다이어까지 그대로잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "참나 아까 얘기할 때 뭘 들으신 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.802,
+                "end": 7.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누누 감독 님이 부임하신 뒤로 수비 녀석들의 기량이 훨씬 좋아졌다니까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.860,
+                "end": 11.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거야 평범한 공격수를 만났을 때고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.555,
+                "end": 14.166
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.176,
+                "end": 14.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공격수 중엔 케인처럼 육각형에 가까운 만능형 공격수들도 있지만 다른 것들은 조금 부족하더라도 1가지 능력이 엄청나게 뛰어난 원툴 공격수들도 있는 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.862,
+                "end": 25.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1가지 밖에 못하는 건 단점 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.930,
+                "end": 27.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 1가지가 세계 최강이라면 말은 달라지죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.898,
+                "end": 31.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 비록 슈팅도 섬세하지 못하고 공격 전개도 서투르지만 압도적인 피지컬을 이용한 폭발적인 드리블 하나만큼은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.351,
+                "end": 38.100
+            }
+        ]
+    },
+    "summary": "아다마는 로메로를 데려왔다지만 산체스부터 다이어까지 엉망이라고 얘기하고 손흥민은 누누 감독이 부임한 뒤로 수비의 기량이 더 좋아졌다고 얘기하니 아다마는 나는 1가지 능력이 뛰어난 원툴 공격수인데 슈팅은 섬세하지 못하고 공격 전개도 서투르지만 압도적인 피지컬을 이용한 폭발적인 드리블 하나만큼은 세계 최강이라고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01996_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

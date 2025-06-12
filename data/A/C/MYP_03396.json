@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYP_03396",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2022-09-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시간제한이 존재하기 때문에 스피드가 모든 것을 지배한다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.793
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "카푸치노 1분 클리어 하실 만렙 추출러 구합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.803,
+                "end": 8.868
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우유 거품 스킬 우대",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.878,
+                "end": 11.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그 최전방에",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.506,
+                "end": 13.902
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "훗 그 거품 내가 내 주마",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.912,
+                "end": 18.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "펠이 있다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.297,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "시간제한이 존재하기 때문에 스피드가 중요한데 그 최전방에는 펠이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03396_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

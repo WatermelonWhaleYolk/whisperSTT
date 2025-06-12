@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "filename": "MYP_03675",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.156,
+        "format": "MP4",
+        "date": "2021-11-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "숫기가 없었는지 치기 어린 자존심이었는지",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우와 야 진짜 다 먹었네?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.881,
+                "end": 7.563
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으음",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.573,
+                "end": 8.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 생각해도 그때 우리가 왜 그랬는지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.659,
+                "end": 11.875
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "솔찌 다 못 묵겠드라 아이가",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.885,
+                "end": 14.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도무지 이해할 수가 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.995,
+                "end": 18.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 우리는 탕수육 대자와 함께",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.231,
+                "end": 21.425
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "욱",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.435,
+                "end": 23.156
+            }
+        ]
+    },
+    "summary": "숫기가 없었는지 자존심이었는지 모르지만 탕수육 대자를 주머니에 넣고 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03675_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "KNI_00563",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.483,
+        "format": "MP4",
+        "date": "2023-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1차 선발전에서 언니들을 제치고 1위를 차지했던 신성 @이름1는 첫 점프에서 다소 흔들리며 2위를 기록했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "태극 마크를 향한 마지막 관문이 될 피겨 남녀 싱글 프리 스케이팅 경기는 내일 펼쳐집니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.405,
+                "end": 16.483
+            }
+        ]
+    },
+    "summary": "1차 선발전에서 1위를 차지했던 신인 선수는 첫 점프에서 다소 흔들리며 2위를 기록했고 태극 마크를 향한 마지막 관문이 될 피겨 남녀 싱글 프리 스케이팅 경기는 내일 펼쳐진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00563_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

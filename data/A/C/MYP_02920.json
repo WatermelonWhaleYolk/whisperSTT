@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_02920",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.775,
+        "format": "MP4",
+        "date": "2020-03-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 시발 무슨 엉금엉금 기어간다가 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가라. 쿠르투아 최선을 다해 막는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.302,
+                "end": 6.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 시발 1대1 배틀이라면서 왜 2명을 투입시키느냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.163,
+                "end": 14.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1대1 동점이 되었으니 1대1 배틀이지 않느냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.855,
+                "end": 18.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 젠장",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.194,
+                "end": 20.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 얼른 승부를 내자꾸나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.025,
+                "end": 24.766
+            }
+        ]
+    },
+    "summary": "쿠르투아를 이용해 포켓몬 배틀을 하였지만 패배한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02920_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

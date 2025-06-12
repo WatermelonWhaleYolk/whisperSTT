@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_02199",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.2,
+        "format": "MP4",
+        "date": "2017-12-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서울의 한 백화점.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.354
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "냉골 같은 바닥에 수백 명이 자리를 폈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.364,
+                "end": 5.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돗자리, 종이박스가 동원되고 두꺼운 외투와 담요로 무장했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.253,
+                "end": 11.503
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이른바 평창 롱패딩 마지막 물량을 사기 위해 밤샘 노숙을 자청한 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.513,
+                "end": 18.200
+            }
+        ]
+    },
+    "summary": "이른바 평창 롱패딩 구매를 위해 사람들이 밤샘 노숙을 자청하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02199_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": 64,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

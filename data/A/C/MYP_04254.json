@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_04254",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.108,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역시 낮말은 내 귀에 다 들어오게 돼 있다고 신기하지 않냐고 대리님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 15.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "버버드님 이 이건 오해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.692,
+                "end": 19.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 아니아니아니 됐다고 돼지들이 그동안 누구 말 듣고 그 난리를 쳐 왔는지 이제 잘 알았으니 아무 말 안 해도 된다고 대신",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.595,
+                "end": 35.101
+            }
+        ]
+    },
+    "summary": "버드님은 낮말은 다 들어오게 돼 있다며 돼지들이 그동안 누구 말 듣고 그 난리를 쳐 왔는지 이제 잘 알았다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04254_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

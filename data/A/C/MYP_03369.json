@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYP_03369",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2022-09-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하여튼 그렇게 속성으로 교육을 마친 나는 홀몸으로 일을 시작하게 되었고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.248
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 오늘부터 일주일만 부탁해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.258,
+                "end": 8.211
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예예 걱정마세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.221,
+                "end": 11.432
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "사고 치면 다 제쳐두고 수습하러 올 거야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.442,
+                "end": 14.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엘리베이터에서의",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.943,
+                "end": 16.198
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음 이건 이 새",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.208,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "오늘부터 일주일 부탁했는데 사고 치면 다 제쳐두고 수습하러 올 겁니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03369_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

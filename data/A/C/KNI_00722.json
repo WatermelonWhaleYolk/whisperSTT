@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_00722",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기대 이상의 활약으로 깜짝 스타가 된 @이름1이 혹시나 자만에 빠질까 봐 @이름2 감독은 걱정이 앞섭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 뭐 함 뭐 작년에 인터뷰 참 많이 하더라 상도 많이 받고 어",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.830,
+                "end": 11.795
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아닙니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.805,
+                "end": 12.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네가 인마 뭐라도 된 것처럼 어 네가 손흥민이야?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.792,
+                "end": 16.149
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.149,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "기대 이상의 활약으로 깜짝 스타가 된 @이름1이 혹시나 자만에 빠질까 봐 @이름2 감독은 걱정이 앞선다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00722_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

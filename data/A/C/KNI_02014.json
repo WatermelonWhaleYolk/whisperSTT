@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_02014",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 42.41,
+        "format": "MP4",
+        "date": "2019-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수구로 유명한 경기 체고와 전남 체고 등 이 남자 선수들과의 연습 경기도 마다하지 않으면서 실력을 키워온 여자 수구 대표팀",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.584
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "막아 볼 볼",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.594,
+                "end": 14.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힘든 훈련 과정을 버틸 수 있었던 건 많게는 9살이나 나는 나이 차에도 몇 년간 맞춰온 팀처럼 끈끈한 팀워크 덕분이었다고 합",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.913,
+                "end": 25.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선생님들도 모르게 야간에까지 따로 나와가지고 저희들끼리 똥똥 똘똘 뭉쳐가지고 1시간이라도 더 할려고 노력했던 거 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.174,
+                "end": 36.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그래서 힘들다기보다는 오히려 즐겼다고 말할 수 있을 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.063,
+                "end": 42.400
+            }
+        ]
+    },
+    "summary": "수구로 유명한 경기 체고와 전남 체고 등 이 남자 선수들과의 연습 경기도 마다하지 않으면서 실력을 키워온 여자 수구 대표팀은 힘든 훈련 과정을 버틸 수 있었던 건 끈끈한 팀워크 덕분이었다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02014_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

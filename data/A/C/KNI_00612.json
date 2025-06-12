@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_00612",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.915,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성남 시청 관계자는 안현수는 현재 러시아 국적이기 때문에 안빅토르라는 이름으로 지원서를 접수했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국가대표 에이스 최민정이 속해 있는 성남 시청에 빙상 팀 코치 합격자는 오는 31일 발표됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.021,
+                "end": 15.915
+            }
+        ]
+    },
+    "summary": "성남 시청 관계자는 안현수는 현재 러시아 국적이기 때문에 안빅토르라는 이름으로 지원서를 접수했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00612_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_02003",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.0,
+        "format": "MP4",
+        "date": "2019-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지도자의 폭언과 팀 사유화 등을 폭로하며 눈물로 호소했던 팀 킴",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문체부와 경상북도 대한체육회가 합동으로 실시한 한 달여의 특정감사 결과 팀 킴이 제기한 인권침해 내용 대부분은 사실이었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.931,
+                "end": 17.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수들이 호소문에서 제기한 부당한 대우를 받았다는 주장의 대부분이 사실이었음이 확인되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.486,
+                "end": 25.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제대로 정산이 안 돼 선수들이 받지 못한 상금은 무려 9300만 원이 넘었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.920,
+                "end": 33.000
+            }
+        ]
+    },
+    "summary": "팀 킴은 지도자의 폭언과 팀 사유화 등을 폭로했는데 문체부와 경상북도 대한체육회가 합동으로 실시한 한 달여의 특정감사 결과 제기된 인권침해 내용 대부분이 사실이었고 선수들이 호소문에서 제기한 부당한 대우를 받았다는 주장 또한 마찬가지였으며 제대로 정산이 안 돼 받지 못한 상금은 무려 9300만 원이 넘었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

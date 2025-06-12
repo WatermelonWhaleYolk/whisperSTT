@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYP_03336",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2022-11-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.746
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자동으로 옆의 빈 통으로 자리를 교체해주지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.756,
+                "end": 3.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "21세기는 오물 자동화의 시대 사람의 손길 더 이상은 네버",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.901,
+                "end": 10.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 와하하 그럼 가득 찬 통도 자동으로 바뀌고 수거도 업체가 해가는 거면 우린 할 일이 없네요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.743,
+                "end": 18.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응 자동이니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.575,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "가득 찬 통도 자동으로 바뀌고 수거도 업체가 해가서 나는 할 일이 없다고 좋아한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03336_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

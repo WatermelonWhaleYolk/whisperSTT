@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_01424",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.265,
+        "format": "MP4",
+        "date": "2023-04-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중학교 1학년 딸을 둔 42살의 미들 블로커 정대영 도로 공사를 챔피언으로 이끌며 V리그 역대 최고령 우승 선수가 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.608
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정규 시즌 블로킹 3위로 건재를 과시한 정대영은 통산 6번째 FA 자격을 얻었는데 친정팀 GS 칼텍스와 총액 3억 원에 1년 계약했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.618,
+                "end": 17.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "9년 만에 GS 칼텍스 복귀입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.826,
+                "end": 20.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 도로 공사에서 뛰었던 박정아가 페퍼 저축 은행으로 팀을 옮기고 오늘 황인경이 IBK 기업 은행으로 이적하는 등 여자부 FA 선수들의 이동이 활발하게 이뤄지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.422,
+                "end": 32.265
+            }
+        ]
+    },
+    "summary": "앞서 도로 공사에서 뛰었던 박정아가 페퍼 저축 은행으로 팀을 옮기고 오늘 황인경이 IBK 기업 은행으로 이적하는 등 여자부 FA 선수들의 이동이 활발하게 이뤄지고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01424_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

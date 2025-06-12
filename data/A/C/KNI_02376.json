@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_02376",
+        "category": "스포츠뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.402,
+        "format": "MP4",
+        "date": "2016-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 손연재 선수는 여러 국제 대회 경험이 많잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 항상 그 정해진 시간내에 적응을 하는 훈련은 충분히 되어 있기 때문에 크게 걱정하지 않는다고 본인이 그렇게 얘기하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.554,
+                "end": 12.115
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손연재는 내일 밤 10시 20분에 시작하는 예선 첫 경기에 나서 리듬 체조 사상 첫 메달을 향한 도전을 시작합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.125,
+                "end": 20.194
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "리우에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.204,
+                "end": 23.400
+            }
+        ]
+    },
+    "summary": "손연재 선수는 적응 훈련은 충분히 돼있어 걱정하지 않는다고 얘기하며 내일 밤 예선 첫 경기에 나서 메달을 향한 도전을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02376_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 60
+                }
+            ]
+        }
+    ]
+}

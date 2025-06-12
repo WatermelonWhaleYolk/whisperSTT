@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "KNI_01013",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.835,
+        "format": "MP4",
+        "date": "2022-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자신과 같은 유형인 손흥민과 김연아처럼 세계적인 스타를 꿈꿔봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.392
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "끝에가 J거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.402,
+                "end": 7.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 뭐 계획 그건데 다 계획을 세워놓고 놀고 먹고 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.638,
+                "end": 13.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 그렇게 됐으면 좋겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.761,
+                "end": 16.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프로 탁구 리그 출범으로 더 많은 실전이 예상되는 신유빈",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.216,
+                "end": 21.213
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기가 많아진다고 보면 그게 실기도 하는데 그러면 많이 나오지 않을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.223,
+                "end": 26.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2022년 출발은 느리지만 삐약 삐약 꾸준히 나아간다는 포부입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.231,
+                "end": 33.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.424,
+                "end": 35.835
+            }
+        ]
+    },
+    "summary": "프로 탁구 리그 출범으로 더 많은 실전이 예상되는 신유빈은 2022년 출발은 느리지만 삐약 삐약 꾸준히 나아간다는 포부입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01013_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

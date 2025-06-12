@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_01751",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.6,
+        "format": "MP4",
+        "date": "2018-06-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "팬들과 함께 응원에 나선 대표팀 황희찬 선수의 어머니는 축제 분위기 속에서도 떨리는 마음을 감추지 못합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "희찬이에게 컨디션 조절 잘 해서 여기 응원 오신 분들 어 생각해서 더 힘들어도 한 발 더 뛰라고 얘기했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.590,
+                "end": 16.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 응원단에 맞서는 스웨덴 팬들의 기세도 만만치 않습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.304,
+                "end": 20.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "니즈니노브고로드 거리 곳곳은 이미 스웨덴을 상징하는 노란색으로 물들었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.534,
+                "end": 25.972
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.982,
+                "end": 30.600
+            }
+        ]
+    },
+    "summary": "팬들과 함께 응원에 나선 대표팀 황희찬 선수의 어머니는 축제 분위기 속에서도 떨리는 마음을 감추지 못했고 우리 응원단에 맞서는 스웨덴 팬들의 기세도 만만치 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

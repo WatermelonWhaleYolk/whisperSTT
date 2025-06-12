@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_00751",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.826,
+        "format": "MP4",
+        "date": "2023-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어제 안철수 후보를 작심 비판한 이진복 정무수석",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안윤 연대라는 표현를 누가 썼습니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.510,
+                "end": 6.467
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그건 정말 잘못된 표현입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.477,
+                "end": 9.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령과 후보가 어떻게 동격이라고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.740,
+                "end": 12.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 수석의 국회 방문은 대통령의 지시에 따른 것이었다고 대통령실 관계자가 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.517,
+                "end": 19.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 후보 측이 대통령을 선거에 끌어들이고 있다며 이런 행태를 경고해 달라고 당에 요청하라고 했다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.290,
+                "end": 26.826
+            }
+        ]
+    },
+    "summary": "대통령과 후보가 동격이라는 표현이 잘못되었다며 안철수 후보를 비판한 이 수석의 국회 방문은 대통령의 시지에 따른 것이었다고 대통령실 관계자가 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

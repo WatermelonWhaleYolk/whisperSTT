@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_01793",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.0,
+        "format": "MP4",
+        "date": "2021-10-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 지금부터 맨체스터 유나이티드의 감독 올레 군나르 솔샤르의 경질 재판을 시작하겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.851
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 경질 재판이라뇨?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.861,
+                "end": 8.298
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부진에서 탈출할 비법을 전수해 주시고자 부르신 거 아니셨습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.308,
+                "end": 11.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부진을 탈출할 비법은 나 퍼거슨이 다시 부임하는 것밖에 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.585,
+                "end": 16.000
+            }
+        ]
+    },
+    "summary": "퍼거슨 감독이 맨체스터 유나이티드의 감독 올레 군나르 솔샤르의 경질 재판을 시작한다고 말하자 부진에서 탈출할 비법을 전수해 주려고 부른 줄 알았던 솔샤르는 당황한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01793_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

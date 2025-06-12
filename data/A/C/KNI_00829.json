@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "KNI_00829",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1은 최고령 기록을 세우던 날 눈가가 찢어지고도 경기에 나섰고 우리은행 전에선 발목이 꺾여도 다시 코트로 들어오는 투지도 보여줬습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 시즌까지 13시즌 연속 평균 30분 이상 출전을 기록할 정도로 한결같은 활약을 보이는 @이름1 그 원동력은 오늘에 대한 소중함이었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.387,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "최고령 기록을 세우는 날 눈가가 찢어져도 다시 코트로 들어오는 투지를 보였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00829_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

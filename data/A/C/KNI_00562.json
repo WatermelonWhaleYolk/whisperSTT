@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "KNI_00562",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2023-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 12월 1차 선발전에서 정상에 올랐던 차준환은 900여 석을 가득 메운 팬들 앞에서 오는 3월 세계 선수권 출전 가능성을 높였습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.578
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여자 싱글에서는 베이징 동계 올림픽 9위에 올랐던 @이름1이 깨끗한 연기로 71.59점 가장 높은 점수를 받았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.588,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "1차 선발전에서 정상에 올랐던 차준환은 세계 선수권 출전 가능성을 높였고 여자 싱글에서는 베이징 동계 올림픽 9위에 올랐던 선수가 깨끗한 연기로 가장 높은 점수를 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00562_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 116
+                }
+            ]
+        }
+    ]
+}

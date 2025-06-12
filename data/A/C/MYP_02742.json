@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_02742",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.472,
+        "format": "MP4",
+        "date": "2020-08-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "프로였다고 그것도 2, 3부가 아닌 1부의 토트넘 정말 안 가도 괜찮은 거냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빵뚜아 대리님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.462,
+                "end": 5.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.154,
+                "end": 5.666
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돈 많이 벌어서 칸구한테 차 살 거랬ㅈ?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.676,
+                "end": 7.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 그렀긴 한데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.881,
+                "end": 8.926
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 가면 돈 많이 못 벌어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.936,
+                "end": 10.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 이렇게 프로가 직접 제안했다는 건 제가 가능성이 있단 거니까 제가 돈 많이 주는 곳으로 가서 꼭 빵뚜아 대리님 차 한 대 뽑아드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.570,
+                "end": 18.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타랍박",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.205,
+                "end": 19.018
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물론 그 전에 팩토리 월드컵 우승부터 해야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.028,
+                "end": 21.772
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 다음 상대는 누굽니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.782,
+                "end": 23.336
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "두둥 다음편에 계속",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.346,
+                "end": 25.466
+            }
+        ]
+    },
+    "summary": "프로가 직접 제안 했다는 것은 가능성이 있다는 것이기 때문에 타랍박이 돈을 많이 주는 곳으로 가서 빵뚜아 대리님의 차 한대 뽑아드리겠다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02742_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03232",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.562,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "피칭 마지막 4게임 설정은 9회 원아웃",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.961
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주장 하나 갑시다 안타 안타",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.971,
+                "end": 6.019
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그럼 잘 부탁합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.029,
+                "end": 10.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "플레이볼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.376,
+                "end": 12.026
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 잘 부탁한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.036,
+                "end": 14.406
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 필이 이 녀석 처음보는 너클은 어떻게 대처할 지 그 웬만한 투수의 구종으론 녀석을 제치지 못하거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.416,
+                "end": 24.167
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.177,
+                "end": 29.562
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03232_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

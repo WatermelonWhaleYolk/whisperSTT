@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYP_03289",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.226,
+        "format": "MP4",
+        "date": "2022-12-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러다 다치면 어쩔 수 없는 인생이 바로 네 처지다 죽지 않을 만큼 그런 소리는 너와는 상관없다 너는 뒤질 만큼 뛰어라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.517
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와다아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.527,
+                "end": 17.940
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "스트라익 투",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.950,
+                "end": 19.286
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.296,
+                "end": 19.971
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "라고 하면서 굴린 게 눈에 선합니다 하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.981,
+                "end": 24.403
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뻔하게 살아가는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.413,
+                "end": 26.226
+            }
+        ]
+    },
+    "summary": "영감은 수호에게 죽지 않을 만큼 그런 소리는 너와는 상관없으니 뒤질 만큼 뛰라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03289_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

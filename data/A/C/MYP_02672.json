@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02672",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.966,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 파리에 가면 주전 자리를 준다는데 나는 토트넘에 남고 싶고 이를 어찌한단 말인가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "알리 대신 알리 대신",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.080,
+                "end": 6.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 캐롤 뭐가 그리 급한 것이요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.704,
+                "end": 8.752
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 방금 흥민대군의 관상을 보고 돌아오는 길이옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.762,
+                "end": 11.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 어땠는가 호랑이가 따로 없지 않던가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.806,
+                "end": 14.421
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그는 절대로 득점왕이 될 상이 아니옵니다 오히려 너무 보잘것없어 대신께서 괜한 걱정을 하신 게 아닌가 생각될 정도로 말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.431,
+                "end": 21.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 소리인가 흥민대군은 관상을 볼 줄 모르는 내가 봐도 호랑이 같은 자라네 자네 무슨 착각을 한 건 아닌가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.006,
+                "end": 27.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뒤뜰에서 혼자 훈련을 하고 있는 자는 그자뿐이었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.699,
+                "end": 30.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 조금 있으면 상왕 무리뉴께서 훈련을 소집할 걸세 그 자리에 흥민대군도 참석할 테니 자네도 같이 동행해 한 번 더 살펴보고 가게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.847,
+                "end": 39.966
+            }
+        ]
+    },
+    "summary": "캐롤이 흥민대군의 관상을 보고 돌아오는 길인데 그는 절대로 득점왕이 될 상이 아니라고 오히려 너무 보잘것없어 대신께서 괜한 걱정을 하신 게 아닌가 생각될 정도라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02672_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

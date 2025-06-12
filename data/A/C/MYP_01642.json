@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_01642",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.833,
+        "format": "MP4",
+        "date": "2021-12-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불과 몇 년 전까진 리그 2위에 챔스 준우승까지 거머쥐었던 우리다 챔스 진출과 카라바오컵 우승이라면 어려운 목표도 아닐 터인데 그까짓게 뭐라고 하나를 포기한단 말이냐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.468
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 아무래로 누누정변 이후 나라 전체에 역병이 창궐하지 않았습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.478,
+                "end": 14.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "백성들은 물론 나라의 대신들까지 시름시름 앓고 있기에 하나의 목표라도 건져내기가 어려운 상태이옵니다 전하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.547,
+                "end": 20.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 시발 그러니까 그 누누새끼를 나라에 들이는 게 아니었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.536,
+                "end": 24.544
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "역병이라면 이제 걱정할 거 없습니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.554,
+                "end": 26.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 흥민대군?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.966,
+                "end": 28.213
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전하께서는 궐 안에만 계시다 보니 소식을 접하지 못하신 것 같은데 손만 댔다 하면 씻은 듯이 병을 낫게 해주는 명의가 나타나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.223,
+                "end": 36.833
+            }
+        ]
+    },
+    "summary": "나라에 역병이 창궐해 대신들까지 시름시름 앓았지만 손만 대면 낫게 해주는 명의가 나타났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01642_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

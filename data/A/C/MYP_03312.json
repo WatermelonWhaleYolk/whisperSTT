@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03312",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.254,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집 주인도 따로 산대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.981
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "싸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.991,
+                "end": 2.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.545,
+                "end": 3.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "급속 계약을 체결했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.284,
+                "end": 5.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 뭐 하냐 계약 안 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.316,
+                "end": 7.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희 집을 갖고 계신다면서요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.556,
+                "end": 9.705
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "중국집 스피드로 출발한다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.715,
+                "end": 12.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 지푸라기 잡듯 입주한 집은 왠지 오랫동안 사람의 손길이 닿지 않은 빈티지함이",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.344,
+                "end": 21.254
+            }
+        ]
+    },
+    "summary": "우리는 그렇게 지푸라기 잡듯 입주했는데 그 집은 왠지 오랫동안 사람의 손길이 닿지 않은 듯했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03312_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

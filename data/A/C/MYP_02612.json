@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYP_02612",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.509,
+        "format": "MP4",
+        "date": "2020-11-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 이름은 엘링 브라우트 홀란드 노르웨이 축구선수로 작년에 오스트리아를 평정한 뒤 잘츠부르크를 떠나 현재는 독일의 도르트문트에서 활약 중이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많은 사람이 메시와 호날두가 이끌었던 메호의 시대가 저물고 파리의 음바페 그리고 나 홀란드가 이끄는 음란의 시대가 다가온다고들 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.394,
+                "end": 16.500
+            }
+        ]
+    },
+    "summary": "메시와 호날두의시대가 저물고 음바페와 홀란스의 시다가 다가오고 있다는 사람들이 많아 지고 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_02612_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

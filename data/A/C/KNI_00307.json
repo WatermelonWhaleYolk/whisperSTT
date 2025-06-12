@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00307",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.118,
+        "format": "MP4",
+        "date": "2022-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민이 입성 첫날부터 마스크를 쓰고 패스 훈련을 한 건 기대 이상이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "황인범과 김민재 등 대부분 유럽파 선수들이 합류 첫날 자전거를 타는 정도에 그쳤지만 손흥민은 달랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.700,
+                "end": 13.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "언제부터 뛸 수 있을 것인가란 질문에 돌아온 답변도 긍정적이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.328,
+                "end": 18.118
+            }
+        ]
+    },
+    "summary": "손흥민은 입성 첫날부터 마스크를 쓰고 패스 훈련을 하였으며 언제부터 뛸 수 있을 것인가에 대한 질문에 긍정적인 답변을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00307_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

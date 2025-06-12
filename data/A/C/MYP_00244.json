@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_00244",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.0,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "누버지 이제야 깨달아요 이게 진정한 수비축구로군요, 하며 칭찬할 땐 언제고 3번을 연달아 져버리니까 누버지는 무슨 저 누더기 새끼 당장 경질시켜라 라는 반응은 너무한 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.093
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무하긴요, 시즌 초반에 3연승도 경기 내내 수비만 하다가는 꾸역꾸역 한 골 넣고 이긴거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.103,
+                "end": 18.162
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기력으로 따지면 정말이지 최악이었다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.172,
+                "end": 21.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러는 케인 자네는 어땠누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.237,
+                "end": 22.924
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이적하겠다고 생난리를 치면서 뒤늦게 합류해놓고 태업까지 하지 않았누",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.934,
+                "end": 28.000
+            }
+        ]
+    },
+    "summary": "감독이 3번 연속 져버리니 경질시켜라는 반응이 너무하다고 생각하고, 케인은 시즌초반 3연승도 경기력이 최악이었다고 반응한다. 감독은 케인은 이직하겠다며 태업까지 했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00244_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00244_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

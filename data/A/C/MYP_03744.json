@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "filename": "MYP_03744",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.318,
+        "format": "MP4",
+        "date": "2021-08-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그가 찾아왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헤헤 상 탔냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.842,
+                "end": 2.940
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.950,
+                "end": 3.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 마침 근처에 일이 있던",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.576,
+                "end": 6.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘은 파티다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.965,
+                "end": 8.592
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "야 다 죽었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.602,
+                "end": 10.009
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 그래",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.019,
+                "end": 10.758
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.768,
+                "end": 11.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "로이드형과 우연히 마주쳤는데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.270,
+                "end": 14.859
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "형?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.869,
+                "end": 15.252
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "아 감자칩 상 타러 왔냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.262,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "상을 타고 파티를 하려는데 로이드형과 우연히 마주친다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03744_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 4
+                }
+            ]
+        }
+    ]
+}

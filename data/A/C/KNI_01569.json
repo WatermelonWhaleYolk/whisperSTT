@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_01569",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.571,
+        "format": "MP4",
+        "date": "2023-05-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "7차전 연장 명승부에 이어 @이름1 감독과 은퇴를 선언한 @이름2 등과 함께 밤 늦게까지 이어진 축하연 자리.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기립 박수를 받고 등장한 @이름3은 소주병은 아니었지만 맥주병을 잡고 MVP의 공을 동료들에게 돌렸습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.664,
+                "end": 13.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 MVP는 다 선수들이 하나하나 다 일궈 낸 거라 생각하고 선수들한테 공을 돌리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.762,
+                "end": 21.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.760,
+                "end": 23.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 번의 챔프전 우승과 세 차례의 MVP를 수상한 @이름3은 한차례의 MVP를 받은 서장훈과 2회 수상한 @이름4을 넘어섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.370,
+                "end": 33.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고질적인 무릎 부상을 이겨낸 눈물겨운 노력 역시 최고가 된 비결입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.530,
+                "end": 38.571
+            }
+        ]
+    },
+    "summary": "기립 박수를 받고 등장한 @이름3은 소주병은 아니었지만 맥주병을 잡고 MVP의 공을 동료들에게 돌렸고 네 번의 챔프전 우승과 세 차례의 MVP를 수상한 @이름3은 한차례의 MVP를 받은 서장훈과 2회 수상한 @이름4을 넘어섰습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01569_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 24,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

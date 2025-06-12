@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYP_02102",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.633,
+        "format": "MP4",
+        "date": "2021-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엄청난 골 감각의 쉬크를 비롯해 안정적인 중원은 물론 수비 역시 깔끔한 모습을 보여주고 있는 체코냐 이번 대회 최고의 다크호스 매치에서 승리를 차지하고 준결승에 올라갈 국가는 어디일까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구독자 여러분들의 선택은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.326,
+                "end": 16.633
+            }
+        ]
+    },
+    "summary": "사회자가 이번 대회 승리를 차지하고 준결승으로 올라갈 국가가 어디가 될지 궁금해하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02102_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

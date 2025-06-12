@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01533",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.597,
+        "format": "MP4",
+        "date": "2023-04-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인터뷰 도중 갑작스러운 요청에도 능숙하게 숨겨둔 그림 솜씨를 뽐냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.324
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실물을 담지 못했는데 그래도 그래도 반이라도 조금 닮은 것 같아서 기쁩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.334,
+                "end": 16.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "은반 위를 더 밝게 수놓을 미소 천사 @이름1의 긍정 피겨는 앞으로도 계속됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.632,
+                "end": 22.928
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 웃으면서 즐겁게 스케이팅타는 모습 보여드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.938,
+                "end": 27.916
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응원해주셔서 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.926,
+                "end": 30.597
+            }
+        ]
+    },
+    "summary": "피겨 선수는 인터뷰 도중 갑작스러운 요청에도 능숙하게 숨겨둔 그림 솜씨를 뽐냈고 은반 위를 더 밝게 수놓을 선수의 긍정 피겨는 앞으로도 계속된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01533_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 10
+                }
+            ]
+        }
+    ]
+}

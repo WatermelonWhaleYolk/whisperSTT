@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_03394",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.486,
+        "format": "MP4",
+        "date": "2022-09-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "파릇한 새끼들이",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "양의 개념에 기초하여 발생한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.593,
+                "end": 5.418
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아메리카노 많이 많이 쓰게 해줘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.428,
+                "end": 8.042
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "레몬에이드 많이 많이 시게 해줘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.052,
+                "end": 11.178
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "거스름돈 10002원 줘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.188,
+                "end": 14.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요새 방역 안 하나 미친놈들이 이상 증식하네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.287,
+                "end": 19.486
+            }
+        ]
+    },
+    "summary": "양의 개념에 기초하여 발생하는데 요새 방역 안 하는지 미친놈들이 이상 증식하네요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03394_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

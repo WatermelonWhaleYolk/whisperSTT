@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_01627",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.3,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부상을 떨쳐낼 방법이 한 가지 있긴 한데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.510
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 뭡니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.510,
+                "end": 3.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방법만 알려주시면 돈이야 얼마든지 드리겠습니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.490,
+                "end": 6.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈 말고 패스 좀 줘봐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.609,
+                "end": 8.194
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 패스는 드리기가 조금",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.204,
+                "end": 10.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드리블 잘한다고 자랑해봤자 수비수들 먹잇감밖에 더 돼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.020,
+                "end": 13.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제발 혼자 해보겠다고 질질 끌지 말고 다치기 전에 패스 좀 하라고 새끼야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.350,
+                "end": 19.300
+            }
+        ]
+    },
+    "summary": "부상을 떨쳐내는 방법은 다치기 전에 패스를 잘하는 방법이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01627_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

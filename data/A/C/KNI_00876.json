@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_00876",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.653,
+        "format": "MP4",
+        "date": "2023-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "카타르 월드컵 스타 조규성을 보기 위해 1000명이 넘는 팬이 공개 훈련 행사에 몰렸습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조규성이 그저 손만 흔들었을 뿐인데도 환호성이 그칠 줄 모릅니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.213,
+                "end": 12.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 시즌 K리그 득점왕 조규성은 올 여름 유럽 진출을 선언한 만큼 초반부터 모든 걸 쏟아낼 각오입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.446,
+                "end": 20.653
+            }
+        ]
+    },
+    "summary": "카타르 월드컵 스타 조규성을 보기 위해 1000명이 넘는 팬이 공개 훈련 행사에 몰렸으며 조규성은 올 여름 유럽 진출을 선언한 만큼 초반부터 모든 걸 쏟아낼 각오입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00876_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

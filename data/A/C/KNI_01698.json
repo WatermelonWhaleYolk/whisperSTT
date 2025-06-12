@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNI_01698",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.9,
+        "format": "MP4",
+        "date": "2018-01-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평화 올림픽 분위기 속에 강원도는 송화 봉송 주자로 우리나라의 장근석 중국의 성룡 일본의 안도 미키 등 아시아 각국을 대표하는 스포츠 선수와 연예인을 참가시켜 범아시아권 축제로 만들 계획입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 14.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름칩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.574,
+                "end": 17.900
+            }
+        ]
+    },
+    "summary": "강원도는 올림픽 송화 봉송 주자로 장근석, 성룡, 안도 미키 등 아시아 각국을 대표하는 선수와 연예인을 참가시켜 범아시아권 축제로 만들 계획이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01698_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 3,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

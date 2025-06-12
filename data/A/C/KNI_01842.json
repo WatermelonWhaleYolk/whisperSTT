@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01842",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2023-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기술적 조언자에 심리적인 멘토 역할까지 늘 아버지에 감사해합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.472
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아빠는 뭐 산전수전 다 겪어봤다고 하면서 이제 제가 겪고 있는 거는 아무것도 아니라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.482,
+                "end": 14.607
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 알아서 듣는 거로",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.617,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "아버지는 자신에게 여러 조언을 해주며 심리적으로도 도움을 주는 멘토라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01842_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

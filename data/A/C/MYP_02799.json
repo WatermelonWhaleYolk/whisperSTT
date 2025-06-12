@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02799",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.966,
+        "format": "MP4",
+        "date": "2020-06-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 젠장 이 자식 보통이 아니잖아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갈비로만 달라하면 그렇게 해주긴 했지만 요즘 코로나 때문에 손님이 없어서 마진이 안 남을 텐데 아 아이고 손님 목전지도 충분히 맛있는 부위고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.211,
+                "end": 11.111
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 수고요. 토식이 사장님 두 마리 먹으면 얼마라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.121,
+                "end": 13.827
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이고 손님 역시 보는 눈이 있으시네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.837,
+                "end": 16.218
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 날씨에 갈비 구워 먹으면 더워 뒤지죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.228,
+                "end": 18.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 됐고 두 마리 해서 얼마냐고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.423,
+                "end": 20.399
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 그게 포장하시면 2만 2000원 홀에서 드시면 2만 3000원입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.409,
+                "end": 24.081
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.091,
+                "end": 24.966
+            }
+        ]
+    },
+    "summary": "남성이 치킨집 사장님에게 2마리에 얼마인지 물어보고 사장님이 물음에 답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02799_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

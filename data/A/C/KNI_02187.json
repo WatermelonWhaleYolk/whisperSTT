@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_02187",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.566,
+        "format": "MP4",
+        "date": "2017-11-02",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "홍보와 붐업을 위한 행사 참여와 배지 달기 운동도 협약에 포함돼 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "229개의 문화원이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.143,
+                "end": 9.255
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 전국의 큰 조직망을 가지고 있기 때문에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.265,
+                "end": 14.236
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "비인기 설상 종목이라도 전석이 매진될 수 있도록 그렇게 평창군 차원에서도 노력하고 홍보할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.246,
+                "end": 21.566
+            }
+        ]
+    },
+    "summary": "홍보와 붐업을 위한 행사 참여와 배지 달기 운동도 협약에 포함돼 있으며 비인기 종목이라도 전석이 매진될 수 있도록 평창군 차원에서도 노력하고 홍보할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02187_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

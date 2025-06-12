@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_02135",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.434,
+        "format": "MP4",
+        "date": "2021-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 시청자 여러분 안녕하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 조별 예선 마지막 3라운드만을 남겨놓은 유로 2020 몇몇 국가가 16강 진출을 확정 지은 가운데 에이조 1위과 2위 팀이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.932,
+                "end": 10.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이탈리아와 웨일스의 경기에 앞서 토론을 해보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.374,
+                "end": 13.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 이탈리아의 조르지뉴 선수 발언해주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.482,
+                "end": 16.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혹시 빤스의 유로 예언 영상을 보셨습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.516,
+                "end": 19.434
+            }
+        ]
+    },
+    "summary": "화자1은 이탈리아와 웨일스의 경기에 앞서 토론을 해보겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

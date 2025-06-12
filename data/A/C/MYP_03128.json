@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03128",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.864,
+        "format": "MP4",
+        "date": "2023-07-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 저 순찰",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.033
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "벌써부터 저년의 비명 소리가 상상되는구만.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.043,
+                "end": 3.804
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "애초에 말이야.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 3.814,
+                "end": 6.305
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "벌건 대낮부터 사람 많은 곳에 등장하는 마물이 세상에 어디 있겠냐?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 6.315,
+                "end": 10.284
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저년처럼 멍청한 게 아니고서야.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.294,
+                "end": 13.681
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나는 멍청하게 대낮부터 사람 많은 곳에 등장하는 걸 좋아하는 기가노 울프다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.691,
+                "end": 23.559
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "재기발랄한 활동가적 기질이 있는 ENFP형 마물이지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.569,
+                "end": 30.864
+            }
+        ]
+    },
+    "summary": "용사의 몸 안에 있는 마물은 벌건 대낮에 등장하는 마물이 세상에 어디 있느냐며 그녀의 멍청함을 비웃었지만 갑자기 그의 앞에 ENFP형 마물이 나타났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03128_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 145
+                }
+            ]
+        }
+    ]
+}

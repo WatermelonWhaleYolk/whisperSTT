@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01881",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.627,
+        "format": "MP4",
+        "date": "2022-07-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고민 끝에 썰매를 잠시 내려놓기로 결정한 윤성빈은 열정을 웨이트 트레이닝에 쏟고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 이 종목에 흥미를 잃은 건지 아니면은 조금 지쳐서 좀 휴식을 원하고 있는 건지 여기에 대한 어떤 이런 거에 대한 확신이 없어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.339,
+                "end": 18.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올림픽 시즌보다 근육량이 오히려 더 늘었다는 운성빈은 운동 유튜브 채널까지 만들며 제2의 인생을 만끽하는 중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.554,
+                "end": 27.627
+            }
+        ]
+    },
+    "summary": "윤성빈의 인터뷰를 듣고 근황에 대하여 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01881_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

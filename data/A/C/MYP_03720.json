@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "filename": "MYP_03720",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 방에 들어온 우리는 그제서야 정식으로 어텀형을 맞이할 수 있었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.271
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하 형님 오신다고 고생 많으셨어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.281,
+                "end": 8.238
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여기다 구워 먹었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.248,
+                "end": 9.606
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "완전 최고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.616,
+                "end": 10.529
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "허허허허",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.539,
+                "end": 12.162
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "움음음음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.172,
+                "end": 13.107
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에구 허리야",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.117,
+                "end": 13.804
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "하하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.814,
+                "end": 15.578
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "룰루루루루루루루",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.588,
+                "end": 20.327
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으 음냐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.337,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "모두 방에 들어가고 형과 이야기를 나누고 휴식을 취한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03720_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 18
+                }
+            ]
+        }
+    ]
+}

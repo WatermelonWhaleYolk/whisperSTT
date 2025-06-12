@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_01042",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.532,
+        "format": "MP4",
+        "date": "2022-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "승인을 안 할 경우 키움과 법적 다툼의 여지도 있어 허구연 KBO 총재 내정자의 고민이 깊어지고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허구연 총재 내정자는 취임 예정일인 29일 이후 @이름1 복귀와 관련한 입장을 밝히겠다고 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.264,
+                "end": 12.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 대해 키움 구단은 구체적인 답변을 피하면서 KBO의 결정을 기다리겠다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.791,
+                "end": 19.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취임도 하기 전에 @이름1 복귀 논란의 중심에 선 허구연 총재 내정자 신임 총재가 팬들의 여론을 따를지 아니면 파문을 일으킨 키움의 손을 들어줄지 관심이 쏠립니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.089,
+                "end": 30.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.555,
+                "end": 32.532
+            }
+        ]
+    },
+    "summary": "취임도 하기 전에 @이름1 복귀 논란의 중심에 선 허구연 총재 내정자 신임 총재가 팬들의 여론을 따를지 아니면 파문을 일으킨 키움의 손을 들어줄지 관심이 쏠린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01042_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_02525",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.0,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "10번 @이름1, 28번 @이름2",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가장 먼저 3학년 선배들로 주전이 채워지고 이어서 2학년 멤버들이 발표됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.632,
+                "end": 11.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "23번 세바스찬",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.322,
+                "end": 14.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 단짝 @이름3과 @이름4의 이름이 끝까지 불리지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.233,
+                "end": 19.000
+            }
+        ]
+    },
+    "summary": "주전 선수가 3학년 선배부터 불리고 단짝 @이름3과 @이름4의 이름이 불리지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02525_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

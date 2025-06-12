@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "filename": "MYP_03717",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.394,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보니까 몸이 영 어 아",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헉 얌마",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.112,
+                "end": 4.980
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그것은 그분이 오신다는 신호였다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.990,
+                "end": 10.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으아아악 비다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.637,
+                "end": 12.404
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 12.414,
+                "end": 13.745
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 우리는 순식간에",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 13.755,
+                "end": 16.013
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "헉 부부불이",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.023,
+                "end": 18.859
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "애지중지 업어키운",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 18.869,
+                "end": 21.324
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아안돼 죽지 마.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 21.334,
+                "end": 23.830
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "내가 널 어떻게 피웠는데.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 23.840,
+                "end": 27.394
+            }
+        ]
+    },
+    "summary": "한 명이 쓰러지고 갑자기 비가 내리자 불이 꺼지려고 해서 안된다며 울부짖는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03717_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 119
+                }
+            ]
+        }
+    ]
+}

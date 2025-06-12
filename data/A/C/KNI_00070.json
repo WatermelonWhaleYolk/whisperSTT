@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00070",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.149,
+        "format": "MP4",
+        "date": "2022-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김예림은 19번째 유영은 27번째로 연기를 펼칩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "편하게 어 내려놓고 잘 깨끗하게 잘 탔으면 좋겠습니다. 잘 이겨내서 어 보여드렸으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.065,
+                "end": 16.149
+            }
+        ]
+    },
+    "summary": "김예림은 19번째 유영은 27번째로 연기를 펼친다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00070_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

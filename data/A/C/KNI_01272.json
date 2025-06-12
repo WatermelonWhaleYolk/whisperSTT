@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_01272",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.465,
+        "format": "MP4",
+        "date": "2022-12-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1세트 @이름1가 강력한 스파이크 서브로 @이름2를 무너뜨립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 한 번 날카로운 서브 에이스로 연속 득점을 터뜨렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.520,
+                "end": 9.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강력한 백 어택은 계속해서 상대 코트를 강타했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.500,
+                "end": 13.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 한국 전력의 공격을 막아내는 블로킹도 일품이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.830,
+                "end": 19.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국 전력 @이름3의 백 어택을 막아낸 @이름1는 손가락으로 3을 그려 보이면서 트리플 크라운 달성을 자축했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.478,
+                "end": 27.614
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때가 겨우 1세트 22 대 21 상황이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.624,
+                "end": 32.465
+            }
+        ]
+    },
+    "summary": "한국 전력 @이름3의 백 어택을 막아낸 @이름1는 손가락으로 3을 그려 보이면서 트리플 크라운 달성을 자축했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

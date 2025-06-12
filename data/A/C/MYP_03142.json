@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03142",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.661,
+        "format": "MP4",
+        "date": "2023-07-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "붉은 포물선을 시작으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "캔",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.909,
+                "end": 2.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "싸움은 순식간에 투척전으로 변했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.927,
+                "end": 6.218
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 이 망할 놈들아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.228,
+                "end": 8.667
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.677,
+                "end": 9.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수세에 몰린 그는 더 이상 손 쓸 방도가 없었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.416,
+                "end": 14.024
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 돼. 지금은 방법이 없어. 빨리 모습을 감추는 수밖에.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.034,
+                "end": 20.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혼란속에서 시야에 잡힌 유력 주동자의 만족스러운 눈빛에 그는 결국.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.913,
+                "end": 28.661
+            }
+        ]
+    },
+    "summary": "캔 등이 계속해서 날아들어 그가 피하려고 하는 순간 유력 주동자로 의심되는 아이의 표정을 보고 그는 마음을 바꾼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03142_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

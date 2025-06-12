@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_03087",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.117,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 못 배운 걸까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.257
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쟤가 못 배운 걸까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.267,
+                "end": 2.743
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난 가끔 한글이 너무 어려워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.753,
+                "end": 4.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼭 손맛 매운 형수님 만나라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.786,
+                "end": 7.024
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그는 기호에 맞지 않는 일은 절대로 하지 않는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.034,
+                "end": 10.284
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 빨리 아무거나 시켜 달라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.294,
+                "end": 13.633
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 여보세요 사장님?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.643,
+                "end": 15.146
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기 아무거나가 얼마죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.156,
+                "end": 17.117
+            }
+        ]
+    },
+    "summary": "로이드는 기호에 맞지 않는 일은 절대 하지 않는데 그가 말하는 한글은 너무 어려운 것 같고 꼭 손맛이 매운 형수님을 만났으면 좋겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03087_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 17
+                }
+            ]
+        }
+    ]
+}

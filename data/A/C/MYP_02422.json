@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_02422",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.333,
+        "format": "MP4",
+        "date": "2021-02-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 그랬던 카바니가 예전에 막 즐라탄 들어오고 중앙에서 측면으로 강제 포변을 당했을 때 폼이 확 떨어졌었거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맨유에서는 부디 중앙에서만 뛰어주길 바랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.368,
+                "end": 12.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 피파 같은 게임 하면 윙포도 가능한 스트라이커들 중에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.692,
+                "end": 19.333
+            }
+        ]
+    },
+    "summary": "남자는 카바니가 맨유에서 중앙에서 뛰었으면 좋겠다며 자신의 생각을 말하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02422_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

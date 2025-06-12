@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01521",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.594,
+        "format": "MP4",
+        "date": "2022-12-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 시즌 두 번째 대결 역시 아버지 @이름1 사장이 지켜보는 가운데 @이름2의 대활약이 펼쳐집니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2은 경기 막바지에 바로 이 결정적인 석 점포로 승부에 쐐기를 박았습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.979,
+                "end": 12.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 23득점 8도움으로 맹활약한 @이름2이 첫 패배를 보기 좋게 만회했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.811,
+                "end": 18.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름2 선수 오늘은 아버지를 만나면 과연 무슨 말을 하게 될까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.925,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "시즌 두 번째 대결에서 아버지가 지켜보는 가운데 선수의 대활약이 펼쳐졌고 23득점 8도움으로 맹활약해 첫 패배를 보기 좋게 만회했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01521_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03255",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "팀원분들 덕분인 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.651,
+                "end": 3.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자기소개 영상이지만 소개하지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.424,
+                "end": 7.248
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "짬밥이 몇 인데 행복한 2월 되시길 바라겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.258,
+                "end": 12.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.761,
+                "end": 13.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.665,
+                "end": 16.497
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "코드팀 원년멤버 원년멤버라고 해야 되나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.507,
+                "end": 20.606
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "늉이라고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.616,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "더빙하는 팀의 사람들이 자기소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03255_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

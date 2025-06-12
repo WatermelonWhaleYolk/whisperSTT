@@ -1,0 +1,203 @@
+{
+    "metadata": {
+        "filename": "MYP_01742",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 42.0,
+        "format": "MP4",
+        "date": "2021-11-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 햄버거는 햄버거만큼은 나도 어쩔 수 가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.478
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아따 이 양반 잠꼬대 한번 요란하네 햄버거 나왔으니까 일어나유.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.488,
+                "end": 7.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사장님 세상에 전부 꿈이었던 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.231,
+                "end": 10.197
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 꿈을 꿨길래 침을 그렇게 흘렸슈?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.207,
+                "end": 12.041
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 내가 서비스로 패티 여섯 장 추가했으니 드셔보셔유.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.051,
+                "end": 15.455
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아마 여태까지 먹어 본 버거 중에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.465,
+                "end": 17.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 죄송하지만 환불할 수 있을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.332,
+                "end": 19.516
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라구유?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.526,
+                "end": 20.299
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다 만들어 놓은 거 어떻게 환불해유?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.309,
+                "end": 22.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 결제는 제가 할테니 사장님이 대신 드시면 안 될까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.105,
+                "end": 25.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 이제부터 햄버거 끊으려고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.316,
+                "end": 27.337
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아따 아자르 선수가 어떻게 햄버거를 끊어유?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.347,
+                "end": 29.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "차라리 라멜라 선수가 라보나를 끊는 게 빠르겠네유.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.688,
+                "end": 32.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.798,
+                "end": 33.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한때는 프리미어리그 최고의 크랙이었던 레알의 레알 먹튀 에당 아자르 이제부터 햄버거 끊고 반드시 부활할 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.506,
+                "end": 42.000
+            }
+        ]
+    },
+    "summary": "화자 1이 한때는 프리미어리그 최고의 크랙이었던 레알의 에당 아자르가 이제부터 햄버거를 끊고 반드시 부활하겠다는 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01742_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

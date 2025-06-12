@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_02794",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.766,
+        "format": "MP4",
+        "date": "2020-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전에도 한 번 말했지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 분데스에서 넘어와서 적응도 힘들던 내가 지금은 올해의 골까지 받아가면서 득점이 그게 손날두야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.150,
+                "end": 8.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너도 진짜 팀에 도움되는 축구를 해 손날두처럼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.403,
+                "end": 12.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "니가 포기하지 않으면 우리도 포기하지 않는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.214,
+                "end": 14.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.933,
+                "end": 15.766
+            }
+        ]
+    },
+    "summary": "한 선수가 포기하지 말고 열심히 하라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02794_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

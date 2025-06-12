@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00084",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.32,
+        "format": "MP4",
+        "date": "2022-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부진했던 우리나라는 대회 닷새째 김민석의 동메달로 메달 행진을 시작했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 다음 날 고대했던 우리 선수단의 대회 첫 금메달이 나왔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.892,
+                "end": 11.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쇼트트랙 레이스 황대헌이 1500미터에서 금빛 질주를 펼쳤습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.182,
+                "end": 16.316
+            }
+        ]
+    },
+    "summary": "김민석이 동메달을 따고 쇼트트랙 황대헌이 첫 금메달을 땄다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00084_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

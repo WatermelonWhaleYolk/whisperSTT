@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_04115",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.823,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다릅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인격적인 대우와 따뜻한 가르침 전 이 2가지만으로 수많은 용사님들의 시작을 성공적으로 인도하였지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.116,
+                "end": 14.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니 이번 용사님도 저희에게 맡기는 걸로 하시고 좋아하시던 매뉴얼이나 보고 쉬시지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.198,
+                "end": 23.823
+            }
+        ]
+    },
+    "summary": "저는 인격적인 대우와 따뜻한 가르침만으로 수많은 용사님들의 시작을 성공적으로 인도하였으니 이번 용사님도 저희에게 맡겨 달라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04115_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

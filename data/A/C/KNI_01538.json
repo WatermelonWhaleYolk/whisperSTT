@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_01538",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2023-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신중하게 활시위를 당기는 모습 여느 국가대표와 다를바 없지만 어딘가 설렌 표정의 한 선수",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.681
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국내 최고 선수들과 함께 연습을 하니까 저도 자연스럽게 실력이",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 6.691,
+                "end": 14.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7년 전 취미로 양궁을 시작한 동호인 출신 컴파운드 국가대표 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.260,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "7년 전 취미로 양궁을 시작한 동호인 출신 컴파운드 국가대표 @이름1이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01538_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

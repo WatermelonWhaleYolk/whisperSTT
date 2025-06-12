@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01866",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2022-03-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한항공 정지석의 마지막 공격이 득점으로 연결되자 선수들이 얼싸안고 기쁨을 나눕니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한항공이 2년 연속 정규리그 1위를 확정한 순간이었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.634,
+                "end": 11.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리그 1위를 축하하는 축포가 터지고 선수들은 챔피언이라고 써 있는 상의를 입고 기쁨을 만끽했는데요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 11.038,
+                "end": 17.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한항공은 1위 자격으로 챔피언결정전 직행 티켓을 확보 2년 연속 통합 우승에 도전합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.270,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "대한항공 정지석의 마지막 공격이 득점으로 2년 연속 정규리그 1위를 확정했고 1위 자격으로 챔피언결정전 직행 티켓을 확보 2년 연속 통합 우승에 도전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01866_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

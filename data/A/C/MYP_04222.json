@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_04222",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.525,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "귀하의 재능과 역량은 매우 우수하나 함께하지 못하게 되어 진심으로 아쉽게 생각합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.422
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안돼 안돼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.422,
+                "end": 10.351
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안돼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.361,
+                "end": 12.580
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.590,
+                "end": 16.628
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "흠 또 직원들을 오늘 자장가도 취소하도록 하겠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.638,
+                "end": 23.212
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "도련님, 아가씨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.222,
+                "end": 25.525
+            }
+        ]
+    },
+    "summary": "귀하의 재능과 역량은 매우 우수하나 함께하지 못하게 되어 진심으로 아쉽게 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04222_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

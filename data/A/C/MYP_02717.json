@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_02717",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.2,
+        "format": "MP4",
+        "date": "2020-08-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올해 챔스는 뮌헨놈들이 우승을 했다고? 작년엔 나도 우승 문턱까지 가 봤었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.472
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "회장님 계십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.482,
+                "end": 6.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래 무리뉴 무슨 일인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.893,
+                "end": 8.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 그게 시즌 개막이 코앞인데 선수 영입이 너무 없는 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.730,
+                "end": 12.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고? 내가 방금 전에 호이비에르랑 조 하트를 사줬을 텐데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.848,
+                "end": 16.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 호이비에르가 들어온 대신 베르통언이 나갔지 않습니까? 그리고 하트는 사실상 홈 그로운을 채우기 위한 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.665,
+                "end": 23.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2명이면 됐지 자네 욕심이 너무 과한 거 아닌가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.107,
+                "end": 26.200
+            }
+        ]
+    },
+    "summary": "무리뉴가 시즌 개막이 코앞인데 선수 영입이 너무 없는 거 아니냐고 하니까 회장님이 2명이면 됐지 욕심이 너무 많다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02717_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

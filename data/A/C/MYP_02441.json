@@ -1,0 +1,215 @@
+{
+    "metadata": {
+        "filename": "MYP_02441",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.8,
+        "format": "MP4",
+        "date": "2021-02-04",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "니들 지금 몇 등이나 하고 있냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.368
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 말도 마라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.378,
+                "end": 2.424
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 유로파도 간당간당 한다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.434,
+                "end": 4.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 무리뉴 그 양반 진짜 성질만 낼 줄 알지 거품 갖다니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.348,
+                "end": 7.832
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기다가 지금 케인도 부상이잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.842,
+                "end": 9.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우승은 포기해라 흥민아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.829,
+                "end": 11.168
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 그래도 리그컵 정도면 할 수 있지 않겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.178,
+                "end": 13.222
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "유로파 우승하고 챔스 나갈 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.232,
+                "end": 15.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 케인 언제 온 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.251,
+                "end": 16.758
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그리고 파리에 가봤자 나나 흥민이 정도 돼야 선발이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.768,
+                "end": 20.065
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "너희 둘 지금 폼으론 펜치 달달딱인 거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.075,
+                "end": 22.651
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "케인 너 부상당한 몸으로 움직여도 되는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.661,
+                "end": 24.801
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "여긴 @이름1 유튜브래도 그러네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.811,
+                "end": 26.565
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아무튼 너네들 데스크 라인이 모처럼 모였는데 나만 빼놓기 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.575,
+                "end": 30.276
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "사장님 여기 잔 하나 더 주시고 소주 한 병 추가요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 30.286,
+                "end": 34.800
+            }
+        ]
+    },
+    "summary": "축구 선수들은 팀 상황에 대한 갈등을 논하며 각자의 의견을 내비쳤습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02441_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

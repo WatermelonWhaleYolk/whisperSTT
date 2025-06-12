@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03463",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.32,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어우 다른 녀석들 없어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쪽팔리게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.721,
+                "end": 2.822
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "애들 귀한 시간 쪼개서 만나주는 거니 잔말 많아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.832,
+                "end": 7.257
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 같은 퇴물을 들끓는 청춘들이 상대해 주는 것에 감사하게 생각해라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.267,
+                "end": 14.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자아 들어가자 두 번째 미션이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.464,
+                "end": 19.355
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "웁스",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.365,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "애들 귀한 시간 쪼개서 만나주는 거니 까 상대해 주는 것에 감사하게 생각하세요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03463_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

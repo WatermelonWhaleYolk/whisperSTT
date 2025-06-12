@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01316",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.627,
+        "format": "MP4",
+        "date": "2023-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 거짓말 치는 거 되게 싫어하잖아요. 잘 할 수 있게끔 많이 도와줬는데 결과적으로는 음 본인이 거짓말을 하고 떠난 꼴이 되기 때문에 아마",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "솔직하게 돈을 요구했다면 아마노의 요구를 받아줬을 것이라며 홍 감독은 큰 실망감을 드러냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.790,
+                "end": 17.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일본인 코치들도 있는데 아마 일본인 코치도 아마노의 그런 행동에 대해서 굉장히 같은 자국민으로서 굉장히",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.084,
+                "end": 27.627
+            }
+        ]
+    },
+    "summary": "솔직하게 돈을 요구했다면 아마노의 요구를 받아줬을 거라며 홍 감독은 큰 실망감을 드러냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01316_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

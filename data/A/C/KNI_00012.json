@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00012",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.49,
+        "format": "MP4",
+        "date": "2022-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첫 점프부터 고난도 4회전 점프를 가볍게 해냅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.570
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우와, 네, 오늘 처음 보는 4회전이죠, 쿼드러플 살코.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.570,
+                "end": 11.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 출전한 여자 선수들 가운데 유일하게 4회전 점프를 뛴 발리예바.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.810,
+                "end": 16.483
+            }
+        ]
+    },
+    "summary": "오늘 출전한 여자 선수들 가운데 유일하게 첫 점프부터 고난도 4회전 점프인 쿼드러플 살코를 가볍게 해낸 발리예바입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00012_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

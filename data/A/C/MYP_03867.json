@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYP_03867",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.057,
+        "format": "MP4",
+        "date": "2021-03-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 얼마나 잠들었을까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 @이름1.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.551,
+                "end": 3.724
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 임마.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.734,
+                "end": 4.529
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "형들이 절 깨우는 게 아니겠어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.539,
+                "end": 9.115
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다 왔다. 일어나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.125,
+                "end": 10.760
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "고생 많았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.770,
+                "end": 11.676
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "눈을 떠 보니 우리집 앞인 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.686,
+                "end": 15.508
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어? 우리 동네네요? 형들도 피곤한데 그냥 전철역에 내려주시지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.518,
+                "end": 19.224
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "응 아냐 아냐. 니 덕에 재밌게 놀았는데 뭘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.234,
+                "end": 21.808
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 형들은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.818,
+                "end": 24.057
+            }
+        ]
+    },
+    "summary": "20대 남성이 스키장 갔다가 귀가 하는 길에 자기를 집 앞까지 데려다 줬다고 고마워하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03867_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

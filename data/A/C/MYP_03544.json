@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYP_03544",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.221,
+        "format": "MP4",
+        "date": "2022-05-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 1번, 2번 노하우 쌓이다 보면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그걸로 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.577,
+                "end": 3.610
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예, OK",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.620,
+                "end": 4.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어느새 장사에 익숙해진 자신의 모습에 보람을 느끼기도 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.002,
+                "end": 9.840
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야호 나도 잘 팔잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.850,
+                "end": 12.926
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "장사 별거 아니네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.936,
+                "end": 14.780
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하지만 5인치 폰 좀 볼게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.790,
+                "end": 17.789
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예예, 5인치면 어디보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.799,
+                "end": 20.187
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "할 수 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.197,
+                "end": 21.221
+            }
+        ]
+    },
+    "summary": "노하우가 쌓이다 보면 장사에 보람을 느낀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03544_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

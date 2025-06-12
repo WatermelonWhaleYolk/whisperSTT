@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_01464",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.961,
+        "format": "MP4",
+        "date": "2022-12-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "크리스마스 이브에 일이 위 팀 간 빅매치.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안양 체육관은 가족 단위의 관중들로 훈훈한 분위기가 가득했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.924,
+                "end": 7.851
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가족들이랑 좋은 시간 보내면 좋을 것 같애갖고 농구 안양도 좋아하기 때문에 응원하러 왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.861,
+                "end": 15.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 초반은 NBA 출신 외국인 선수의 화려함이 코트를 수놓았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.113,
+                "end": 20.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "LG 커닝 햄에 이어 골든 스테이트 출신 인삼 공사 스펠맨이 림이 부서져라 덩크슛을 넣었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.443,
+                "end": 27.961
+            }
+        ]
+    },
+    "summary": "크리스마스 이브에 일이 위 팀 간 빅매치 가족 단위의 관중들로 훈훈한 분위기가 가득했고 경기 초반은 NBA 출신 외국인 선수의 화려함이 코트를 수놓았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01464_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

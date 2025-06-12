@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_01481",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.566,
+        "format": "MP4",
+        "date": "2022-03-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보아하니 토트넘은 강팀에게 약하고 약팀에게 강하던데 그럼 우리 웨스트햄을 이기긴 어렵지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.835
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 소립니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.845,
+                "end": 6.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 맨시티한테 얻은 승점을 번리에게 퍼주었던 의적 구단이란 거 모르십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.912,
+                "end": 11.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.520,
+                "end": 12.337
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그동안은 강팀이고 약팀이고 가릴 것 없이 져줬다는 말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.347,
+                "end": 15.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 어째서 그런",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.745,
+                "end": 16.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흥민이가 추천해 준 홍길동이란 소설을 감명 깊게 읽은 전 약팀에게 승점을 퍼주는 의적이 되기로 했었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.972,
+                "end": 23.346
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 홍길동 역시 조선의 왕이 되지 못하고 어디 율도국이란 곳의 왕이 되더군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.356,
+                "end": 28.566
+            }
+        ]
+    },
+    "summary": "화자1 은 토트넘이 강팀에게 약하고 약팀에게 강하니 웨스트햄은 강팀이니까 이기기 어려울 거라고 하니까 화자2 는 흥민이가 추천해 준 홍길동이라는 소설을 감명 깊게 읽고 의적 구단으로 강팀, 약팀 가릴 것 없이 져줬다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01481_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

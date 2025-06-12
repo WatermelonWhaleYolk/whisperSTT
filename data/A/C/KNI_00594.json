@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00594",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2023-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다양한 형태의 연꽃과 넝쿨 줄기가 영롱한 빛을 뿜어냅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "큼직한 문양이 반복되는 율동감 그러면서도 꽉 채우지 않은 여백의 미 무늬를 촘촘히 새겨 넣은 고려 시대 나전칠기와는 다른 조선 나전 공예의 특징을 잘 보여주는 유물입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.731,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "큼직한 문양이 반복되는 율동감과 꽉 채우지 않은 여백의 미가 무늬를 촘촘히 새겨 넣은 고려 시대 나전칠기와는 다른 조선 나전 공예의 특징을 잘 보여주는 유물이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00594_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

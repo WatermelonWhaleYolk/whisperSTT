@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_00980",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.892,
+        "format": "MP4",
+        "date": "2022-01-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 제일 잘할 수 있는 기록을 올림픽 때 세웠으면 좋겠어서 나를 넘어서자라는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.399
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올림픽에서 정말 잘 이제 여태 제가 했던 시합들 중에서 제일 잘하고 싶기 때문에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.409,
+                "end": 14.682
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "선의의 경쟁을 펼칠 두 선수는 다음 주 에스토니아에서 열리는 4대륙 선수권에 출전해 올림픽 마지막 리허설에 돌입할 계획입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.692,
+                "end": 23.341
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.351,
+                "end": 25.892
+            }
+        ]
+    },
+    "summary": "선의의 경쟁을 펼칠 두 선수는 다음 주 에스토니아에서 열리는 4대륙 선수권에 출전해 올림픽 마지막 리허설에 돌입할 계획입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00980_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

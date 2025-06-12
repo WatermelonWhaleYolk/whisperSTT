@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01183",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.832,
+        "format": "MP4",
+        "date": "2022-10-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시즌 개막을 알리는 현장에 시위 트럭과 근조 화환이 눈에 띕니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학폭 가해자 이재영과 접촉한 페퍼저축은행 구단에 분노한 팬들이 항의에 나선 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.906,
+                "end": 11.514
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "페퍼 구단의 연고지 광주시청과 은행 본점에도 근조 화환이 등장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.524,
+                "end": 17.549
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 전력이 있는 학폭 가해자를 복귀시키는 게 배구 뿐만 아니라 배구를 넘어서 다른 유소년에게도 악영향을 줄 수 있지 않을까 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.559,
+                "end": 27.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한켠엔 이재영의 복귀를 반기는 화환이 자리해 눈길을 끌었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.920,
+                "end": 32.832
+            }
+        ]
+    },
+    "summary": "학폭 가해자 이재영과 페퍼저축은행 구단이 접촉해 분노한 팬들이 항의에 나섰다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01183_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

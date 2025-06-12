@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_01888",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.571,
+        "format": "MP4",
+        "date": "2021-09-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평생을 함께 했던 바르셀로나를 떠나 파리로 이적하셨는데 어떻게 행복하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.266
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사정상 바르셀로나를 떠나게 되었지만 그건 어쩔 수 없는 선택이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.276,
+                "end": 9.282
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "난 여전히 바르셀로나를 사랑한다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.292,
+                "end": 11.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면 메시 선수의 빈자리로 인해 위기에 몰린 바르셀로나가 귀신같이 부활해 리그 우승을 차지하는 것과 메시 후보의 일곱 번째 발롱도르 중 어느 것을 선택하시겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.375,
+                "end": 22.887
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 바르셀로나를 사랑하긴 하지만 지금의 난 파리 선수잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.897,
+                "end": 26.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 아구에로나 피케, 데파이까지 마음만 먹으면 충분히 잘할 녀석들이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.670,
+                "end": 31.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바르셀로나는 그 녀석들에게 맡기고 내 선택은 발롱도르다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.568,
+                "end": 36.566
+            }
+        ]
+    },
+    "summary": "사회자는 바르셀로나가 부활해 리그 우승을 차지하는 것과 메시 후보의 일곱 번째 발롱도르 중 어느 것을 선택하겠는지 물었는데 메시는 바르셀로나를 사랑하긴 하지만 지금의 자신은 파리 선수라며 발롱도르를 선택하겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01888_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

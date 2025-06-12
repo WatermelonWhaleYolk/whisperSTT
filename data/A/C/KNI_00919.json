@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00919",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.291,
+        "format": "MP4",
+        "date": "2122-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민은 오늘도 검은 마스크를 착용하고 팀 훈련에 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "훈련 도중 여러 차례 마스크를 만지는 모습을 보이기는 했지만 15분 동안 공개된 훈련에서 밝은 분위기 속에 동료들과 정상적으로 몸을 풀었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.939,
+                "end": 13.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민과 프리미어리그에서 함께 뛰는 황의찬도 주장에 합류를 반겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.962,
+                "end": 19.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 옆에서 지켜본 황의찬은 벤투호의 정신적 지주인 손흥민의 존재가 든든하기만 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.145,
+                "end": 25.291
+            }
+        ]
+    },
+    "summary": "손흥민은 마스크를 쓰고 훈련했고 황의찬도 반겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00919_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

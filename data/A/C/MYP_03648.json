@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "filename": "MYP_03648",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.135,
+        "format": "MP4",
+        "date": "2021-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "타마요 님께 접근할 생각 마",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.060,
+                "end": 4.238
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.248,
+                "end": 5.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타마요 님은 내가 지킨다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.436,
+                "end": 12.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리를 방해하지 마",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.418,
+                "end": 15.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.580,
+                "end": 19.222
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에엑",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.232,
+                "end": 19.994
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저도 돕겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.004,
+                "end": 23.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 타마요 님은 오늘도 아름다워",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.315,
+                "end": 26.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어억",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.943,
+                "end": 28.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타마요 님과 보내는 시간을 방해하는 자들이 난 싫습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.305,
+                "end": 35.135
+            }
+        ]
+    },
+    "summary": "타마요 님과 함께 하는 시간을 방해하는 자들이 싫다며 화를 낸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03648_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

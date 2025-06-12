@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_04025",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2020-10-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "센 척과 허세를 늘어 놓기 시작했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 야 야 야 벌써 쫄았냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.955,
+                "end": 5.189
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "형이 존 것 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.199,
+                "end": 7.173
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "난 인마 공포 적출 수술 받았어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.183,
+                "end": 10.192
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "손잡이를 꼭 잡아 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.202,
+                "end": 13.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허나 열차의 디테일이 눈에 들어오자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.424,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "예비역들은 열차를 타고 센척과 허세를 늘어 놓기 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04025_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

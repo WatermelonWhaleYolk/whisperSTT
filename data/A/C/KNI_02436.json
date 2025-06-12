@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_02436",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 50.56,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 선수가 약간의 좀 그 부상이 있다고 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.231
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 일단 @이름1 선수도 실내 선수권 그 2월에 있었던 카자흐스탄 대회에서 2위를 하면서 또 좋은 기록을 낸 선수거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.241,
+                "end": 11.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 투척 @이름1 선수 아 그런데요 지금 다리를 약간 좀 그 편치 않은 모습이죠 14.48이 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.876,
+                "end": 23.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다리가 불편하면 사실은 실상 저렇게 받아서 올려주기가 상당히 힘들거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.761,
+                "end": 29.175
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇기 때문에 지금 다리를 저는 모습을 볼 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.185,
+                "end": 32.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 자 지금 왼쪽을 보시면 @이름1 선수 테이핑을 많이 했음에도 불구하고 어 무언가 완벽한 자세가 나오지 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.264,
+                "end": 39.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 선수입니다 안산시청에 @이름2 선수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.655,
+                "end": 42.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리나라에선 처음으로 아시아 실내육상선수권 대회 금메달을 딴 선수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.800,
+                "end": 50.550
+            }
+        ]
+    },
+    "summary": "포환 종목에서 약간의 다리 부상이 있던 @이름1 선수는 14.48을 던졌고 뒤이어 아시아 실내육상선수권 대회 금메달을 딴 @이름2 선수가 준비하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02436_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

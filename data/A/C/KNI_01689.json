@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_01689",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.089,
+        "format": "MP4",
+        "date": "2023-03-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이로써 프로농구 플레이오프를 치를 6개 팀의 최종 순위가 확정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1위 인삼공사와 2위 LG가 4강 플레이오프에 직행한 가운데 나머지 4팀이 6강 플레이오프를 치릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.213,
+                "end": 11.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3전 2선승제로 펼쳐지는 6강 플레이오프에서 현대모비스는 캐롯과 SK는 KCC와 격돌합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 11.058,
+                "end": 17.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올 시즌 플레이오프는 다음 달 2일 막을 올립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.922,
+                "end": 20.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.963,
+                "end": 23.089
+            }
+        ]
+    },
+    "summary": "프로농구 플레이오프를 치를 6개 팀의 최종 순위가 확정됐고 올 시즌 플레이오프는 다음 달 2일 막을 올린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01689_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

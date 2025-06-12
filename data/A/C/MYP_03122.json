@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_03122",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.285,
+        "format": "MP4",
+        "date": "2023-07-21",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 내가 용사인데 인간들을 지 지 지 지켜야 할 것 아니냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에그머니나 그렇게 깊은 뜻이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.942,
+                "end": 7.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나에겐 그 뭐냐 그 신성력인지 똥구멍인지 하는 빛의 성검이 있으니 괜찮다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.307,
+                "end": 12.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "머 머 멍청한 마 마물 따위는 호 혼자서도 충분해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.610,
+                "end": 16.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 논리정연한 말씀이시로군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.493,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "용사는 자신이 인간들을 지켜야 하며 신성력이 있는 빛의 성검이 있으니 마물 따위는 혼자서도 충분히 처리할 수 있다고 벌벌 떨며 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03122_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 136
+                }
+            ]
+        }
+    ]
+}

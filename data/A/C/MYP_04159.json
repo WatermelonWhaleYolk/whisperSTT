@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_04159",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.788,
+        "format": "MP4",
+        "date": "2020-05-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "패치",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.744
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 저런 조롱이 일과가 될 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.754,
+                "end": 5.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "익숙해져야 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.622,
+                "end": 7.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 나는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.500,
+                "end": 8.772
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "동료한테 예우를 갖추게 자네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.782,
+                "end": 10.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 이 꼰대가 아까부터",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.644,
+                "end": 13.989
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "괜찮아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.999,
+                "end": 15.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 예우는 최강의 액션 부서에게 갖춰야지 꼰대",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.851,
+                "end": 21.788
+            }
+        ]
+    },
+    "summary": "사장이 직원에게 동료한테 예우를 갖추라고 하자 직원은 사장의 멱살을 잡았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04159_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

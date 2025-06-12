@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_03035",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.3,
+        "format": "MP4",
+        "date": "2019-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다섯 판?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참나 여섯 판 시켜.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.663,
+                "end": 2.641
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역시 메갓.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.651,
+                "end": 3.862
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사장님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.872,
+                "end": 4.790
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.800,
+                "end": 5.202
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "바쁘니까 웬만하면 메뉴 통일하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.212,
+                "end": 7.118
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여기 발롱도르 피자 여섯 판하고 시원한 콜라 열 잔 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.128,
+                "end": 10.660
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 지금 바빠가지고 발롱도르 피자는 다섯 판까지 밖에 안 돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.670,
+                "end": 13.966
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 발롱도르는 다섯 개밖에 못한다고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.976,
+                "end": 16.512
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 못하는 게 아니고 지금 바빠서 안된다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.522,
+                "end": 19.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.359,
+                "end": 20.300
+            }
+        ]
+    },
+    "summary": "손님이 발롱도르 피자 여섯 판을 시켰는데 사장이 바빠서 다섯 판밖에 안된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03035_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

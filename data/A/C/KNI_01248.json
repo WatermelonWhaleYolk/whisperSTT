@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01248",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.365,
+        "format": "MP4",
+        "date": "2022-11-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최대 1만 명의 인파가 모일 것으로 예상되는 만큼 기대와 우려도 교차하는 상황.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.294
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 월드컵이 어 매년 있는 게 아니라서 경찰 통제하에 응원을 하는 것도 괜찮다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.304,
+                "end": 13.158
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "최근에 그런 참사도 있었어서 그런 많은 우려들을 하는데 굳이 그거를 그 무릅써가면서까지 해야 될 이유가 있을까 싶기도 하고.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.168,
+                "end": 23.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울시는 종합상황실을 운영하고 행사가 끝날 때까지 광화문 광장과 가장 인접한 정류소를 임시 폐쇄하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.286,
+                "end": 32.365
+            }
+        ]
+    },
+    "summary": "광화문 광장 거리 응원에 대한 시민들의 반응을 인터뷰하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01248_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

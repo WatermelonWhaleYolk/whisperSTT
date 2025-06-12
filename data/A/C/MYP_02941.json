@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_02941",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.133,
+        "format": "MP4",
+        "date": "2020-03-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 번 맛 보면 중독을 넘어 당신의 혀를 세뇌 시켜드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "짜장 맛의 신세계 반갑습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.113,
+                "end": 4.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "천지반점입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.761,
+                "end": 5.369
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 거기 중국집이죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.379,
+                "end": 6.814
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 맹구호텔 901호인데 짜장면 1그릇하고 그 뭐지? 탕수육인가? 그거 하나 부탁합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.824,
+                "end": 11.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예 고객님 다 해서 2만 2000원입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.942,
+                "end": 14.872
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 배고파 뒤지겠으니 빨리 갖다주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.882,
+                "end": 17.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그리고 오실 때 단무지 많이 갖다주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.300,
+                "end": 23.133
+            }
+        ]
+    },
+    "summary": "중국집에 전화를 걸어 짜장면과 탕수육을 시킨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02941_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 49,
+                    "act": 17
+                }
+            ]
+        }
+    ]
+}

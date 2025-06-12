@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_00925",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.5,
+        "format": "MP4",
+        "date": "2022-11-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 팀의 주장이신 노이어 선수께서 독일 대표팀에 대해 소개해 주시기 바랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감독은 한지 플릭으로 포메이션은 4231로 진행시켜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.190,
+                "end": 7.171
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "골키퍼야 당연히 나 노이어로 진행시켜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.181,
+                "end": 9.469
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "센터백에는 누가 봐도 독일 사람인 쥘레와 의외로 독일 사람인 뤼디거가 출전할 것으로 보이며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.479,
+                "end": 13.897
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "레프트백은 귄터 라이트백은 케러 3선이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.907,
+                "end": 17.500
+            }
+        ]
+    },
+    "summary": "돈나룸마 선수가 노이어 선수에게 독일 대표팀에 대해서 설명해 달라고 부탁하자 노이어 선수가 감독부터 포메이션 등에 대한 정보를 말해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00925_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 43,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_03905",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.73,
+        "format": "MP4",
+        "date": "2021-01-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음료를 마실 때 드러난다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.263
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소화엔 탄산이고 탄산엔 맥주지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.273,
+                "end": 4.357
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 생물학의 기본이 안 된 놈. 약국에 맥주 팔디?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.367,
+                "end": 7.937
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "캬.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.947,
+                "end": 13.257
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.267,
+                "end": 14.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.287,
+                "end": 18.932
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으으응?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.942,
+                "end": 20.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그는 한번의 꿀꺽임으로 남들 몇 배의 양을 삼킬 수 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.219,
+                "end": 25.275
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사장님 500 하나 더 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.285,
+                "end": 27.957
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 어떻게 저렇게 빨리 삼키지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.967,
+                "end": 30.730
+            }
+        ]
+    },
+    "summary": "20대 남성이 자신의 지인이 음료를 마실 때도 굉장히 빨리 삼켜서 놀랍다고 생각하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03905_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 2
+                }
+            ]
+        }
+    ]
+}

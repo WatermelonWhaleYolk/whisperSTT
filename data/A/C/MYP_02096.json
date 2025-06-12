@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_02096",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.7,
+        "format": "MP4",
+        "date": "2021-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "토비와 오리에는 물론 라멜라까지 합류했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.357
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 자유 이적당의 목표는 우승이 아니라 이적이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.367,
+                "end": 7.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 젠장 어이 케인 혹시 자유 이적당에 남은 자리 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.200,
+                "end": 10.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.370,
+                "end": 11.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토트넘에 남아 봤자 내년 리그 우승은커녕 남들이 그렇게 놀려다는 컨퍼런스리그 솔직히 난 거기서도 우승 못 할 것 같다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.114,
+                "end": 18.076
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 뭐 토트넘에서 이루어 싶은 게 산더미 같지만 수비 라인이 저 모양이라면 희망이라고 눈 씻고 찾아 봐도 찾을 수가 없네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.086,
+                "end": 23.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 흥민이 너 흥민의 힘 대표잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.768,
+                "end": 25.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너희 당은 어쩌려고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.760,
+                "end": 26.864
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.874,
+                "end": 27.359
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 뭐 알리한테 넘겨주면 되지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.369,
+                "end": 28.899
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하 토트넘의 에이스들끼리 무슨 얘기를 그렇게 하고 있누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.909,
+                "end": 32.700
+            }
+        ]
+    },
+    "summary": "토트넘의 케인과 손흥민 선수가 수비 라인에 희망이 없다며 우승 못 할 같다고 이적을 결심하자 누누 감독이 나타났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02096_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

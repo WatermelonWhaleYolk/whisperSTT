@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_02149",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.2,
+        "format": "MP4",
+        "date": "2021-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평소 필드 위의 마법사라 불리던 그였기에 마법같이 회복해내고 어떤 모습이든 좋으니 우리 곁으로 돌아올 수 있길 바랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에릭센 선수의 빠른 쾌유를 기원합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.070,
+                "end": 9.150
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 에실장님 보통이 아니시잖아요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.160,
+                "end": 11.071
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "반드시 돌아올 수 있을 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.081,
+                "end": 12.408
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "스테이 스트롱",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.418,
+                "end": 13.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 오늘은 이번 대회 우승 후보가 무려 3팀이나 포진해 있는 죽음의 에프조",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.225,
+                "end": 17.797
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 중 프랑스와 독일의 경기에 앞서 토론을 해보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.807,
+                "end": 21.200
+            }
+        ]
+    },
+    "summary": "화자1은 오늘은 이번 대회 우승 후보가 무려 3팀이나 포진해 있는 죽음의 에프조 중 프랑스와 독일의 경기에 앞서 토론을 해보겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02149_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

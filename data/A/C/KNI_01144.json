@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01144",
+        "category": "스포츠뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.192,
+        "format": "MP4",
+        "date": "2022-09-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.013
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스위스 바젤의 볼보이로 시작한 페더러의 테니스 인생 2003년 윔블던 첫 정상에 올라 페더러 시대의 서막을 열었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.023,
+                "end": 17.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가장 먼저 메이저 20회 우승을 달성했고 237주 연속 세계 1위 등 현대 테니스의 각종 대기록을 세웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.300,
+                "end": 26.192
+            }
+        ]
+    },
+    "summary": "스위스 바젤의 볼보이로 시작한 페더러의 테니스 인생은 2003년 첫 정상에 올라 현대 테니스의 각종 대기록을 세웠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01144_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

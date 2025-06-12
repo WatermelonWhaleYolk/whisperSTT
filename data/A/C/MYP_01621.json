@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_01621",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.133,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 지난 로리앙전에 복귀하셔선 경고 누적 퇴장이라니 이게 말이 된다고 생각하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 그만 라모스 선배를 돌려놓으시죠 스르지오 램오스 씨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.084,
+                "end": 8.762
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "메시 형님과 라모스 형님을 동시에 영입했기에 잠시나마 잔류를 고민했지만 이거 순 이빨 빠진 호랑이들이지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.772,
+                "end": 15.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허허 그럼 전 이만 레알로 이적할 테니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.800,
+                "end": 18.059
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가긴 어딜 간다 그래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.069,
+                "end": 19.431
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 네이마르 님?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.441,
+                "end": 20.722
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어이 음실장 내 명령 없이 움직이게 돼 있나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.732,
+                "end": 23.294
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "파리의 왕인 내 허락 없이는 아무 데도 못 가는 거야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.304,
+                "end": 28.133
+            }
+        ]
+    },
+    "summary": "메시와 라모스의 부진으로 후배가 다른 팀으로 이적하려 했지만 네이마르가 나타났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01621_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

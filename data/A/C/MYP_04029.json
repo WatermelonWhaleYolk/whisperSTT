@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_04029",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.972,
+        "format": "MP4",
+        "date": "2020-10-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 이 기구의 진정한 공포는 얼마나 높느냐가 아닌",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.416
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 저래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.426,
+                "end": 6.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뒤에 뭐가 있다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.289,
+                "end": 9.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒷좌석 운전사의 성향에 달려있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.773,
+                "end": 18.112
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "막는 놈은 박는다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.122,
+                "end": 20.957
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 오지 마",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.957,
+                "end": 23.041
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "비키든 가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.051,
+                "end": 23.926
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "음 커피향이 참 좋군",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.936,
+                "end": 27.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1분도 안 걸린 것 같다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.913,
+                "end": 32.966
+            }
+        ]
+    },
+    "summary": "하늘자전거의 공포는 높이가 아니라 뒷자석 운전자의 성향이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04029_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00999",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.461,
+        "format": "MP4",
+        "date": "2022-01-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4 쿼터 막바지 결정적인 리바운드와 득점으로 승리의 쐐기를 박습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 KB 스타즈가 역대 팀 최다인 14연승을 달리며 정규 리그 1위를 확정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.518,
+                "end": 12.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "23승 1패를 기록하며 2007 2008 시즌 단일 리그 도입 이후 최소 경기 우승 기록도 세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.770,
+                "end": 20.892
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KB 스타즈는 남은 6경기를 다 이기면 역대 정규 리그 최고 승률 기록도 새로 쓰게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.902,
+                "end": 28.461
+            }
+        ]
+    },
+    "summary": "결국 KB 스타즈가 역대 팀 최다인 14연승을 달리며 정규 리그 1위를 확정했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00999_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

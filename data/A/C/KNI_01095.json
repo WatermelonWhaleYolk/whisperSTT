@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01095",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2022-06-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 시즌 6위에 머문 뒤 @이름1 감독 체제로 바뀐 흥국 생명은 올 시즌 김연경의 전격 합류로 반등을 기대할 수 있게 됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 기분 좋고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.711,
+                "end": 10.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김연경 선수가 리더십이 좋아서 리빌딩하려고 했던 팀인데 상위권에 있는 전략으로 목표를 잡아야 되지 않을까",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.140,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "지난 시즌 6위에 머문 뒤 @이름1 감독 체제로 바뀐 흥국 생명은 올 시즌 김연경의 전격 합류로 반등을 기대할 수 있게 됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01095_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

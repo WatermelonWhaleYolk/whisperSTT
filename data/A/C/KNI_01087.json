@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_01087",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.097,
+        "format": "MP4",
+        "date": "2022-06-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 씨는 2006년부터 승마 국가 대표였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아시안 게임에서만 금메달 3개를 땄습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.409,
+                "end": 6.944
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세계적인 선수들이랑 한 번 겨뤄볼 수 있다는 거에 굉장히 긴장도 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.954,
+                "end": 12.695
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해에는 한국학생승마협회 회장 선거에도 출마합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.705,
+                "end": 16.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "초중고 대학 선수들을 육성하고 지원하는 곳입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.854,
+                "end": 21.047
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대의원 투표에서 당선된 김 씨는 상급 단체인 대한승마협회 인준을 거쳐 취임했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.057,
+                "end": 27.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 규정대로라면 가능한 일이 아니었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.562,
+                "end": 31.097
+            }
+        ]
+    },
+    "summary": "김 씨는 지난해에는 한국학생승마협회 회장이 됐는데 규정대로라면 가능한 일이 아니었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01087_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

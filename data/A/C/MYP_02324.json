@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "filename": "MYP_02324",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.633,
+        "format": "MP4",
+        "date": "2021-04-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 전하 제가 확실히 올해 무관 탈출을 할 거라고 보장하겠사옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이보시오 흥민대군 그렇게 확신하는 근거는 무엇입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.516,
+                "end": 8.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 부상에서 회복할 동안 우승을 위한 독립 훈련외에는 한 일이 없기 때문입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.097,
+                "end": 13.808
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "세상에 관상과 광해에 이어 암살까지 콜라보를 한다고 정말 가슴이 웅장해지는구만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.818,
+                "end": 19.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이보게 관상가 양반.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.172,
+                "end": 20.936
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 대군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.946,
+                "end": 21.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저번에 내 관상을 보고 호랑이 같다 하지 않았나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.960,
+                "end": 24.959
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇사옵니다 대군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.969,
+                "end": 26.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어허 호랑이라 듣기만해도 콘푸로스트가 땡기는구먼 아무튼 어떤가 자네가 보기에 내 아직도 호랑이상인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.136,
+                "end": 35.321
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇사옵니다 대군 대군께서는 범 그러니까 호랑이 좀 더 나아가 카라바 호랑이옵니다 대군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.331,
+                "end": 43.633
+            }
+        ]
+    },
+    "summary": "흥민대군이 관상가에게 저번에 호랑이 같다 하지 않았냐며 아직도 호랑이상인지 묻자 호랑이에 더 나아가 카라바 호랑이상이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02324_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

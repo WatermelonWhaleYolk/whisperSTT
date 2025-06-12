@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_02232",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.938,
+        "format": "MP4",
+        "date": "2016-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 아쉽습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 챌린지 매치가 끝나서 아쉽고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.229,
+                "end": 7.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 유종의 미를 거두고 싶었는데 그걸 결국 해내지 못해서 그것 또한 아쉽습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.369,
+                "end": 16.933
+            }
+        ]
+    },
+    "summary": "이세돌 9단은 챌린지 매치가 끝나서 아쉽고 유종의 미를 거두고 싶었지만 그렇지 못해서 아쉬워했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02232_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_03298",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.401,
+        "format": "MP4",
+        "date": "2022-12-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "넵 아 네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.122,
+                "end": 2.862
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너클이라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.872,
+                "end": 3.618
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인간미 넘치는 스타가 되려고 한다면 뻔한 좋은 인성도 나쁠 건 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.628,
+                "end": 10.180
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그래 그래 나는 비폭력 평화주의자였지 그러니깐 뻔한 야구로 얘기하자고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.190,
+                "end": 24.214
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "플레이볼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.224,
+                "end": 26.393
+            }
+        ]
+    },
+    "summary": "영감이 인간미 넘치는 스타가 되려고 한다면 뻔한 좋은 인성도 나쁠 건 없다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03298_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

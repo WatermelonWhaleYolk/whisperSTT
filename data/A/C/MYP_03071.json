@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_03071",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.9,
+        "format": "MP4",
+        "date": "2019-11-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아우 나 이거 밤 사이에 불개미가 물어뜯어가지고 아유 날씬해진 거 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.428
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어우 저는 좀 춥게 잤더니 으실으실한 게 제대로 서 있지 못하겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.438,
+                "end": 7.260
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "밤 사이 몰라보게 수척해진 강인족.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.270,
+                "end": 9.450
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "엎친데 덮친 격으로 정칠씨는 추위에 몸 상태가 많이 안 좋아 보이는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.460,
+                "end": 14.025
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "얼른 불부터 구해야겠어요 강인 족장님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.035,
+                "end": 16.838
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 이거 불을 피워야 되는데 뭐 도구가 하나도 없어 가지고 이거.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.848,
+                "end": 19.939
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아 제가 파이어 스틸 갖고 왔는데 개미들이 철까지 다 갉아먹어서 어떡하죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.949,
+                "end": 24.001
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이 피디님 이거 위급상황인데 이거 불 피우는 도구라도 좀 주시면 안 돼요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.011,
+                "end": 27.501
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "아이 다들 가만히 있어봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.511,
+                "end": 28.899
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "마른 낙엽들 위에 이렇게 공을 발로 이렇게 해가지고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.909,
+                "end": 31.900
+            }
+        ]
+    },
+    "summary": "불을 피워야 하는데 밤 사이에 불개미가 파이어스틸까지 갉아먹어서 불을 피울 수 있는 도구가 하나도 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03071_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

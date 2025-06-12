@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_03651",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.675,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이것은 눈물이 아니야 바로 호국영령들에 대한 내 존경심과 경외심에 엑토플라즘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신이 허락하신",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.568,
+                "end": 8.514
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘 밤 니 마음을 사겠어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.524,
+                "end": 10.217
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마지막 좌약",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.227,
+                "end": 11.124
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "천만년 무이자 할부로 부탁해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.134,
+                "end": 13.163
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 내 욕망에 잔고는 마를 일이 없을 테니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.173,
+                "end": 16.760
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이러한 허세 증상들은 유소년, 청소년기에 절정을 맞이하며 특히 주변에 보는 눈이 많을 때",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.770,
+                "end": 24.036
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그러니까 내가 헐크 호건 기술 다 쓸 줄 안다니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.046,
+                "end": 28.390
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "와 정말?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.400,
+                "end": 29.662
+            }
+        ]
+    },
+    "summary": "허세 증상들은 유소년, 청소년에 절정을 맞이한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03651_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

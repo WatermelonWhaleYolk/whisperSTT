@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_04212",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.424,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희는 그 쪽지가 어떻게 생겼는지도 몰라요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저걸 그냥 틀면 어떡합니까 아 얼굴도 다 나오게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.700,
+                "end": 7.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어차피 다 똑같이 생겼잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.477,
+                "end": 9.756
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그냥 봤는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.766,
+                "end": 12.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 증언에서 알 수 있듯 버드님께 도착 시간을 전달하는 일은 네 전담 임무다 그런데 도착 예정 시각인 3시와 다르게 진짜 도착 시간 2시 반이었지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.825,
+                "end": 24.424
+            }
+        ]
+    },
+    "summary": "이 증언에서 알 수 있듯 버드님께 도착 시간을 전달하는 일은 네 전담 임무였는데 도착 예정 시각인 3시와 다르게 진짜 도착 시간 2시 반이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04212_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

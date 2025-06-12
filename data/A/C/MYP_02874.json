@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_02874",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.366,
+        "format": "MP4",
+        "date": "2020-04-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 쟤 무슨 문제가 있나 본데 기가 안 모여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.516
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손카로트가 힘을 못 쓰면 우리가 이겼다고 봐야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.526,
+                "end": 5.065
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 씨발 왜 기가 안 모이는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.075,
+                "end": 7.202
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "손카로트 뭐 하고 있어 얼른 에너지파를 쏘라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.212,
+                "end": 10.294
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 기가 안 모인다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.304,
+                "end": 12.049
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너무 오래 쉬었나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.059,
+                "end": 13.041
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "집중해봐 얼른 너밖에 없다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.051,
+                "end": 15.526
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "집중하자 손카로트 아버지의 가르침을 떠올리는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.536,
+                "end": 18.177
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "웅정권 2배",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.187,
+                "end": 21.366
+            }
+        ]
+    },
+    "summary": "남성이 공격하기 위해서 에너지를 모으는데 안 모아져서 놀란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02874_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

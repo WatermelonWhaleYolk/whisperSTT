@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01807",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.166,
+        "format": "MP4",
+        "date": "2021-10-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시청자 여러분 빡하.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프리미어리그 승부 예측 시간에 사회자 다니엘 내비입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.968,
+                "end": 5.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 프리미어리그 최고의 라이벌이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.080,
+                "end": 7.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맨유와 리버풀의 경기에 앞서 승부 예측을 해보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.621,
+                "end": 11.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 리버풀의 살라 선수 발언해 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.062,
+                "end": 13.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요 자타공인 리버풀의 에이스이자 명실상부 프리미어리그 최고의 윙어 모하메드 살라입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.692,
+                "end": 19.166
+            }
+        ]
+    },
+    "summary": "사회자 다니엘 내비가 오늘은 맨유와 리버풀의 경기에 앞서 승부 예측을 해보겠다고 하며 살라 선수에게 발언을 부탁한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01807_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

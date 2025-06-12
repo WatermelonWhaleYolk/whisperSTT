@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00821",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.315,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시차 적응 숙제를 안은 가운데 대표팀 락커룸엔 태극 마크를 단 유니폼이 걸렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.391
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 이동 거리가 많은 선수도 있고 좀 가까운 선수도 있는데 이번 연습 기간 동안 좀 컨디션 조절에 신경을 많이 써야 할 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.401,
+                "end": 15.315
+            }
+        ]
+    },
+    "summary": "시차 적응으로 컨디션 조절에 신경을 많이 써야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00821_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

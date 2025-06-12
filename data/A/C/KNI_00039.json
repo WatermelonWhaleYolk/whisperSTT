@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_00039",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 27.327,
+        "format": "MP4",
+        "date": "2023-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 시작 전부터 야구장 앞엔 팬들이 인산인해를 이뤄 야구의 계절이 돌아왔음을 알렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매표소엔 매진 안내말이 붙었고 치열한 예매 경쟁을 뚫은 팬들은 마음 속엔 설렘이 가득했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.384,
+                "end": 14.774
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "5분 전부터 계속 핸드폰 잡고 기다리면서 새로고침 했어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.784,
+                "end": 19.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "날씨도 좋고 사람들도 많은 것 같아서 개막전인 것 같은 기분이 더 물씬 느껴지는 것 같아요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.649,
+                "end": 27.327
+            }
+        ]
+    },
+    "summary": "프로야구 경기 시작 전부터 팬들은 인산인해를 이루고 매진을 기록하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00039_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00412",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.82,
+        "format": "MP4",
+        "date": "2023-05-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "은퇴 시즌 마지막 경기 마지막 순간을 통합우승 축포와 함께한 양희종은 동료들과 서로를 부둥켜안고 우승의 기쁨을 만끽했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모두 이겨내고 선수들이 끝까지 다 포기하지 않고 뛰어준다는 게 감동을 받 받아서 좀 눈물이 난 것 같습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.080,
+                "end": 14.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7차전 20득점 등 챔프전 내내 맹활약을 펼친 오세근은 플레이오프 MVP에 선정됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.854,
+                "end": 20.820
+            }
+        ]
+    },
+    "summary": "은퇴 시즌 마지막 경기를 통합우승과 함께한 양희종은 우승의 기쁨을 만끽했고, 오세근은 플레이오프 MVP에 선정되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00412_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

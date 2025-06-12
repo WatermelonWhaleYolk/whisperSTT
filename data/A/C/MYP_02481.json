@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "filename": "MYP_02481",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.433,
+        "format": "MP4",
+        "date": "2021-01-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그것은 바로 잘생긴 백인 공격수는 첼시에서 부진하다는 것",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.774
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 잘생긴 백인 공격수라서 부진하다고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.784,
+                "end": 6.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소설을 쓰고 있네 소설을",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.190,
+                "end": 7.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 베르너 자네에게 제안하자면 성형수술을 하고 오게나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.849,
+                "end": 11.491
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 뭐라고요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.501,
+                "end": 12.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자네가 백인인 건 어쩔 수 없지 않은가 자네가 조금만 못생겨진다면 뭔가 귀신같이 폼이 살아날 것 같다고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.378,
+                "end": 18.292
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 진짜 장난하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.302,
+                "end": 19.398
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전술의 문제라고요 전술.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.408,
+                "end": 20.859
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어이 후배들",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.869,
+                "end": 21.806
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아니 당신은?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.816,
+                "end": 22.915
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "왜들 그리 다운돼 있어 뭐가 문제야 세이 섬씽",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.925,
+                "end": 25.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드록바 자네도 우리 첼시의 엠버서더니까 걱정돼서 찾아온 건가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.331,
+                "end": 29.071
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아니?",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.081,
+                "end": 29.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐라고 그렇다면 설마 로만이 경질통보라도 전한 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.622,
+                "end": 34.433
+            }
+        ]
+    },
+    "summary": "첼시의 징크스란 잘생긴 백인 공격수는 첼시에서 부진하다는 것이라며 감독은 베르너에게 성형을 권유합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02481_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

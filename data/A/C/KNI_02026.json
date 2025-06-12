@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_02026",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.7,
+        "format": "MP4",
+        "date": "2019-08-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코치석 옆에 의자를 놓고 경기를 지켜봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이와 관련해 정 감독 측은 심야에 식당에서 열린 술자리는 선수 학부모가 아니라 지인들과의 가진 술자리였다고 강변했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.094,
+                "end": 11.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 경기장에 나간 것은 맞지만 선수들이나 코치들에게 지시를 한 적은 없다고 해명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.326,
+                "end": 17.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.852,
+                "end": 20.700
+            }
+        ]
+    },
+    "summary": "정 감독 측은 식당에서 열린 술자리는 학부모가 아니라 지인들과 가진 술자리였고 경기장에는 나갔지만 지시를 한 적 없다고 해명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02026_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

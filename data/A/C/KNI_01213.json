@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01213",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.76,
+        "format": "MP4",
+        "date": "2022-11-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유전성 대장암이 있으면 처음엔 오른쪽에 이후 다시 왼쪽에 대장암이 생길 수 있어 정기적인 검진이 필요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유전성 대장암을 갖고 있는 여성의 경우 자궁내막암 발생 위험도 크기 때문에 주기적인 검사가 필요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.298,
+                "end": 14.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유전성 대장암 환자의 직계 가족은 대장암 조기 검진을 받아야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.237,
+                "end": 19.169
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유전성 대장암이 있는 가계도에서 사실 굉장히 젊은 나이 20대 후반 내지는 30대부터 대장 내시경 검사를 하는 거를 권유를 하고 있습니다.4",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.179,
+                "end": 26.760
+            }
+        ]
+    },
+    "summary": "유전성 대장암 환자의 직계 가족은 대장암 조기 검진을 받아야 하며, 정기적인 검진이 필요하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01213_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 7,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

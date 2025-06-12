@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "MYP_03998",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.782,
+        "format": "MP4",
+        "date": "2020-11-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.566
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쟤들 좀 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.576,
+                "end": 1.982
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "웃긴 거 하네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.992,
+                "end": 2.917
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뺨 때리고 가세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.927,
+                "end": 5.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쫄았잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.711,
+                "end": 6.533
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "진심 아니잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.543,
+                "end": 8.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리의 호객행위가 잘 못 된 건지 관심에서 그칠 뿐 선뜻 도전하는 사람이 없었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.192,
+                "end": 15.782
+            }
+        ]
+    },
+    "summary": "주인공은 찰리 형과 함께 뺨 때리고 가라는 이벤트를 했지만 아무도 도전하는 사람이 없었다고 하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03998_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

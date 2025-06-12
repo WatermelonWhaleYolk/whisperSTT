@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_01922",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.166,
+        "format": "MP4",
+        "date": "2021-09-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "드록바와 램파드의 합작 골 갱신까지 단 세 골밖에 남지 않은 거 아시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 둘이 함께라면 어떤 수비도 뚫어낼 수 있다는 말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.899,
+                "end": 7.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래봤자 단 두 명에 의존하는 스쿼드 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.547,
+                "end": 10.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반면에 우리 첼시는 최전방의 저를 시작으로 마운트부터 하베르츠까지 탑클래스 2선들이 뒤를 받쳐줍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.619,
+                "end": 17.166
+            }
+        ]
+    },
+    "summary": "드록바와 램파드의 합작 골 갱신까지 세 골밖에 남지 않았으며 둘이 함께라면 어떤 수비도 뚫을 수 있다고 하자 단 두 명에 의존하는 스쿼드 아니냐며 우리 첼시는 마운트부터 하베르츠까지 탑클래스 2선들이 뒤를 받쳐준다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01922_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

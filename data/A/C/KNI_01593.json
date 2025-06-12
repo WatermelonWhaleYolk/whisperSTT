@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "KNI_01593",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.373,
+        "format": "MP4",
+        "date": "2023-08-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 리우 올림픽 이후 IOC 선수위원의 뜻을 품고 준비해 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2번의 올림픽 경험을 토대로 현재 또 미래 선수들에게 다양한 활동과 올림픽의 영향력을 확대하는 일에 일조할 수 있도록 노력하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.404,
+                "end": 14.387
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 지난 2016년이죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.397,
+                "end": 17.401
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "리우 올림픽에서 골프 금메달을 땄던 박인비 선수의 출사표입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.411,
+                "end": 21.828
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미래의 선수들에게 도움이 되고 싶다고 하면서 아 이 출마를 결심했다고 밝혔는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.830,
+                "end": 27.170
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올 시즌 끝으로 은퇴를 발표한 배구여제 김연경 사격의 전설 진종오 그리고 국기 스포츠 태권도의 이대훈 아 선수까지 총 4명의 레전드들이 선수위원 최종 후보 선발에 도전을 하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.180,
+                "end": 40.373
+            }
+        ]
+    },
+    "summary": "IOC 선수위원의 뜻을 품고 골프의 박인비 배구의 김연경 사격의 전설 진종오 그리고 태권도 이대훈 선수가 출사표를 던졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01593_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

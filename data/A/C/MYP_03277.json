@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03277",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.219,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 이건",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.489
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.499,
+                "end": 3.001
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔가 깨달은 듯 기어이 나를 승산 없는 심판대에 세웠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.011,
+                "end": 8.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 이거라면 가능할지도 몰라 도전",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.706,
+                "end": 12.653
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으아아 왜 왜 왜요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.663,
+                "end": 14.407
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "설 유어 팬츠 인트로듀싱",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.417,
+                "end": 18.488
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜냐하면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.498,
+                "end": 19.219
+            }
+        ]
+    },
+    "summary": "형은 뭔가 깨달은 듯 기어이 나를 승산 없는 심판대에 세웠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03277_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 138
+                }
+            ]
+        }
+    ]
+}

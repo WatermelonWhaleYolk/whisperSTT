@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03065",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.3,
+        "format": "MP4",
+        "date": "2019-11-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 이거 유럽 유학파라는 사람이 이 오뚜기 4900원 짜리 콤비네이션 피자에다가 치즈 조금 올려가지고 2만원을 받으면 문제가 있겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 사장님 백대표님 말씀대로 진짜 오뚜기 그겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.738,
+                "end": 9.848
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 그게 어때서요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.858,
+                "end": 11.299
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에 한국 사람 입맛이면 그 정도로 다 잡아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.309,
+                "end": 13.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 보조아씨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.945,
+                "end": 15.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보조아씨 잠깐 내려와 봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.511,
+                "end": 17.300
+            }
+        ]
+    },
+    "summary": "진행자가 사장에게 오뚜기 피자가 맞냐고 물어보니 그게 어떠냐고 한국 사람 입맛이면 그 정도로 잡을 수 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03065_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

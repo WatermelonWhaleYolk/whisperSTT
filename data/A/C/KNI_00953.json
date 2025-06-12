@@ -1,0 +1,201 @@
+{
+    "metadata": {
+        "filename": "KNI_00953",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.464,
+        "format": "MP4",
+        "date": "2022-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "패스도 이게 기가 막히다 보니까 더 멋있는 덩크가 나올 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.111
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 패스 한번 주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.121,
+                "end": 6.289
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하윤기는 팬들을 놀라게 할 멋진 구상을 이미 마쳤다고 자신했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.299,
+                "end": 12.265
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 재미있는 상황을 만들어서 파워풀한 덩크를 하려고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.275,
+                "end": 18.946
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "덩크하려고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.956,
+                "end": 19.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.667,
+                "end": 20.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "확실히 재미난 연출이 있어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.942,
+                "end": 21.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아주",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.910,
+                "end": 22.696
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "생각 있어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.706,
+                "end": 23.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.264,
+                "end": 23.589
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기대해도 돼?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.599,
+                "end": 23.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기대해도 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.935,
+                "end": 24.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 진짜?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.922,
+                "end": 25.359
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기가 막힌 패스 좀 연습 좀 많이 할 테니까 너도 잘 받아먹을 준비하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.369,
+                "end": 29.727
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 받아먹겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.737,
+                "end": 30.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘해 보자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.114,
+                "end": 30.463
+            }
+        ]
+    },
+    "summary": "하윤기와 허훈은 기가 막힌 패스와 멋진 덩크슛을 약속했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00953_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

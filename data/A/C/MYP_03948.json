@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_03948",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.057,
+        "format": "MP4",
+        "date": "2020-12-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜인지 역 입구에서 노숙자들이 분개하고 있었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.347
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 잠깐이면 된다니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.357,
+                "end": 6.061
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘 날씨 안 봤냐?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.071,
+                "end": 7.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으음 뭣 때문에 역 앞이 소란스러운건진 모르겠지만",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.782,
+                "end": 13.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 추위에 시달린 나는 신경 쓸 겨를도 없이 문고기를 잡았는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.157,
+                "end": 17.944
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우리 계속 기다린다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.954,
+                "end": 19.743
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몰라 나는 빨리 택시타고 갈거야.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.753,
+                "end": 24.057
+            }
+        ]
+    },
+    "summary": "주인공이 서울역 앞에서 분개하는 노숙자들을 뒤로하고 문고리를 잡는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03948_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

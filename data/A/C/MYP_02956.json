@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_02956",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.833,
+        "format": "MP4",
+        "date": "2020-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 토티 선수가 퇴장된 상황에서 연장 후반전 시작합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.994
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 선수들 충분히 할 수 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.004,
+                "end": 5.107
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 우리 아들도 뛰고 있지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.117,
+                "end": 7.101
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두리야 힘내라 두리야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.111,
+                "end": 9.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말씀드리는 순간 이영표가 중앙으로 깊게 찔러줍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.272,
+                "end": 11.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안정환 그대로 헤딩 골 골입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.979,
+                "end": 14.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 8강 진출입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.369,
+                "end": 16.137
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 자랑스럽네요 우리 대표팀.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.147,
+                "end": 18.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우승 후보 이탈리아를 꺾고 8강에 진출합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.494,
+                "end": 21.257
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대한민국 대한민국",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.267,
+                "end": 31.833
+            }
+        ]
+    },
+    "summary": "이영표가 중앙으로 공을 깊게 찔러주고 안정환이 헤딩을 해서 이탈리아를 꺾고 우리나라가 월드컵 8강에 진출했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02956_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

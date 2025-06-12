@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNI_02075",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.133,
+        "format": "MP4",
+        "date": "2018-04-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전광판이 이렇게 나오죠. 팬분들이 한눈에 이제 먼저 좀 알 수도 있을 것 같아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.525
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "속이 시원하잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.537,
+                "end": 8.422
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "급하게 휴대전화로 영상을 찾던 팬들도 이젠 전광판을 통해 결과를 미리 확인할 수 있게 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.432,
+                "end": 17.133
+            }
+        ]
+    },
+    "summary": "급하게 휴대전화로 영상을 찾던 팬들도 이젠 전광판을 통해 결과를 미리 확인할 수 있게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02075_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 44,
+                    "act": 14
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_02075_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 66,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

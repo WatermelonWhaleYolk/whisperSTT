@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02147",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.566,
+        "format": "MP4",
+        "date": "2019-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "폭력이나 갑질 근절을 위해서 조례라든지 규정들을 만들어서 직장 운동 선수들이 적극적으로 의사를 표명할 수 있도록 보장해 줘야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인권위는 가해자 징계 강화와 피해 선수 인권 보호 방안을 관련 부처와 함께 마련할 방침입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.850,
+                "end": 15.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.951,
+                "end": 18.566
+            }
+        ]
+    },
+    "summary": "인권위는 직장 운동 선수들의 피해에 대해 가해자 징계 강화와 선수 인권 보호 방안을 관련 부처와 함께 마련할 방침입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02147_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

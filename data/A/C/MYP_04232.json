@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_04232",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.453,
+        "format": "MP4",
+        "date": "2020-03-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불가능한 상황에 우리는 절망했지만 그 순간 우리의 눈에 들어온 것은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이젠 다 틀렸",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.722,
+                "end": 6.628
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이렇게 끝이고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.638,
+                "end": 8.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주인 없던 킥보드 하나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.830,
+                "end": 13.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "할아버지 언제나 말씀하셨지 너 그러다 언젠가 진짜 뒤진다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.890,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "불가능한 상황에 우리는 절망했지만 그 순간 우리의 눈에 들어온 것은 주인 없던 킥보드 하나였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04232_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

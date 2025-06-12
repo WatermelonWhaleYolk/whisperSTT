@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_03091",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.262,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 봐라 이거.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.478
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "황량하기 그지 없었다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 2.488,
+                "end": 5.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼음 있잖아 있잖아.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 5.482,
+                "end": 8.753
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "핵전쟁 터지고 보금자리 찾은 거지같군.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 8.763,
+                "end": 12.935
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "빠져라 제발 빠져라.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 12.945,
+                "end": 14.677
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "북극으로 떠내려가라.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 14.687,
+                "end": 16.829
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "게다가",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 16.839,
+                "end": 17.591
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안녕하세요 어르신?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 17.601,
+                "end": 19.082
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "혹시 주변에 빙어 낚시 용품 좀 구할 데가 없을지",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 19.092,
+                "end": 23.330
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시기에 맞지 않는 뜬금없는 외부인들의 방문에",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 23.340,
+                "end": 29.262
+            }
+        ]
+    },
+    "summary": "황량한 곳에 도착했지만 로이드는 얼음이 있다며 신나했고 동네 주민에게 낚시 용품을 구할 수 있는지 물어봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03091_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 131
+                }
+            ]
+        }
+    ]
+}

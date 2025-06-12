@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01314",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.433,
+        "format": "MP4",
+        "date": "2023-01-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불과 나흘 전 신임 감독이라며 공식 발표한 @이름1 선명여고 감독마저 사령탑 거절 의사를 밝힐 정도로 구단을 향한 신뢰는 무너졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비난과 의심의 눈초리를 받으면서 현장을 지휘한다는 거는 상상을 할 수 없는 일이었기 때문에 불신을 받으면서 시작을 하게 되면 선수들도 저를 신뢰할 수 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.570,
+                "end": 25.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "섣부르게 차기 사령탑을 발표했다가 황급히 번복하는 프로답지 않은 모습에 팬심은 차갑게 식어가고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.349,
+                "end": 33.433
+            }
+        ]
+    },
+    "summary": "신임 감독이라며 공식 발표한 감독마저 구단을 향한 신뢰는 무너졌고 섣부르게 차기 사령탑을 발표했다가 번복하는 모습에 팬심은 차갑게 식어가고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01314_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

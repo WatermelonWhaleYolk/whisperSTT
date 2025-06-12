@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_00334",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.823,
+        "format": "MP4",
+        "date": "2022-11-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 거리 응원 1번지 서울 광화문 광장",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해 질 녘부터 붉은 빛으로 물들기 시작하고 경기가 시작되자 익숙한 함성이 울려 퍼집니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.908,
+                "end": 11.252
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대한민국",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.262,
+                "end": 15.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당초 붉은 악마는 1만 여명이 모일 것으로 예상했지만 실제로는 경찰 추산 2만 5000여 명이 광장을 찾았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.740,
+                "end": 23.823
+            }
+        ]
+    },
+    "summary": "당초 붉은 악마는 1만 여명이 모일 것으로 예상했지만 실제로는 경찰 추산 2만 5000여 명이 광장을 찾았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00334_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 138
+                }
+            ]
+        }
+    ]
+}

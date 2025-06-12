@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01301",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.195,
+        "format": "MP4",
+        "date": "2022-12-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엇갈린 운명 속에 국내 무대에서 다시 만난 김준호와 차민규 빙판 위에 나란히 선 둘 사이에 미묘한 긴장감이 흐릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스타트부터 팽팽한 접전이 이어진 가운데 두 선수는 한 치의 오차도 없는 치열한 레이스를 펼쳤고 결국 김준호가 단 0.01초 차로 또 한 번 차민규를 꺾고 500미터 정상에 올랐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.863,
+                "end": 23.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 서로서로 또 이렇게 라이벌 의식을 하면서 예 저희가 또",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.771,
+                "end": 29.195
+            }
+        ]
+    },
+    "summary": "스타트부터 팽팽한 접전이 이어진 가운데 두 선수는 한 치의 오차도 없는 치열한 레이스를 펼쳤고 결국 김준호가 단 0.01초 차로 또 한 번 차민규를 꺾고 500미터 정상에 올랐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01301_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_03714",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.194,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "치이이 칙칙칙칙",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.189
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 또 억겁의 시간이 흐른 뒤 드디어 첫 조각을 받을 수 있었고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.199,
+                "end": 6.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크하하하하하 드디어 다 익었다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.996,
+                "end": 10.127
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "드디어란 말이 오지게 와닿는군",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.137,
+                "end": 13.222
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "라이터로 굽는 게 더 빠르겠다",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.232,
+                "end": 15.581
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "순탄치 않았던 과정에 매우 못 미덥게 시작된 첫 개시는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.591,
+                "end": 21.133
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으휴 일단 먹어나 봅시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.143,
+                "end": 24.215
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그냥 버너에 구워 먹지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.225,
+                "end": 28.194
+            }
+        ]
+    },
+    "summary": "한참 기다리다 첫 조각을 받을 수 있었고 라이터로 굽는 게 더 빠르겠다는 말을 하고 일단 먹어보자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03714_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 29,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

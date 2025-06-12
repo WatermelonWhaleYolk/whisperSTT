@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_02815",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.566,
+        "format": "MP4",
+        "date": "2020-06-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이딴 거 하지 말고 가서 골이나 넣어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.383
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 형님들 이거 먹고 열심히 해서 제가 골도 넣고 세레머니도 아주 멋지게 해드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.393,
+                "end": 7.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네시포드 님이 달풍선 10개를 선물하셨습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.629,
+                "end": 10.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "골은 니가 무슨 골이냐 그래도 세레머니는 재밌으니 패스 한 번 성공할 때마다 세레머니 해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.428,
+                "end": 16.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 진짜 너무들 하시네 저도 열심히 하고 있다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.596,
+                "end": 19.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 아무튼 오늘 먹을 음식입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.619,
+                "end": 21.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어때요 여러분들도 드시고 싶으시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.570,
+                "end": 24.047
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 대신 맛있게 먹고 6월 20일 토트넘전 멋지게 한 골 넣겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.057,
+                "end": 28.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "웅정파더 님이 달풍선 10개를 선물하셨습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.648,
+                "end": 31.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너 그 떡볶이 어디서 시켰냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.422,
+                "end": 33.566
+            }
+        ]
+    },
+    "summary": "남성이 골을 넣겠다고 하자 넣냐고 세레머니나 하라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02815_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

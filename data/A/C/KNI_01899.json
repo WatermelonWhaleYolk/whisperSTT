@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "KNI_01899",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.569,
+        "format": "MP4",
+        "date": "2022-08-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2년",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "살아있다는 거만 보여주고 나와.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.760,
+                "end": 3.721
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "경기 중에도 끝없이 격려합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 3.731,
+                "end": 7.165
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "1세트 초반 뜻하지 않은 주전에 부상에 당황하지 않고 홍민기를 교체 투입했고 홍민기는 양 팀 최다인 15 득점하며 김상우 감독에 데뷔전 승리를 안겼습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 7.175,
+                "end": 19.605
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 대전에 봄이 올 수 있도록 저희가 해야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.615,
+                "end": 23.048
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자존심 회복에 나선 전성기 레전드 김상우 감독에 명가재건 프로젝트 산뜻한 출발과 함께 다섯시즌 만에 올 봄백으로 대전 팬들을 설레게 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.058,
+                "end": 34.422
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "kbs뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.432,
+                "end": 36.569
+            }
+        ]
+    },
+    "summary": "홍민기는 양 팀 최다인 15 득점하며 김상우 감독에 데뷔전 승리를 안겼고 대전에 봄이 올 수 있도록 하겠다며 대전 팬들을 설레게 했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01899_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01899_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

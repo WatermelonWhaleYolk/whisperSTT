@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_02579",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.466,
+        "format": "MP4",
+        "date": "2020-11-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 저기 물고기씨 저는 방금 왼쪽이었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이기셨으니까 살짝 뒤로 가세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.108,
+                "end": 5.710
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 뭐 하는 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.720,
+                "end": 6.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물고기를 도로 돌려보내면 어떡해?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.835,
+                "end": 8.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무리 상대가 물고기라도 신사답게 인정할 건 인정해야지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.294,
+                "end": 12.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 너무 걱정 말라고 저 녀석의 패턴은 이미 다 파악했으니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.183,
+                "end": 18.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 물고기씨 다시 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.227,
+                "end": 20.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참참참",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.271,
+                "end": 22.466
+            }
+        ]
+    },
+    "summary": "참참참 게임에서 물고기가 이겨서 은돔벨레가 물고기를 뒤로 돌려보내고 있지만 이미 물고기의 패턴을 다 파악했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02579_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNI_01546",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 40.84,
+        "format": "MP4",
+        "date": "2023-02-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흥국생명 옷을 입은 지 얼마 안 된 @이름1 세터와도 완벽 호흡을 자랑하며 25점을 책임진 김연경의 맹활약 속에 흥국생명은 인삼공사를 세트스코어 3대 0으로 완파했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선두랑 지금 승점이 얼마 차이가 안 나기 때문에",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.722,
+                "end": 16.167
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이제 3점 차",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.177,
+                "end": 16.996
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 3점 차이고 또 다음 경기가 현대건설입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.006,
+                "end": 19.654
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 현대건설을 또 이기게 되면 뭐 동률 잘한다고 하면 네 그래서 제가 너무 중요한 경기를 또 앞두고 있기 때문에 제가 좀 잘해서",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.664,
+                "end": 30.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 선수가 빠진 선수 현대건설을 승점 3점 차로 바짝 추격한 흥국생명은 후반기 대반격을 예고했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 30.499,
+                "end": 38.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 38.542,
+                "end": 40.840
+            }
+        ]
+    },
+    "summary": "흥국생명 옷을 입은 지 얼마 안 된 @이름1 세터와도 완벽 호흡을 자랑하며 25점을 책임진 김연경의 맹활약 속에 흥국생명은 인삼공사를 세트스코어 3대 0으로 완파했으며 외국인 선수가 빠진 선수 현대건설을 승점 3점 차로 바짝 추격한 흥국생명은 후반기 대반격을 예고했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01546_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

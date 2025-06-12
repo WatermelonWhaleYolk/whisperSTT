@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_01074",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.691,
+        "format": "MP4",
+        "date": "2022-05-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뛸 때마다 한국 육상의 새 역사를 쓰는 @이름1을 향한 취재 열기가 달라진 위상을 보여줍니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1은 높아진 관심만큼 @이름2과 @이름3 등 세계적인 선수들의 바뀐 시선도 체감했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.468,
+                "end": 15.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인정받는 느낌이라 기분 좋고 좀 견제하는 느낌도 많이 받았어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.194,
+                "end": 20.471
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래가지고 아 내가 이제 견줄만한 선수가 됐구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.481,
+                "end": 24.691
+            }
+        ]
+    },
+    "summary": "한국 육상의 새 역사는 쓰는 @이름1은 인터뷰에서 인정받는 느낌이 기분 좋고 세계적인 선수들의 견제하는 느낌도 받는다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01074_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

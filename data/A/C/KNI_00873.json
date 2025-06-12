@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00873",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.52,
+        "format": "MP4",
+        "date": "2023-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "온 힘을 다하는 강백호 특유의 스윙이 나옵니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강백호는 한동안 공을 바라보다 1루로 향했고 공은 카메라도 못 잡을 정도로 경기장 전체를 넘어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.750,
+                "end": 15.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연습 경기라 할지라도 강백호의 괴력을 확인할 수 있는 순간이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.280,
+                "end": 20.520
+            }
+        ]
+    },
+    "summary": "강백호는 한동안 공을 바라보다 1루로 향했고 공은 카메라도 못 잡을 정도로 경기장 전체를 넘어갔는데 연습 경기라 할지라도 강백호의 괴력을 확인할 수 있는 순간이었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00873_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 60,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

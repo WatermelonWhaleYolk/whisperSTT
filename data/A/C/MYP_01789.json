@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01789",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.033,
+        "format": "MP4",
+        "date": "2021-10-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1년 동안 열심히 준비해 다음 시즌 반드시 반등을 노려볼 테니 이만 심판을 마치고 무관 지옥으로 보내 주시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.528
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 무슨 소리누? 난 토트넘에서 고작 몇 달을 게으르게 보냈지만 너는 무려 4시즌 동안 게으름을 피우지 않았누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.538,
+                "end": 12.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 울버햄튼은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.279,
+                "end": 13.252
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너 거기서도 경질이나 다름없는 사임으로 쫓겨나잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.262,
+                "end": 15.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 마지막 시즌은 조금 부진했지만 내가 팀을 유로파에도 올려놓고 리그 중위권으로 올려놓았던 거 모르누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.757,
+                "end": 22.033
+            }
+        ]
+    },
+    "summary": "서로가 게으름을 피우지 않았다고 주장하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01789_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

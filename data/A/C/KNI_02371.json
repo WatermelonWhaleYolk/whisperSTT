@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "filename": "KNI_02371",
+        "category": "스포츠뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 67.766,
+        "format": "MP4",
+        "date": "2016-08-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "끝내 참았던 눈물이 흘렀습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "울지 않으리라 다짐했던 45살의 노장 선수 하지만 대표팀 후배들 이야기를 꺼내자 또 다시 눈시울이 붉어졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.172,
+                "end": 11.349
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뛸 수 있는 건 이게 마지막 경기라고 얘기를 했을 때 선수들이 좀 눈물을 그러니까 게임 들어가기 전부터 눈물을 흘리더라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.359,
+                "end": 18.608
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 괜히 내가 애들한테 무겁게 했나 싶어서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.618,
+                "end": 22.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해 45살인 @이름1은 이번 올림픽이 다섯 번째 입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.254,
+                "end": 26.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베이징 올림픽을 끝으로 대표팀을 떠났지만 @이름2 감독의 부름에 8년 만에 다시 태극 마크를 달았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.410,
+                "end": 34.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우생순의 또 다른 주역인 @이름3 선수는 출산 5개월 만에 대표팀에 합류했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 34.187,
+                "end": 40.419
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "올림픽에 1승을 거두고서 가야지 된다는 그런 책임감도 있었고 갑자기 그게 경기도 뛰기 전에 막 눈물이 나더라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 40.429,
+                "end": 50.073
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "조별 리그 탈락이 확정된 상태였지만 아르헨티나전 승리로 유종의 미를 거둔 대표팀 대한민국 여자 핸드볼 대표팀은 아르헨티나와의 조별 리그를 끝으로 아쉽게도 리우 올림픽에서의 마지막 경기 일정을 모두 마무리 했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 50.083,
+                "end": 64.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 제가 핸드볼을 해서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 64.909,
+                "end": 67.766
+            }
+        ]
+    },
+    "summary": "올해 45살인 @이름1 선수는 올림픽만 5번째로 감독의 부름에 8년 만에 다시 태극 마크를 달아 이번 올림픽 경기에 뛰었고 아쉽게도 조별 리그를 끝으로 경기 일정을 마무리했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02371_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

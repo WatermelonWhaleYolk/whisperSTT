@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_00268",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.728,
+        "format": "MP4",
+        "date": "2023-04-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영구결변 된 36번 유니폼 등 흔적 속 이젠 상대팀으로 만난 구자욱과 팬들은 만감이 교차하는 분위기였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저의 우상이셨던 이제 이승엽 감독님께서 감독님으로 계신 이제 두산이랑 하게 돼서 좀 더 잘하고 싶은 마음이 드는 네 경기인 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.339,
+                "end": 19.138
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대구에서 제일 유명한 인물이고 대구 대표 인물이니까 어 두산에서 잘하셔가지고 국가대표 감독도 하시고 삼성 감독도 하셨으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.148,
+                "end": 28.728
+            }
+        ]
+    },
+    "summary": "영구결변 된 이승엽의 36번 유니폼 등 흔적을 보며 이젠 상대팀으로 만난 구자욱과 팬들은 만감이 교차하는 분위기였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00268_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00268_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

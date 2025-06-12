@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_01791",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.3,
+        "format": "MP4",
+        "date": "2016-08-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "입촌식과 함께 선수들의 숙소도 공개됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "각국 대표팀은 외벽에 국기나 개성이 담긴 현수막을 내걸어 자부심을 드러냈습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.540,
+                "end": 10.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헝가리는 나라 이름과 놀라운이란 뜻의 영어를 섞어 재미있는 문구를 만들었고 폴란드도 각오를 다지는 현수막을 선보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.078,
+                "end": 19.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들의 마음 따뜻한 선행도 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.679,
+                "end": 24.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "육상 스타 우사인 볼트는 브라질 빈민촌에서 아이들을 만나 희망의 메시지를 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.013,
+                "end": 30.300
+            }
+        ]
+    },
+    "summary": "입촌식과 선수들의 숙소가 공개되며 각국 대표팀이 외벽에 국기나 현수막을 내걸어 자부심을 드러냈고 육상의 우사인 볼트는 브라질 빈민촌에서 아이들에게 희망의 메시지를 전하는 선행을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01791_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

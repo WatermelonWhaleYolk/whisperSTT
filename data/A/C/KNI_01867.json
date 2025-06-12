@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNI_01867",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.938,
+        "format": "MP4",
+        "date": "2022-03-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국내 성인 무대 첫 결승에 오른 @이름1가 힘차게 스타트를 끊습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몸집이 커지며 힘이 한층 붙은 @이름1는 경쟁자들을 여유 있게 따돌리며 물살을 가르는 모습인데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.626,
+                "end": 11.303
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결승 터치 패드도 가장 먼저 찍습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 11.313,
+                "end": 15.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "48초 42로 100미터 시즌 1위 기록을 세우며 여유있게 우승을 차지한 @이름1는 6월 헝가리 부다페스트 세계 선수권대회 출전도 확정 지었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.368,
+                "end": 23.953
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세계 선수권에서는 메달권에 오르고 싶고 또 이제 아시안게임에서는 애국가를 울릴 수 있지 않을까 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.963,
+                "end": 32.313
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "열심히 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.313,
+                "end": 32.932
+            }
+        ]
+    },
+    "summary": "48초 42로 100미터 시즌 1위 기록을 세우며 여유있게 우승을 차지한 @이름1는 6월 헝가리 부다페스트 세계 선수권대회 출전도 확정 지었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01867_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

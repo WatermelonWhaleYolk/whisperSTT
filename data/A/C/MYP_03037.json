@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03037",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.966,
+        "format": "MP4",
+        "date": "2019-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 사장님 보셨죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.168
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방송 나간다고 가게가 잘 돼봤자 이런 상태로는 한 달도 못 가서 문 닫아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.178,
+                "end": 5.708
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그럼 빨리 솔루션을 주던가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.718,
+                "end": 7.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.298,
+                "end": 8.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 빨리 솔루션 주던가요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.083,
+                "end": 10.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼레 이 양반 참 웃기네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.301,
+                "end": 11.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 뭐 됐어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.982,
+                "end": 13.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 특별히 사장님한테는 그냥 솔루션 해드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.232,
+                "end": 16.097
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 알려 준다고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.107,
+                "end": 17.297
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 혼 낼거면서.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.307,
+                "end": 18.966
+            }
+        ]
+    },
+    "summary": "사장님한테 이런 성취로는 한 달도 안 돼서 가게 문 닫는다고 하니 빨리 솔루션이나 달라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03037_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

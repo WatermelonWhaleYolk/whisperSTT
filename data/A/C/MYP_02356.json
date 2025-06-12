@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_02356",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.666,
+        "format": "MP4",
+        "date": "2021-03-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 두 명과 접선해 토트넘을 유로파 리그에서 우승시킨 뒤 트로피를 가져오는 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비디 33과 제이알 14라고요 그 녀석들도 웨일스 사람인 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.813,
+                "end": 7.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다 이제 못 하는 척 그만하고 다시 월클 요원으로 복귀하도록 유로파 정도는 가볍게 가져올 수 있겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.536,
+                "end": 13.324
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 뭐 알겠습니다 대신 내년부터는 마음 편히 골프치게 해주셔야 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.334,
+                "end": 18.666
+            }
+        ]
+    },
+    "summary": "웨일스 마피아의 빅 보스 라이언 준식은 가레스 베일에게 비디 33과 제이알 14과 접선해 유로파 리그에서 우승한 뒤 트로피를 가져오라고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02356_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

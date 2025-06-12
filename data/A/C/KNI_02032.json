@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "filename": "KNI_02032",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.866,
+        "format": "MP4",
+        "date": "2019-06-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뛰지 않은 선수들은 그 체력적인 부분이 아무래도 컨디션 조절이 훨씬 낫기 때문에 거기에 녹아드는 전술적인 부분들을 결정을 할 거지만 아무래도 포지션의 변화는 있지 않을까 이렇게 생각을 하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 15.866
+            }
+        ]
+    },
+    "summary": "정정용 감독이 경기 전 선수들의 컨디션과 전술에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02032_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

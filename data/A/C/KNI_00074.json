@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00074",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.816,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1500미터는 최민정이 4년전 평창에서 정상에 오른 주종목입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.526
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마지막에 계속 조금씩 아쉬웠던 부분들이 있었는데 이번 시합 때는 반복되지 않고 좀 더 확실한 부분으로 볼 수 있게 이전과는 좀 다른 모습을 보여야 될 것 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.536,
+                "end": 16.816
+            }
+        ]
+    },
+    "summary": "1500미터는 최민정의 주종목이며 아쉬웠던 부분들이 반복되지 않고 다른 모습을 보여야 할 것 같다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00074_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

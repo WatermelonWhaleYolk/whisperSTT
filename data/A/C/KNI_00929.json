@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNI_00929",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.482,
+        "format": "MP4",
+        "date": "2122-11-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 사상 처음으로 늦가을에 열리고 늦은 밤에 시작되는 경기인데 경기도는 최대 2만 명 가까이가 몰릴 것으로 예상하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 따라 현장에는 경찰과 소방 인력 등을 비롯해 사설 경호 인력과 자원봉사자 등 안전 요원 250여 명이 배치돼 만일에 사태에 대비하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.517,
+                "end": 16.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이곳 수원뿐 아니라 인천 축구 전용 경기장에 3000여 명 전북 전주대 대운동장에 2000여 명 등 전국 곳곳에서 단체 응원전이 예정돼 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.565,
+                "end": 26.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 밤 단체 응원에 참여하실 분들은 안전이 최우선이라는 점 명심하시고 사고 나지 않도록 유의하셔야겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.867,
+                "end": 33.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금까지 수원 월드컵 경기장에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 33.456,
+                "end": 37.470
+            }
+        ]
+    },
+    "summary": "월드컵 단체 응원이 전국 곳곳에 예정돼 있고 안전에 최우선하라고 당부하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00929_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

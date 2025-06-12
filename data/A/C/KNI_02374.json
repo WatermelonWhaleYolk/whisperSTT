@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_02374",
+        "category": "스포츠뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.166,
+        "format": "MP4",
+        "date": "2016-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뜨거운 햇볕에도 불구하고 손연재는 선수촌에서 훈련장까지 걸어서 이동했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가벼운 걷기 운동을 통해 스트레칭 효과를 배가시키기 위해서였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.869,
+                "end": 11.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직은 낯선 리우의 환경 손연재는 집중력을 발휘해 꼼꼼하게 동작을 가다듬었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.162,
+                "end": 19.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공중에 띄운 기구들을 놓친 뒤 실수를 한 자기 자신을 탓하기도 하고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.061,
+                "end": 25.166
+            }
+        ]
+    },
+    "summary": "손연재는 훈련장까지 걸어가 이를 통해 스트레칭 운동도 하고 꼼꼼하게 동작을 가다듬으며 훈련을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02374_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 116
+                }
+            ]
+        }
+    ]
+}

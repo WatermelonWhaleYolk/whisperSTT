@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00639",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.282,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 발로 점프해 성공한 후위 공격은 38살 황연주가 제2의 전성기임을 보여줍니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 선수 @이름1의 부상 공백을 잊게 만든 8경기 연속 두 자릿수 득점.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.205,
+                "end": 12.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팀의 선두 질주에 흔들림이 없는 이유입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.832,
+                "end": 16.282
+            }
+        ]
+    },
+    "summary": "제2의 전성기인황연주의 8경기 연속 두 자릿수 득점은 외국인 선수의 부상 공백을 잊게 만든다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00639_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 95
+                }
+            ]
+        }
+    ]
+}

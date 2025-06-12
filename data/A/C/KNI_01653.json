@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "KNI_01653",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.9,
+        "format": "MP4",
+        "date": "2019-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "21명이 하나 된 원팀의 도전은 신나는 음악과 함께 한 훈련처럼 유쾌한 여정이었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.778
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2019년인지 2000년대 초반인지 헷갈리더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.788,
+                "end": 10.624
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쿵따리 샤바라 빠빠빠빠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.634,
+                "end": 14.281
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "축구 팬들한테는 정말 감동이 아닐 수 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.291,
+                "end": 17.306
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "TV에서 본 것보다 훨씬 멋지고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.313,
+                "end": 19.647
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아우라 장난 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.657,
+                "end": 21.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이돌급 인기를 자랑한 선수들은 팬들과 함께 활짝 웃으며 행복했던 한 달을 마무리했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.982,
+                "end": 29.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.660,
+                "end": 31.900
+            }
+        ]
+    },
+    "summary": "21명이 하나 된 원팀의 도전은 신나는 음악과 함께 한 훈련처럼 유쾌한 여정이었고 아이돌급 인기를 자랑한 선수들이 팬들과 함께 활짝 웃으며 행복했던 한 달을 마무리했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01653_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01653_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 49,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

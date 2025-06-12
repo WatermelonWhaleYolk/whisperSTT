@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYP_03491",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.322,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꿈은 사치고 희망은 껍데기다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 놈에게 3번의 기회는 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.388,
+                "end": 8.114
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 더란 생각이 또 오늘이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.124,
+                "end": 11.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 도전은 여기서 실패",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.163,
+                "end": 13.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크아아아아아 우어어어억 오늘 훈련은 곱으로 채워 넣겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.570,
+                "end": 22.322
+            }
+        ]
+    },
+    "summary": "꿈은 사치고 희망은 껍데기라서 그런 놈에게 3번의 기회는 없고 그래서 이 도전은 여기서 실패이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03491_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

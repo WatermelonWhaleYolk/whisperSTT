@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01141",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2022-09-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1의 개인 최고 기록은 합계 290킬로그램으로 도쿄 올림픽 금메달리스트 @이름2의 개인 최고 기록과는 45킬로그램 차이입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 힘은 검증된 선수니 만큼 인상에서 중량을 더욱 끌어올려야 하는 숙제를 안고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.945,
+                "end": 14.961
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밸런스 훈련이나 이런 쪽으로 조금 포커스를 맞춰서 하면은 올림픽에서 메달을 충분히 딸 수 있을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.971,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "@이름1은 이미 힘은 검증된 선수니 만큼 인상에서 중량을 더욱 끌어올려야 하는 숙제를 안고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01141_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_00395",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.162,
+        "format": "MP4",
+        "date": "2023-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "태 최고 의원이 과장 혹은 거짓말을 한 점이 드러났고 이는 당원과 국민 눈높이에 맞지 않는다는 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지 않은 말을 한 것처럼 본인이 과장해서 표현한 것이 상당한 부담을 당에 주게 되었다 하는 점에 대해서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.683,
+                "end": 16.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당 대표 요청 5시간 만에 오늘 저녁 소집된 긴급 윤리위 태영호 최고 위원의 사삼 사건 발언 등에 더해 총선 공천 관련 녹취 논란에 대해서도 징계 절차 개시를 결정했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.940,
+                "end": 29.162
+            }
+        ]
+    },
+    "summary": "태 최고 의원의 과장 혹은 거짓말이 국민 눈높이에 맞지 않고 상당한 부담을 당에 주게 되어 징계 절차 개시를 결정했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00395_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00395_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

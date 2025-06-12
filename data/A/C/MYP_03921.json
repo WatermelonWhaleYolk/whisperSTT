@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_03921",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2021-01-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 입원한지 며칠이 지나고 오랜 친구인 뷔미에르가 찾아왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왔냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.829,
+                "end": 6.129
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 아주 피골이 상접했네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.139,
+                "end": 9.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그녀는 날 위해 유명 빙과점에서 아이스크림을 가득 사 왔는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.990,
+                "end": 14.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와아 사제 아이스크림.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.089,
+                "end": 17.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먹고 빨리 나아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.385,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "주인공의 친구가 병문안을 와서 유명한 아이스크림을 먹으라고 주는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03921_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 7,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

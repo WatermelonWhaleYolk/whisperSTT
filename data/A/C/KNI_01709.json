@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01709",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.666,
+        "format": "MP4",
+        "date": "2018-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 북한 선수단장은 북한 인민들이 하나 된 마음으로 만든 공연이 아주 잘돼 분위기가 달아올랐다며 입촌식 분위기를 자평했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창 조직위도 화기애애한 분위기 속에 입촌식이 잘 마무리됐다며 만족감을 표했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.750,
+                "end": 16.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창 올림픽은 선수 22명과 임원 24명 등 모두 46명의 북한 선수단이 출전하며 응원단 221명이 나서 북한 선수단과 여자 아이스하키 단일팀을 응원할 계획입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 16.635,
+                "end": 30.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 30.468,
+                "end": 33.666
+            }
+        ]
+    },
+    "summary": "@이름1 북한 선수단장은 북한 측 공연이 아주 잘돼 분위기가 달아올랐다며 입촌식 분위기를 자평했고 평창 조직위도 화기애애한 분위기 속에 입촌식이 잘 마무리됐다며 만족감을 표한 한편 평창 올림픽은 선수 22명과 임원 24명 등 모두 46명의 북한 선수단이 출전하며 응원단 221명이 나서 북한 선수단과 여자 아이스하키 단일팀을 응원할 계획이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01709_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

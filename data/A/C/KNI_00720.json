@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "KNI_00720",
+        "category": "스포츠뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.081,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국내 랭킹 3위 정윤성이 나머지 대표 팀 선수들과 팀워크가 맞지 않다는 이유였습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 그 밖의 다른 선수들에게도 기회를 주지 않은 대표팀 코칭스태프와 대한 테니스 협회의 결정은 납득하기 어렵습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.025,
+                "end": 15.081
+            }
+        ]
+    },
+    "summary": "국내 랭킹 3위 정윤성이 나머지 대표 팀 선수들과 팀워크가 맞지 않다는 이유였지만 다른 선수들에게도 기회를 주지 않은 대표팀 코칭스태프와 대한 테니스 협회의 결정은 납득하기 어렵습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00720_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

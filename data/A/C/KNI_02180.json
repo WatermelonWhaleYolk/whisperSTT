@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "KNI_02180",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 46.9,
+        "format": "MP4",
+        "date": "2017-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평양을 대표하는 15만석 규모의 축구장인 능라도 오일 경기장 1990년 남북 통일 축구가 열렸던 의미 있는 곳에서 여자 대표팀이 중요한 일정을 준비했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 14.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "별표팀의 @이름1 감독은 통일 축구 당시 선수로 능라도 경기장에 섰던 인연도 있습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 14.106,
+                "end": 21.566
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 오면서도 이게 옛날 생각이 좀 많이 났었는데 상당히 감회가 깊습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 21.576,
+                "end": 26.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로 중요한 경기가 있으니까 거기에 집중하려고 노력하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 26.942,
+                "end": 30.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기장 내부에는 북측을 대표하는 스포츠 스타들의 사진이 걸려 있어 눈길을 끌었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 30.873,
+                "end": 38.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시설을 소개하던 안내원은 남북 경기에 대한 기대감을 드러냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 38.389,
+                "end": 43.735
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "꼭 가서 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.745,
+                "end": 46.900
+            }
+        ]
+    },
+    "summary": "평양을 대표하는 축구장인 능라도 오일 경기장 1990년 남북 통일 축구가 열렸던 의미 있는 곳에서 여자 대표팀이 중요한 일정을 준비했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02180_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

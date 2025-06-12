@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_01620",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2023-03-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "레츠 고라는 짧은 출사표와 함께 황선우가 힘차게 물살을 가릅니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "황선우는 초반부터 치고 나가며 50 미터 턴 구간을 통과했고 다른 선수들과 격차를 벌리며 선두를 유지했습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.016,
+                "end": 14.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "황선우는 세계선수권 기준 기록을 통과하며 48 초 21 올 시즌 세계 2 위 기록으로 1 위를 차지했습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4,
+                    5
+                ],
+                "start": 14.907,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "황선우는 세계선수권 기준 기록을 통과하며 48 초 21로 올 시즌 세계 2 위 기록으로 1 위를 차지했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01620_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 60
+                }
+            ]
+        }
+    ]
+}

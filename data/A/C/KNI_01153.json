@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "KNI_01153",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2022-09-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선거철도 아닌데 서울 한복판에 유세 차량이 등장했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자신의 얼굴이 도배된 유세 차량에서 손가락 7개를 펴 보이며 지지를 호소하고 있는 이 주인공 바로 월드컵 해설 대권 도전을 선언한 구자철 KBS 축구 해설위원입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 4.598,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "월드컵 해설 대권 도전을 선언한 구자철 KBS 축구 해설위원이 서울 한복판에서 유세를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

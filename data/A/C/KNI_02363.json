@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_02363",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.066,
+        "format": "MP4",
+        "date": "2016-08-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스피드와 이동 거리까지 파악하는 이 장비를 기반으로 하키팀은 20년 만에 메달을 노리고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심박수까지 측정이 되니까 선수 교체를 언제 해줘야 되는지 다시 또 투입을 해야 되는지를 일단 그 장치를 보고 하고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.493,
+                "end": 17.066
+            }
+        ]
+    },
+    "summary": "GPS 칩셋 장비는 스피드와 이동 거리, 심박수까지 측정이 돼 선수 교체, 투입 등을 결정할 때 도움이 돼 이를 바탕을 메달을 노리고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02363_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": 45,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

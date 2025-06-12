@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_00282",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.385,
+        "format": "MP4",
+        "date": "2022-11-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시속 90킬로미터를 넘는 파워 서브에 예리함까지 갖췄습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안정적인 리시버 김연경도 곤혹스러워할 정도로 야시민의 서브는 여자부 최강으로 꼽힙니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.410,
+                "end": 12.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야스민의 서브는 지난 시즌 현대 건설 강성형 감독을 만나면서 시작됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.894,
+                "end": 18.385
+            }
+        ]
+    },
+    "summary": "여자부 최강으로 꼽히는 야스민의 서브는 지난 시즌 김성형 감독을 만나면서 시작됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00282_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

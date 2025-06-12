@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYP_04283",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2020-01-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 아무도 모른다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇습니다 우리는 철저한 비밀기업 만약 게임이 우리로 인해 굴러간다는 사실을 주인공님께서 알게 되신다면 이 모든 것이 사실은 철저하게 개산되어 만들어 진 무대라는 것을 들키게 된다면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.547,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "우리는 철저한 비밀기업이고 만약 게임이 우리로 인해 굴러간다는 사실을 주인공님께서 알게 되면 안 되고 이 모든 것이 사실은 철저하게 개산되어 만들어 진 무대라는 것을 절대 들키면 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04283_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

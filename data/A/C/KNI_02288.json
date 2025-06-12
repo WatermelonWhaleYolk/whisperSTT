@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_02288",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.3,
+        "format": "MP4",
+        "date": "2016-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이세돌 9단은 바둑 역사의 중요한 대국이라고 판단해 도전을 수용했다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대국은 3월 8일부터 15일까지 5판 3선 승제로 진행됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.690,
+                "end": 10.749
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상금은 100만 달러 우리 돈 12억 원에 달합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.759,
+                "end": 14.495
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "로스앤젤레스에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.505,
+                "end": 18.300
+            }
+        ]
+    },
+    "summary": "이세돌 9단은 바둑 역사에 있어서 중요한 대국이라고 판단해 대국을 수용했고 대국은 3월 8일부터 15일까지 5판 3선 승제로 진행되며 상금은 100만 달러 우리 돈으로 12억이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02288_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

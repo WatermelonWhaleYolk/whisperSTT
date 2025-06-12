@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00913",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.533,
+        "format": "MP4",
+        "date": "2022-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리나라에 잘 타는 선수들 정말 많거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 이후에 선수들이 너무 잘해주고 있고 하기 때문에 점점 대한민국 피겨가 성장하고 있는 것 같아서 그게 너무 뿌듯하고 중계를 하다 보면 울컥 울컥 많이 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.070,
+                "end": 17.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연기를 보면 과정들이 너무 힘든 걸 알기 때문에 사실 눈물이 함께 나오는 거고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.336,
+                "end": 23.533
+            }
+        ]
+    },
+    "summary": "은퇴한 피겨 선수는 후배 선수들이 너무 잘해주고 있고 대한민국 피겨가 성장하고 있어서 뿌듯하고 중계를 하다 보면 과정의 힘듦을 알기에 울컥한다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00913_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

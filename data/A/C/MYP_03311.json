@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_03311",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘들이랑 어떻게 살았니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.241
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더 이상 물러설 곳이 없었던 우린",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.251,
+                "end": 4.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 형들 이 집은 어때요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.816,
+                "end": 8.717
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 있냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.727,
+                "end": 9.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어딘데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.873,
+                "end": 10.777
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무난해 보이는 곳이 눈에 들어오자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.787,
+                "end": 14.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "큰 방이고 3명 잘 수 있고 상가랑 전철역 가깝고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.048,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "큰 방이고 3명 잘 수 있고 상가랑 전철역 가까운 무난해 보이는 집이 우리 눈에 들어왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03311_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

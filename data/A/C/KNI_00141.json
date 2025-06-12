@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_00141",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.822,
+        "format": "MP4",
+        "date": "2023-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경찰에 가는 게 번거롭기도 하고 이미 그리고 기사가 난 거면 경찰도 알았을 텐데 굳이 제보를 해야 하나 싶기도 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.282
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음료를 마신 피해자 중엔 학부모도 1명 있는 것으로 확인됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.292,
+                "end": 12.026
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰은 마약과 피싱이 결합된 신종 수법이라는 점을 감안해 수사팀을 확대했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.036,
+                "end": 18.512
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 수법이 보이스 피싱과 유사한 점이 있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.522,
+                "end": 22.822
+            }
+        ]
+    },
+    "summary": "음료를 마신 피해자 중엔 학부모도 1명 있는 것으로 확인됐으며 경찰은 마약과 피싱이 결합된 신종 수법이라는 점을 감안해 수사팀을 확대했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00141_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

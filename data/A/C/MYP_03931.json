@@ -1,0 +1,194 @@
+{
+    "metadata": {
+        "filename": "MYP_03931",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.967,
+        "format": "MP4",
+        "date": "2021-01-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가 볼까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.731,
+                "end": 2.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.922,
+                "end": 4.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "둘.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.750,
+                "end": 6.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "셋.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.174,
+                "end": 8.390
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동시에 버튼을 눌렀는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.400,
+                "end": 10.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 눌렀다 눌렀다 야야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.498,
+                "end": 13.569
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기구 하게도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.579,
+                "end": 14.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야야야야야 우리 이제 가는 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.914,
+                "end": 17.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하하하 차라리 후련하다 야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.706,
+                "end": 21.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 말이 없어 임마 하하하하.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.279,
+                "end": 23.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 형.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.178,
+                "end": 25.737
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혼자 가셔야 되겟는데요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.747,
+                "end": 28.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어엉?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.460,
+                "end": 31.429
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자리가 딱 하나 남아있었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.439,
+                "end": 33.967
+            }
+        ]
+    },
+    "summary": "주인공와 친한형이 동반 입대를 위해 클릭을 했는데 자리가 하나 남아있어서 주인공은 가지 않는 상황이 된 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03931_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

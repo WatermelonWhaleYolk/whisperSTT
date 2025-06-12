@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_00437",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.318,
+        "format": "MP4",
+        "date": "2023-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사이렌을 울리며 속도를 올리는 구급차 맞은 편 차선에서 유턴하던 트럭과 부딪힙니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심정지가 온 환자여가지고 급하다는 신고를 받고 저희가 병원으로 출동을 하고 있었고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.796,
+                "end": 14.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보험사는 구급차 운전자에게 20퍼센트 과실이 있다고 봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.052,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "사이렌을 울리며 속도를 올리는 구급차 맞은 편 차선에서 유턴하던 트럭과 부딪혔는데 보험사는 구급차 운전자에게 20퍼센트 과실이 있다고 봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00437_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_02677",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.6,
+        "format": "MP4",
+        "date": "2020-09-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신비한 이야기 린가지니가 3가지 소원 들어준다네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.918
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "린 린가드 니가 왜 거기서 나와?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.928,
+                "end": 10.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하신가 나는 램프의 요정 린가지니 소원을 들어주기 위해 나타났지 어디 한번 소원 3개를 말해보시지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.316,
+                "end": 15.853
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 이 새끼 내 밑에 있을 땐 그래도 이 정도는 아니었는데 어쩌다 이 지경이 된 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.863,
+                "end": 19.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에헴 저는 축구의 신이 될 수 없을 바에 소원을 들어주는 램프의 요정이 되기로 해서 이렇게 되었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.766,
+                "end": 24.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어찌 됐든 소원 3가지 이루어드릴 테니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.867,
+                "end": 26.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 말 같지도 않은 소릴 하고 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.790,
+                "end": 28.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 뭐 돌아온 베일에게서 유리 몸 딱지를 떼달라면 떼주기라도 해?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.510,
+                "end": 32.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론이죠 하하하.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.049,
+                "end": 33.534
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 새끼가 구라만 늘어가지고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.544,
+                "end": 35.151
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 그럼 이번 주 토요일 맨유경기에 니가 선발로 나와달라면 나올 수 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.161,
+                "end": 38.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.605,
+                "end": 39.600
+            }
+        ]
+    },
+    "summary": "린가지니가 축구의 신이 될 수 없을 바에 소원을 들어주는 램프의 요정이 되기로 해서 이렇게 되었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02677_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_02077",
+        "category": "스포츠뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.2,
+        "format": "MP4",
+        "date": "2018-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "ATP 영상팀이 직접 방한해 정현의 일거수일투족을 직접 담아갈 정도입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.511
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.521,
+                "end": 15.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정현은 국내 훈련을 마친 뒤 유럽으로 출국해 오는 23일부터 바르셀로나 오픈에 출전합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.474,
+                "end": 22.404
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.414,
+                "end": 25.200
+            }
+        ]
+    },
+    "summary": "정현은 국내 훈련을 마치고 유럽으로 출국해 23일 부터 바로셀로나 오픈에 출전합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02077_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

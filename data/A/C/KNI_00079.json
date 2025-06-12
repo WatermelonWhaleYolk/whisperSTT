@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00079",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.249,
+        "format": "MP4",
+        "date": "2022-02-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "SNS를 통해서도 안녕 평창 잘 가 이제 진짜 보내줄게라는 말을 남긴 김보름은 오늘 경기 만을 생각하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.744
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 원하는 성적이 나올 수도 있고 그렇기 때문에 아직도 저는 후회 없는 레이스 그렇게 목표를 잡아두고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.754,
+                "end": 16.249
+            }
+        ]
+    },
+    "summary": "김보름은 후회 없는 레이스를 목표로 삼고 경기에 임하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00079_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

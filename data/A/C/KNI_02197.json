@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "KNI_02197",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 38.766,
+        "format": "MP4",
+        "date": "2017-12-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평창 동계올림픽 응원단인 화이트프렌즙니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "337박수에서 파도타기까지 따라 하기 어렵기도 하지만 열기만큼은 전문 응원단 못지않습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.985,
+                "end": 14.398
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "처음이다 보니까 많이 어렵고 어색한 게 많은데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.408,
+                "end": 17.235
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그래도 평창올림픽 맞이해서 열심히 저희가 응원 연습하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.245,
+                "end": 21.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강원도에서는 지역별로 만 7000명의 응원단이 성공대회를 준비하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.351,
+                "end": 27.210
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응원도 경기나 마찬가지라고 생각해요",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.220,
+                "end": 30.982
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그치만 날씨는 엄청 춥지만 그래도 추운 날씨에 응원 열심히 해갖고 평창올림픽이 잘 됐으면 좋겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 30.992,
+                "end": 38.766
+            }
+        ]
+    },
+    "summary": "추운 날씨에도 평창올림픽 응원단의 올림픽 성공을 위한 응원 열기가 뜨겁다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02197_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

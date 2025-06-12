@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_02379",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.266,
+        "format": "MP4",
+        "date": "2021-02-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기 이강인 씨 이강인 씨 일어나 보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.491
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 아 진짜 꿈이었구나 그런데 당신은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.501,
+                "end": 5.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반갑습니다 강인 씨 전 리옹에서 온 데파이라고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.295,
+                "end": 7.702
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아아 데파이 씨라면 예전에 맨 유에서 뛰셨던?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.712,
+                "end": 10.207
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 뭐 어찌됐든 음바페와 함께 다음 시대를 이끌어 갈 거라 평가받는 홀란드도 차근차근 올라가기 위해 레알과 맨 시티가 아닌 도르트문트를 선택했죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.217,
+                "end": 17.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어때요 강인 씨도 지금 당장 선발 출전이 급선무지 않나요 나와 같이 프랑스로 갑시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.561,
+                "end": 22.266
+            }
+        ]
+    },
+    "summary": "데파이가 이강인에게 선발 출전이 급선무라며 프랑스의 도르트문트로 가자고 권유합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02379_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

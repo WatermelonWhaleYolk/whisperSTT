@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_01891",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.861,
+        "format": "MP4",
+        "date": "2022-08-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 시즌 프로에 데뷔해 페퍼저축은행에서 리베로로 활약했던 김세인 불과 한 시즌만에 이렇게 역할이 바뀌었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도로공사로 유니폼을 갈아입은 19살 김세인은 공격수로 변신했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.453,
+                "end": 13.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "173센티미터 공격수치고는 작은 키지만 높은 점프력과 과감한 스파이크로 지난 시즌 챔피언 현대건설에 맹공을 펼쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.992,
+                "end": 23.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김세인의 활약으로 도로공사는 내리 1 2세트를 따냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.843,
+                "end": 27.861
+            }
+        ]
+    },
+    "summary": "지난 시즌 페퍼저축은행에서 리베로로 활약했던 김세인이 한 시즌만에 도로공사에서 공격수로 변신했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01891_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

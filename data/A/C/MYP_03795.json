@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYP_03795",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.464,
+        "format": "MP4",
+        "date": "2021-05-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "토이 보이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옛말에 남자는 커도 애라 그랬다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.136,
+                "end": 16.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어디 경우 없게 막타를 낼름하려 들어?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.888,
+                "end": 19.791
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭘 보고만 앉았어?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.801,
+                "end": 20.994
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "제사 지내냐?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.004,
+                "end": 22.301
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그게 니 제삿밥이 될 것이다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.311,
+                "end": 24.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 최근에는 이런 부분이 문화현상으로 정립되기도 했고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.866,
+                "end": 31.464
+            }
+        ]
+    },
+    "summary": "옛말에 남자는 커도 얘라고 했는데 남은 음식 하나를 가지고 남자들이 서로 싸운다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 27,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

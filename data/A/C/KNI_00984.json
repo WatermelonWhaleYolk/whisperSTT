@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_00984",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.098,
+        "format": "MP4",
+        "date": "2022-01-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잠시 후 KT 신인 하윤기와 동갑내기 친구인 모비스 이우석도 합류했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치열하게 신인왕을 다투는 이들은 만나자마자 또 다른 자리싸움에 나섭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.921,
+                "end": 10.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설명해 주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.800,
+                "end": 11.827
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아마 저희 둘이 센터 경쟁을 하지 않을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.837,
+                "end": 14.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "농구 실력은 올스타 전에 출전할 정도지만 춤은 너무 어렵습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.304,
+                "end": 19.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠깐 쉬는 시간에도 동영상을 보며 안무 따라 하기에 열심입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.297,
+                "end": 24.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2시간의 맹연습을 마무리하면서 춤 실력도 가졌습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.256,
+                "end": 29.095
+            }
+        ]
+    },
+    "summary": "농구 실력은 올스타 전에 출전할 정도지만 춤은 너무 어렵고 잠깐 쉬는 시간에도 동영상을 보며 안무 따라 하기에 열심입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00984_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

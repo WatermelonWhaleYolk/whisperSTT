@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01070",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.864,
+        "format": "MP4",
+        "date": "2022-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "규정에 사회 복무 요원의 출전 금지만 명시되어 있기 때문에 문제가 없다는 의견이 맞섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.346
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보험에 대한 관련 선수는 서면은 안 된다 그 못을 박았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.356,
+                "end": 13.019
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조정 없이 크게 돈 안 들이고 운영을 운영이 되니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.029,
+                "end": 18.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 문제는 축구 협회가 정한 허술한 규정 탓이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.250,
+                "end": 21.959
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실상 똑같은 성격의 병역 선수임에도 산업 기능 요원을 언급하지 않아 논란을 좌초했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.969,
+                "end": 28.862
+            }
+        ]
+    },
+    "summary": "복무 중인 사회 복무 요원이 축구 대회에 출전하는 데 대한 논란에서 규정에 사회 복무 요원의 출전 금지만 명시되어 있어 문제가 없다는 의견이 나왔다. 그러나 축구 협회가 정한 규정이 허술하게 마련되어 병역 선수와 산업 기능 요원의 차이를 명확히 하지 않아 논란을 좌초했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01070_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 47,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

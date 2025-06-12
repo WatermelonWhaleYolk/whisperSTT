@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "filename": "MYP_02830",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.133,
+        "format": "MP4",
+        "date": "2020-06-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강아지 강아지야 할애비가 얼른 일어나서 골도 넣고 우리 강아지 안고 오랜만에 세레머니도 해야겠구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.225
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일어나지마 할아부지 할아부지 아프잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.235,
+                "end": 11.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니야 할애비 할 수 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.646,
+                "end": 14.229
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 리오넬 메시 선수 일어납니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.239,
+                "end": 16.116
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 메시 선수 패널티킥도 직접 차려는 모양인데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.126,
+                "end": 19.024
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "골문에는 날파고 001이 지키고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.034,
+                "end": 21.648
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 한 치의 오차도 허용하지 않는 날파고 대 올해 나이 94세 최고령 선수 메시의 대결입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.658,
+                "end": 26.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 날파고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.268,
+                "end": 27.569
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "전방에 틀딱 발견 패널티킥 예상 성공률 0.000000001퍼센트",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.579,
+                "end": 32.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람이 언제 죽는다 생각하느냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.684,
+                "end": 34.908
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "사람은 병에 걸려 죽거나 사고를 당해 죽거나 수명이 다 되면 죽는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.918,
+                "end": 38.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 틀렸어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.935,
+                "end": 40.337
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "뭐라는 거냐 틀딱 개수작 부리지 마라 틀딱.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.347,
+                "end": 43.133
+            }
+        ]
+    },
+    "summary": "로봇과 노인 선수가 경기를 하고 있고 노인 선수가 로봇에게 사람이 언제 죽는지 아느냐고 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02830_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

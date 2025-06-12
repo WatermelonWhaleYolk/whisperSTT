@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_00796",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2023-02-11",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김연경에 주눅 들지 말고 오히려 적극적으로 공격하라는 주문에 김희진과 표승주가 힘을 내기 시작합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.769
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이동을 하면서 오히려 힘을 빼고 각도를 많이 줬던 표승주 선수고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.779,
+                "end": 12.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다양한 공격 기술을 좀 보여주고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.831,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "김연경에 주눅 들지 말고 적극적으로 공격하라는 주문에 김희진과 표승주가 다양한 공격 기술을 보여주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00796_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

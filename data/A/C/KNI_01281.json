@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_01281",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.154,
+        "format": "MP4",
+        "date": "2022-12-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "벤투 감독은 축구협회를 통해 선수들에게 감사하다며 인생에서 잊지 못할 아름다운 경험을 할 기회를 줬다고 작별 인사를 남겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 벤투의 시간은 가고 새로운 리더십을 찾아야 할 때입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.152,
+                "end": 14.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한축구협회는 국내외 지도자를 막론하고 확고한 지도 철학을 가진 명장을 선임하기로 결정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.026,
+                "end": 21.154
+            }
+        ]
+    },
+    "summary": "벤투 감독은 축구협회를 통해 선수들에게 감사하다며 인생에서 잊지 못할 아름다운 경험을 할 기회를 줬다고 작별 인사를 남겼습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01281_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

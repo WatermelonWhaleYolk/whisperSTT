@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01218",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.626,
+        "format": "MP4",
+        "date": "2022-11-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1은 올해 2월 노르웨이 핀세 등에서 맞춤 훈련을 했습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영하 25도를 넘나드는 강추위와 돌풍에 맞서는 대자연과의 싸움 무거운 썰매를 끌고 하루 평균 25킬로미터를 걷는 과정에서 벌어질 체력적 정신적 싸움에서 이기는 게 관건입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.218,
+                "end": 18.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 힘들 거 같다는 생각을 저도 지금은 하 하거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.850,
+                "end": 22.557
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 그걸 잘 넘기는 게 중요한 또 저의 몫이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.567,
+                "end": 26.626
+            }
+        ]
+    },
+    "summary": "@이름1은 노웨이 등에서 맞춤 훈련을 했고 영하 25도를 넘나드는 대자연과의 싸움에서 무거운 썰매를 끌고 하루 평균 25킬로미터를 걷는 과정에서 벌어질 체력적 정신적싸움에서 이기는 것이 관건이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01218_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

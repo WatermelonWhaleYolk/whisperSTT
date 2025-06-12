@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "KNI_01572",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.803,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "태극 마크를 단 WBC 대표팀으로 처음 만나는 자리 선수들의 얼굴에는 긴장감과 설렘이 교차했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.006
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "삼사 년 만에 태극 마크 또 다는 거라서 기분 좋고 반가울 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.016,
+                "end": 12.042
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뽑히게 돼서 너무 영광스럽고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.052,
+                "end": 15.032
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하나도 안 떨려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.042,
+                "end": 15.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전체 서른 명 가운데 미국에서 훈련 중인 이정호 등을 제외하고 19명이 참석한 첫 소집 이강철호의 출발을 응원하기 위해 기다리던 팬들도 기대감을 감추지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.698,
+                "end": 28.241
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "김하성 선수는 뭐 뭐 말할 필요가 없다라고 생각을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.251,
+                "end": 33.026
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "지금 이 메이저 리그 무대에서도 실력을 보여준 바 있기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.036,
+                "end": 36.803
+            }
+        ]
+    },
+    "summary": "태극 마크를 단 WBC 대표팀으로 처음 만나는 자리에 선수들의 얼굴에는 긴장감과 설렘이 교차했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01572_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

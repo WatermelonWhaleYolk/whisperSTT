@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_04237",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.527,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 뭐 제가 헝그리 버드 수호한 지도 꽤 됐지만 달걀에 손도 못 대봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 물론 그게 취급 주의 품목인데다 파손이 쉬운 것도 알지만 패치 대리님은 다른 사람한테 맡기기엔 영 못미더웠던 모양이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.914,
+                "end": 17.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 밤에 달걀 탈취도 항상 대리님이 직접 가셨거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.547,
+                "end": 22.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 우리야 뭐 할 일이 줄어드는 셈이니 몸은 편하긴 한데",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.291,
+                "end": 27.527
+            }
+        ]
+    },
+    "summary": "헝그리 버드 수호한 지도 꽤 됐지만 달걀은 취급 주의 품목인데다 파손이 쉽고 패치 대리님은 다른 사람한테 맡기기엔 영 못미더웠던 모양인지 밤에 달걀 탈취도 항상 대리님이 직접 가셔서 저는 손도 못 대봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04237_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

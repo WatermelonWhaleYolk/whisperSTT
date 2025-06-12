@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00540",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.857,
+        "format": "MP4",
+        "date": "2023-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 구속 영장 신청은 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특수본은 향후 수사 방침을 이렇게 정리했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.504,
+                "end": 5.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안 구속 영장을 검토했던 주요 피의자 모두 불구속 수사로 전환했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.936,
+                "end": 12.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 서울 경찰청장 @이름2 전 상황 관리관 @이름3 용산 소방서장 등 모두 4명을 업무상 과실 치사상 혐의로 불구속 송치 결정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.374,
+                "end": 23.857
+            }
+        ]
+    },
+    "summary": "특수본은 구속 영장을 검토해 왔던 서울 경찰청장과 전 상황 관리관 그리고 용산 소방서장 등 모두 4명을 업무상 과실 치사상 혐의로 불구속 수사로 전환했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00540_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

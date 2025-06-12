@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_03822",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2021-04-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 우리 좀 적적한데 과실에서 애완동물이라도 길러볼까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 키울만한 게 별로 없을 텐데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.289,
+                "end": 8.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래. 거북이.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.872,
+                "end": 10.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "운치 있게 거북이 좋다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.425,
+                "end": 11.693
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거북이요? 에이 그걸 과실에서 키우겠어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.703,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "20대 남성이 대학 시절 같은 과 형이 적적하니까 거북이라도 한번 키워 보자고 권하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03822_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNI_01798",
+        "category": "스포츠뉴스",
+        "sub_category": 21,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.7,
+        "format": "MP4",
+        "date": "2016-08-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리스에서 채화돼 만 2000여 명의 손을 거친 성화가 드디어 리우 시내에 모습을 드러냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "브라질 리듬에 맞춰 박수와 환호를 보내는 시민들.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.446,
+                "end": 10.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남미의 열정으로 그 어느 때보다 뜨겁게 성화를 맞이했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.466,
+                "end": 15.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 5월 3일 브라질에 도착한 성화는 300여 곳의 도시를 누비고 리우의 대표적인 명소도 지나왔습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 15.419,
+                "end": 23.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일은 반기문 UN사무총장도 봉송 주자로 나섭니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.477,
+                "end": 28.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일부 시민들이 성화 봉송을 반대하며 시위를 벌이기도 했지만 리우는 이제 축제 분위기로 물들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.231,
+                "end": 35.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "성화는 내일 리우 시내를 한 차례 더 돈 뒤 우리 시각으로 내일 새벽 마라카낭 주경기장의 성화대에 점화될 예정입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 35.465,
+                "end": 44.700
+            }
+        ]
+    },
+    "summary": "그리스에서 채화된 후 만 2000여 명의 손을 거친 성화가 리우 시내에 모습을 드러내자 시민들이 박수와 환호를 보내며 성화를 맞이했고 내일은 리우 시내를 한 차례 더 돌고 마라카낭 주경기장의 성화대에 점화될 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01798_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

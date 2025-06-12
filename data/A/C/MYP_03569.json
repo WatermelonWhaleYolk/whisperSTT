@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_03569",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.069,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘도 조지러 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "푹 잤네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.113,
+                "end": 4.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠은 역시 맛있어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.868,
+                "end": 7.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꿀잠이제.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.584,
+                "end": 10.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에헴 뜀박질과 웜업은 빠짐없이 했겠지?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.397,
+                "end": 28.319
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아하 참나 어이 이젠 거 그만 좀 물어보쇼.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.329,
+                "end": 34.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대체 몇 년째요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.297,
+                "end": 36.069
+            }
+        ]
+    },
+    "summary": "뜀박질과 웜업은 빠짐없이 했는지 물어봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03569_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

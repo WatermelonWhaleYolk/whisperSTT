@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_00631",
+        "category": "스포츠뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2023-01-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "키 194센티미터에 건장한 체격에 시속 160킬로미터에 육박하는 강속구를 던지는 @이름1의 재능은 미국에서도 높은 평가를 받고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국 MLB 닷컴은 @이름1의 빠른 공과 커브에 주목하며 박찬호의 아마추어 시절이 떠오른다고 소개했고 피츠버그 스카우터는 @이름1이 신이 내린 재능으로 야구를 한다고 치켜세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.087,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "큰 키에 건장한 체격을 가진 @이름1은 시속 160킬로미터에 육박하는 강속구를 던져 미국에서 높은 평가를 받고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00631_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 61,
+                    "act": 13
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00631_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

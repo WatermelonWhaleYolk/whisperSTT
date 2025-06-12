@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_02113",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.5,
+        "format": "MP4",
+        "date": "2019-09-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "30년 뒤 여긴 무슨 일일까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.082
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올림픽 이후에 지도자 생활을 좀 했다가 결혼을 하고 그리고 몽골에 갔거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.092,
+                "end": 9.727
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가족이 같이 몽골에 가서 이제 몽골 사람들 또 선수들, 어린아이들 탁구 가르치고 이러면서 좀 지내다가요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.737,
+                "end": 20.500
+            }
+        ]
+    },
+    "summary": "양영자 선수의 근황에 대해 인터뷰하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02113_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

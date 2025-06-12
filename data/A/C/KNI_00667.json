@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "filename": "KNI_00667",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.832,
+        "format": "MP4",
+        "date": "2023-01-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 2023년 첫 번째 금강급 장사를 결정하는 결승전입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 변칙 기술을 잘 생각해야 @이름1 첫 번째 판.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.490,
+                "end": 8.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 자 여기서 @이름1이 첫 번째 판을 가져갑니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.460,
+                "end": 12.033
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 번째 판.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.043,
+                "end": 13.282
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 잡고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.292,
+                "end": 14.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 여기서 좌우로 인제 들어가겠죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.611,
+                "end": 16.766
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 돌려 치고요. 돌려 치고요. 더 힘 있게 돌려 차기가 들어갑니다. @이름2",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 16.776,
+                "end": 21.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 이게 되는군요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.646,
+                "end": 23.019
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 세 번째 판입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.029,
+                "end": 24.548
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기서 승부를 걸어야겠죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.558,
+                "end": 26.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 등 치기를 할 것인지 자 @이름1 밀어 치기.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 26.070,
+                "end": 29.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 넘어갑니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.940,
+                "end": 32.832
+            }
+        ]
+    },
+    "summary": "2023년 첫 번째 금강급 장를 결정하는 결승전에서 @이름1과 @이름 2 선수가 만났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00667_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

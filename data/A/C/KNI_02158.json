@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02158",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 18.0,
+        "format": "MP4",
+        "date": "2017-07-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 비닐하우스와 주택이 물에 잠기는 등 충청권 전역에서 크고 작은 비 피해 신고도 잇달았습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기상청은 내일 아침까지 충청권에 최대 150밀리미터의 비가 더 내릴 것으로 예보했습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 6.667,
+                "end": 13.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 일부 지역에는 시간당 30밀리미터가 넘는 많은 비가 내릴 것으로 보여.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 13.030,
+                "end": 18.000
+            }
+        ]
+    },
+    "summary": "충청권 전역에서는 비닐하우스와 주택이 물에 잠기는 등 비 피해 신고가 잇달았고 기상청은 내일 아침까지 최대 150밀리미터의 비가 더 내릴 것으로 예보했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02158_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

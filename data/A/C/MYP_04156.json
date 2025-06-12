@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_04156",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2020-05-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 주인공님들의 발길도 점점 끊기게 되고 지원이 줄어들다 결국 고전 게임 부서로 넘겨지게 되지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 먼 과거에는 그곳에도 수호대가 있었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.493,
+                "end": 14.865
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 교류가 없어진 지 꽤 오랜 시간이 지났기 때문에 자네들 같은 젊은이는 아마 잘 몰랐을 것이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.875,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "고전 게임 부서에도 과거에는 수호대가 있었지만 교류가 없었진 지 오랜 시간이 지났기 때문에 젊은이들은 몰랐을 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04156_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

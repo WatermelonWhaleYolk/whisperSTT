@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_01689",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.333,
+        "format": "MP4",
+        "date": "2021-12-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다들 아시다시피 전 과거 토트넘을 떠나 레알에서 화려한 전성기를 보냈습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 그 영광은 오래가지 못했고 오랜 부상에 시달려왔죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.086,
+                "end": 7.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러다가 작년 토트넘에 임대 되어 팀 내 득점 3위를 기록하며 부활을 알렸습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.608,
+                "end": 11.968
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 결국 레알로 돌아간 뒤 다시 부상에 시달리는 중이시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.978,
+                "end": 15.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.753,
+                "end": 16.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토트넘에 돌아갔을 때만 해도 귀신같이 살아났는데 왜 레알에만 돌아오면 유리 몸으로 변하는 걸까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.329,
+                "end": 21.448
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에토전생",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.458,
+                "end": 22.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.418,
+                "end": 23.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "설마 토트넘에서 금지된 술법으로 절 살려냈던 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.116,
+                "end": 25.963
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "FA로 풀려나는 즉시 토트넘으로 넘어오십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.973,
+                "end": 29.333
+            }
+        ]
+    },
+    "summary": "베일은 과거 토트넘을 떠나 레알에서 화려한 전성기를 보냈으나 그 영광은 오래가지 못했고 부상에 시달려오다가 작년에 토트넘에 임대 되어 팀 내 득점 3위를 기록하며 부활을 알렸으나 레알로 돌아가서 다시 부상에 시달리고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01689_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "metadata": {
+        "filename": "KNI_01261",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 50.016,
+        "format": "MP4",
+        "date": "2022-11-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지면은 죽는다는 생각으로 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.552,
+                "end": 2.487
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수들이 부상 당하지 않고 4 년 간 흘린 땀의 결실을 맺길 바라는 마음입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 2.497,
+                "end": 8.175
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 월드컵 너무 큰 무대인데 재밌게 즐기시고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.185,
+                "end": 10.717
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다치시지 않고 파이팅하시길 바라겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.727,
+                "end": 12.607
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.617,
+                "end": 13.439
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.449,
+                "end": 15.421
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역시 첫 경기 승리에 대한 간절함을 안고 집결하기 시작한 우루과이 응원단 우리와 선의의 경쟁을 다짐하면서도 역시 주장 손흥민에 대한 경계심은 늦추지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.431,
+                "end": 27.393
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.403,
+                "end": 37.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "16강 진출의 첫 번째 관문인 우루과이의 1 차전 경기가 다가오면서 경기장 밖의 설렘과 긴장도 최고조에 달하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.989,
+                "end": 46.835
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도하에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 46.845,
+                "end": 50.016
+            }
+        ]
+    },
+    "summary": "16강 진출의 첫 번째 관문인 우루과이의 1 차전 경기가 다가오면서 경기장 밖의 설렘과 긴장도 최고조에 달하고 있다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

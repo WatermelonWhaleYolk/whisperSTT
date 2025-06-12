@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_01558",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.755,
+        "format": "MP4",
+        "date": "2023-03-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "회사 동료들과 자체적으로 꾸린 원정 응원단부터 구단 유니폼을 입고 건너온 야구팬까지 한 목소리로 힘을 보탰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.546
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "푸른 물결 같이 열심히 응원하고 같이 승리를 가져오는 걸로",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.556,
+                "end": 14.745
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대한민국 파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.755,
+                "end": 15.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응원석 한편은 한국계 빅리거 에드먼의 아내 등 가족들이 채웠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.544,
+                "end": 21.755
+            }
+        ]
+    },
+    "summary": "회사 동료들과 자체적으로 꾸린 원정 응원단부터 구단 유니폼을 입고 건너온 야구팬까지 한 목소리로 힘을 보탰고 응원석 한편은 한국계 빅리거 에드먼의 아내 등 가족들이 채웠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01558_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "KNI_01125",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.466,
+        "format": "MP4",
+        "date": "2022-08-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미국 캘리포니아주의 라구나 비치.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현지인들과의 길거리 농구에서 한국 선수의 호쾌한 농구 슛이 눈에 띕니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.062,
+                "end": 7.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "37살 노장 @이름1 등 7명의 SK 선수들은 미국에서 2주 동안 스케일 트레이닝이라 불리는 기술 연수를 받았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.670,
+                "end": 16.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 등 NBA 스타들을 지도했던 코치로부터 세밀한 풀워크 기술을 배웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.199,
+                "end": 22.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "NBA 출신의 배테랑 가드 @이름3의 드리블 전수도 쏠쏠한 도움이 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.361,
+                "end": 27.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.529,
+                "end": 31.607
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "굉장히 좋은 경험이었던 것 같고",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.617,
+                "end": 33.466
+            }
+        ]
+    },
+    "summary": "37살 노장 @이름1 등 7명의 SK 선수들은 미국에서 2주 동안 스케일 트레이닝이라 불리는 기술 연수를 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01125_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

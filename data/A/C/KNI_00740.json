@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00740",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.893,
+        "format": "MP4",
+        "date": "2023-02-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "KB전 시작부터 에이스 김단비의 석점포가 불을 뿜습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간결한 폼으로 2쿼터까지 무려 다섯 개의 석점포를 림에 꽂은 김단비 이어서 가드 박지현도 종횡무진 코트를 누비며 매서운 득점력을 뽐냈는데요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 4.828,
+                "end": 17.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 은행은 43득점을 합작한 김단비와 박지현의 활약으로 박지수가 부상으로 빠진 KB를 꺾고 정규 리그 자력 우승에 2승을 남겼습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.076,
+                "end": 26.893
+            }
+        ]
+    },
+    "summary": "우리 은행은 43득점을 합작한 에이스 김단비와 가드 박지현의 활약으로 박지수가 부상으로 빠진 KB를 꺾고 정규 리그 자력 우승에 2승을 남겼습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00740_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": 58,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

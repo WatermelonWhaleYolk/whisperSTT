@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01846",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.7,
+        "format": "MP4",
+        "date": "2021-10-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뉴캐슬을 인수하신 사우디 국부펀드의 자산 규모도 500조가 넘는다고 들었는데 아무래도 세계 최고의 선수들로 팀을 꾸리시는 게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.969
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그랬다간 재정적 페어플레이 위반으로 징계를 받는다는 거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.979,
+                "end": 12.045
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그럼 축구라는 게 돈으로 다 되는 게 아니라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.055,
+                "end": 14.667
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그렇게 당해놓고도 모르겠냐도르?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.677,
+                "end": 16.829
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "과거 맨시티도 4부리그 강등이니 유럽 대항전 출전 금지니 뭐니 하다가 쥐도 새도 모르게 없던 일이 돼버리지 않았냐 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.839,
+                "end": 25.700
+            }
+        ]
+    },
+    "summary": "남성 화자가 돈이 많은 사람에게 세계 최고의 선수들로 팀을 꾸리는 것을 추천하지만 다른 화자들이 축구라는 게 돈으로 다 되는 게 아니라며 그렇게 하면 징계를 받는다는 거 모르냐고 말하고 그 말을 들은 다른 화자가 과거에도 그런 일이 있었지만 쥐도 새도 모르게 없던 일이 되었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01846_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

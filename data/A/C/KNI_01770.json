@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01770",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.766,
+        "format": "MP4",
+        "date": "2017-05-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2010년 광저우 아시안 게임을 앞두고 열린 볼링 국가대표 선발전 결과 보고서입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선발전에서 각각 1위와 3위를 차지한 선수들이 지도자 평가에선 0점을 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.820,
+                "end": 11.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 아시안 게임에는 선발전에서 하위권을 기록했던 선수들이 대신 출전하게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.993,
+                "end": 18.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 선수에게 0점을 준 건 당시 볼링 국가대표 감독 64살 강 모 씨.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.046,
+                "end": 22.766
+            }
+        ]
+    },
+    "summary": "광저우 아시안 게임을 앞두고 열린 볼링 국가대표 선발전에서 각각 1위와 3위를 한 선수들이 지도자 평가에선 0점을 받아 선발전에서 하위권을 기록했던 건수들을 대신 출전하게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01770_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01770_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

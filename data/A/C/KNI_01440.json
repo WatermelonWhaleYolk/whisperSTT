@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_01440",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.049,
+        "format": "MP4",
+        "date": "2023-04-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수촌 훈련장의 네트를 직접 설치하는 김연경의 모습 처음 보는 낯선 장면인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "발리볼 네이션스 리그를 위해 모인 대표팀 선수들에게 조언도 아끼지 않는 김연경 고문 @이름1 신임 코치와도 소통하며 대표팀에 힘을 불어넣기 시작했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.270,
+                "end": 16.049
+            }
+        ]
+    },
+    "summary": "발리볼 네이션스 리그를 위해 모인 대표팀 선수들에게 조언도 아끼지 않는 김연경 고문이 신임 코치와도 소통하며 대표팀에 힘을 불어넣기 시작했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01440_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

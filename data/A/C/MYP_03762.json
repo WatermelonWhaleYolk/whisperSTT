@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_03762",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.337,
+        "format": "MP4",
+        "date": "2021-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물론 주변 시선을 의식하지 않는다면 남자끼리 얼마든지 올 수도 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.929
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어서 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.939,
+                "end": 5.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 분이세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.927,
+                "end": 7.541
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.551,
+                "end": 7.908
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어어 남자 손님 둘?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.918,
+                "end": 10.561
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 뭐 남자끼리 온 게 뭐 어때 요즘 세상에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.571,
+                "end": 13.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 그들은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.910,
+                "end": 15.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자리 안내 해드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.194,
+                "end": 16.493
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아싸 자리 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.503,
+                "end": 17.911
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "오예",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.921,
+                "end": 18.679
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 왜 도대체 왜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.689,
+                "end": 22.322
+            }
+        ]
+    },
+    "summary": "남자 둘은 주변 시선을 의식하지 않고 식당에 들어가고 안내하는 여종업원이 속으로 놀란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03762_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

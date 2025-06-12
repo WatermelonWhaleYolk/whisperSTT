@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNI_00447",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전술 분석 촬영 장비 앞에서 선수들이 일사불란하게 움직입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "송민규와 엄원상 등 2선 공격수들의 눈빛이 빛납니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.063,
+                "end": 9.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "황선홍 감독이 행복한 고민에 빠질 정도로 선수층이 두텁습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.675,
+                "end": 14.670
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "측면 미드필더에 있어서는 경쟁이 굉장히 심합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.680,
+                "end": 18.159
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 그 누구도 아시안게임에 간다고 장담할 수 없을 정도로",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.169,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "전술 분석 촬영 장비 앞에서 선수들이 일사불란하게 움직이고 황선홍 감독이 행복한 고민에 빠질 정도로 선수층이 두텁다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00447_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00447_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

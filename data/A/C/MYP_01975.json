@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_01975",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.066,
+        "format": "MP4",
+        "date": "2021-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 어떻게 됐나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더보기 리그에서 시즌을 마감했지 않나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.550,
+                "end": 4.116
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정성이 부족했던 게지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.126,
+                "end": 5.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고. 여봐라 라카제트 당장 저놈의 목을 쳐라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.962,
+                "end": 9.832
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그치만 족장 님 지금은 외질 님의 조언을 듣는 거 말고는 딱히 방법이 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.842,
+                "end": 14.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어허 얼른 목을 치지 않고 뭐 하는겐가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.441,
+                "end": 17.450
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이대로라면 족장 님의 목이 먼저 달아나게 생겼다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.460,
+                "end": 20.333
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "제발 저를 봐서라도 한 번만 외질 님의 얘기를 들어 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.343,
+                "end": 23.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 아스날 부족은 예로부터 사이언스 즉 과학이 발달한 부족이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.206,
+                "end": 28.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 외질 저놈을 들인 후부터 말도 안 되는 미신에 의존하다 보니 여기까지 온 게야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.381,
+                "end": 33.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 반드시 다시 한 번 과학을 부흥 시켜 부족의 영광을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.938,
+                "end": 37.977
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 제가 들려드릴 얘기는 미신이 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.987,
+                "end": 41.066
+            }
+        ]
+    },
+    "summary": "족장은 외질의 말대로 했더니 더보기 리그에서 시즌을 마감하지 않았냐고 하니 정성이 부족했다고 하고 다른 사람은 지금은 외질의 조언을 들어야 족장 님의 목이 달아나지 않는다고 하며 족장은 아스날은 예로부터 과학이 발달했는데 외질의 말도 안 되는 미신에 의존하다 보니 여기까지 왔다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01975_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

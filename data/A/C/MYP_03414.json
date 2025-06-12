@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "MYP_03414",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.397,
+        "format": "MP4",
+        "date": "2022-08-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월드 오브 노숙자 포 타운홀역편",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세상에는 아주 많은 직업들이 있고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.741,
+                "end": 16.540
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.550,
+                "end": 17.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "니가 만화가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.162,
+                "end": 18.846
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 뭐 그게 그렇게 됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.856,
+                "end": 22.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모든 직업에는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.074,
+                "end": 23.255
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헐 몇 년 안 봤더니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.265,
+                "end": 26.074
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "허허허",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.084,
+                "end": 28.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오타쿠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.090,
+                "end": 30.397
+            }
+        ]
+    },
+    "summary": "월드 오브 노숙자 포 타운홀역편의 세상에는 아주 많은 직업들이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03414_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

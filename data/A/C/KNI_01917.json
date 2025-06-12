@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_01917",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.593,
+        "format": "MP4",
+        "date": "2023-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "축구 협회는 지난 28일 우루과이와 평가전을 시작하기 1시간 전 승부 조작 가담자 등 100명의 축구인에 대한 사면을 기습적으로 결정했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 2011년 프로 축구 승부 조작 가담자 48명이 포함돼 있다는 사실에 축구 팬들은 크게 분노했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.026,
+                "end": 17.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 징계자 사면이란 자체가 상위 기관인 대한체육회 규정에도 없어 엉터리로 규정을 적용했다는 비판을 받았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.710,
+                "end": 26.593
+            }
+        ]
+    },
+    "summary": "축구 협회는 승부 조작 가담자 등 100명의 축구인에 대한 사면을 기습적으로 결정했는데 2011년 프로 축구 승부 조작 가담자가 포함돼 있다는 사실에 축구 팬들은 분노했고 상위 기간인 대한 체육회 규정에도 없는 징계자 사면으로 비판을 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01917_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

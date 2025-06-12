@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_01914",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.361,
+        "format": "MP4",
+        "date": "2022-12-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "허웅은 올스타 팬투표에서 역대 최다 2위에 해당하는 14만 2000여 표로 최고별에 뽑혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.257
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "DB소속이었던 지난 시즌에 이어 2년 연속이자 개인 통상 네 번째 1위입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.267,
+                "end": 11.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 2위였던 허훈이 군 입대로 빠진 가운데 지난해 2위였던 허훈이 군 입대로 빠진 가운데 2위 가스공사 이대성 등 총 24명의 출전 선수들이 결정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.469,
+                "end": 19.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 좀 방송에 많이 나와서 그렇지 않나 싶습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.459,
+                "end": 22.432
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다 같이 또 올스타 전 멤버가 또 좋은 행사를 만들어보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.442,
+                "end": 28.361
+            }
+        ]
+    },
+    "summary": "허웅은 올스타 팬투표에서 최고별로 꼽혔고 개인 통상 네 번째 1위이며 본인은 방송에 많이 나와서 그렇다고 생각하며 좋은 행사를 만들겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01914_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01914_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

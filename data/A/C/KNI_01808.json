@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "KNI_01808",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 61.333,
+        "format": "MP4",
+        "date": "2016-09-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수촌장의 입촌 선언에 이어 애국가가 리우 하늘에 울려 퍼지면서 태극기가 처음으로 게양됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.572
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 선수단장은 대한민국이 쓰여진 서예 족자를 선물로 전달하고 우리는 하나라는 점을 강조했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.582,
+                "end": 15.889
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금서부터는 전략에 집중을 해서 저희들이 갖고 있는 기량을 최대로 발휘해서 좋은 성과를 내도록 하는 그런 각오를 가지고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.899,
+                "end": 26.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "입촌식에 참가한 탁구와 유도 등 62명의 선수들은 이제서야 올림픽을 실감하면서 각자의 목표를 구체화했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.451,
+                "end": 34.675
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "금메달이 아니라 아니면 안 된다고 생각하고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.685,
+                "end": 38.276
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "제가 생각하고 준비했던 것 자체만 집중해서 보여드리면은 충분히 메달",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.286,
+                "end": 44.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한쪽 다리가 없는데도 화려한 춤 실력을 뽐낸 무용수들을 보며 할 수 있다는 자신감도 충전했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.701,
+                "end": 51.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 선수단은 사격과 수영, 양궁 등에서 금메달 11개 이상을 목표로 자신과의 한계에 도전하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 51.287,
+                "end": 59.012
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "코리아 파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.022,
+                "end": 61.333
+            }
+        ]
+    },
+    "summary": "입촌식에 참가한 탁구와 유도 등 62명의 선수들은 이제서야 올림픽을 실감하면서 각자의 목표를 구체화했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01808_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03424",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.784,
+        "format": "MP4",
+        "date": "2022-08-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오묘한 억양이 섞인 그의 말을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "디스뚜레인이체킹유체크백뚜레인나우비코우즈알비디올스탑",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.070,
+                "end": 8.058
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 음 엉?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.068,
+                "end": 10.498
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뚜 뚜레인?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.508,
+                "end": 11.958
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뚜레인 아 아 트레인 전철?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.968,
+                "end": 15.412
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "잭낑 최킹",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.422,
+                "end": 17.784
+            }
+        ]
+    },
+    "summary": "오묘한 억양이 섞인 그의 영어에 뭔지 잘 모르겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03424_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

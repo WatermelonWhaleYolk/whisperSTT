@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_04239",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.855,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "돼지들이 훔친 것처럼 일종의 도전장 같은 걸 남겨요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우린 그 시간과 장소에 맞춰서 세팅을 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.590,
+                "end": 7.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요래요래 그 작업도 항상 대리님이 직접 하셨기 때문에 저희는 그 쪽지가 어떻게 생겼는지도 몰라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.212,
+                "end": 15.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 근데 듣기로는 달걀은 우리 손에 있다이 멍청한 새대가리들 와하하하하하.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.354,
+                "end": 21.855
+            }
+        ]
+    },
+    "summary": "돼지들이 훔친 것처럼 일종의 도전장 같은 걸 남기고 우리는 그 시간과 장소에 맞춰서 세팅을 하는데 그것도 대리님이 항상 하셔서 저희는 어떻게 생겼는지도 모른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04239_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

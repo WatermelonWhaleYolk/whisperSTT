@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_01298",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2022-12-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "KB손해보험 홍상혁의 후위 공격이 아웃으로 판정되자 후인정 감독이 네트 터치를 주장하며 비디오 판독을 신청합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중계 화면을 다시 보니 박찬웅의 팔이 네트에 닿아 출렁인 것으로 확인됐지만 받아들여지지 않았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.897,
+                "end": 16.889
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "판독 결과 노 터치로 확인되었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.899,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "KB손해보험 홍상혁의 후위 공격이 아웃으로 판정되자 후인정 감독이 네트 터치를 주장하며 비디오 판독을 신청했지만 노 터치라는 판정이 나왔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01298_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

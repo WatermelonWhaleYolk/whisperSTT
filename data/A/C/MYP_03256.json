@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_03256",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.188,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 자기소개 영상을 찍게 됐는데 어색한 건 마찬가지인 것 같은 느낌이 드네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안 저희 코드팀 많이 사랑해주셔서 정말 정말 감사드리구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.887,
+                "end": 11.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로도 이런 저런 작품 많이 보여드릴테니까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.892,
+                "end": 15.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계속 사랑해주셨으면 네 정말 정말정말 감사 더 감사드릴 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.285,
+                "end": 22.188
+            }
+        ]
+    },
+    "summary": "더빙하는 팀의 사람들이 자기소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03256_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

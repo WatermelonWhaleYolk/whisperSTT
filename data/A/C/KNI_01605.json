@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01605",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.954,
+        "format": "MP4",
+        "date": "2023-03-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수단 급여 가입비까지 해서 저희 한 90프로 넘게는 지급 자금을 모아 놔서 조만간에 그거는 다 해결될 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.738
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "입금을 하고 그냥 저희가 플레이오프 진출하려고 지금 하고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.748,
+                "end": 11.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBL은 오는 31일까지 가입비 미납 시 곧바로 총회를 열고 데이원 농구단 존폐에 대해 논의합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.129,
+                "end": 18.648
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.658,
+                "end": 20.954
+            }
+        ]
+    },
+    "summary": "데이원 측은 90프로 넘게 지급 자금을 모아놔 해결이 가능하다며 입금을 하고 플레이오프에 진출하려한다했고 KBL은 오는 31일까지 가입비 미납 시 총회를 열어 데이원 농구단 존폐에 대해 논의할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01605_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

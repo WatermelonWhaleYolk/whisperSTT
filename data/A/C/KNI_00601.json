@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00601",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.249,
+        "format": "MP4",
+        "date": "2023-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1과 함께 경기장을 찾은 @이름2를 향해 소속팀 키움의 세레머니로 화답하기도 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 해 생애 첫 정규 시즌 MVP 자리에 오른 @이름3이지만 같은 해 프로야구 MVP가 된 @이름2에 대한 존경심도 담았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.117,
+                "end": 16.249
+            }
+        ]
+    },
+    "summary": "@이름1과 함께 경기장을 찾은 @이름2를 향해 소속팀 키움의 세레머니로 화답하기도 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00601_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

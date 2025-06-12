@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01827",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.352,
+        "format": "MP4",
+        "date": "2021-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "폭력 피해 제보자들에 따르면 이들은 후배들에게 요구르트 1.5리터를 강제도 마시게 한 뒤 복부를 때려 토하게 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 옷을 벗게 한 뒤 몸에 일명 BB탄 총을 쏘기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.606,
+                "end": 11.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제보자들은 두 선수가 합숙소의 왕처럼 군림하며 심지어 성추행과 성희롱까지 일삼았다고 폭로했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.754,
+                "end": 19.352
+            }
+        ]
+    },
+    "summary": "두 선수는 후배들에게 요구르트를 마시게 한 뒤 복부를 때려 토하게 하거나 옷을 벗긴 뒤 BB탄 총을 쏘기도 하고 성추행, 성희롱을 일삼았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01827_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

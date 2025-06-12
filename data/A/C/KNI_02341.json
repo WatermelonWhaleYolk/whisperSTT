@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_02341",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.233,
+        "format": "MP4",
+        "date": "2016-07-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "카스의 잠정 처분과 상관없이 법원의 그 결정을 따라야 할 의무가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 따르지 않는 경우엔 위법 행위가 될 수 있어서 선수측으로부터 민사상 손해 배상 청구를 당할 우려도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.619,
+                "end": 13.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "카스 판결이 임박하면서 체육회도 발빠른 움직임을 보이고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.730,
+                "end": 18.414
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "체육회는 판결 결과를 받은 뒤 국제 수영 연맹 올림픽 명단 제출 마감일인 내일 오전 긴급 이사회를 소집해 최종 결정을 내릴 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.424,
+                "end": 28.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.551,
+                "end": 31.233
+            }
+        ]
+    },
+    "summary": "카스의 잠정 처분에 상관없이 법원의 결정을 따라야 할 의무가 있어 체육회는 결과를 받은 뒤 내일 오전 긴급 이사회를 소집해 결정할 예정이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

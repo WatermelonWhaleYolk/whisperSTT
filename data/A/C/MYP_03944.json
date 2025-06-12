@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "MYP_03944",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.337,
+        "format": "MP4",
+        "date": "2020-12-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자고로 말은 제주도로 보내고 사람은 서울로 가라 했니라 으.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "말 인디 예 말이 말 같지가 않지 예.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.037,
+                "end": 7.824
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 많은 사람들이 오랫동안 서울로 상경해왔고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.834,
+                "end": 11.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 그거 받고 니도 서울 가그라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.675,
+                "end": 14.544
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 이기 뭡니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.554,
+                "end": 16.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오후쯤이면 도착할 끼다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.789,
+                "end": 19.214
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "밤에는 도착할 끼다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.224,
+                "end": 22.322
+            }
+        ]
+    },
+    "summary": "많은 사람들이 서울로 상경해 왔는데 년도가 바뀔수록 올라오는 속도가 빨라졌음을 보여주는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03944_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "MYP_04263",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.264,
+        "format": "MP4",
+        "date": "2020-02-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 더빙 영상은 작가님의 허락을 받고 만들어 졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허락을 받지 않고 스크린샷을 찍어 더빙 영상을 만드는 건 불법입니다 절대로 하지 마시기 바랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.964,
+                "end": 11.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 허락받았는데 네이버에서 막으면 저 진짜 빤스 벗고 네이버 찾아갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.739,
+                "end": 19.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특별한 손님들.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.142,
+                "end": 31.264
+            }
+        ]
+    },
+    "summary": "이 더빙 영상은 작가님의 허락을 받고 만들어 졌고 허락을 받지 않고 스크린샷을 찍어 더빙 영상을 만드는 건 불법이니 절대로 하지 마시기 바란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04263_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

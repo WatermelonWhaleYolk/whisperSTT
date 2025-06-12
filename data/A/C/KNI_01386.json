@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_01386",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 35.001,
+        "format": "MP4",
+        "date": "2023-04-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1번 살아난 대한항공 공격은 3세트에 이어 4세트 역시 일찌감치 점수 차를 벌렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 세트까지 가는 접전 대한항공이 3 대 2 짜릿한 역전승을 거두자 선수들은 기쁨을 감추지 못합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.379,
+                "end": 16.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한항공은 삼성화재 이후 처음으로 3회 연속 통합 우승을 달성하며 새로운 왕조 시대를 열었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.037,
+                "end": 24.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "컵 대회와 정규 리그에 이어 챔프전까지 구단 최초로 한 시즌 3관왕에 오르는 명예까지 누렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.436,
+                "end": 32.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 32.695,
+                "end": 35.001
+            }
+        ]
+    },
+    "summary": "대한항공은 삼성화재 이후 처음으로 3회 연속 통합 우승을 달성하며 새로운 왕조 시대를 열었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01386_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

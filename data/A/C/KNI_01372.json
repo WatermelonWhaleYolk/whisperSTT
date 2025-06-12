@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_01372",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.329,
+        "format": "MP4",
+        "date": "2023-01-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김단비는 한 시즌에 1번도 하기 힘들다는 트리플더블을 올 시즌 벌써 3번이나 기록했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.077
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "옆에 좋은 선수들이 있기 때문에 어 다른 선수들한테 많이 좋은 시너지 효과를 제가 받기도 하는 것 같고 그래요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.087,
+                "end": 14.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김단비가 프로에 데뷔한 2007년부터 소속팀이었던 신한은행은 6회 연속 통합우승을 해내며 왕조를 일궜습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.614,
+                "end": 22.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 챔피언결정전 MVP는 전주원과 정선민 하은주 등 기라성 같은 선배들의 몫이었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 22.517,
+                "end": 29.329
+            }
+        ]
+    },
+    "summary": "김단비는 트리플더블을 올 시즌 벌써 3번이나 기록하며 전성기를 보내고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01372_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_02754",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.733,
+        "format": "MP4",
+        "date": "2020-07-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가도야 가순아 아빠 왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어머 가도 아빠 오셨어요 저녁은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.962,
+                "end": 4.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 앞에 치킨집이 하나 생겼더라고 우리 가도 가순이 생각나서 한 마리 아니 한 마리 가격에 두 마리를 주길래 두 마리 사왔지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.816,
+                "end": 11.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가도야 가순아 치킨 아니 아빠 오셨다 나와서 인사해야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.793,
+                "end": 16.543
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와 치킨이다 치킨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.553,
+                "end": 17.759
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가도야 너도 얼른 나와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.769,
+                "end": 19.394
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오빠 아마 안 나올걸?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.404,
+                "end": 20.733
+            }
+        ]
+    },
+    "summary": "가도와 가순이의 아빠가 집 앞에 새로 생긴 치킨집에서 치킨 두 마리를 사서 오셨습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02754_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

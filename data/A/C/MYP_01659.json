@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYP_01659",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.366,
+        "format": "MP4",
+        "date": "2021-12-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 두 번째 게스트 들어와 주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.055,
+                "end": 2.963
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한때 영국의 필드를 휩쓸며 첼시의 행보관으로 활약했지만 지금은 스페인의 음식을 휩쓸며 레알의 햄버거로 활약 중인 에당 아자르입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.972,
+                "end": 11.084
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 들리는 소문으로는 레알이 당신을 포기한다던데 어떻게 영국에 돌아오시면 부활하실 수 있겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.094,
+                "end": 17.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첼시 리턴부터 토트넘 이적까지 다양한 이적설이 흘러나오고 있지만 전 레알에 남고 싶습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.189,
+                "end": 23.099
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "레알에서 부활할 방법은 진짜 없는 걸까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.109,
+                "end": 25.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스바새끼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.830,
+                "end": 26.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.853,
+                "end": 27.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스페인에서 주급이나 축 내는 바퀴벌레로 남으시겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.617,
+                "end": 31.366
+            }
+        ]
+    },
+    "summary": "소문으로는 레알이 아자르를 포기한다고 하던데 영국으로 돌아오면 부활할 수 있겠냐는 질문을 받고 아자르는 레알에 남고 싶다고 말하면서 레알에서 부활할 수는 없는지 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01659_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

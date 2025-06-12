@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_00616",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.667,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월드컵 2개 대회 연속골과 함께 카타르에서 센추리 클럽도 가입한 김영권의 다음 목표는 K리그 2연패입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음달 K리그 개막전 상대가 마침 라이벌 전북으로 확정되면서 긴장과 주목도는 더 늘었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.960,
+                "end": 15.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 이적 사태로 인해 팀의 신경전은 최고조에 올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.220,
+                "end": 20.225
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "작년보다 더 힘든 한 해가 될 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.235,
+                "end": 24.423
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 또 저희 선수들이 어 그걸 잘 알고 있고 그리고 어떻게 해야 우승을 할 지 잘 알고 있기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.433,
+                "end": 34.667
+            }
+        ]
+    },
+    "summary": "월드컵 2개 대회 연속골과 함께 카타르에서 센추리 클럽도 가입한 김영권의 다음 목표는 K리그 2연패이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00616_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

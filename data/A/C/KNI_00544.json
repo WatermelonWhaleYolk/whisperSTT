@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_00544",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.7,
+        "format": "MP4",
+        "date": "2023-01-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 대표는 이에 대해 이미 무혐의로 결론이 난 사안인데 정권이 바뀌니 검찰이 정적 제거 수사에 나섰다고 비판해 왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼룩 먼지 만들어 내려고 십수 년 노력했지만 아직도 못 만든 모양입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.516,
+                "end": 16.369
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명이 그렇게 무섭습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.379,
+                "end": 20.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 법의 심판이 이제 시작됐다면서 이 대표가 수사에 적극 협조해 주길 바란다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.502,
+                "end": 28.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰을 향해선 국민적 의혹이 해소될 수 있도록 철저히 수사하라고 촉구했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.150,
+                "end": 33.700
+            }
+        ]
+    },
+    "summary": "이 대표는 이미 무혐의로 결론이 난 사안인데 정권이 바뀌니 검찰이 또 수사에 나선다고 비판했으며 국민의힘은 이 대표가 수사에 적극 협조해 주길 바란다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00544_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

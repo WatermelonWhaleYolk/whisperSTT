@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_00468",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 51.7,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 없습니까 그렇다면 별 수 없군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토트넘의 회장을 맡고 있는 저 다니엘 레비가 두 피고를 변호하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.402,
+                "end": 5.694
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 지금 뭐 하시는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.704,
+                "end": 7.307
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수가 궁지에 몰려 있을 때 그들을 지켜주는게 바로 회장의 역할이지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.317,
+                "end": 11.497
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "회장의 역할은 시발 어떻게든 저것들을 다음 시즌까지 끌고 가면서 돈 좀 아껴보겠다는 속셈을 제가 모를 것 같습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.507,
+                "end": 17.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 안타깝게 걸려버렸군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.818,
+                "end": 19.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 2명을 동시에 방출 시켜버리는 거 너무 정내미가 없지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.608,
+                "end": 23.315
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하여간 지독한 빡빡이 같으니라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.325,
+                "end": 25.349
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 좋습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.359,
+                "end": 26.394
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 둘 중에 한 명이라도 쫓아내지 않는다면 정작 팀을 떠나게 되는 건 저 해리 케인이라는 것만 명심하시기 바랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.404,
+                "end": 32.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다행히 500억 정도는 아니 선수 한 명은 지킬 수 있겠군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.687,
+                "end": 35.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 구독자 여러분께서는 어떻게 생각하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.800,
+                "end": 38.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토트넘 최악의 센터백 산체스와 다이어 중에 한 명만 쫓아낼 수 있다면 똥쟁이 다이어 파울쟁이 산체스 누굴 먼저 쫓아내야 한다고 생각하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.271,
+                "end": 51.700
+            }
+        ]
+    },
+    "summary": "토트넘 회장이 두 선수를 변호하려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00468_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

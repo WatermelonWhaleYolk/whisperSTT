@@ -1,0 +1,238 @@
+{
+    "metadata": {
+        "filename": "MYP_00599",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 46.068,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 손님들 첫 번째 요리 나왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.095
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네 그건 무슨 요리입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.095,
+                "end": 4.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이건 프랑스 유학파 출신 셰프님께서 직접 만드신 카바니 부리또라는 건데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.957,
+                "end": 11.070
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 부리또는 남미 음식 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.080,
+                "end": 12.911
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "프랑스 유학파라면 프렌치 요리가 나와야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.921,
+                "end": 15.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 그게 셰프님께서 프랑스에서 오시긴 했지만 우루과이분이시거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.170,
+                "end": 20.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그래도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.260,
+                "end": 21.117
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "여기서부턴 제가 설명해 드리죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.127,
+                "end": 23.040
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐 여러분들이 이런 고급 요리를 드셔보셨을 리 없겠지만 이건 남미와 유럽의 환상적인 콜라보 그 자체라고 할 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.050,
+                "end": 29.540
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "프랑스에서 직접 공수한 고급 버터로 구워낸 또르띠야에 어 이거 왜 2개밖에 안 가져왔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.550,
+                "end": 34.667
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "손님 3분인 거 안 보여?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.677,
+                "end": 35.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.812,
+                "end": 36.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 전 그냥 요리가 나왔길래 가져온걸요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.330,
+                "end": 39.134
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이 녀석아 홀 총괄이라는 놈이 이런 실수를 하면 어떡해?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.144,
+                "end": 42.060
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어이 맥토미니 부리또 하나 더 가져와 빨리빨리",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.070,
+                "end": 44.602
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "여기 받으세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.600,
+                "end": 45.444
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "휙",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.454,
+                "end": 46.066
+            }
+        ]
+    },
+    "summary": "화자 4는 왜 프렌치 요리가 아니냐고 물어보는 사람들에게 고급 요리인 부리토는 남미와 유럽의 콜라보 그 자체인 고급 요리라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00599_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

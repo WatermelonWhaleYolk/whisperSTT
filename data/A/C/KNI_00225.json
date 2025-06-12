@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_00225",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.389,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내년 10월에 안 오고 그냥 올해 아시안게임 금메달 따서 올해 10월에 왔으면 좋겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러고 싶지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.523,
+                "end": 7.654
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경민이도 같이 가서 같이 갔다오는 게 좋지 않냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.664,
+                "end": 11.798
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나 뽑아줬으면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.808,
+                "end": 13.092
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "3년 전 정규리그 1위를 했지만 코로나19로 챔프전을 치루지 못했던 3총사는 우승을 향해 다시 한 마음이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.102,
+                "end": 22.389
+            }
+        ]
+    },
+    "summary": "세 사람은 3년 전 정규리그 1위를 했지만 코로나19로 챔프전을 치루지 못했지만 우승을 향해 다시 한 마음이 됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00225_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

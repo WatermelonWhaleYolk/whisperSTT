@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_00926",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.111,
+        "format": "MP4",
+        "date": "2022-11-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "키미히로 진행시켜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.767
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "탄탄한 수비라인을 받치는 중원엔 역시 고레츠카 고정에 수비적일 땐 귄도안 공격적일 땐 무시알라를 내보내며 유동적인 3미들 체제가 운영될 것으로 보이며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.777,
+                "end": 8.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왼쪽 날개엔 자네 오른쪽 날개엔 그나브리 뮌헨의 측면 라인 그대로 진행시켜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.549,
+                "end": 13.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최전방은 부상으로 이탈하 베르너의 공백을 첼시의 멀티 플레이어 하베르츠가 메울 것이 유력하며 마지막으로 저 토마스 뮐러가 섀도우 스트라이커로 출전해 미친 듯이 날뛰며 공격 전체를 이끄는 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.330,
+                "end": 22.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후보에는 누가 있지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.637,
+                "end": 23.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 오랜만에 괴체까지 나오고 재밌네 재밌어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.552,
+                "end": 26.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 괴체 상대팀 뒤통수 후려갈길 준비됐어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.614,
+                "end": 29.856
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리팀 뒤통수나 안 치면 다행이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.866,
+                "end": 31.572
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 04년생 스트라이커 무코코가 고작 17살이라는 나이로 월드컵에서 득점할 준비를 마쳤으며 노이어 선배 못지않은 월클 골키퍼 슈테겐 역시 출격 준비를 마쳤습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.582,
+                "end": 40.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주전부터 후보까지 아주 훌륭해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.635,
+                "end": 42.224
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "완벽해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.234,
+                "end": 42.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋았어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.676,
+                "end": 43.357
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이대로 16강을 넘어 8강, 4강 우승까지 진행시켜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.367,
+                "end": 48.100
+            }
+        ]
+    },
+    "summary": "노이어 선수가 뮐러 선수에게 팀 전략과 포지션에 대한 설명을 들으며 16강을 넘어 우승까지 가보자고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00926_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 43,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

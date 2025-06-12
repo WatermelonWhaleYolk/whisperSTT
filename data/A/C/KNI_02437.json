@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_02437",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.793,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.720,
+                "end": 1.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 멀리 나갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.308,
+                "end": 3.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞선 선수들보다 상당히 멀리 간 @이름1 선수 2차 시기였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.143,
+                "end": 8.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 16미터 넘었네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.852,
+                "end": 10.502
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 진짜 확실히 선수들이 차 시기를 거듭하면서 조금 더 좋은 기록들을 내는 모습을 보여주고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.512,
+                "end": 17.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 필드는 그마만큼 차 시기가 넘어가면 넘어갈수록 선수들이 긴장감도 풀리기 때문에 좋은 기록이 어 나오고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.609,
+                "end": 26.793
+            }
+        ]
+    },
+    "summary": "포환 종목에서 @이름1 선수가 2차 시기에서 16미터를 넘기는 좋은 기록을 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02437_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

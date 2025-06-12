@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_03191",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2023-05-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그게 합법이었다. 오늘의 이야기는 라스트 스탠드. 나는 게임을 좋아했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.106
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 보스다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.116,
+                "end": 9.363
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋았어. 오늘은 끝장낸다. 자 막타다. 끝장내버려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.373,
+                "end": 13.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 보통의 게이머들처럼 게임 플레이 자체를 즐긴 게 아니라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.913,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "나는 게임을 좋아하는데 플레이 자체를 즐긴 것은 아니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03191_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

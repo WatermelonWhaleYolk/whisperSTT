@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01864",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.766,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자네와 린가드가 연일 상승세를 이어 가는 반면 난 5경기에 3골을 넣고도 팀의 부진으로 위기에 처해 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동갑내기 친구의 부탁 한번 들어 주는 게 그렇게 어려운가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.009,
+                "end": 10.423
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 진작에 날 영입하랬잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.433,
+                "end": 12.564
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "케인의 맨시티 이적설이 끊이지 않았을 무렵 나 잉스의 토트넘 이적설 역시 지속해서 흘러나왔네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.574,
+                "end": 17.892
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그치만 결국 어떻게 되었나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.902,
+                "end": 19.766
+            }
+        ]
+    },
+    "summary": "손흥민이 자신은 5경기에 3골을 넣고도 팀의 부진으로 위기에 처해 있다며 부탁 한번 들어 달라고 하는데 잉스는 진작에 날 영입하지 그랬냐며 케인의 맨시티 이적설이 끊이지 않았을 무렵 자신의 토트넘 이적설도 지속해서 흘러나왔다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01864_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

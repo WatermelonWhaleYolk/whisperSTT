@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYP_02066",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.9,
+        "format": "MP4",
+        "date": "2021-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가가 다른 건 몰라도 몸싸움 하나만큼은 아주 보통이 아니랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.242
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 그래도 구단에서 테오 에르난데스를 데려오려고 노력 중이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.252,
+                "end": 6.758
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 녀석만 합류한다면 스쿼드를 갖추는 거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.768,
+                "end": 9.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 한 명 더 말씀드려도 되겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.447,
+                "end": 12.087
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.097,
+                "end": 12.488
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 테오를 못 데려온다면 차석책도 생각해 둬야지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.498,
+                "end": 15.766
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 토트넘에서 뛰고 있는 이름이 33인가 하는 BD실장이는 보통입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.776,
+                "end": 20.444
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "BD33?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.454,
+                "end": 21.677
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 벤 데이비스 말이야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.687,
+                "end": 23.242
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그 녀석은 왜 보통이라는 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.252,
+                "end": 25.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시라도 전 소속팀의 선수를 데려오실까 하는 걱정에 말씀드린 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.077,
+                "end": 29.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 놈아는 보통이 아니라 아주 엉망입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.280,
+                "end": 32.900
+            }
+        ]
+    },
+    "summary": "두 사람이 새로 합류할 선수에 관해 이야기하며 테오 에르난데스를 구단에서 데려오려고 노력 중이고 벤 데이비스는 엉망이니 데려오지 말라고 걱정하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02066_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00384",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.315,
+        "format": "MP4",
+        "date": "2023-04-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "은반 위를 더 밝게 수놓을 미소 천사 이해인의 긍정 피겨는 앞으로도 계속됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.569
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더 웃으면서 즐겁게 스케이팅 타는 모습을 보여드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.579,
+                "end": 11.610
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응원해주셔서 감사합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.610,
+                "end": 15.315
+            }
+        ]
+    },
+    "summary": "이해인 선수가 다음 시즌 각오를 말하면서 감사함을 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00384_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

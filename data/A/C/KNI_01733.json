@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01733",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.7,
+        "format": "MP4",
+        "date": "2018-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 승리로 우리 대표팀은 자력으로 4강 진출을 확정했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 샷 아니면 우리 지는구나 생각을 하고 최선을 다해서 집어넣었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.792,
+                "end": 8.505
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 느낌이 느낌이 좋았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.515,
+                "end": 12.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부담을 털어낸 우리 대표팀은 중국과의 예선 마지막 경기에서 1번 더 신바람을 냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.729,
+                "end": 18.700
+            }
+        ]
+    },
+    "summary": "컬링 우리 대표팀은 자력으로 4강 진출을 확정했고 중국과의 마지막 예산 경기에서도 신바람을 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01733_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNI_02266",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.866,
+        "format": "MP4",
+        "date": "2018-05-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신태용호의 가장 큰 고민은 수비진에서는 김민재가 부상으로 탈락했고 최근 훈련을 재개한 김진수가 합류했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.963
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김진수 선수는 지금 가벼운 조깅을 소화할 수 있다는 보고가 있어서 최종 합류할 지 안 할지는 지켜봐야 될 것 같다고",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.973,
+                "end": 23.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최종 명단은 23명이지만 부상자들의 상태를 지켜보는 차원에서 5명을 예비로 추가 발탁했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.074,
+                "end": 30.299
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신태용 감독은 국내 평가전까지 함께 훈련한 뒤 다음달 유럽으로 떠나기 전 최종 23명으로 명단을 추리게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.309,
+                "end": 38.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "통쾌한 반란을 한 번 일으키고",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.525,
+                "end": 41.866
+            }
+        ]
+    },
+    "summary": "축구 대표팀은 수비진에서 김민재 선수가 부상으로 탈락해 최근 훈련을 재개한 김진수가 합류할 예정이고 최종 명단은 23명이지만 부상자들의 상태를 지켜보는 차원에서 5명을 예비로 추가 발탁해 함께 훈련 후 다음달 유럽으로 떠나기 전 최종 23명으로 추리게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02266_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

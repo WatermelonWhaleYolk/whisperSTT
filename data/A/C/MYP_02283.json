@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_02283",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.366,
+        "format": "MP4",
+        "date": "2021-04-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 다들 똑똑히 봤겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "램파드가 물러나고 내가 부임한 뒤로 리그 성적도 껑충 뛰었을 뿐더러 FA컵 준결승 진출 챔피언스리그 준결승 진출 어때?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.766,
+                "end": 10.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 정도면 조금 사이코 기질이 있다 해도 일 잘하는 또라이가 더 낫지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.432,
+                "end": 14.274
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 뭐 그렇긴 한데 전 도대체 언제쯤 리그나 챔스에서 뛸 수 있는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.284,
+                "end": 17.771
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저번 FA컵 무실점으로 막는 거 보셨죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.781,
+                "end": 20.012
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 멘디가 아닌 케파의 시대가 다시.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.022,
+                "end": 24.366
+            }
+        ]
+    },
+    "summary": "새로 부임한 감독이 성과가 좋은 것은 말하고 있고 한 선수가 본인은 언제 리그에서 뛸 수 있는 지 묻지만 감독이 무시하는 장면을 만화 표현 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02283_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

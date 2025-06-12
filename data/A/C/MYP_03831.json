@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "MYP_03831",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.526,
+        "format": "MP4",
+        "date": "2021-03-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꽐라꿈동산.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람은 누구나",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.485,
+                "end": 12.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모듬 안주랑 소주 1병 주세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.148,
+                "end": 14.300
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "넹.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.300,
+                "end": 15.055
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고유의 버릇들을 가지고 있으며",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.066,
+                "end": 16.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에헤헤헤헤 술 좀 하시네요. 1잔 더 드릴까요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.267,
+                "end": 20.858
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 살짝 취할 것 같은 데 그럼 딱 1잔만 더요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.868,
+                "end": 26.526
+            }
+        ]
+    },
+    "summary": "20대 남성이 음식점에서 모듬안주와 소주1병을 시키고 맞은 편에 앉은 남성에게 술을 권하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03831_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 24,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

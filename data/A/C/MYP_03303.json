@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03303",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 양반들은 적당히를 몰라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 새 마음, 새 뜻으로 새 터전을 찾아 떠난 우리는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.530,
+                "end": 7.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 집을 찾으러 떠나볼까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.079,
+                "end": 9.248
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오예 나는 펜트하우스",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.258,
+                "end": 11.795
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다리 힘 빡 줘 이 뼛가죽놈아 고우고우",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.805,
+                "end": 16.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람답게 살지 못했다 오늘의 이야기는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.895,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "형들과 나는 그렇게 새 마음, 새 뜻으로 새 터전을 찾아 떠났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03303_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 34
+                }
+            ]
+        }
+    ]
+}

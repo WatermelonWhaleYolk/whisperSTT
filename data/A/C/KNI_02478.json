@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "KNI_02478",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 66.966,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.771
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2미터 10 마지막 @이름1 넘었어요 흔들렸습니다만",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.781,
+                "end": 5.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "떨어지지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.321,
+                "end": 6.200
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "성공입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.210,
+                "end": 7.486
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본인도 물끄러미 넘은 다음에 쳐다봅니다 바를",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.496,
+                "end": 10.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 정도 걸 걸렸으면 거의 떨어져야 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.482,
+                "end": 13.813
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 @이름1 선수가 오우 넘었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.823,
+                "end": 18.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다행입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.393,
+                "end": 19.491
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 자 그리고 물끄러미 지켜보고 있는 우상혁 선수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.501,
+                "end": 24.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우상혁 선수는 어 다이아몬드 리그 도하 6일날 치뤄졌던 어 경기에서 2미터 27을 넘고 다시 귀국을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.865,
+                "end": 35.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 20 2미터 27이 자신의 올시즌 최고기록이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.561,
+                "end": 40.568
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.578,
+                "end": 41.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기다 또 의미가 있는 게 3차 시기였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.219,
+                "end": 44.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그렇습니다 지금 계속적으로 아 경기를 하면서 위기가 찾아오지만 그걸 보란 듯이 또 넘어서는 모습을 어 우상혁 선수가 보여주고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.356,
+                "end": 57.056
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 2미터 13 아 @이름1 선수 2미터 13의 3차 시기",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.066,
+                "end": 66.966
+            }
+        ]
+    },
+    "summary": "남자 높이뛰기 결승에서 @이름1 선수가 2미터 10 높이를 넘는 데 성공했고 이를 2미터 27의 기록을 갖고 있는 우상혁 선수가 바라보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02478_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

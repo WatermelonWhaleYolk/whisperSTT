@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "MYP_02434",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.4,
+        "format": "MP4",
+        "date": "2021-02-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 여러분 안녕하세요 한때 맨유의 7번이었던 멤피스 데파이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.316
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 한때 맨유에서 7번을 꿈꿨던 제시 린가드 인사드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.326,
+                "end": 6.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 린파이의 과학 시간에서 알아볼 주제는 맨유 팬들로서는 조금 섭섭할 수 있지만 이제는 미신을 넘어 과학에 도달한 탈맹 효과입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.561,
+                "end": 13.799
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼마 전 제가 확실하게 과학임을 증명해 냈죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.809,
+                "end": 16.127
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그동안 제가 장난치는 것처럼 보이셨죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.137,
+                "end": 18.177
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맨날 노는 것처럼 보이셨죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.187,
+                "end": 19.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그건 다 탈맹의 때를 기다린 거였다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.735,
+                "end": 21.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 탈맹 효과는 맨유에 대한 디스가 아닌 선수 개인의 기량 변화에 관한 내용이니 맨유 팬들께서는 너무 마음 상하지 말아 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.736,
+                "end": 29.170
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "알겠으니까 얼른얼른 시작하자고요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.180,
+                "end": 32.400
+            }
+        ]
+    },
+    "summary": "축구 선수들은 탈맹 효과에 대해 설명하려 하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

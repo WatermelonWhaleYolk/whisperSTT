@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_01805",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.033,
+        "format": "MP4",
+        "date": "2016-08-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 많이 나오실 줄은 몰랐고요 너무 기쁘고 그냥 뭐 너무 행복합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.265
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대표팀을 맞을 인천 공항에는 선수 가족과 함께 환영 인파까지 몰려 발 디딜 틈이 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.275,
+                "end": 14.635
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오면은 그냥 지 좋아하는 음식 해 주고 또 편안하게 일단은 쉬게 해 주고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.645,
+                "end": 23.129
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 21살의 남자 대표팀 막내 이승윤은 1살 아래인 대학 후배와 결혼한다고 밝혀 눈길을 끌었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.139,
+                "end": 30.922
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.932,
+                "end": 33.033
+            }
+        ]
+    },
+    "summary": "대표팀을 맞을 인천 공항에는 가족을 비롯한 많은 인파가 몰렸고 대표팀 막내 이승윤 선수는 결혼한다고 밝혀 눈길을 끌었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01805_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

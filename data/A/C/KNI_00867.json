@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_00867",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.826,
+        "format": "MP4",
+        "date": "2023-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한화는 노시환의 홈런포와 팀 타선의 고른 활약으로 네덜란드에 15대 4로 대승을 거두고 평가전 2연승을 기록했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.679
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 세계 막론하고 야구는 다 똑같다 생각하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.689,
+                "end": 10.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정확히 던진 공이 있으면 뭐 범타가 나오고 있기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.360,
+                "end": 14.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 현역 메이저 리거가 합류하지 않은 네덜란드는 우리와 8강에서 만날 가능성이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.021,
+                "end": 20.127
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.137,
+                "end": 26.826
+            }
+        ]
+    },
+    "summary": "한화는 노시환의 홈런포와 팀 타선의 고른 활약으로 네덜란드에 15대 4로 대승을 거두고 평가전 2연승을 기록했으며 아직 현역 메이저 리거가 합류하지 않은 네덜란드는 우리와 8강에서 만날 가능성이 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00867_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_02329",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.9,
+        "format": "MP4",
+        "date": "2015-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "호주에서 2015년을 맞은 대표 팀은 덕담을 나누고 떡국을 먹으며 새해 첫날을 시작했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "슈틸리케 감독은 지난 나흘 동안 하루 두 차례씩 강도 높은 훈련을 소화한 대표 선수들에게 특별 휴식을 주며 스스로 마음가짐을 다잡도록 했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.520,
+                "end": 16.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "짧은 휴식을 끝내고 슈틸리케호는 오늘부터 훈련 속도를 더욱 높입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.641,
+                "end": 22.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공격수들의 수비 가담은 물론 골키퍼의 필드 플레이까지 슈틸리케 감독은 그동안 포지션 파괴와 유연한 전술을 훈련해 왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.247,
+                "end": 31.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많이 생각하게 되고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.422,
+                "end": 33.824
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예측 가능하지 못한 상황에서 대처할 수 있는 그런 훈련을 하는 것 같아서 어 정말 경기에 정말 도움이 될 만한 음 훈련이라고 생각을 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 33.834,
+                "end": 44.900
+            }
+        ]
+    },
+    "summary": "슈틸리케호는 새해 첫날 짧은 휴식을 가지고 훈련 속도를 더욱 높인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02329_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 5,
+                    "act": 29
+                }
+            ]
+        }
+    ]
+}

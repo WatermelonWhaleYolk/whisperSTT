@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01557",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.674,
+        "format": "MP4",
+        "date": "2023-03-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "90년대 세계 최고의 스트라이커로 활약했던 스타 감독의 등장에 축구 팬들의 기대도 커지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결과로 말을 하는 게 스포츠다 보니까 감독님이 워낙 또 스타 출신이시다 보니까 이 선수들에 대한 여러 가지 케어들이라든가 경험에 대해서 잘 읽어주시리라 믿습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.178,
+                "end": 17.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "벤투 후임으로 한국 축구를 이끌게 된 클린스만 감독은 이번 주말 서울과 울산의 K 리그 경기를 관전하며 본격적인 업무에 돌입합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.773,
+                "end": 26.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.760,
+                "end": 29.662
+            }
+        ]
+    },
+    "summary": "벤투 후임으로 한국 축구를 이끌게 된 클린스만 감독은 이번 주말 서울과 울산의 K 리그 경기를 관전하며 본격적인 업무에 돌입합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01557_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

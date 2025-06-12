@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYP_03372",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.529,
+        "format": "MP4",
+        "date": "2022-09-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 책만 영어가 없네 으하하 어휴 남사스러워라 아유 어우 으흐흐흐흐흐흐흐흐 음",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 남자의 소유욕",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.200,
+                "end": 21.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자만 남았어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.409,
+                "end": 24.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "등등 많은 것을 느끼며 하루하루 무사히 청소를 해내고 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.648,
+                "end": 29.529
+            }
+        ]
+    },
+    "summary": "이 책만 영어가 없다며 많은 것을 느끼며 하루하루 무사히 청소를 해내고 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03372_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_02258",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.566,
+        "format": "MP4",
+        "date": "2021-04-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아휴 나겔스만 그자가 정말 딱이었는데 이봐 나겔스만 하고 부르는 것도 연습해 놨는데 안타깝게 되었구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러지 말고 저를 믿어 보시는 건 어떻습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.486,
+                "end": 8.698
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 제가 비주얼부터 먹고 들어가니까 여성 팬들 늘어나는 소리 여기까지 들린다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.708,
+                "end": 13.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 토트넘에 필요한 건 여성 팬이 아니라 우승컵이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.200,
+                "end": 16.566
+            }
+        ]
+    },
+    "summary": "남자는 지금 토트넘에 필요한 건 우승컵이라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02258_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

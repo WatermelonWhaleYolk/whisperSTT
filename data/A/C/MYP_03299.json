@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_03299",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.262,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 노동자 다이어리 파이브 맨 벌서스 하우스",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 16.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호주로 출발할 때만 해도 나는 형들과 함께 지내게 될 줄 알았지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.492,
+                "end": 21.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다같이 살면 복작복작 재미는 있겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.145,
+                "end": 24.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아오 홀아비 냄새 헤헤헤헤 창문 열어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.688,
+                "end": 29.262
+            }
+        ]
+    },
+    "summary": "호주로 출발할 때만 해도 나는 형들과 함께 지내면 복작복작 재미 있겠다고 생각했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03299_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "KNI_01780",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 56.066,
+        "format": "MP4",
+        "date": "2019-08-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예전에도 계속 그랬고 다 학부모 돈이고 정말 10원 한 푼도 안 쓰고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정 씨는 축구부 운영비 수억 원가량을 횡령하고 학부모를 성폭행했다는 혐의도 인정하지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.067,
+                "end": 12.525
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저는 돈 한 푼도 횡령했는 사실이 없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.535,
+                "end": 16.427
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "성추행이나 성폭행도 한 적 사실도 없고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.437,
+                "end": 20.001
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 경찰은 축구부 운영 장부를 입수해 검토하는 한편 정 씨에게 성폭행 당했다는 학부모의 진술을 확보한 것으로 전해졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.011,
+                "end": 28.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3차례 소환 조사를 마친 경찰은 정 씨에 대한 구속 영장 신청도 검토 중인 것으로 알려졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.375,
+                "end": 34.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰이 신상 털기식 수사를 하고 있다며 정 씨가 반발하는 가운데 대한 축구 협회는 오늘 @이름1 고교 축구 연맹 회장을 성폭력 관련 규정 위반을 이유로 영구 제명했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 34.440,
+                "end": 45.746
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영구 제명 되면 감독과 같은 지도자는 물론 축구 행정가와 감독관, 에이전트 등 축구 관련 모든 활동이 금지됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 45.756,
+                "end": 53.417
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.427,
+                "end": 56.066
+            }
+        ]
+    },
+    "summary": "정 씨는 횡령과 성폭행 혐의를 부인했지만 경찰은 축구부 운영 장부와 성폭행 진술을 확보해 구속 영장 신청을 검토 중이며 대한 축구 협회는 정 씨를 영구 제명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01780_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

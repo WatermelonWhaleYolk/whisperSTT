@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_02287",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.0,
+        "format": "MP4",
+        "date": "2016-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "슈퍼 컴퓨터가 서양 장기인 체스 세계 챔피언을 누른 적은 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.854,
+                "end": 12.077
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 바둑은 경우의 수가 천문학적 숫자에 달하는 등 규칙이 훨씬 복잡하고 변수가 많습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.087,
+                "end": 20.000
+            }
+        ]
+    },
+    "summary": "슈퍼 컴퓨터가 체스 세계 챔피언을 누른 전적이 있고 바둑은 경우의 수가 많고 규칙도 훨씬 복잡하기 때문에 어떤 결과를 가져올지 관심이 쏠리고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02287_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

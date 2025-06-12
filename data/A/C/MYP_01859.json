@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_01859",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.033,
+        "format": "MP4",
+        "date": "2021-10-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "포디움도 보통은 아니지만 6 플러스알파 발롱의 메시 씨와 발롱도르 예약자인 저한테는 안 되죠 허허",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.672
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음바페 넌 어차피 레알로 간다면서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.682,
+                "end": 8.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "떠날 녀석이 왕은 무슨 나한테 순순히 양보하지 그래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.025,
+                "end": 11.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가기 전까지 왕으로 남아 있어야 레알 가서도 왕이 되는 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.076,
+                "end": 14.523
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 새끼들아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.533,
+                "end": 15.426
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "파리의 왕은 원래 나인 거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.436,
+                "end": 17.509
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어디 허락도 없이 쿠데타를 일으키고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.519,
+                "end": 19.777
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "에휴 뭐 이래 가지고 결판이 나겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.787,
+                "end": 22.347
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "구독자 여러분 솔직히 개인 기량만큼은 세계 다섯 손가락 중 세 손가락이 파리에 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.357,
+                "end": 28.033
+            }
+        ]
+    },
+    "summary": "메시가 음바페한테 어차피 레알로 떠날 거면 왕을 양보하라고 하자 음바페는 가기 전까지 왕으로 남아 있어야 레알 가서도 왕이 된다고 하고 네이마르는 파리의 왕이 원래 자신이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01859_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

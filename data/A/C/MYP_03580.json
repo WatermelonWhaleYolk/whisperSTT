@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03580",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.756,
+        "format": "MP4",
+        "date": "2022-05-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "날아갔구나 아예",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만화가 다운로드 받은 게 절반밖에 없었던 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.906,
+                "end": 7.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 딱 절반 저장된 그 시점 이후로 저장이 안 된 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.067,
+                "end": 12.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가끔가다 이런 일이 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.101,
+                "end": 14.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가끔가다 이런 일이 생기는데 이게 오늘 생일날에 일어날 줄 몰랐지 어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.876,
+                "end": 22.756
+            }
+        ]
+    },
+    "summary": "만화 다운로드 받은 게 절반 정도만 저장이 되고 그 다음부터 저장이 안 됐고 가끔 이런 일이 발생한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03580_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

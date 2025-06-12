@@ -1,0 +1,513 @@
+{
+    "metadata": {
+        "filename": "MYP_01225",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 161.378,
+        "format": "MP4",
+        "date": "2022-07-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 새끼가 어디서 구라를",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.438
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.448,
+                "end": 2.284
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 다른 건 몰라도 빌드 업 하나는 확실하거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.294,
+                "end": 4.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왼발 패스를 이용한 공격 전개 하나로 바르셀로나의 마음을 사로잡았던 게 바로 저입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.761,
+                "end": 9.694
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇다면 정말 다행이잖아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.704,
+                "end": 11.034
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "벤 데이비스가 수비 능력은 뛰어하지만 패스 질이 워낙 좋지 못했거든.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.044,
+                "end": 14.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 제가 선발이 될 수도 있겠군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.143,
+                "end": 15.842
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손흥민 선배의 주특기가 역습 상황에서의 번뜩이는 침투와 깔끔한 마무리 아니십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.852,
+                "end": 20.499
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 이래 봬도 롱 패스 성공률만큼은 바르셀로나에서도 일이 등을 다퉜습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.509,
+                "end": 24.854
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼굴이 약간 투석 기상이라 생각했는데 롱 패스를 잘 한다니 나쁘지 않군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.864,
+                "end": 28.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 흥민이와의 호흡만 좋다면 토트넘의 새로운 공격 옵션이 될 수도 있겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.868,
+                "end": 33.223
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "빌드 업이 좋다면 짧은 패스도 잘할 거 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.233,
+                "end": 35.396
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "때로는 하프 라인까지 올라와서 완급 조절까지도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.406,
+                "end": 37.633
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죄송하지만 그건 힘들 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.643,
+                "end": 39.642
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 어째서?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.652,
+                "end": 40.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 수비수치고는 희귀병인 뒷 공간 공포증이 있거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.533,
+                "end": 43.797
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 이럴 줄 알았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.807,
+                "end": 44.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제부터 단점 대잔치인 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.997,
+                "end": 46.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 올라가는 데는 큰 문제가 없는데 돌아오는 데 문제가 많습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 46.873,
+                "end": 50.371
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공격권을 뺏겼을 경우 웬만한 공격수라면 저보다 늦게 출발해도 절 제치고 들어가더군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.381,
+                "end": 55.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뒷 공간 침투가 주 무기인 손흥민 선배가 같은 팀이라는 게 정말 다행입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 55.189,
+                "end": 59.348
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "주력이 느린 수비수라면 오버랩이 힘들긴 하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 59.358,
+                "end": 61.499
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뿐만 아니라 절 추월해 가는 선수를 어떻게 지켜만 보고 있겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 61.509,
+                "end": 65.051
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손이고 발이고 할 것 없이 파울로 끊는 통에 카드 수집에도 일가견이 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 65.061,
+                "end": 68.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 웬만해서는 올라오지 말고 최후방을 지키든지 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 68.723,
+                "end": 71.646
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최후방도 좀 그런 게 제가 또 제공권이 형편 없거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 71.656,
+                "end": 74.687
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만약 케인 선배와 헤딩 경합을 한다면 10번 중에 한 번도 따내기 힘들 텐데 선배와 같은 팀이라는 게 정말이지 다행입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 74.697,
+                "end": 81.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 씨 아니지 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 81.188,
+                "end": 83.008
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 뭐 솔직해서 좋네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 83.018,
+                "end": 84.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "발이 느리고 제공권이 좋지 못하다 해도 빌드 업 능력이 좋다면 나름대로 매력적인 카드지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 84.383,
+                "end": 89.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "설마 단점이 더 있는 건 아니지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 89.387,
+                "end": 91.054
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 마지막으로 앞선 단점들이 장점으로 보일 만큼 치명적인 단점이 하나 있기는 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 91.064,
+                "end": 95.563
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 95.573,
+                "end": 96.247
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토트넘 선수들도 같은 문제가 있다 하셨던 것 같은데 제가 또 집중력으로는 유럽 최악 수준이거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 96.257,
+                "end": 101.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "패널티 박스 안에서 패스 미스는 물론 자책골이나 피케이 헌납까지 뭐 중요한 상황에서 영웅이 되긴 하는데 그게 상대편의 영웅인 편입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 101.654,
+                "end": 109.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그냥 패스만 잘하는 왼발잡이 산체스 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 109.174,
+                "end": 111.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "설마 너 우승을 해봤거나 그런 건 아니지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 111.982,
+                "end": 114.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요즘 우승 못해 본 사람이 어디 있습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 114.780,
+                "end": 116.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소박하게 라리가 한 번 코파 델 레이 한 번 해봤습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 116.884,
+                "end": 119.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 시발 이런 새끼도 우승컵이 있는데 또 나만 없지 어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 119.740,
+                "end": 124.080
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이번에 하면 될 거 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 124.090,
+                "end": 125.491
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아무튼 애초에 거의 공짜로 데려온 선수인데다 패스만 잘 한다면 수비는 내가 고쳐줄 수 있지 않겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 125.501,
+                "end": 131.214
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하긴 감독님께서 수비 능력 살려 내기 만큼은 @이름1 교수님보다 뛰어나시니 치료만 성공한다면 바르셀로나도 후회하겠는데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 131.224,
+                "end": 137.677
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그래 그래 어떻게 살릴 수 있는 데까지 살려보고 정 안되면 벤 데이비스의 백업으로 쓰면 되지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 137.687,
+                "end": 142.699
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "지금이야 다들 문제가 없어 보이지만 시즌이 개막한다면 언제 누가 부상당할지 모르는 법 리그와 컵 대회 그리고 챔스까지 살인적인 일정이 기다리고 있는 우리 토트넘에게 랑글레 임대는 신의 한 수가 될 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 142.709,
+                "end": 161.358
+            }
+        ]
+    },
+    "summary": "선수들과 자신의 단점에 대해 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01225_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

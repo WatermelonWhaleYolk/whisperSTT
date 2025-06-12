@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01023",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.136,
+        "format": "MP4",
+        "date": "2022-03-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이제 그 KBO에서 경기 수 대비 한국 시리즈를 못 뛰어 본 선수 4등인가 그렇더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.907
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 그 부분이 좀 제 야구 인생에 있어서는 콤플렉스라고 생각을 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.917,
+                "end": 14.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "데뷔 후 15년 동안 한국 시리즈를 밟지 못한 기록은 강민호 이대호에 이은 현역 3위에 해당합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.547,
+                "end": 20.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우승을 좀 많이 해 본 선수보다 한 번도 못 해 본 제가 더 간절하지 않나라고 생각을 하고 했는데 그 이상으로 더 간절한 것도 좀 있는 것 같습니다. 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.325,
+                "end": 30.638
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "양의지 박민우에 손아섭 박건우가 가세한 NC 타선은 10개 구단 가운데 최고로 꼽힙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.648,
+                "end": 36.136
+            }
+        ]
+    },
+    "summary": "데뷔 후 15년 동안 한국 시리즈를 밟지 못한 기록은 강민호 이대호에 이은 현역 3위에 해당한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01023_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 60,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

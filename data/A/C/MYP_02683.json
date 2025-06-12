@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_02683",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.9,
+        "format": "MP4",
+        "date": "2020-09-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이보게 손두한 아니 손흥민 자네들이 강한 팀이란 건 알겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 내가 지금 1골 넣어서 우리가 앞선 상황이니 백번 양보해서 자네한테 1골 내어주고 1대1로 마무리 짓는 게 어떤가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.983,
+                "end": 13.738
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1골은 너무 적소 4골쯤 합시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.748,
+                "end": 16.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허 참나 4골을 달라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.653,
+                "end": 18.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4골 달라 한 경기 4골로 합시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.516,
+                "end": 21.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 경기에 1골도 많은 거요 어떻게 4배나 올린단 말이오? 1골 1어시로 합시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.426,
+                "end": 25.814
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4골 달라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.824,
+                "end": 26.711
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오롸잇 미쓰 흥민손 2골 이츠 더블 더블.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.721,
+                "end": 30.810
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4골 달라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.820,
+                "end": 31.668
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "노웨이 헤이 손",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.678,
+                "end": 33.900
+            }
+        ]
+    },
+    "summary": "1골 넣어서 우리가 앞선 상황이니 백번 양보해서 자네한테 1골 내어주고 1대1로 마무리 짓는 게 어떻냐니까 손흥민이 1골은 적다고 4골로 하자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02683_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

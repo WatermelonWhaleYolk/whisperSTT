@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_02459",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.2,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이밖에도 토트넘엔 닮은꼴 선수들이 상당히 많죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.843
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표적으로 해리 케인은 배우 라이언 고슬링과 매우 비슷하며 무리뉴 감독 역시 조지 클루니와 주윤발을 섞어놓은 외모를 가졌습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.853,
+                "end": 13.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아까 가자니가가 가장 잘생겼다고 했었는데 솔직히 나이까지 감안하면 무감이 가장 잘생긴 것 같아요 무야호.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.929,
+                "end": 23.200
+            }
+        ]
+    },
+    "summary": "남자는 토트넘 축구 선수들과 배우들을 비교하며 닮은꼴을 이야기하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02459_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

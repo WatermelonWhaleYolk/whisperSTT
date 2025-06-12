@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "MYP_03546",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.686,
+        "format": "MP4",
+        "date": "2022-05-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거기다 뭐 기타 자잘한 잡비들은 다 개인 재량으로 서비스 가능하시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어쩜 다 아세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.430,
+                "end": 5.661
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도장 깨기하러 오셨나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.671,
+                "end": 7.270
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "장사는 어렵다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.280,
+                "end": 9.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 쓰겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.679,
+                "end": 11.509
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손해 봤다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.519,
+                "end": 13.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역시 손님 마음을 알 수가 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.090,
+                "end": 15.423
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 이유는 바로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.433,
+                "end": 17.401
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 주눅 들지 말자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.411,
+                "end": 19.686
+            }
+        ]
+    },
+    "summary": "손님은 다 알아 보고 사러 왔고 손님 마음은 알 수 없다는 걸 깨달았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03546_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_00370",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.051,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영국과 이탈리아 보필이 오가는 고된 유럽 출장이였지만 클리스만 감독에 표정에선 홀가분함이 느껴졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.941
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "클리스만 감독은 경기를 관전하고 주장 손흥민을 시작으로 김민재와 이지성 정우영 오현규까지 5명을 면담했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.951,
+                "end": 18.051
+            }
+        ]
+    },
+    "summary": "클리스만 감독은 고된 출장이었지만 홀가분함이 느껴졌고 선수 5명과 면담을 했다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00370_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

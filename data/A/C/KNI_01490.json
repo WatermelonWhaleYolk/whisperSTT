@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_01490",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.435,
+        "format": "MP4",
+        "date": "2023-01-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1에 이어 아쉬운 2위지만 @이름2은 박수를 치며 어린 후배의 우승을 인정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 지난달 국가 대표 1차 선발전에 이어 2차 대에서도 쟁쟁한 선배들을 제치고 1위에 오르며 국내 최고의 피겨 선수로 우뚝 섰습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.877,
+                "end": 16.771
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 번 다 1등 할 수 있었어 있어서 정말 굉장히 기쁘고 기분이 좋은 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.781,
+                "end": 25.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자 싱글에선 간판 스타 차준환이 종합 우승해 국가 대표 1위에게 주어지는 세계 선수권 출전권을 획득했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 26.009,
+                "end": 33.746
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 33.756,
+                "end": 35.435
+            }
+        ]
+    },
+    "summary": "@이름1 선수는 국가대표 1차 선발전에 이어 2차에서도 1위에 오르며 국내 최고의 피겨 선수로 우뚝 섰고 남자 싱글에선 차준환이 종합 우승해 국가대표 1위에게 주어지는 세계 선수권 출전권을 획득했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01490_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

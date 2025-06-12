@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01764",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.866,
+        "format": "MP4",
+        "date": "2018-09-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난달 31일 김해공항 입국장 창원 세계 사격 선수권 대회에 추가하는 북한 선수들이 모습을 드러내자 기다리던 시민들이 크게 환호합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이들은 이번 대회를 위해 창원 시민 100여 명으로 꾸려진 응원 봉사단 아리랑 응원단입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.331,
+                "end": 17.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기장에선 한반도기를 흔들며 북한 선수들에게 열띤 응원을 보냅니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.947,
+                "end": 25.866
+            }
+        ]
+    },
+    "summary": "창원 시민 100여 명으로 꾸려진 아리랑 응원단이 창원 세계 사격 선수권 대회에 추가하는 북한 선수들을 환영하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01764_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_02013",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.178,
+        "format": "MP4",
+        "date": "2021-08-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 그릴리쉬의 첫 공격 포인트와 함께 승리는 물론 노는 물이 다르다는 걸 확실하게 보여드리죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.433
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 두 분의 의견 잘 들었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.443,
+                "end": 7.478
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "케인의 잔류 불투명과 로메로의 출전 불투명을 안은 채 출격하지만 우리에겐 손흥민이 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.488,
+                "end": 13.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누누 매직을 꿈꾸는 토트넘이냐 데브라이너와 포든이 부상으로 결장하며 그릴리쉬의 팀 내 적응도가 미지수지만 후보 선수마저 월드 클래스 자타공인 리그 최강팀 맨시티냐 과연 어느 팀이 승리를 가져갈까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.333,
+                "end": 26.861
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "구독자 여러분들의 선택은.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.871,
+                "end": 35.160
+            }
+        ]
+    },
+    "summary": "다니엘 내비는 케인의 잔류와 로메로의 출전 불투명을 안은 채 출격하지만 손흥민을 믿고 누누 매직을 꿈꾸는 토트넘 그리고 데브라이너와 포든이 부상으로 결장하며 그릴리쉬의 팀 내 적응도가 미지수지만 후보 선수마저 월드 클래스인 자타공인 리그 최강팀 맨시티 이 두 팀 중 과연 어느 팀이 승리를 가져갈지 구독자 여러분의 선택은 어떨지 궁금하다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02013_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

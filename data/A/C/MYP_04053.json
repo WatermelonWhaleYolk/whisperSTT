@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYP_04053",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.194,
+        "format": "MP4",
+        "date": "2020-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 패 패치 대리님 영광입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.683
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사인 하나 해주세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.693,
+                "end": 6.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응 자네는 용검전설 소속이 아니군?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.888,
+                "end": 11.487
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이름이 뭔가?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.485,
+                "end": 13.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예 저는 수호대 지망생인 퍼블리입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.013,
+                "end": 17.342
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "퍼블리 정수리에 오바일 던크",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.352,
+                "end": 25.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신경 안 쓰셔도 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.201,
+                "end": 28.194
+            }
+        ]
+    },
+    "summary": "수호대 지망생이 패치 대리님에게 수인을 부탁한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04053_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

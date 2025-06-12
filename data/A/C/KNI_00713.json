@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00713",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "농업용 등유의 가격은 최근 리터당 1375원으로 1년 전보다 72퍼센트나 폭등했고 농업용 전기 요금도 1년 전보다 30퍼센트 이상 올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 해외에서 수입하는 양액 등의 원자재 가격도 2배 이상 뛰었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.680,
+                "end": 17.755
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "농사를 포기해야 할지 고민할 정도로 화훼 농민들의 시름이 깊어진 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.765,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "농업용 등유의 가격은 최근 리터당 1375원으로 1년 전보다 72퍼센트나 폭등했고 농업용 전기 요금도 1년 전보다 30퍼센트 이상 올랐으며 해외에서 수입하는 양액 등의 원자재 가격도 2배 이상 뛰었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00713_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

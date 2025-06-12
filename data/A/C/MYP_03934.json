@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_03934",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.157,
+        "format": "MP4",
+        "date": "2021-01-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "종교가 없는 사람은 어떻게 합니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.846
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러게 그런 사람도 많을 텐데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.856,
+                "end": 5.919
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 미안 그걸 생각 못 했네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.929,
+                "end": 9.073
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그럼 종교 없는 사람들은 나랑 지옥 가자.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.083,
+                "end": 15.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관세음보살.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.020,
+                "end": 16.363
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "할렐루야 나마스떼 알 자지라 관세음보살.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.373,
+                "end": 20.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오픈 마인드를 가지기로 했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.898,
+                "end": 24.157
+            }
+        ]
+    },
+    "summary": "주인공이 군대에서 종교가 없는 사람들은 조교와 지옥에 가자는 말에 오픈 마인드를 갖게 되었다는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03934_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_00783",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.165,
+        "format": "MP4",
+        "date": "2023-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 편파 수사에 의한 면죄부 판결이라고 공세에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뚜렷한 물증도 없이 번복된 진술만으로 이재명 대표는 뇌물 혐의로 수사하면서 50억 클럽은 수박 겉핥기 봐주기 수사를 했다고 비판했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.399,
+                "end": 14.524
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그들만의 리그 민낯이 그대로 드러난 방탄 판결입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.534,
+                "end": 19.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰은 50억 클럽의 구체적 지수를 확보해 놓고 수사를 전혀 하지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.150,
+                "end": 25.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 전 장관이 딸 장학금 600만 원으로 유죄 판결을 받은 것에 비하면 기막히다는 주장도 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.775,
+                "end": 32.165
+            }
+        ]
+    },
+    "summary": "@이름 1 전 장관이 딸 장학금 600만 원으로 유죄 판결을 받았는데 검찰은 50억 클럽의 구체적 지수를 확보해 놓고 수사를 전혀 하지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00783_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

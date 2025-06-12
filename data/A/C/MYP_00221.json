@@ -1,0 +1,353 @@
+{
+    "metadata": {
+        "filename": "MYP_00221",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 71.633,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "씨발",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.575
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 최전방은 다른 애들 한테 양보하고 측면에 좀 서주면 안되겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.585,
+                "end": 4.148
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자네는 측면 역시 세계 최고잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.158,
+                "end": 6.090
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 뭐 그렇긴 하다만 그래서 뭐 과거 맨유시절 때처럼 좌측 윙 포워드로 나서면 되는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.100,
+                "end": 10.848
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래도 PK랑 프리킥은 다 내 거야 알겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.858,
+                "end": 13.411
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 그게 @이름1?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.421,
+                "end": 14.568
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 자네 우측 윙 포워드로 나서줘야겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.578,
+                "end": 16.862
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 아무리 내가 양발잡이라지만 오른발이 주발이라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.872,
+                "end": 19.774
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오른발잡이는 왼쪽에 놓는 게 국룰인거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.784,
+                "end": 22.192
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 나도 알지 그치만 좌측엔 이미 엄청난 녀석이 선발일 거라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.202,
+                "end": 25.872
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "설마 그새 @이름2라도 영입한거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.882,
+                "end": 27.689
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 @이름2새끼가 왼발잡이니까 오른쪽에 가면 되잖아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.699,
+                "end": 29.973
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그게 @이름2가 아니라 @이름3이야 @이름3",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.983,
+                "end": 32.337
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.347,
+                "end": 33.033
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어이 들어오게나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.043,
+                "end": 34.225
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "안녕하세요 @이름1 선배 맨유의 새로운 에이스 @이름3입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.235,
+                "end": 37.371
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐야 이 새끼는?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.381,
+                "end": 38.359
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "생긴 것부터가 축구 존나 못하게 생겼잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.369,
+                "end": 40.811
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어허 차세대 축신한테 무슨 소릴 하시는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.821,
+                "end": 43.085
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "전 당신의 후계자라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.095,
+                "end": 44.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자자 싸우지들 말고 그나저나 @이름4 녀석도 7번을 원하고 있는데 이걸 어쩐담?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.363,
+                "end": 48.913
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 @이름5형 지금 얘랑 나 중에 7번 고민하고 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.923,
+                "end": 52.004
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 당연히 나지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 52.014,
+                "end": 53.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 그게 좋겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 53.018,
+                "end": 54.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다가오는 프리시즌 해외 투어 일정에서 더 뛰어난 활약을 펼친 녀석이 7번의 주인이 되는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 54.178,
+                "end": 59.008
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 59.018,
+                "end": 59.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름3 저 녀석도 한 경기 당 한 골은 기본으로 넣는 선수니까 조심하는 게 좋을 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 59.492,
+                "end": 63.733
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 그게 무슨 말이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 63.743,
+                "end": 64.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혹시라도 노쇼하느라 한 경기라도 거르면 @이름1 너가 14번을 달지도 모른다 이 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 64.930,
+                "end": 71.633
+            }
+        ]
+    },
+    "summary": "화자2가 화자3에게 오른쪽 윙 포워드로 가라고 하자 화자3이 자신은 오른발이 주발이라며 분노하며 좌측 윙 포워드가 될 선수를 까내리자 화자2가 다가오는 프리시즌 해외 투어 일정에서 더 뛰어난 활약을 펼친 사람이 7번의 주인이 되는 거라며 경쟁을 붙이고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00221_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

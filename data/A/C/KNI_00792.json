@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00792",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.082,
+        "format": "MP4",
+        "date": "2023-02-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "취재진 앞에 선 김서현은 또 한 번 사과했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.645
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야구 선수 이전에 기본이 돼 있고 지금보다 더 성숙한 사람이 되도록 하고 돌아오겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.655,
+                "end": 10.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죄송합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.757,
+                "end": 12.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코칭스태프와 선배들은 막내의 복귀를 받아들였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.055,
+                "end": 16.082
+            }
+        ]
+    },
+    "summary": "야구 선수 이전에 기본이 돼 있고 더 성숙한 사람이 되도록 노력하겠다며 김서현은 재차 사과했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00792_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

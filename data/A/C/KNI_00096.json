@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNI_00096",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2022-03-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 투지와 열정은 현재 진행형인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창 때 오르지 못한 결승에 이번에는 꼭 오르겠다고 다짐했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.769,
+                "end": 6.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베이징에서 김인수 기자가 전해드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.594,
+                "end": 8.781
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강호 캐나다를 상대로 우리 선수들은 후회 없이 싸웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.791,
+                "end": 15.314
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거침없이 달리고 부딪히며 상대 공격을",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.324,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "평창 때 오르지 못한 결승에 이번에는 꼭 오르겠다고 다짐하며 선수들은 강호 캐나다를 상대로 후회 없이 싸웠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00096_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

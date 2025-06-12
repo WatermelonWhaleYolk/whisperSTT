@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01833",
+        "category": "스포츠뉴스",
+        "sub_category": 20,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.458,
+        "format": "MP4",
+        "date": "2021-02-26",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 우리 정부는 이런 상황을 파악하지도 못했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문체부는 최근 2032년 남북 공동 올림픽 지지 확보 등 국제 스포츠 위상 강화를 올해 업무 계획으로 발표까지 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.536,
+                "end": 13.112
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 11월 문재인 대통령이 노태강 전 문체부 2차관을 IOC가 위치한 스위스 대사로 임명하며",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.122,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "지난해 11월 문재인 대통령이 노태강 전 문체부 2차관을 IOC가 위치한 스위스 대사로 임명했으나 정부가 상황을 파악하지도 못해 문체부는 최근 2032년 남북 공동 올림픽 지지 확보 등 국제 스포츠 위상 강화를 올해 업무 계획으로 발표까지 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01833_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

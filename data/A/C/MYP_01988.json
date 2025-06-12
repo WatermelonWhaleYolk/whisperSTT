@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_01988",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 45.1,
+        "format": "MP4",
+        "date": "2021-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 세부 능력 몇 가지를 나눠 1점부터 최대 5점까지 점수를 매겨보겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 윙어의 덕목 제 1장 드리블과 스피드.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.288,
+                "end": 8.677
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 뛰는 폼이나 볼터치 스타일에 호불호가 갈려서 그렇지 드리블 하나만큼은 리그 최정상이란 거 인정해 주시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.687,
+                "end": 14.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 뭐 스털링 너의 드리블과 지능적인 움직임 하나는 별 5개라 할 수 있지 5점.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.284,
+                "end": 19.635
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저의 드리블 최고 속도가 시속 35킬로미터에 달한다는 거 알고 계시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.645,
+                "end": 23.742
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "거기다가 속도와 방향의 변화 역시 자유자재로 가능해 라인 브레이킹 하나만큼은 메시 저리가라입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.752,
+                "end": 29.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어지간한 수비로는 살라 너를 막긴 힘들지 너도 5점.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.211,
+                "end": 32.989
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "스피드로는 저도 뒤처지지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.999,
+                "end": 34.847
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "드리블과 스피드만으로 푸스카스 상까지 받은 거 아시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.857,
+                "end": 37.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래 흥민이 치달은 못 참지 너도 5점.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.613,
+                "end": 40.549
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "많은 사람들이 제 가장 큰 강점이 킥력이라고 하지만 드리블 역시 만만치 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.559,
+                "end": 45.100
+            }
+        ]
+    },
+    "summary": "세부 능력 몇 가지를 나눠 점수를 매길 것인데 먼저 드리블과 스피드 면에서 스털링의 드리블과 지능적인 움직임은 5점이고 살라의 드리블 최고 속도는 시속 35킬로미터이고 어지간한 수비로는 막기 힘든 점도 5점 그리고 손흥민의 드리블과 스피드도 5점, 래시포드의 드리블도 만만치 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01988_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_02752",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.4,
+        "format": "MP4",
+        "date": "2020-07-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다녀왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.729
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘 가도야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.739,
+                "end": 1.784
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 또 야자 쨌니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.794,
+                "end": 3.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘가 진짜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.162,
+                "end": 3.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아니야 엄마 오늘 우리 반에 열이 37도가 넘는 얘가 나와서 귀가 조치 받은 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.861,
+                "end": 8.486
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 이게 이게 입만 열면 거짓말 담임 선생님한테 전화해 본다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.496,
+                "end": 12.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 엄마 어차피 난 공부로 성공하긴 글렀다고 그러니까 나 좀 제발 내버려 둬.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.538,
+                "end": 18.400
+            }
+        ]
+    },
+    "summary": "학생이 집에 일찍 와서 반에서 열이 37도가 넘은 아이가 나와서 귀가 조치 받았다고 하고 엄마는 담임 선생님께 전화해 본다고 하고 학생은 자기를 내버려 두라고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02752_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

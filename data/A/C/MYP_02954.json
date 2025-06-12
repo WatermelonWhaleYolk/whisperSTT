@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_02954",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.0,
+        "format": "MP4",
+        "date": "2020-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 @이름1 어떡해 우리가 지게 생겼다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네가 이긴다며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.115,
+                "end": 2.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 @이름2 아 그게 그래도 부상당한 김태영이 나가고 황선홍이 들어왔으니 그리고 또 홍명보를 빼고 차두리를 넣었잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.924,
+                "end": 8.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역전할 수 있을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.236,
+                "end": 9.216
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걱정하지 마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.226,
+                "end": 9.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 몰라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.978,
+                "end": 10.797
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 이대로 지면 내일모레 소개팅 나갈 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.807,
+                "end": 12.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 @이름2 그건 아니지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.817,
+                "end": 14.360
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지금 정규 시간이 2분밖에 남지 않았는데 우리 선수들 더 분발해야 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.370,
+                "end": 18.189
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "두리야 뭐 하고 있니.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.199,
+                "end": 19.537
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 말씀드리는 순간 설기현 페널티 중앙에서 공을 넘겨받습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.547,
+                "end": 22.301
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그대로 슛 골 설기현 골입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.311,
+                "end": 25.000
+            }
+        ]
+    },
+    "summary": "설기현이 정규 시간 2분밖에 안 남았을 때 페널티 중앙에서 공을 넘겨받아 골을 넣었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02954_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

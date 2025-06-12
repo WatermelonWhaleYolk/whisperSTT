@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "filename": "MYP_01267",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.966,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "갈 때 가더라도 이적료는 뱉어내야 할 거 아냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1600억이나 주고 사왔는데 공짜로 가겠다는 게 말이나 돼?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.811,
+                "end": 6.132
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이적료는 인테르한테 받으셔야지 왜 저한테 그러십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.142,
+                "end": 9.403
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인테르가 돈이 없다잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.413,
+                "end": 11.064
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "근데 감독님 루카쿠 이 녀석은 어째서 실패한 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.074,
+                "end": 14.045
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "같은 세리에 출신의 호날두 선배는 맨유의 에이스로 거듭났는데 왜 이 녀석은 이 모양 이 꼴인 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.055,
+                "end": 18.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너희들도 각 리그의 특성에 대해 어느 정도는 알고 있지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.795,
+                "end": 22.074
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐 아무래도 라리가는 테크닉면에서 독보적이고 분데스는 전술과 조직력이 돋보이며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.084,
+                "end": 26.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세리에는 스피드나 파워 피지컬 같은 기본적인 요소가 중요시 되고 프리미어 리그는 모든 것을 종합해 놓으면서 매우 빠른 템보가 특징이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.316,
+                "end": 33.112
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 알고들 있군 뭐 혹시라도 영상을 보고 계신 구독자 여러분께서 다르게 생각하신다면 여러분의 의견이 맞는 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.122,
+                "end": 39.966
+            }
+        ]
+    },
+    "summary": "인테르로 가는 루카쿠는 1600억 원의 이적료를 물어야 하는데 인테르가 돈이 없어 지불을 못하는 상태이고 각 리그의 특성을 살펴보면 라리가는 테크닉을 분데스는 전술과 조직력을 세리에는 스피드나 파워 피지컬을 프리미어 리그는 종합적인 면을 보는 특성이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01267_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

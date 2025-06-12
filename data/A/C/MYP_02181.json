@@ -1,0 +1,208 @@
+{
+    "metadata": {
+        "filename": "MYP_02181",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.866,
+        "format": "MP4",
+        "date": "2021-06-05",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조금만 더 축하해 주시면 안 될까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.405
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "말씀 중에 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.415,
+                "end": 3.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 아버지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.092,
+                "end": 3.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 흥민이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.972,
+                "end": 4.596
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "팀은 비록 유로파도 못 나갔지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.606,
+                "end": 6.582
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "두 시즌 연속 10골 10도움에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.592,
+                "end": 8.361
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "이제는 리그 베스트에도 뽑혔으니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.371,
+                "end": 10.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "월드클래스 맞습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.110,
+                "end": 11.460
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 아들 리그 베스트 축하한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.470,
+                "end": 13.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 정말 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.615,
+                "end": 14.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아버지 전 그럼 동료들이랑 축하 파티라도 하다 갈 테니 먼저",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.811,
+                "end": 17.777
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 소리냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.787,
+                "end": 18.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 당장 아버지랑 훈련하러 가야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.490,
+                "end": 20.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 쉬면 리그 베스트지만 오늘 훈련하면 다음엔 월드 베스트다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.430,
+                "end": 27.866
+            }
+        ]
+    },
+    "summary": "손흥민의 팀은 비록 유로파에 못 나갔지만 손흥민은 두 시즌 연속 10골 10도움에 리그 베스트에 선발되며 월드클래스가 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02181_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

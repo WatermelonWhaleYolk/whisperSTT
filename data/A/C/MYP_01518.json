@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_01518",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.133,
+        "format": "MP4",
+        "date": "2022-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "난 떠나려 했지 넌 재계약 했지 나도 남았지 우린 멀어졌다가도 깐부잖아 이루었다 합작 골",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.733
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "케인 그건 또 무슨 노래야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.743,
+                "end": 13.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너와 나의 합작을 기념하면서 만들어봤어",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.356,
+                "end": 15.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 프리미어리그 역사상 최초로 함께 만든 37골 정말이지 너가 있었기에 내가 있었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.947,
+                "end": 22.133
+            }
+        ]
+    },
+    "summary": "케인은 재계약을 했고 우리는 깐부라는 노래를 부르며 너와 나의 프리미어 최고의 37 합작골을 기념하며 만들어 봤다고 말하고 한 남성은 무슨 노래이냐고 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01518_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

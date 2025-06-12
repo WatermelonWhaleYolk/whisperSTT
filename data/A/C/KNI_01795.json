@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_01795",
+        "category": "스포츠뉴스",
+        "sub_category": 20,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.466,
+        "format": "MP4",
+        "date": "2016-08-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도시 기반 시설도 확연히 개선됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비포장 도로는 말끔히 새 단장을 하고 자전거 주차장 등 좀처럼 볼 수 없었던 시설도 속속 들어섭니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.843,
+                "end": 10.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "버스 전용 차선에다 노선도 증편됐고 경전철인 VLT까지 개통되면서 대중교통도 훨씬 더 편리해졌습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.894,
+                "end": 19.466
+            }
+        ]
+    },
+    "summary": "리우는 올림픽을 준비하며 비포장 도로가 깔끔해지고 자전거 주차장 등의 시설도 들어섰고 버스 전용 차선과 노선 증편 및 VLT까지 개통돼 대중교통도 편리해 졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 5,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYP_01756",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.97,
+        "format": "MP4",
+        "date": "2021-11-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 센터백. 너희들도 들었다시피 내가 이번 겨울 다양한 센터백 영입을 노리고 있다는 거 알지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밀란의 로마뇰리나 인테르의 데 브레이 나아가 비야레알의 신성 파우 토레스 등등 못해도 한 명은 반드시 데려올 테니 기존 선수의 정리가 필요하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.749,
+                "end": 14.315
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3백을 쓰실 거면 넉넉한 게 좋지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.325,
+                "end": 17.087
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 4명이 있으니 1명 더해서 5명이면 로테이션에도 좋잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.097,
+                "end": 20.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 포지션 자리는 생각 안 해?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.847,
+                "end": 22.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "탕강가가 센터백 역시 소화할 수 있으니 한두 명을 영입한다는 가정화에 3명만 남겨 놓겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.623,
+                "end": 27.778
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그럼 뭐 어쩔 수 없이 로든이 짐을 싸야겠네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.788,
+                "end": 30.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "데려온 지 2년도 안 된 유망주를 파는 건 바보들이나 하는 짓이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.339,
+                "end": 33.966
+            }
+        ]
+    },
+    "summary": "다양한 센터백 영입을 노리고 있는 중이라 한두 명을 영입한다는 가정화에 3명만 남겨 놓으려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01756_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

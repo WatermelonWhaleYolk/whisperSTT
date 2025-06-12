@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00604",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.788,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월드컵을 통해 달라진 위상 덕분인지 조규성의 표정에선 여유로움이 느껴집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.826
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많은 분들이 좀 많이 사랑해주셔서 이제 조금 아 이제 조금 실감이 나더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.836,
+                "end": 13.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조규성은 현재 스코틀랜드에 셀틱과 독일의 마인츠 미국 미네소타에 영입 제안을 받는 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.499,
+                "end": 21.788
+            }
+        ]
+    },
+    "summary": "조규성은 현재 스코틀랜드에 셀틱과 독일의 마인츠 미국 미네소타에 영입 제안을 받는 것으로 알려졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00604_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

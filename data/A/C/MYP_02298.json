@@ -1,0 +1,203 @@
+{
+    "metadata": {
+        "filename": "MYP_02298",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.866,
+        "format": "MP4",
+        "date": "2021-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흥민아 괜찮아 아니 지금 뭐 하는 거예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.308
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 손님 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.318,
+                "end": 4.165
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맥토미니 가져오랬더니 집어 던지면 어떡해 손님 얼굴에 맞았잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.175,
+                "end": 8.749
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 전 빨리 가져다 드리려는 마음에 그랬죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.759,
+                "end": 10.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 녀석아 부리또를 집어 던져놓고 어디 눈을 부리또 손님 정말 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.816,
+                "end": 16.895
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "괜찮아요 뭐 그럴 수도 있죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.905,
+                "end": 18.539
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "괜찮긴요 손님 세탁비도 지급해 드리고 제가 특별히 서비스로.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.549,
+                "end": 21.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 당신은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.950,
+                "end": 23.067
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "반갑습니다 저는 이곳 더 맨체스터의 주방장 브루노 페르난데스입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.077,
+                "end": 26.643
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "너무 죄송해서 그런데 괜찮으시다면 제가 무료로 요리 하나를 만들어 드려도 될까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.653,
+                "end": 31.263
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이 그렇게까지 안 해주셔도 되는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.273,
+                "end": 33.229
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "무슨 소리야 저기요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.239,
+                "end": 34.337
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "우리 흥민이 다쳤으니까 제일 비싼 거로 가져다 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.347,
+                "end": 37.866
+            }
+        ]
+    },
+    "summary": "레스토랑 주방장이 음식이 손님 얼굴에 맞은 것이 죄송해서 무료로 요리를 만들어 준다고 하자 다른 손님이 제일 비싼 거로 가져다 달라고 하는 것을 캐릭터로 보여주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02298_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

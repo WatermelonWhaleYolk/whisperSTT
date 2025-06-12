@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02064",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.166,
+        "format": "MP4",
+        "date": "2018-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "남북 페어 대표 선수들이 올림픽을 앞두고 같은 빙판 위에 섰습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양측 선수들은 우리 가요가 흐르는 가운데 가볍게 몸을 풀며 서로 훈련에 집중했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.961,
+                "end": 10.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남북 선수들은 주어진 시간 동안 안무와 기술을 선보이며 프로그램의 완성도를 가다듬었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.138,
+                "end": 17.166
+            }
+        ]
+    },
+    "summary": "올림픽을 앞두고 남북 선수들이 함께 훈련했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02064_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

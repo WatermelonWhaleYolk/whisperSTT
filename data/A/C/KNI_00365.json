@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNI_00365",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.859,
+        "format": "MP4",
+        "date": "2023-04-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 쾌감이 있어요 집중력도 좋아지고 하고나서 다리찢기도 늘었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.676
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "키가 많이 클 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.686,
+                "end": 7.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초등학생들은 최근까지 코로나 여파로 신체활동이 크게 부족했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.646,
+                "end": 13.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 연구결과에 따르면 코로나로 인해 초등학생에 학교 안팎 신체활동은 20분 넘게 감소했는데 줄어든 움직임 탓에 평균 체중은 4킬로그램 이상 증가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.341,
+                "end": 25.859
+            }
+        ]
+    },
+    "summary": "초등학생들은 최근까지 코로나 여파로 신체활동이 크게 부족했고 줄어든 움직임 탓에 평균 체중은 4킬로그램 증가했다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00365_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00365_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

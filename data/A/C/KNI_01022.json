@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNI_01022",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.252,
+        "format": "MP4",
+        "date": "2022-03-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마스크 너머로 보이는 손아섭의 얼굴이 사뭇 진지합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 큰 변화는 롯데 시절과 달라진 타격 동작입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.229,
+                "end": 6.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거엔 무게 중심을 낮게 잡고 타격했지만 이번 캠프에선 상체를 높게 세우며 동작을 간결하게 바꿨습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.641,
+                "end": 14.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "변화를 시도한 이유는 최고 타자가 되어 자신의 콤플렉스를 해결하기 위해서입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.172,
+                "end": 19.252
+            }
+        ]
+    },
+    "summary": "손아섭은 과거 롯데 시절에 무게 중심을 낮게 잡고 타격했지만 이번 캠프에선 상체를 높게 세우며 동작을 간결하게 바꿨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01022_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

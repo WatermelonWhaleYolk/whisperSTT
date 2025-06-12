@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_01713",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.2,
+        "format": "MP4",
+        "date": "2021-12-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너가 만약 이탈리아 국적이었다면 후보 키퍼임에도 야신상 후보에 들었을지도 모른다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.498
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "참나 스탯은커녕 출전도 없는 선수가 야신상은 무슨 야신상이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.508,
+                "end": 8.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 봤을 때 발롱도르는 우승컵이 가장 중요하더라고 너 내가 브라질과 이탈리아의 이중 국적이란 걸 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.396,
+                "end": 14.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약 두 대표팀 모두에서 뛸 수 있었다면 브라질의 코파 준우승 현장마저 목격하며 챔스 우승, 유로 우승, 코파 준우승",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.064,
+                "end": 21.200
+            }
+        ]
+    },
+    "summary": "화자 1이 화자 2에게 발롱도르는 우승컵이 가장 중요하더라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01713_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

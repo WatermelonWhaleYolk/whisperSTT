@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_03753",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.62,
+        "format": "MP4",
+        "date": "2021-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "갈 데가 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 음식점의 경우 여성 일행이 없으면 오묘한 시선에 시달리게 되는 곳도 많은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.845,
+                "end": 7.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에휴 이것도 맛있지만 가끔은 파스타 같은 것도 먹고 싶다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.333,
+                "end": 12.390
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "난 마카롱이랑 에그타르트",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.400,
+                "end": 14.659
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "나도 좋아하긴 하는데 우리끼리 가긴 좀 그렇지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.669,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "남자들도 가끔은 파스타, 마카롱, 에그타르트 먹고 싶은데 여성 일행이 없으면 오묘한 시선에 시달리게 되는 곳이 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03753_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

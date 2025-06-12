@@ -1,0 +1,189 @@
+{
+    "metadata": {
+        "filename": "MYP_03605",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 47.681,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모닝콜 나는 참 잘 일어난다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 21.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 허나 이런 나와 달리",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.315,
+                "end": 23.714
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형 일어나요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.724,
+                "end": 26.222
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "곧 수업 시작해요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.232,
+                "end": 27.811
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.821,
+                "end": 28.895
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형 교수님 오실 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.905,
+                "end": 35.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일어나야 돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.141,
+                "end": 36.080
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.090,
+                "end": 38.032
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 이 버러지야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.042,
+                "end": 40.521
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.531,
+                "end": 40.903
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인간 쓰레기야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.913,
+                "end": 42.083
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.093,
+                "end": 42.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대학 생활 4년 중에 한 1달은 이 양반을 깨우는 데 썼을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.860,
+                "end": 47.681
+            }
+        ]
+    },
+    "summary": "나는 아침에 잘 일어나지만 나와 같은 방을 쓰는 형은 잘 일어나지 못한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03605_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

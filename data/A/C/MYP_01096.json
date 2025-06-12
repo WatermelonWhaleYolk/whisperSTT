@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_01096",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.371,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 결국 마지막까지 패딩을 벗지 못하고 사라지는구먼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 그동안 함께해서 즐거웠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.746,
+                "end": 6.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부디 여러분이 응원하시는 팀에 축복이 가득하길",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.289,
+                "end": 15.349
+            }
+        ]
+    },
+    "summary": "남성은 결국 마지막까지 패딩을 벗지 못하고 사라지게 됐다며 함께 해서 즐거웠고 앞으로 응원하는 팀에 축복이 가득하길 바란다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01096_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

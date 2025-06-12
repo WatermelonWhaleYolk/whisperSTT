@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYP_03422",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2022-08-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역 입구에서 계단을 올라오던 한 노숙자와 마주쳤다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 방향이 겹친 그를 비켜가려 했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.888,
+                "end": 9.176
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 쏘리 하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.186,
+                "end": 15.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜인지 그는 내 진입을 막았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.437,
+                "end": 18.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노노노노노",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.565,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "역 입구에서 계단을 올라오던 한 노숙자와 마주쳤는데 왜인지 그는 내 진입을 막았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03422_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

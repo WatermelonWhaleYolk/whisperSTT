@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_00582",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.306,
+        "format": "MP4",
+        "date": "2023-01-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "은행에 항의했지만 입금자가 보이스 피싱에 당했다고 신고했기 때문에 어쩔 수 없단 답만 돌아왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.702
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 피해는 누가 책임을 져 줄 거냐라고까지 물어봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.712,
+                "end": 11.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "해당 은행은 그런 거를 뭐 보상이나 이런 걸 해 줄 수 있는 시스템도 없고 해 드릴 수도 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.330,
+                "end": 18.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현행법상 보이스 피싱 신고가 들어오면 은행은 돈이 입금된 계좌를 일단 정지시킵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.682,
+                "end": 25.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기간은 최소 17일입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.103,
+                "end": 27.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신속한 피해 구제를 위해서인데 범죄와 무관해도 일단 계좌가 묶이면 풀기가 어렵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.538,
+                "end": 34.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계좌주가 범죄와 무관함을 입증해야 하고 동시에 입금자가 취소 신청을 해 줘야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.492,
+                "end": 40.306
+            }
+        ]
+    },
+    "summary": "현행법상 보이스 피싱 신고가 들어오면 범죄와 무관해도 은행에서 돈이 입금된 계좌를 정지시키는데 계좌가 묶이면 풀기가 어렵다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00582_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

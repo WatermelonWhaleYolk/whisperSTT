@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_02449",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 투척 아이고 @이름1 선수도 나갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 선수도 측정하지 않아도 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.649,
+                "end": 7.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에 좀 욕심을 냈을까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.208,
+                "end": 9.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크게 한번 상체를 앞쪽으로 과감하게 던지면서 최대한 잡아줘야 되는데 사실 중심이 무너지면 잡기 쉽지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.688,
+                "end": 17.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.417,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "포환 종목의 @이름1 선수가 공을 투척할 때 중심이 무너지면서 공이 나가 파울 처리됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02449_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 84
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYP_03833",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.16,
+        "format": "MP4",
+        "date": "2021-03-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 자기관리 되게 철저한 사람이구나.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.337
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허나 술버릇의 경우에는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.347,
+                "end": 4.784
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으으",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.794,
+                "end": 5.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.627,
+                "end": 6.735
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "터져 보기 전엔 아무것도 유추할 수 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.745,
+                "end": 9.527
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이씨이이 누가 자는데 이씨 이이 불을 켜놨어. 이씨이이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.537,
+                "end": 18.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정신력도 사이드 깠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.231,
+                "end": 20.659
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘의 이야기는 당신이 잠든 사이에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.669,
+                "end": 27.160
+            }
+        ]
+    },
+    "summary": "20대 남성과 같이 술을 마시는 남성이 자기는 술버릇이 얌전히 자는 거라고 말했지만 술이 취하자 갑자기 드러눕고 불을 왜 켜 놨냐고 화를 내는 모습을 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03833_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

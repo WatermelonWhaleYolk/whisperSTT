@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03163",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.965,
+        "format": "MP4",
+        "date": "2023-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "먼 옛날 용사와 마왕이 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.767
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마왕. 남들 다 쉬는 주말에 등장하는 상도덕은 대체 어디서 배워 처먹은 거냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.777,
+                "end": 14.767
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "상도덕을 배울 거면 마왕으로 태어나지도 않았다. 용사여. 너와 싸우기 위해 주말까지 존버하고 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.777,
+                "end": 27.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더러운 악마 찌끄레기가 주둥이만 청산유수로구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.898,
+                "end": 31.965
+            }
+        ]
+    },
+    "summary": "용사는 먼 옛날 주말에도 등장하는 상도덕 없는 마왕과 싸우고 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03163_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

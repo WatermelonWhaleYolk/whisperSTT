@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01969",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2020-05-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "10개구단 감독과 주장들은 경기장에서 원격 인사를 나눴습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.621
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요? 잘 들리십니까? 안녕하십니까? 손 감독님",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.631,
+                "end": 9.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 우승팀 두산부터 출사표를 내놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.862,
+                "end": 13.874
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "올해도 우리는 역시 목표를 우승으로 마지막에도 팬 여러분들께 즐거운 모습 보여드리도록 노력하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.884,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "10개구단 감독과 주장들은 경기장에서 원격 인사를 나눴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01969_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

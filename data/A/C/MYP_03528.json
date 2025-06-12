@@ -1,0 +1,205 @@
+{
+    "metadata": {
+        "filename": "MYP_03528",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.28,
+        "format": "MP4",
+        "date": "2022-05-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "7",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "8",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 방관할 수 없었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이야 회장님 단물 쏟으신다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.786,
+                "end": 6.445
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐하냐 등 안 두드리고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.455,
+                "end": 7.896
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "성스러운 순간들을 함께 하자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.906,
+                "end": 9.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 찍은 이 사진은 우리 카페의 대문이 되었고 취한 그가 길가에 쓰러지지 않으려다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.921,
+                "end": 18.279
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "뭐야 회장님 넘어간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.289,
+                "end": 19.837
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "자 잡아 잡아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.847,
+                "end": 21.437
+            },
+            {
+                "speaker_id": "7",
+                "transcription": "어어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.447,
+                "end": 22.330
+            },
+            {
+                "speaker_id": "8",
+                "transcription": "어이쿠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.340,
+                "end": 24.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우연이 잡게 된 이 포즈는 우리 모임의 공식 포즈가 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.162,
+                "end": 31.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 그는 창조적이고 진취적인 리더십에 힘입어 현재 27대 회장을 연임 중이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.727,
+                "end": 40.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 조만간 탄핵이 예정 되어있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.596,
+                "end": 44.277
+            }
+        ]
+    },
+    "summary": "그가 길가에 쓰러지지 않으려다 우연이 잡게 된 이 포즈는 우리 모임의 공식 포즈가 되었고 그는 창조적이고 진취적인 리더십에 힘입어 현재 27대 회장을 연임 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03528_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

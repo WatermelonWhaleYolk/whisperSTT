@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02037",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.3,
+        "format": "MP4",
+        "date": "2021-08-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래. 케파는 잘 처리했나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 누굽니까? 내쫓아 버린 다음 전화는 물론 카톡까지 차단해 두었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.890,
+                "end": 6.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시라도 잘못되는 거 아니지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.110,
+                "end": 7.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멋대로 방출시켰단 얘기가 나오면 곤란해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.949,
+                "end": 10.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 스스로 은퇴하게끔 잘 설득해 두었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.420,
+                "end": 13.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첼시의 수호신답게 일 처리 확실하구먼. 고생했다 멘디.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.330,
+                "end": 16.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하 뭐 이 정도 가지고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.810,
+                "end": 18.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그 새끼 때문에 제대로 쉬지도 못한 거 생각하면 진짜.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.333,
+                "end": 21.777
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 이제 새로운 후보 골키퍼만 영입해 주신다면 이번 시즌 트레블 문제없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.787,
+                "end": 28.333
+            }
+        ]
+    },
+    "summary": "케파를 은퇴하게끔 설득하고 새로운 후보 골키퍼를 영입하려 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02037_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

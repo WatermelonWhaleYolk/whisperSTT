@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "MYP_04284",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.062,
+        "format": "MP4",
+        "date": "2020-01-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 여파로 게임이 엉망이 된다면 우리의 존재는 의미가 없어지는 것이지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "따라서 우리는 그런 불미스러운 상황을 방지하기 위한 예방법 중 하나로 부서별 명찰에 착용하여 부서별 그래픽에 맞게 보호색을 주는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.848,
+                "end": 29.062
+            }
+        ]
+    },
+    "summary": "우리는 불미스러운 상황을 방지하기 위한 예방법 중 하나로 부서별 명찰에 착용하여 부서별 그래픽에 맞게 보호색을 준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04284_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

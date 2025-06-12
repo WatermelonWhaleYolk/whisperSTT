@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01599",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.074,
+        "format": "MP4",
+        "date": "2023-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가로채기 후 스캇에게 이어준 절묘한 패스로 다시 11점 차까지 달아나자 유도훈 감독 얼굴에도 잠시 웃음이 살아났습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 최근 3경기 연속 역전승을 기록했던 SK 막판 집중력이 무서웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.492,
+                "end": 14.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4쿼터 역전에 성공한 SK가 석 점 앞서며 가스공사의 패색이 짙었던 종료 5초 전 환상적인 석점 슛이 이대성의 손 끝에서 만들어지며 극적인 동점 승부는 연장으로 이어졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.169,
+                "end": 28.061
+            }
+        ]
+    },
+    "summary": "3경기 연속 역전승을 기록했던 SK는 석점 슛이 만들어지며 승부는 연장으로 이어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01599_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

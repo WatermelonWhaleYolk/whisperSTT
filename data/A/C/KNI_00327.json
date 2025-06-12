@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00327",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.416,
+        "format": "MP4",
+        "date": "2022-11-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 염원인 대한민국 16강 8강 4강 우승할 수 있도록 온 교민이 힘을 모아 열심히 응원하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.652
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.662,
+                "end": 10.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인천 국제공항에서 출발한 붉은 악마 본진도 카타르 현지에 도착했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.740,
+                "end": 16.416
+            }
+        ]
+    },
+    "summary": "인천 국제공항에서 출발한 붉은 악마 본진도 카타르 현지에 도착했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00327_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

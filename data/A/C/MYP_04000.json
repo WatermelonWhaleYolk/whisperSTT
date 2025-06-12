@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYP_04000",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.126,
+        "format": "MP4",
+        "date": "2020-11-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 누구 때릴래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.518
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누가 더 패고 싶게 생겼어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.528,
+                "end": 5.589
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "둘다 패고 싶게 생겼어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.599,
+                "end": 8.486
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그녀는 수줍게 찰리 형을 선택했다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.496,
+                "end": 11.853
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 이분이 더 패고 싶게 생겼어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.863,
+                "end": 14.613
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크하하하 난 얼굴 뜯어먹고 사는 남자다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.623,
+                "end": 18.314
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그리고 시작 된 첫 개시.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.324,
+                "end": 20.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 마음 놓고 있는 힘껏 여기.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.391,
+                "end": 24.472
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이제 처 맞을 텐데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.482,
+                "end": 26.126
+            }
+        ]
+    },
+    "summary": "뺨 때리기 이벤트에서 누굴 때릴거냐고 묻는 질문에 여학생은 찰리 형을 선택하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04000_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

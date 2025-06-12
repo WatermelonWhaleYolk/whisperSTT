@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_00434",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.917,
+        "format": "MP4",
+        "date": "2023-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일부 학부모는 사고 소식을 학부모들의 SNS 대화방에서 들었다며 학교 측의 통보가 사고 발생 이후 1시간 가까이 늦었다고 항의했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.824
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 잘못된 게요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.834,
+                "end": 11.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "학교 측에서 연락을 줘야 되는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.040,
+                "end": 13.357
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주변의 119 소리 듣고 단톡방으로 그게 올린 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.360,
+                "end": 17.917
+            }
+        ]
+    },
+    "summary": "일부 학부모는 사고 소식을 학부모들의 SNS 대화방에서 들었다며 학교 측의 통보가 사고 발생 이후 1시간 가까이 늦었다고 항의했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

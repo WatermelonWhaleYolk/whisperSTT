@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "filename": "MYP_00796",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.6,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비켜줄 테니 편하게 넣어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.051
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 저 양반 지금 뭐 하는 거예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.061,
+                "end": 3.662
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 칸구는 전형적인 카푸어다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.672,
+                "end": 5.830
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "본인은 2평짜리 고시원에 살면서도 차는 뽀르셰를 타고 다니지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.840,
+                "end": 9.507
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래서 차량 소비에 현명한 사람들을 보면 죄책감을 느껴 저렇게 양보한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.517,
+                "end": 14.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그래도 지금 경기가 지게 생겼는데 뭐 하는 거예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.300,
+                "end": 17.008
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "괜찮다. 타랍박 나에게 비장의 무기가 있으니 너무 걱정 말아라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.018,
+                "end": 20.912
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 다들 집중 전반전에 한 골 먹혀서 1대 0으로 뒤지고 있다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.922,
+                "end": 26.212
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1이 뒤지고 있을 땐 어떡해야 되지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.222,
+                "end": 28.929
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뒤지기 싫으면 그걸 써야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.939,
+                "end": 31.600
+            }
+        ]
+    },
+    "summary": "칸구는 카푸어라 차량 소비에 현명한 사람에게 죄책감을 느껴 슛을 넣을 수 있게 도와주고 이에 지고 있던 팀의 다른 남성은 경기에서 이길 비장의 무기가 있다고 불평하는 동료를 안심시킨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00796_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYP_00074",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.9,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "케인 전하 오랜만에 인사드리옵니다.",
+                "sound_type": [
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.249
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 캐롤 어서 오게나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.259,
+                "end": 8.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "먼저 감사 인사부터 건네도록 하지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.592,
+                "end": 10.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 자네가 예상한 대로 내가 현재 득점 1위라네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.771,
+                "end": 13.911
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "짐이 득점 왕이 될 상이란 걸 제대로 봐 주었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.921,
+                "end": 16.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이래 봬도 영국 바닥에선 가장 유능한 관상가입니다 허허",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.786,
+                "end": 20.382
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 그래 이대로라면 득점 왕의 자리에 오르는 건 시간 문제일세.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.392,
+                "end": 24.043
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허나 내 또 다른 고민이 하나 있다네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.053,
+                "end": 26.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고민이라뇨?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.049,
+                "end": 26.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세계 최고의 공격수로 자라나신 전하께서 무슨 고민이 있으신 것인지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.944,
+                "end": 31.034
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 비록 최고의 선수로 자라났다만 그건 어디까지나 나 혼자만이지 않은가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.044,
+                "end": 35.900
+            }
+        ]
+    },
+    "summary": "30대 남성이 다른 30대 남성에게 고마움을 표현하고 고민에 대해 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00074_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

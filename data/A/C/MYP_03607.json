@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_03607",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.285,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "참 지금 빨리 일어나요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.853,
+                "end": 3.070
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "걔 말고 니가 자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.080,
+                "end": 4.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 과목 강령술 만들지 말고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.965,
+                "end": 8.029
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "나는 1번 깨면 무슨 수를 써도 다시 잠 들지 못하고 이승을 방황한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.039,
+                "end": 14.278
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "오늘의 이야기는 창문을 열어다오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.288,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "나는 1번 일어나면 다시 잠 들지 못한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03607_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

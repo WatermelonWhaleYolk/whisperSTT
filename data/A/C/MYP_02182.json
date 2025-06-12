@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_02182",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.533,
+        "format": "MP4",
+        "date": "2021-06-04",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네덜란드의 공격수 반 페르시는 말했다. 이적이란 내 안의 작은 아이가 시키는 거라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모든 선수에겐 둘도 없는 영광 즉 우승을 하고 싶은 욕망이 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.718,
+                "end": 8.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2021년 여름 이적시장 팀을 찾는 공격수들과 공격수를 찾는 감독들의 개그와 드립이 난무하는 이적 전쟁이 지금 시작된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.694,
+                "end": 18.533
+            }
+        ]
+    },
+    "summary": "이적이란 내 안의 작은 아이가 시키는 반 페르시의 말처럼 21년 팀을 찾는 공격수와 선수를 찾는 감독들의 이적 전쟁이 시작됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02182_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

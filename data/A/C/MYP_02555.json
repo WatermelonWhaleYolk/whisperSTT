@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "filename": "MYP_02555",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 49.133,
+        "format": "MP4",
+        "date": "2020-12-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이보게 메시포터 다시 한 번 말하지만 올해는 반드시 우리 바르셀로나가 마법 학교 대항전 챔피언스 리그에서 우승해 빅이어를 차지해야 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.485
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 쿠블도어 교수님 우리 학교는 88848이라는 끔찍한 저주에 걸려있지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.495,
+                "end": 14.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저주는 깨라고 있는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.010,
+                "end": 15.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "메시포터 자네 몇 번 우승해봤다고 이젠 별 욕심이 없는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.678,
+                "end": 19.693
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아뇨 그런 게 아니라 다른 학교로 이적한 뒤에 욕심 내려 했죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.703,
+                "end": 22.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 소리를 하는 건가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.740,
+                "end": 23.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자네는 우리 바르셀로나를 떠날 수 없대도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.989,
+                "end": 26.669
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그치만 지금의 바르셀로나는 우승은 커녕 8강 진출도 힘들다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.679,
+                "end": 30.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이니에스타, 사비 하다못해 호나우지뉴 선배라도 다시 복학시키면 안 될까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.030,
+                "end": 33.797
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 녀석들은 이미 마력을 잃고 버섯이나 따러 다니고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.807,
+                "end": 37.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 호나우지뉴는 교도와트에 수감되었다가 겨우 풀려났어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.438,
+                "end": 41.578
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "애 그러니까 제가 남기로 했으면 제대로 된 영입 좀 해주셨어야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.588,
+                "end": 44.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리즈만이 있잖아. 그 녀석도 여기 오기 전까지는 월드 클래스였다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.818,
+                "end": 49.133
+            }
+        ]
+    },
+    "summary": "메시포터에게 올해의 마법학교대항전 챔피언스 리그에서 우승해야 한다고 이야기를 하니까 같이 하는 선수들이 별로라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02555_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

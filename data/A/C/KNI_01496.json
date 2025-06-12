@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01496",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.187,
+        "format": "MP4",
+        "date": "2023-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "삼성은 경기 초반부터 불안한 모습을 이어갔습니다. 공을 잡은 이원석과 @이름1이 어이없는 턴오버를 연출합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베테랑 이정현 마저 뭔가에 홀린 듯 패스 미스를 범하고 아쉬워합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.612,
+                "end": 14.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 추격에 박차를 가하던 3쿼터 앨리웁 득점 시도가 나왔는데 림을 외면하고 말았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.580,
+                "end": 21.187
+            }
+        ]
+    },
+    "summary": "삼성은 경기 초반부터 불안한 모습을 이어갔고 베테랑 이정현 마저 패스 미스를 범하고 득점 시도가 나왔지만 림을 외면하고 말았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01496_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_02096",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.4,
+        "format": "MP4",
+        "date": "2018-02-13",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한국 GM이 군산 공장을 5월 말까지 폐쇄하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "판매량 급감으로 경영난에 빠진 한국 GM은 정부의 지원을 요구하고 있지만 정부는 자구 노력이 우선이라는 입장입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.879,
+                "end": 13.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최민정이 오늘 한국 여자 쇼트트랙이 한 번도 따내지 못했던 올림픽 500미터 금메달에 도전합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.170,
+                "end": 20.391
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최민정은 최대 경쟁 상대인 중국 선수들에 대한 분석을 마치고 맞춤 특별 훈련도 소화했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.401,
+                "end": 28.400
+            }
+        ]
+    },
+    "summary": "한국 GM이 경영난에 빠져 군산 공장을 폐쇄하기로 했고 쇼트트랙 국가 대표 최민정이 올림픽 500미터 결승전에 진출했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02096_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 20,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_02096_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

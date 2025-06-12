@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02694",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.433,
+        "format": "MP4",
+        "date": "2020-09-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다이어트는 그냥 헬스장에서 하시면 될 텐데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.212
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그게 빵을 끓는다는 게 보통 일이 아니더라고요 그래서 좀 독하게 해보면 어떨까 해서요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.222,
+                "end": 7.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 요새 헬스장도 문을 다 닫아버려가지고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.962,
+                "end": 10.655
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "혹시 중간에 퇴교하시게 된다면 어떤 이유일 것 같습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.665,
+                "end": 13.588
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "글쎄요 뭐 배가 고파서이지 않을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.598,
+                "end": 16.236
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "본인 때문에 다른 팀원들이 힘들어지고 있다면 본인은 거기서 어떻게 행동하실 건가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.246,
+                "end": 20.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에휴 아시다시피 우리 레알 마드리드가 라리가에선 올해 우승을 자제했지만 챔피언스 리그는 16강에서 탈락하고 말았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.115,
+                "end": 27.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만약 제가 조금 더 잘했다면 하는 마음에 팀원들에게 미안하기도 하고 저 자신이 원망스럽더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.923,
+                "end": 34.433
+            }
+        ]
+    },
+    "summary": "감독님이 다이어트는 그냥 헬스장에서 하시면 될 텐데 하니까 빵을 끓는다는 게 보통 일이 아니더라고 그래서 독하게 해보면 어떨까 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02694_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_00622",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 56.5,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그래서 지금 우리보고 옮기라는 거야? 우리가 다른 팀도 아니고 맨유야 맨유. 이봐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 뭐 누가 맨유 모릅니까? 아이 근데 지금 성적이 챔스를 못 나가잖아요. 위에서 방 빼라는걸 제가 어떡합니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.206,
+                "end": 9.912
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아유 시바 린가드가 5골만 넣었어도 이런일이 생겼겠냐? 아오 참나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.922,
+                "end": 14.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 그렇게 아시고 맨유 소속 골무원들께서는 내일부터 사무실 별관으로 이관하셔서 근무하시면 되겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.419,
+                "end": 20.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 드러워서. 아유 거기가서 그래서 우리가 뭘 해야 되는데? 그리고 다시 챔스 리그 진출하면 본관으로 돌아오는 거 확실하지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.135,
+                "end": 27.023
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 물론이죠. 그 사이에 경질만 안 당하시면 제가 책상도 안 치우고 보관해 두겠습니다. 지금 이동하시는 별관이지금 직원식당으로 쓰고 있습니다. 거기로 넘어 가셔서 별건 아니고 아 그 승점에 있어서 소외되어 있는 계층들 있잖습니까? 유로파는 고사하고 2부로 떨어질랑 말랑 하고 있는 안타까운 팀들 말입니다. 실적이 부진해 회식 한 번 제대로 하지 못하는 그런 팀들을 대상으로 승점도 좀 챙겨 주시고 배식 좀 도와주시면 되겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.033,
+                "end": 49.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 지금 우릴 뭘로 보고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.213,
+                "end": 50.729
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "챔스 진출만 하시면 바로 다시 본관으로 들어는 오십니다. 그럼 수고해주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.739,
+                "end": 56.500
+            }
+        ]
+    },
+    "summary": "남성이 다른 사람들에게 근무지 이전에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00622_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

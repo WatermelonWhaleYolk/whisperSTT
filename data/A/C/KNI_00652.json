@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_00652",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.382,
+        "format": "MP4",
+        "date": "2023-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당시 진학하게 될 경우 결석이 1년 최대 30일만 허용돼 대회 출전이 사실상 어렵기 때문이었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "골프와 테니스 등 개인 종목 선수들은 아예 출결이 자유로운 방송 통신고로 진학하는 사례가 늘었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.671,
+                "end": 15.382
+            }
+        ]
+    },
+    "summary": "골프와 테니스 등 개인 종목 선수들은 출결이 자유로운 방송 통신고로 진학하는 사례가 늘었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00652_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00652_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

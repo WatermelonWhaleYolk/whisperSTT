@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00027",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.486,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "측정기를 투입해 중앙에서 거리를 판독한 결과 아슬아슬한 차이로 2점을 내줘 패색이 짙어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10엔드에도 점수 차를 좁히지 못한 팀 킴은 스위스에 8대 4로 져 3승 4패를 기록하게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.302,
+                "end": 14.512
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 남은 2경기 한 경기 한 경기 쫌 더 집중해서 저희가",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.522,
+                "end": 19.486
+            }
+        ]
+    },
+    "summary": "경기 중 측정기를 투입해 판독한 결과 2점을 내줬고 10엔드에서도 점수 차를 좁히지 못해 스위스에 패해 3승 4패를 기록했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00027_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

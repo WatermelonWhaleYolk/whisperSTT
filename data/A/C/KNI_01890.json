@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01890",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.454,
+        "format": "MP4",
+        "date": "2022-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "700미터 오르막길을 짧게 끊어 이어 달리는 인터벌 러닝은 순발력과 체력을 기르는 것이 목적입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼성은 가파른 경사를 뛰어오르는 극한의 훈련을 통해 명가 재건을 다짐하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.480,
+                "end": 10.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김시래 선수 고생 많으십니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.036,
+                "end": 13.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 각오 한 말씀 부탁드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.171,
+                "end": 14.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 저희가 훈련 잘 이겨내서 원팀이 돼서 좋은 성적을 거두고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.690,
+                "end": 21.454
+            }
+        ]
+    },
+    "summary": "삼성은 인터벌 러닝 극한 훈련을 통해 명가 재건을 다짐하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01890_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

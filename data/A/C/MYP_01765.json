@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_01765",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.444,
+        "format": "MP4",
+        "date": "2021-11-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 창시한 변형 3백에 너희들이 녹아드는 순간 공격은 물론 수비까지 살아날 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.852
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 살아날 수 있는 기래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.862,
+                "end": 6.686
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "물론이지. 콘테 감독님과 함께라면 알리 너도 반드시 부활할 수 있을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.696,
+                "end": 10.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누누히 말하지만 난 자원 봉사자가 아니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.122,
+                "end": 12.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 바라는 것은 우승이고 우승팀에 어울리지 못할 선수는 이번 겨울 팀을 떠나서 좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.800,
+                "end": 17.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 데려가는 팀이 있어야 팀을 떠나든 말든 하는 기래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.813,
+                "end": 21.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 남은 두 달간 피나는 노력을 한다면 이적은 물론 네가 사랑하는 토트넘에 잔류하는 것도 가능하겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.236,
+                "end": 27.328
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 정말인 기래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.338,
+                "end": 28.576
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 어떡하면 되겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.586,
+                "end": 30.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무리뉴와 누누 밑에서 감독 탓만 해왔기에 너희들은 자신의 문제가 무엇인지 모르고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.086,
+                "end": 35.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 과거 루카쿠를 180도 개조해 놓은 거 다들 알고 있지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.422,
+                "end": 39.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금부터 너희에게 1대1 특별 면담을 시행하겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.043,
+                "end": 43.433
+            }
+        ]
+    },
+    "summary": "남은 두 달간 피나는 노력을 한다면 이적은 물론 토트넘에 잔류하는 것도 가능하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

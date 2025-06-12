@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_01423",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.1,
+        "format": "MP4",
+        "date": "2022-04-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세상에 그럼 제가 살아나려면 팀을 떠나는 수밖에 없겠군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팀을 떠난다고 살아난다는 보장도 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.490,
+                "end": 5.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첼시에서 망했던 공격수들이 팀을 떠나 부활한 경우 역시 절반도 채 되지 않거든.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.990,
+                "end": 10.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 그럼 어떡합니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.530,
+                "end": 11.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 서른도 안됐는데 은퇴하긴 싫다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.990,
+                "end": 14.129
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 내 밑으로 돌아온다면 높은 확률로 부활할 수 있겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.130,
+                "end": 17.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "설마 토트넘으로 이적하라는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.340,
+                "end": 19.470
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.470,
+                "end": 20.100
+            }
+        ]
+    },
+    "summary": "첼시에서 망했던 공격수가 팀을 떠나고 살아난 경우가 절반도 되지 않기 때문에 보장할 수 없지만 토트넘으로 이적한다면 높은 확률로 부활할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01423_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

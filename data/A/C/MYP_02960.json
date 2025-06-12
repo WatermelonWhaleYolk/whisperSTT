@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_02960",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.6,
+        "format": "MP4",
+        "date": "2020-02-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "걱정이 많긴 하지만 그래도 내가 누구냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "명장 중의 명장이자 빡빡이 중의 빡빡이 챔피언스산의 정복쯤이야 얼마든지 할 수 있을 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.322,
+                "end": 12.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 우리 레알사가 올해 들어 다시 스페인에서는 선두를 쟁취할 만큼 괄목상대하였고 어린 요괴들도 잘 자라주고 있는 건 맞지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.255,
+                "end": 24.600
+            }
+        ]
+    },
+    "summary": "나는 걱정이 많긴 하지만 챔피언스산 정복쯤이야 얼마든지 할 수 있을 것이라고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02960_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 7,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

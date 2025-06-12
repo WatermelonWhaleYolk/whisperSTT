@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00147",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.195,
+        "format": "MP4",
+        "date": "2022-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1패 뒤 2연승으로 반격에 성공한 인삼 공사는 챔피언 결정전 진출까지 이제 단 1승만을 남겨뒀습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 지금 저희 외국인 선수도 지금 한 명밖에 안 뛰고 있고 또 지금 전 전체적으로 좀 힘든 상 상황이지만 그래도 저희 플레이 요구 DNA가 있기 때문에 한번 끝까지 해서 챔피언 반지 하나 더 끼도록 한번 해보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.083,
+                "end": 19.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KT 야전 사령관 허훈을 받쳐 줄 공격력이 변수로 떠오른 가운데 두 팀은 내일 4차전을 치릅니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.268,
+                "end": 27.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 신수빈입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.120,
+                "end": 29.195
+            }
+        ]
+    },
+    "summary": "1패 뒤 2연승으로 반격에 성공한 인삼 공사는 챔피언 결정전 진출까지 이제 단 1승만을 남겨뒀고 KT 야전 사령관 허훈을 받쳐 줄 공격력이 변수로 떠오른 가운데 두 팀은 내일 4차전을 치릅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00147_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

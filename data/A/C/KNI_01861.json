@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_01861",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.784,
+        "format": "MP4",
+        "date": "2021-07-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양궁과 여자 골프, 펜싱 사격 등이 금메달 유력 종목입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 대표팀에 남녀 주장은 사격에 진종오와 여자배구 김연경 선수고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.993,
+                "end": 9.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 수영의 유망주 제2의 박태환이라고 불리는 황선우 선수가 기수로 선정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.115,
+                "end": 14.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 선수도 메달 후보로 주목할 만한 선수구요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.639,
+                "end": 17.784
+            }
+        ]
+    },
+    "summary": "이번 올림픽에서 금메달 유력 종목은 양궁, 여자 골프, 펜싱, 사격 등이고 대표팀 남녀 주장은 사격에 진종오, 여자배구 김연경 선수이고 또 메달 후보로 주목할 만한 수영에 황선우 선수는 기수로 선정됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01861_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_00597",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.061,
+        "format": "MP4",
+        "date": "2023-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기업의 젊은 경영인들로 구성된 한 문화 후원 친목 단체가 유물을 사들여 국립 중앙 박물관에 기증했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 유산을 함께 저희가 공유할 수 있는 기회가 돼서 어 굉장히 영광스럽게 생각을 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.828,
+                "end": 14.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "희귀한 조선 중기 나전 유물이 제자리를 되찾으면서 고려에서 조선 후기로 이어지는 우리 나전 공예의 변화상을 연구하는 데 큰 도움이 될 것으로 기대됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.832,
+                "end": 26.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.342,
+                "end": 28.061
+            }
+        ]
+    },
+    "summary": "한 문화 후원 친목 단체가 희귀한 조선 중기 나전 유물을 사들여 국립 중앙 박물관에 기증해 우리 나전 공예의 변화상을 연구하는 데 큰 도움이 될 것으로 기대된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00597_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

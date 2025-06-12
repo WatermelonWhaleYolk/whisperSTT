@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_02384",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.24,
+        "format": "MP4",
+        "date": "2016-11-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 단체는 기존 빙상 연맹 등과 업무가 중복되는데도 정부로부터 6억 7000만 원이나 되는 지원금을 단기간에 받아 체육계에서는 논란이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.559
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모르겠어요 그때 장관님이 나한테 지시한 지는 모르겠는데 하여튼 너 이규혁이 와가지고 그런 거 하자",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.569,
+                "end": 18.233
+            }
+        ]
+    },
+    "summary": "동계 스포츠 영재 센터는 빙상 연맹 등과의 업무도 중복되는데 정부로 지원금을 받아 체육계에서는 논란이 된 단체라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02384_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

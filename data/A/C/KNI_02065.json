@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_02065",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.4,
+        "format": "MP4",
+        "date": "2018-02-06",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "훈련을 마친 북측 선수들은 우리 선수들과 함께한 훈련에 만족감을 표했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "훈련 같이 했잖아요 어땠어요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.827,
+                "end": 6.709
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 말씀만 해주세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.719,
+                "end": 7.748
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 좋았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.758,
+                "end": 12.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 남북 페어 대표 선수들은 캐나다에서 함께 훈련하며 우정을 쌓아온 사이입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.187,
+                "end": 18.400
+            }
+        ]
+    },
+    "summary": "북측 선수들의 우리 선수들과의 훈련에 만족감을 표했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02065_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

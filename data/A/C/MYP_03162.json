@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYP_03162",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 37.237,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "만세. 용사님께서 우리를 지켜주신다. 만만세.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 용사님 너무 멋져요. 어찌 이리도 늠름하실까.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.081,
+                "end": 10.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자신에게 해를 입힌 마을 사람들을 기꺼이 용서하시고 저 조차도 감지 못한 마물의 위험을 사전에 방지하여 주신다니.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.173,
+                "end": 18.909
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감동하고 감복하여 믿고 따르지 않을 수가 없네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.919,
+                "end": 23.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용사님의 흔들리지 않는 눈을 보고 있자니 절로 안심이 됩니다. 분명 근심 걱정따위는 벗어 던지고 시민들의 안전을 먼저 생각하시고 계시겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.388,
+                "end": 33.946
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "집에 가고 싶다. 마녀 사냥 무서워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.956,
+                "end": 37.237
+            }
+        ]
+    },
+    "summary": "용사님은 자신이 지켜준다는 말에 노인을 비롯한 마을 사람들이 환호성하고 여성이 자신에게 지나치가 찬사를 보내자 무서워하며 집에가고 싶어 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03162_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

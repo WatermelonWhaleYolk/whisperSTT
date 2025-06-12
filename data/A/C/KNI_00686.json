@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "KNI_00686",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2023-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조상현 감독 부임 이후 완벽히 달라진 2위 @소속1는 이관희의 13득점 활약 속에 @소속2를 꺾었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1는 선두 @소속2를 2경기 차로 맹추격했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.160,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "이관희의 13득점 활약 속에 @소속2를 2경기 차로 맹추격했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00686_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_00276",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.184,
+        "format": "MP4",
+        "date": "2022-11-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "숨겨진 이력도 알려져 더욱 주목 받고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경북 군위에서 활동했던 독립 운동가 허석의 후손이란 사실이 밝혀진 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.655,
+                "end": 9.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난달 그랜드슬램에서 도쿄 올림픽 우승자 노라 자코바를 누르고 금메달을 따낸 허미미의 시선은 더 높은 곳을 향해 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.326,
+                "end": 18.184
+            }
+        ]
+    },
+    "summary": "경북 군위에서 활동했던 독립 운동가 허석의 후손이란 사실이 밝혀져 더욱 주목 받고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00276_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

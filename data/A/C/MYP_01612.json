@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_01612",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 57.633,
+        "format": "MP4",
+        "date": "2022-01-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "회장님이 대인배라니 이거 지나가던 만수르가 웃겠습니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.370
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 프리미어리그 검증도 안 된 녀석한테 클럽 레코드의 이적료는 물론 팀 에이스 수준의 주급을 준다면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.370,
+                "end": 9.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 녀석들이 가만있지 않겠죠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.560,
+                "end": 11.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바로 그 말일세 그래서 말인데 우리의 라이벌인 아스날한테 슬쩍 떠넘기는 게 어떤가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.450,
+                "end": 16.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.745,
+                "end": 17.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그녀석이 몸값은 비쌀지언정 무조건 성공할 거라 봅니다 그런 녀석을 라이벌에게 넘겨주겠다고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.610,
+                "end": 23.741
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "순순히 넘겨주겠다는 게 아니야 이적시장 막바지까지 녀석의 몸값을 최대한 끌어올리는 거지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.750,
+                "end": 29.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "설마 허위입찰을 하시겠다는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.434,
+                "end": 31.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "녀석의 몸값과 주급을 최대로 끌어올린 다음 아스날이 사게끔 만든다면 이거야말로 아스날한테 한방 먹이는 셈 아닌가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.673,
+                "end": 38.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈 아까워서 못 데려온단 말씀을 참 어렵게도 하시네요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.996,
+                "end": 42.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.124,
+                "end": 42.970
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 녀석을 데려오지 못하더라도 그 못지않은 보강은 해주셔야 할 겁니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.980,
+                "end": 47.126
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 그럼 내가 전해주려던 좋은 소식이 바로 그거라네 빠르면 겨울 늦어도 여름에 엄청난 선수를 데려올 수 있게 되었어 그것도 공짜로 말이지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 47.136,
+                "end": 57.633
+            }
+        ]
+    },
+    "summary": "원하던 선수의 몸값을 최대한 올려 라이벌인 아스날에게 넘기려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01612_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

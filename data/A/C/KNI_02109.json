@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_02109",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.033,
+        "format": "MP4",
+        "date": "2019-09-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 2012년 런던 올림픽 때 한국팀 선수가 정치적 세레모니를 했다고 징계를 받은 것 기억하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "축구 한일전이 끝난 뒤에 박정우 선수가 독도는 우리 땅 세레모니를 했는데 결국 출전 금지와 함께 벌금 처분을 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.692,
+                "end": 18.033
+            }
+        ]
+    },
+    "summary": "2012년 런던 올림픽 축구 한일전이 끝난 뒤 독도는 우리땅 세레모니를 한 선수가 출전 금지와 함께 벌금 처분을 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02109_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

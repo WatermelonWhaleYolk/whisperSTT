@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_04101",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.611,
+        "format": "MP4",
+        "date": "2020-07-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우하하하 아하하 와하하 저돌맹진 저돌맹진 저돌맹진",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 15.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 괴물 녀석아 송장이 되어서 내가 더 강해지기 위한 더 높이 가기 위한 발판이 되어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.081,
+                "end": 24.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간다 저돌맹진",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.553,
+                "end": 31.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구독 좋아요 눌러 주지 않을래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.598,
+                "end": 40.607
+            }
+        ]
+    },
+    "summary": "그가 양손에 검을 들고 괴물과 싸우려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04101_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

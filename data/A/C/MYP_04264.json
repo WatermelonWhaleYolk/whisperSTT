@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_04264",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2020-02-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오랜 친구인 펠은 삐에르와 같은 바리스타이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.124,
+                "end": 5.056
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가게 깨끗하네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.066,
+                "end": 6.613
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "잘왔어 뭐 줄까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.623,
+                "end": 8.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "난 난 아이스 아메리카노.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.673,
+                "end": 11.381
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나는 90도씨로 예열한 데미타세에 과테말라 안티구아 풀시티 로스팅 융드립으로 1.5온스.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.391,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "오랜 친구인 펠은 삐에르와 같은 바리스타이고 일하는 카페에 놀러갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04264_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

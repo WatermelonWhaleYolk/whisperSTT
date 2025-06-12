@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "KNI_02309",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 68.4,
+        "format": "MP4",
+        "date": "2015-07-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1100여 명의 운전원들이 1300여 대의 차량으로 37개의 경기장을 쉴 틈 없이 오갑니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.130,
+                "end": 17.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기를 마친 선수들이 경기장 안에서 도시락을 받아갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.155,
+                "end": 21.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기에 참가하느라 식당을 이용하지 못하는 선수들을 위해 도시락을 챙기는 건 자원봉사자들의 몫입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.372,
+                "end": 27.903
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "도시락이 선수들의 에너지가 되니까 저희가 그것을 챙겨주는 것에 굉장히 보람차다고 느껴집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.913,
+                "end": 36.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스포츠 마사지로 뭉친 근육을 풀어주는 체육 전공 대학생들 선수들의 컨디션 회복에 큰 도움을 주고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.566,
+                "end": 44.721
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "선수들의 컨디션 유지하게 저희가 여러 가지 책임감과 의무감을 가지고 할 수 있다는 경험이 가장 좋은 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.731,
+                "end": 53.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문화해설사들은 각 나라 선수단들에게 남도의 문화를 알립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.460,
+                "end": 58.067
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "예의 고장 그다음에 의의 고장 그다음에 우리 맛의 고장이라고 해서 이 3가지를 어떻게 하면 잘 알릴 것인가에 대해서 고민하면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 58.077,
+                "end": 68.400
+            }
+        ]
+    },
+    "summary": "1100명의 운전원들이 선수들을 실어 나르고 자원봉사자들이 경기를 치루느라 끼니를 채우지 못해 먹을 수 있도록 배달해주기도 하고 문화 해설사들이 관광 온 외국인들에게 문화를 알리는 등 한국에 방문한 외국 선수들에게 좋은 경험을 선사하고자 노력하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": null,
+                    "act": 37
+                }
+            ]
+        }
+    ]
+}

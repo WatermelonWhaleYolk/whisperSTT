@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01505",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.031,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새 타격폼의 시험대가 될 첫 무대는 WBC 우타니와 다르빗슈 등 빅리그 강속구 투수들과의 맞대결 성적이 미국 진출의 관건입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선배님들만 믿고 했더라면 이젠 좀 주축이 되어서 해야 될 거 같다라는 생각도 들어서 막 부담은 안 드는데 그래도 잘해야겠다는 책임감은 좀 생기는 거 같습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.341,
+                "end": 20.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2주간 키움에서 훈련할 이정후는 14일부턴 대표팀에서 김현수 등 WBC 동료들과 본격적으로 손발을 맞출 예정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.707,
+                "end": 29.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 29.197,
+                "end": 31.031
+            }
+        ]
+    },
+    "summary": "새 타격폼의 시험대가 될 첫 무대는 빅리그 강속구 투수들과의 맞대결 성적이 미국 진출의 관건이며 2주간 키움에서 훈련할 이정후는 14일부턴 대표팀에서 김현수 등 WBC 동료들과 본격적으로 손발을 맞출 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01404",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.196,
+        "format": "MP4",
+        "date": "2023-04-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나상호가 2번째 골을 터뜨린 데 이어 팔로세비치가 추가골을 넣어 전반에만 3골 잔치를 벌였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.764
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기의 또 다른 하이라이트는 임영웅 씨의 하프 타임 공연이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.774,
+                "end": 12.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하프 타임에 임영웅 씨의 노래가 울려 퍼지자 서울 월드컵 경기장은 순식간에 거대한 콘서트장으로 탈바꿈했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.697,
+                "end": 26.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울은 대구를 3 대 0으로 이겼습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.056,
+                "end": 30.196
+            }
+        ]
+    },
+    "summary": "경기의 또 다른 하이라이트는 임영웅 씨의 하프 타임 공연이었으며 서울은 대구를 3 대 0으로 이겼습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_01739",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.833,
+        "format": "MP4",
+        "date": "2021-11-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사리 감독님 실례지만 지금이 몇 년도인가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.738
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "참나 당연히 2019년이지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.748,
+                "end": 5.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세상에 지금 제가 과거로 돌아왔다는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.108,
+                "end": 7.797
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "과거라니 자넨 유로파 우승 파티에서부터 졸기 시작하더니 지금까지 잠들어 있었다네 피곤해 보이길래 그냥 두었더만 도대체 무슨 꿈을 꿨길래 그러는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.807,
+                "end": 16.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 전 마드리드의 한 식당에서 햄버거를 기다리고 있었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.830,
+                "end": 20.236
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "폼이 망가진다고 햄버거 같은 건 입에도 대지 않는 녀석이 햄버거는 무슨 햄버거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.246,
+                "end": 24.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거에 저는 햄버거를 안 먹었던가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.747,
+                "end": 27.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "햄버거가 뭐야 심지어 자넨 우승 파티에 와서도 닭가슴살만 먹지 않았나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.021,
+                "end": 31.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 그렇게 맛대가리 없는 것만 먹고 살았다고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.529,
+                "end": 34.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동료들을 남겨두고 자네 혼자 레알로 가는 마음이 불편한 건 알겠는데 그렇게까지 굴 것 없어 나 역시 유벤투스로 넘어갈 거니까 나한테만 솔직히 말해 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.159,
+                "end": 43.833
+            }
+        ]
+    },
+    "summary": "화자 2가 화자 1에게 우승 파티에 와서도 닭가슴살만 먹었다고 이야기한 후 동료들을 남겨두고 혼자 레알로 가는 마음이 불편한 건 알겠지마 그나한테만 솔직히 말해보라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01739_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

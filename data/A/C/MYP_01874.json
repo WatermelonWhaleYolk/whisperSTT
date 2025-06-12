@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01874",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.333,
+        "format": "MP4",
+        "date": "2021-10-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 그때는 있었고 지금은 없는 게 바로 언성 히어로라는 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.316
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "언성 히어로는 무슨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.326,
+                "end": 5.674
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 놈들 말이 좋아 히어로지 그냥 열심히 하는데 티도 안 나는 놈들 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.684,
+                "end": 9.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중원에서 스콜스와 캐릭이 마음 놓고 공격 전개를 할 수 있던 건 살림꾼 대런 플레처가 있었기 때문이고 당신이나 루니, 테베즈 같은 공격수들이 마음 놓고 득점할 수 있던 것 역시 박지성 같은 선수가 공간을 창출해 주었기 때문이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.929,
+                "end": 24.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인의 퍼포먼스는 평범해 보이더라도 팀 전체의 전력을 상승시켜 주는 선수",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.283,
+                "end": 29.333
+            }
+        ]
+    },
+    "summary": "선수가 그때는 있었고 지금은 없는 게 팀 전체의 전력을 상승시켜 주는 언성 히어로라며 당신이나 루니, 테베즈 같은 공격수들이 마음 놓고 득점할 수 있던 것은 박지성 같은 선수가 공간을 창출해 주었기 때문이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01874_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

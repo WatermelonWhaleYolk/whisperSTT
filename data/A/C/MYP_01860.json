@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_01860",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.3,
+        "format": "MP4",
+        "date": "2021-10-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 축구라는 게 그것만으로 해결되는 건 아니잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3명의 신계 공격수를 가장 효율적으로 활용할 수 있는 방법은 무엇일까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.059,
+                "end": 7.402
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 좋은 해결책을 제시해 주신 분께는 포체티노 감독님께서 직접 감사의 인사를 전할 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.412,
+                "end": 13.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에라도 이 영상을 보신다면 말이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.111,
+                "end": 17.300
+            }
+        ]
+    },
+    "summary": "선수는 3명의 신계 공격수를 가장 효율적으로 활용할 수 있는 방법은 무엇일지 좋은 해결책을 제시해 주신 분께 포체티노 감독님께서 감사의 인사를 전할 거라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01860_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

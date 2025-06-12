@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "filename": "KNI_01506",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 47.18,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어려운 상황 속에서도 봉사활동으로 선행을 베풀며 용기를 얻었지만 끝내 60세의 나이로 세상을 떠났습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하늘나라에 가서는 정말 행복하게 잘 지냈으면 하는 게 선배로서 비는 마음이야.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.282,
+                "end": 17.314
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼭 행복하게 잘 지냈으면 좋겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 17.324,
+                "end": 22.298
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사랑해 @이름1아.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 22.308,
+                "end": 25.203
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1아 고생 많이 했다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 25.213,
+                "end": 28.564
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하늘나라에선 좀 병 없이 편안하게 잘 지냈으면 좋겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 28.574,
+                "end": 34.956
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나중에 보자.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 34.966,
+                "end": 36.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추모 묵념을 하는 등 여자 코트가 슬픔에 빠진 가운데 코끼리 센터는 이렇게 큰 발자취를 남기고 하늘의 별이 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.887,
+                "end": 45.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.256,
+                "end": 47.180
+            }
+        ]
+    },
+    "summary": "@이름1은 어려운 상황 속에서도 봉사활동으로 선행을 베풀며 용기를 얻었지만 끝내 60세의 나이로 세상을 떠났는데 추모 묵념을 하는 등 여자 코트가 슬픔에 빠진 가운데 코끼리 센터는 이렇게 큰 발자취를 남기고 하늘의 별이 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01506_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

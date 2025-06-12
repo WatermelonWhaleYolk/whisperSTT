@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01375",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.875,
+        "format": "MP4",
+        "date": "2022-05-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 우리 상대가 뉴캐슬이라 해도 니들 역시 늪축구의 번리가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 너네 마지막 상대 강등버프 제대로 받은 에버튼 심지어 램파드 각성해서 2연승 째임.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.219,
+                "end": 9.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 이 자식이?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.947,
+                "end": 11.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북런던 더비가 최후의 더비란 말이 있었을 만큼 우리는 오늘의 승리로 도무지 질 것 같은 기분이 아니거든.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.206,
+                "end": 17.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 그만 4스날은 포기하고 유로파 일정이나 준비하시지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.237,
+                "end": 20.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "챔피언스리그는 우리 토트넘이 나갈 거니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.995,
+                "end": 29.875
+            }
+        ]
+    },
+    "summary": "케인은 아스날의 마지막 상대는 2연승 중인 에버튼이고 4위는 포기하고 유로파 일정이나 준비하라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01375_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

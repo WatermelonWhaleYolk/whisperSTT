@@ -1,0 +1,408 @@
+{
+    "metadata": {
+        "filename": "MYP_00218",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 92.333,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "7",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 다들 모여봐라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리그 준우승에 유로파 준우승 뭐 나쁘지 않은 성직이었다만 결국 무관이었던 시즌 내년엔 어떻게 해야겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.455,
+                "end": 8.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그야 당연히 리그 우승에 챔스 우승이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.216,
+                "end": 10.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 거기다가 FA컵까지 우승해서 트레블을 노리는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.590,
+                "end": 13.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 영감님 이후 최고의 세대는 바로 나 @이름2의 맨유",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.709,
+                "end": 16.991
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그게 말이 쉽죠 솔직히 올 시즌 더블 준우승도 운이 많이 따라준 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.001,
+                "end": 21.201
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다음 시즌에도 @이름3급의 이적이 없다면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.211,
+                "end": 23.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐? @이름3급의 이적?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.487,
+                "end": 24.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참나 자 소개하지 다음 시즌 우리와 함께 할 윙 포워드 교과서 측면 돌파의 지배자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.997,
+                "end": 29.828
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "서 설마 @이름4 선배가 복귀하는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.838,
+                "end": 32.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.933,
+                "end": 33.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도르트문트의 신성 차세대 축구의 신 들어오거라 @이름5",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.702,
+                "end": 36.554
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "반갑습니다 여러분 도르트문트에서 온 @이름5입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.564,
+                "end": 39.240
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "세상에 @이름5가 드디어 맨유에 오는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.250,
+                "end": 42.135
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "전 사실 @이름6이나 @이름4보다 @이름5를 기다렸어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.145,
+                "end": 45.782
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "뭐 일단 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.792,
+                "end": 47.264
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "근데 전 아직 이적한 게 아니라서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 47.274,
+                "end": 48.921
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐라고? 그럼 여긴 무슨일이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.931,
+                "end": 51.147
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "뭐 잉글랜드 대표팀으로 유로에 나가야 해서 귀국했는데 @이름2 감독님이 잠깐 구경하고 가라셔서 들렀죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 51.157,
+                "end": 56.448
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아이 감독님 뭡니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 56.458,
+                "end": 58.281
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "영입도 안한 녀석을 데려오면 어떡해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 58.291,
+                "end": 60.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 @이름5 이녀석도 협상만 잘 되면 곧 우리 맨유맨이 될거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 60.820,
+                "end": 64.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 진짜는 따로 있지 어이 들어오게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 64.092,
+                "end": 66.376
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "맨유 후배들 하이 에이치 아이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 66.386,
+                "end": 69.006
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "세상에 진짜 @이름4 선배잖아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 69.016,
+                "end": 70.922
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "이거 이거 얼마만의 올드 트래포드야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 70.932,
+                "end": 72.918
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "어이 @이름2형 내 등번호 7번은 비워놨지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 72.928,
+                "end": 75.111
+            },
+            {
+                "speaker_id": "7",
+                "transcription": "아무리 @이름4선배라도 그렇지 감독님께 반말은 너무 한 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 75.121,
+                "end": 78.979
+            },
+            {
+                "speaker_id": "7",
+                "transcription": "그리고 7번은 저 @이름7의",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 78.989,
+                "end": 80.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조용 조용 @이름4는 과거 감독의 현역시절부터 함께 했기에 말을 놓은 지는 한참이나 됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 80.578,
+                "end": 85.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 @이름7 너는 최전방 공격수잖아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 85.417,
+                "end": 87.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7번은 @이름4한테 양보하고 그래 9번이 좋겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 87.557,
+                "end": 90.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 9번이 누구지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 90.799,
+                "end": 92.333
+            }
+        ]
+    },
+    "summary": "화자1이 맨유 선수들을 모아놓고 더블 준우승은 나쁘지 않은 성적이지만 내년에는 트레블을 노리는 거라고 하자 선수들이 잘하는 선수의 이적이 없다면 불가능하다고 말하자 화자6을 소개하고 화자6이 자신의 등번호인 7번을 요구하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00218_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

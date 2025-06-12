@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "MYP_03089",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.527,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가장 띄지 말아야 하는 것은 바로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.322
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "휴 개운하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.332,
+                "end": 4.549
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.559,
+                "end": 5.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특수 여행 정보다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.287,
+                "end": 7.324
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 이야기는 빙하기의 끝 그렇게 우리는 또 설국 열차에 탑승하게 되었다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 7.334,
+                "end": 22.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 그때는 이미 빙어철이 끝나고 슬슬 얼음이 녹던 시기였는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.160,
+                "end": 27.527
+            }
+        ]
+    },
+    "summary": "로이드는 특수 여행 정보를 보면 바로 가야 직성이 풀리는데 그래서 슬슬 얼음이 녹던 시기에 빙어 낚시를 가게 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03089_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

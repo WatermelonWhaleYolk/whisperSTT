@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02039",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.466,
+        "format": "MP4",
+        "date": "2019-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시간은 흐르고 스코어는 계속 올라가고 어느덧 29대28 62번째로 청주 대성고 선수가 키터로 나섭니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.113
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "긴장감이 흐르는 가운데 공은 아깝게도 골대를 맞고 튕겨져 나옵니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.123,
+                "end": 16.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장장 1시간 동안의 혈투가 끝이 났습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.798,
+                "end": 20.466
+            }
+        ]
+    },
+    "summary": "스코어가 29대28인 상황에서 대성고 선수가 키터로 나섰지만 공이 골대를 맞고 튕겨져 나가며 1시간의 혈투가 끝났다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02039_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

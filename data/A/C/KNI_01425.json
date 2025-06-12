@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_01425",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.396,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "홈 고별전이 될지도 모르는 경기였기에 캐롯 팬들은 일찌감치 경기장을 찾아 구단의 상징색인 오렌지색 풍선을 챙겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응원하실 때 사용하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.695,
+                "end": 8.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 시작 전 조명이 꺼지자 팬들은 야광봉과 오렌지색 풍선을 흔들며 힘을 불어넣었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.577,
+                "end": 14.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 간절했던 바람과 달리 @이름1의 하프라인 버저비터까지 터지는 등 경기의 흐름은 결국 인삼공사 쪽이었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 14.227,
+                "end": 22.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끝내 점수 차를 좁히지 못했고 인삼공사가 3승 1패로 챔프전에 올라 에스케이와 맞붙게 됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.831,
+                "end": 29.396
+            }
+        ]
+    },
+    "summary": "홈 고별전이 될지도 모르는 경기에 캐롯 팬들이 오렌지색 풍선을 챙겨 응원했지만 경기의 흐름은 인삼공사 쪽이었다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01425_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 71
+                }
+            ]
+        }
+    ]
+}

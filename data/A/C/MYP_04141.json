@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_04141",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.3,
+        "format": "MP4",
+        "date": "2020-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5 짜장면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.816,
+                "end": 17.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 왼쪽이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.486,
+                "end": 20.946
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "후후후후후후 뭘 모르는군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.956,
+                "end": 25.100
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "왼쪽 집은 겉만 번지르르 할 뿐 개업한 지 얼마 안 돼서 아직 검증이 안 된 집이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.110,
+                "end": 32.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.122,
+                "end": 34.300
+            }
+        ]
+    },
+    "summary": "그는 왼쪽 음식점은 겉만 번지르르하고 개업한 지 얼마 안 돼서 검증이 안 된 집이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04141_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

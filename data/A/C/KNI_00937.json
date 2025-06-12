@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "KNI_00937",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 53.153,
+        "format": "MP4",
+        "date": "2122-11-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2002년의 신화를 간직한 경기장에도 성대한 응원 무대가 차려졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김민재 선수의 모교는 그 어느 곳보다 응원 열기가 뜨거웠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.490,
+                "end": 11.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맥줏집마다 모처럼 대한민국이 울려 퍼졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 11.372,
+                "end": 15.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19 거리 두기 등으로 힘겨운 시간을 이겨낸 국민들은 비로소 하나 됨을 만끽했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.436,
+                "end": 21.908
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리나라 선수들이 너무 잘했다고 생각하고 다음 경기 가나 전까지 정말 최선을 다했으면 좋겠어요 진짜 너무 응원합니다 진심입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 21.918,
+                "end": 28.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "파이팅.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.750,
+                "end": 30.200
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우루과이전처럼 가나전 포르투갈 전 16강 그 이상까지 하면 결승까지도 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.210,
+                "end": 35.904
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대한민국 파이팅.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 35.914,
+                "end": 40.432
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다중 밀집 행사에 대한 우려도 있었지만 주체 측도 시민들도 안전 관리에 최선을 다했고 아무런 불상사 없이 응원전을 마무리했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 40.442,
+                "end": 50.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 50.472,
+                "end": 53.153
+            }
+        ]
+    },
+    "summary": "곳곳마다 응원 열기가 뜨거웠고 밀집 행사에 대한 우려도 있었지만 아무런 불상사 없이 응원전을 마무리했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00937_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 50,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

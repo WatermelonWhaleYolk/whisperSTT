@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_01404",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.3,
+        "format": "MP4",
+        "date": "2022-04-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 쿠팡컵 그거 단군마켓에 팔면 얼마나 받으려나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 얻을 수는 있겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.575,
+                "end": 5.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기분도 꿀꿀하겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.376,
+                "end": 7.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딱 3잔만 마시고 일어나야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.119,
+                "end": 8.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1잔은 나의 유일한 트로피 아우디컵을 위하여 1잔은 나와 함께 남아준 흥민이를 위하여 마지막 1잔은 언젠간 반드시 우승을 차지할 내 사랑 토트넘 핫스퍼를 위하여",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.804,
+                "end": 20.300
+            }
+        ]
+    },
+    "summary": "한 남자가 기분이 꿀꿀해서 딱 3잔만 마시고 일어나겠다며 건배사를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 26,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

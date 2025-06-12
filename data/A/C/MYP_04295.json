@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_04295",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.961,
+        "format": "MP4",
+        "date": "2020-01-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대체투입이 가능할지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.568
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "매니저님 고개를 드십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.578,
+                "end": 6.155
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 이 이해해 주시는 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.165,
+                "end": 9.566
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "매니저님 우리는 계약을 하지 않았습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.576,
+                "end": 16.026
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희가 필요한 날 필요한 모델을 제공해 주시기로 말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.036,
+                "end": 20.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예 하 하지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.065,
+                "end": 23.065
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 저희가 드린 신청서에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.065,
+                "end": 24.958
+            }
+        ]
+    },
+    "summary": "매니저가 대체 투입이 가능한지 물어봤더니 필요한 날 필요한 모델을 제공받기로 계약을 하지 않았냐며 신청서를 내밀었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04295_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

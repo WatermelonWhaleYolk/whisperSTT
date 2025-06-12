@@ -1,0 +1,217 @@
+{
+    "metadata": {
+        "filename": "KNI_02426",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 49.149,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "출발했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "출발했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.633,
+                "end": 2.405
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 5레인 @이름1 빠르네요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 2.415,
+                "end": 4.879
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 @이름1 선수 빠릅니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 4.889,
+                "end": 6.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1 제일 먼저 허들을 넘었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.476,
+                "end": 8.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 마지막 열 번째 허들까지 넘어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.726,
+                "end": 13.003
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 @이름1 선수가 스피드가 굉장히 좋은데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.013,
+                "end": 15.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2위와 격차가 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.476,
+                "end": 17.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 경명 여중 이다인 선수가 1위로 들어왔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.191,
+                "end": 20.432
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기록이 궁금해지는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.442,
+                "end": 22.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 선수의 기록이 오 14초대 기록입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.091,
+                "end": 26.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "14초 64의 기록이면 춘계 대회 때 본인의 기록 당겼습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.744,
+                "end": 33.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "확실히 어린 선수들이 성장하는 속도가 무섭습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.330,
+                "end": 36.916
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.926,
+                "end": 37.857
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 선수도 100미터 그리고 100미터 허들 어 정말 대단한 선수가 1명 또 또 다른 스타트가 나오는 순간이 아닌가 생각이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.867,
+                "end": 47.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.789,
+                "end": 49.149
+            }
+        ]
+    },
+    "summary": "여자 중등부 100미터 허들 결승 @이름1 선수가 14초 64의 기록으로 1위로 들어오면서 춘계 대회 때의 기록을 앞당겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02426_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 39
+                }
+            ]
+        }
+    ]
+}

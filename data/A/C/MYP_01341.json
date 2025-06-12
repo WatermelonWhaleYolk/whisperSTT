@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_01341",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.7,
+        "format": "MP4",
+        "date": "2022-05-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 역시 1순위는 플레이 메이커일 텐데 아무래도 에릭 센이 유력하겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.492
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이적료도 없는 데다 적응기도 필요 없을 테니 와주기만 한다면 고맙겠지만 그 혹시 에릭센보다 뛰어난 선수가 오겠다 하진 않겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.740,
+                "end": 11.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.627,
+                "end": 12.212
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무래도 우승을 차지하려면 맨시티의 데브라이너라던가 맨유의 브루노처럼 좀 더 좋은 선수가 있으면 좋지 않겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.452,
+                "end": 18.582
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "누가 오더라도 일단 에릭센은 무조건 데려오셔야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.927,
+                "end": 21.770
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저한테 패스를 가장 잘해 줄 수 있는 선수도 에릭 센이고 흥민이의 침투를 가장 잘 이해할 수 있는 선수도 에릭센입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.342,
+                "end": 28.700
+            }
+        ]
+    },
+    "summary": "영입 1순위는 플레이 메이커로 에릭센이 유력한데 이적료도 없고 적응기도 필요 없으면서 케인에게 패스를 가장 잘 해 줄 수 있으며 손흥민의 침투도 가장 잘 이해할 수 있을 것 같은 선수인데 감독이 우승을 차지하려면 맨시티의 데브라이너나 맨유의 브루노처럼 좀 더 좋은 선수가 있으면 좋지 않겠냐고 하며 망설인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

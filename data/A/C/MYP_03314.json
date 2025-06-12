@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_03314",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.727,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 전축도 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.736
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "베란다에서 고기 구워 먹자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.746,
+                "end": 5.197
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 딱 하나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.207,
+                "end": 8.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찬장 안에 조미료가 가득 가득 했음 좋겠네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.397,
+                "end": 20.252
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.262,
+                "end": 20.748
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "히히히히",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.758,
+                "end": 23.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이건 미친 짓이야 나는 여기서 나가겠어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.150,
+                "end": 25.725
+            }
+        ]
+    },
+    "summary": "그런데 조미료가 가득 들어있어야 할 천장에 바퀴벌레가 가득 들어있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03314_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

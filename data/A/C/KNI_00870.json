@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_00870",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2023-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "프로배구 최고령 선수 여오현은 45살까지 선수 생활을 한다는 45세 프로젝트를 이미 달성했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 필라테스와 차별화된 식단까지 철저한 자기 관리로 무장한 덕분에 리시브 효율 1위로 여전히 리그 정상급 리베로 자리를 놓치지 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.990,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "여오현은 45살까지 선수 생활을 한다는 45세 프로젝트를 이미 달성했으며 필라테스와 차별화된 식단까지 철저한 자기 관리로 무장한 덕분에 리시브 효율 1위로 여전히 리그 정상급 리베로 자리를 놓치지 않고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00870_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

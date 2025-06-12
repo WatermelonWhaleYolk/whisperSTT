@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01390",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.267,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이동국 전 부회장 역시 경기인 출신으로서 경험을 자신 있게 말씀드려 사면안 통과를 막지 못한 책임을 느낀다며 동반 사퇴했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "40대 부회장단의 1차 사태 이후 축구 협회의 이사진 전원은 일괄 사퇴하기로 입장을 정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.718,
+                "end": 15.794
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사면에 대한 이 판단은 상당히 사려 깊지 못했고 경솔했다는 것 모두 큰 책임을 느끼고 송구스러운 마음을 갖고 있음을 다시 재확인하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.804,
+                "end": 28.551
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 전력 강화 위원장도 이사진에 포함돼 있어 대표 팀 운영에도 비상이 걸렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.561,
+                "end": 34.267
+            }
+        ]
+    },
+    "summary": "이동국 전 부회장 역시 경기인 출신으로서 경험을 자신 있게 말씀드려 사면안 통과를 막지 못한 책임을 느낀다며 동반 사퇴했으며 40대 부회장단의 1차 사태 이후 축구 협회의 이사진 전원은 일괄 사퇴하기로 입장을 정했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01390_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

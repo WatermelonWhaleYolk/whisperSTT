@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_04062",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.057,
+        "format": "MP4",
+        "date": "2020-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 있는 동안 타부서의 무시는 덜 당하겠지만 더 이상 재조명의 기회 같은 건 오지 않을 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.879
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뻘짓 그만하고 공채 시험이나 준비해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.889,
+                "end": 11.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 단검 하나에 이딴 호들갑을?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.330,
+                "end": 14.851
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 멍청아 그 단이 단검이 바로 용검이라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.861,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "화가난 퍼블리가 대리님이 버린 단검이 용검이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04062_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

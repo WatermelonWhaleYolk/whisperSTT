@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "KNI_02308",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 38.133,
+        "format": "MP4",
+        "date": "2015-04-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일당백 특전사 독수리 부대원들이 채육대회를 위해 한 자리에 모였습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째 경기는 군인하면 빼놓을 수 없다는 축구 몸을 푸는 모습부터 예사롭지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.003,
+                "end": 11.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "화이팅, 화이팅",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 11.619,
+                "end": 18.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연병장 전체가 축구 경기장",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.597,
+                "end": 21.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대대별로 50명씩 총 100명이 공 하나를 놓고 열심히 달립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.410,
+                "end": 26.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 순간 만큼은 계급장을 떼고 공을 차지하기 위한 격렬한 몸 싸움이 벌어지는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.811,
+                "end": 33.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "망설임 없이 슛 골인입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.203,
+                "end": 38.133
+            }
+        ]
+    },
+    "summary": "전사 독수리 부대원들이 대대별로 50명씩 총 100명이 연병장에 모여 축구를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02308_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

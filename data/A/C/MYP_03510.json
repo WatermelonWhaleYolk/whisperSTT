@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_03510",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.473,
+        "format": "MP4",
+        "date": "2022-06-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 시합은 11대 9로 사이코즈가 이겼습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양 팀 탈모 상호 간 예의",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.431,
+                "end": 5.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 승리 팀은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.835,
+                "end": 7.140
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "시합은 졌지만 그래도 @이름1군 미션은 성공인 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.150,
+                "end": 11.021
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "선발로 3실점 했지만 그건 수비수의 미친 듯한 에러와 마무리 투수의 폭풍 8실점으로 졌잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.031,
+                "end": 18.724
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐 이 정도 못하면 야구 때려쳐야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.734,
+                "end": 21.721
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "오늘 수고하셨고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.731,
+                "end": 22.455
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "수호군 기록은 5이닝 무안타 11 탈삼진 퍼펙트 하 그나저나 우리는 언제 사이코즈를 이겨보나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.465,
+                "end": 33.627
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이 쉐끼야 창피하게 으스대지 말고 마무리 운동으로 운동장 20바퀴 돌아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.637,
+                "end": 39.227
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "에.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.237,
+                "end": 40.473
+            }
+        ]
+    },
+    "summary": "오늘 시합은 11대 9로 사이코즈가 이겼고 시합은 졌지만 그래도 @이름1군이 선발로 3실점 했지만 그건 수비수의 미친 듯한 에러와 마무리 투수의 폭풍 8실점이라서 미션은 성공이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03510_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

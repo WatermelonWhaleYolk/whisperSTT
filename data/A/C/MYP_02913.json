@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_02913",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.133,
+        "format": "MP4",
+        "date": "2020-03-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 진짜 돈 때문에 하는 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.522
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붙고 딴 소리 하기 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.532,
+                "end": 2.974
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 붙기만 한다면 훈련에 안 나와도 보너스는 주도록 하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.984,
+                "end": 6.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당신 5부리그도 꼴에 선수 출신이라고 좀 우쭐하나 본데 내가 오지게 뛰어라 슛돌이 시절엔 한 경기 14골도 넣어봤어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.890,
+                "end": 13.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 @이름1 드리블로는 한 번도 져본 적이 없다. 이거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.561,
+                "end": 16.962
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "배짱 하나는 참 마음에 들군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.972,
+                "end": 19.895
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어디 우리 선수들 만나서 상대할 때도 그 배짱 여전하길 바란다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.905,
+                "end": 28.133
+            }
+        ]
+    },
+    "summary": "@이름1은 보너스를 준다는 감독의 제안을 받아드리고 자신감이 넘치는 모습을 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02913_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,11 +1,22 @@
+# 🔹 Python 관련
 __pycache__/
 *.py[cod]
 *$py.class
-*.egg-info
-.pytest_cache
-.ipynb_checkpoints
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
 
-thumbs.db
+# 🔹 시스템/IDE
+Thumbs.db
 .DS_Store
-.idea
+.idea/
 
+# 🔹 오디오 및 특정 JSON
+*.wav
+/data/c/*.json
+
+# 🔹 가상환경 (pip install 환경 무시)
+venv/
+.venv/
+env/
+.env/

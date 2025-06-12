@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02867",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.3,
+        "format": "MP4",
+        "date": "2020-05-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 어떻게 되는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 아스날도 다시 4스날로 올라갈 수 있겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.115,
+                "end": 6.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 갑자기 왜 우는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.609,
+                "end": 10.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 울지만 말고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.866,
+                "end": 12.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 아스날도 아니 4스날이라도 어떻게 좀 안 되는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.383,
+                "end": 19.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 씨발",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.713,
+                "end": 21.087
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어이 보리니 씨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.097,
+                "end": 22.464
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아니 너는 로즈 니가 여긴 어떻게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.474,
+                "end": 25.300
+            }
+        ]
+    },
+    "summary": "한 남성이 질문을 하는데 대답을 하지 않고 울기 시작한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02867_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_01856",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.292,
+        "format": "MP4",
+        "date": "2021-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 실력이라든지 이런 것보다는 아 첫 번째가 아 체력적인 준비가 얼마만큼 잘 될 것인가",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.757
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올림픽 기간엔 18일 동안 2, 3일 간격으로 경기를 해야 하고 도쿄의 덥고 습한 날씨가 최고조에 오르기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.767,
+                "end": 16.155
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마지막 소집에서 강철 체력을 검증받은 올림픽 대표팀의 최종 명단은 30일 발표됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.165,
+                "end": 22.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.563,
+                "end": 26.292
+            }
+        ]
+    },
+    "summary": "강한 체력이 중요한 이유는 올림픽 기간에 18일 동안 2, 3일 간격으로 경기를 해야 하며 도쿄의 덥고 습한을 날씨가 최고조로 오르기 때문이며 올림픽 대표팀 최종 명단은 30일에 발표된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01856_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

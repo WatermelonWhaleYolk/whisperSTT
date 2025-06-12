@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_00391",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.501,
+        "format": "MP4",
+        "date": "2023-05-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모두가 깊이 잠든 새벽 두 시 가락 시장이 가장 분주한 시간입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갖가지 채소들로 꽉 찬 경매장 낙찰된 물건은 곧바로 지게차에 실려 중간 도매 업체로 옮겨집니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.573,
+                "end": 14.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "속속 들어오는 물건을 내리느라 숨돌릴 틈 없는 직원들 10분간 지켜보는 사이 4킬로그램들이 상추 상자 100여 개를 발주 내용에 맞춰 척척 실어 날랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.661,
+                "end": 27.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물건 받고 또 이제 물건 들어오면 바로바로 나가는 것도 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.854,
+                "end": 32.207
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거 챙겨가지고 내보내고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.217,
+                "end": 34.501
+            }
+        ]
+    },
+    "summary": "새벽 두 시 가락 시장은 가장 분주한 시간으로 갖가지 채소들로 꽉 찬 경매장에서 낙찰된 물건은 지게차에 실려 중간 도매 업체로 옮겨진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00391_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 51
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "KNI_02433",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.504,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1이 끝까지",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3레인 3레인 @이름1 @이름1",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 1.449,
+                "end": 3.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 @이름1 선수가 끝까지 레이스를 잘 운영했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.550,
+                "end": 7.522
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "살짝 지치는 모습을 볼 수가 있었는데 마지막까지 또 견뎌줬습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.532,
+                "end": 12.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그리고 @이름2 선수도 아주 좋았고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.206,
+                "end": 14.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 선수가 2위로 들어왔고 아 @이름3 선수가 춘계 대회 때 금메달을 계속해서 이어가지 못했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.555,
+                "end": 21.143
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 지금 어떻게 보면 어린 선수기 때문에 이런 경험들이 계속적으로 필요하다고 볼 수가 있거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.153,
+                "end": 27.696
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.706,
+                "end": 28.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 3레인에 @이름1 선수가 약간 지친듯 보였었는데 끝까지 유지했어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.048,
+                "end": 37.504
+            }
+        ]
+    },
+    "summary": "@이름1 선수가 지친듯해 보였으나 마지막까지 견뎌 1위를 차지했고 나머지 선수들에 대해서도 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02433_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

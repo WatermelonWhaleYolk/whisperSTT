@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00650",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.248,
+        "format": "MP4",
+        "date": "2023-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1은 경기 초반부터 불안한 모습을 이어갔습니다. 공을 잡은 이원석과 김진영이 어이없는 턴 오버를 연출합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베테랑 이정현마저 무언가에 홀린 듯 패스 미스를 범하고 아쉬워합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.212,
+                "end": 15.248
+            }
+        ]
+    },
+    "summary": "@소속1의 이원석과 김진영은 어이없는 턴 오버를 하며 불안한 모습을 보였고 베테랑 이정현마저 패스 미스를 범했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00650_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

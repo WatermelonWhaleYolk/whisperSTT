@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_01785",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.61,
+        "format": "MP4",
+        "date": "2016-07-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2018 평창 동계 올림픽의 사업비가 2200억 원 이상 부족하다고 감사원이 지적했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.155
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사원은 조직 위원회가 재정 계획을 세우면서 기념주화 제작비를 적게 선정하는 등 사업비는 실제보다 적게 반영하고 수입은 과다 산정해 최소 2244억 적자가 불가피하다고 지적했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.165,
+                "end": 19.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사원은 또 강릉에 건설 중인 아이스하키 경기장은 폭설에 하중을 못 견뎌 지붕이 무너질 수 있는 등 일부 시설의 안전에도 문제가 있다고 지적했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.709,
+                "end": 29.600
+            }
+        ]
+    },
+    "summary": "2018 평창 동계 올림픽 사업비가 부족하고 안전에도 문제가 있다고 지적했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01785_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

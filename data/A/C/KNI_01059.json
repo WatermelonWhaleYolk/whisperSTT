@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "KNI_01059",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.333,
+        "format": "MP4",
+        "date": "2022-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전 감독은 SK 한 팀에서만 10 년 넘게 여러 보직을 거치며 도약을 준비했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국 연수 시절 익힌 전문 프로그램으로 SK 특유의 빠르고 파격적인 공격을 완성했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.649,
+                "end": 12.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "괴짜 @이름1부터 개성 강한 선수까지 신구 조화를 이끈 것이 사상 첫 통합 우승의 원동력이었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.446,
+                "end": 20.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수들도 제 진심을 알아준 것 같고 그래서 우리 감독님이 좀 부 부족하지만 우리가 잘 뛰어서 우리 감독님 좀 잘 빛나게 해주자 그런 마음으로 열심히 뛰어준 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.740,
+                "end": 30.181
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 울었습니다 예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.191,
+                "end": 31.498
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름2 파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.508,
+                "end": 33.333
+            }
+        ]
+    },
+    "summary": "전 감독은 SK 한 팀에서만 10 년 넘게 여러 보직을 거치며 도약을 준비했고 미국 연수 시절 익힌 전문 프로그램으로 빠르고 파격적인 공격을 완성했으며 선수들의 신구 조화를 이끈 것이 사상 첫 통합 우승의 원동력이었다고 기자는 소개하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01059_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

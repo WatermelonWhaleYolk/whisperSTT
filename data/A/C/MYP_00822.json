@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_00822",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.333,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기가지니에스타 모드로 변경합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.044
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 얘들 매수당한 게 아니었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.054,
+                "end": 4.095
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이봐 타랍박 만약 우리가 매수당하지 않았다면 FC 매수는 다른 선수들을 데려왔을 테고 심판 매수까지 더해진다면 절대로 이길 수 없었을 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.105,
+                "end": 12.093
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 김치 유나이티드가 이길 수 있는 유일한 방법은 위장 취업뿐이었어. 날 용서하게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.103,
+                "end": 16.707
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "감독님 귀띔이라도 해주시지 그랬어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.717,
+                "end": 18.833
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그리고 만약 빵뚜아 대리님이 친구들을 데려오지 못했다면 어떡하려고 그러셨어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.843,
+                "end": 22.652
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "빵뚜아 저 녀석이라면 데려오고도 남을 거라 생각했지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.662,
+                "end": 25.281
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그보다 타랍박 남은 시간이 얼마 없다네. 얼른 가서 결승 골을 넣고 오게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.291,
+                "end": 28.956
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "매수한테 받아낸 돈이 두둑하니 빨리 끝내고 @이름1 김치 삼겹살 먹으러 가야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.966,
+                "end": 33.383
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "다들 이렇게까지 해주시다니 정말 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.393,
+                "end": 35.802
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이제 전설의 드리블러 타랍박이 나설 차례군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.812,
+                "end": 38.301
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "경기를 끝내러 가볼까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.311,
+                "end": 41.333
+            }
+        ]
+    },
+    "summary": "남자는 감독의 배신이 위장이었던 것을 알게 되자 결승 골을 넣겠다며 나선다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00822_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

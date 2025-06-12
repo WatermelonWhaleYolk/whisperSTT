@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNI_01673",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.466,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세터의 조금 긴 것 같은 이 토스를 박정아가 넘어지면서 득점에 성공합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우여곡절 공격 성공에 멋쩍은 듯 웃음을 짓는 박정아.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.738,
+                "end": 11.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번엔 실수 없이 장기인 강력한 후위공격을 제대로 꽂아 넣습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 11.039,
+                "end": 17.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 바로 클러치 박이다라는 듯한 당당한 표정인데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.630,
+                "end": 21.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관중들도 신이 났습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 21.832,
+                "end": 24.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 팬까지 절로 들썩이게 만든 박정아의 17점 맹활약 속에 도로공사가 현대건설을 꺾고 중요한 1차전을 가져갔습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 24.092,
+                "end": 33.466
+            }
+        ]
+    },
+    "summary": "여자 프로배구에서 박정아의 활약 속에 도로공사가 현대건설을 꺾고 1차전을 가져갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01673_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

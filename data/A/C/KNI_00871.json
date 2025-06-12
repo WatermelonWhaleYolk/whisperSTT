@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00871",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.619,
+        "format": "MP4",
+        "date": "2023-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여오현은 20살 넘게 차이 나는 후배 리베로 박경민과 선의의 경쟁 속에 든든한 멘토 역할까지 해내고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "항상 어 가르쳐주셔서 감사하고 은퇴하기 전까지 더더 많은 거 알려 주시고 또 제가 또 많은 걸 배우고 코치님의 기술을 뺏어가겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.037,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "여오현은 20살 넘게 차이 나는 후배 리베로 박경민과 선의의 경쟁 속에 든든한 멘토 역할까지 해내고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00871_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

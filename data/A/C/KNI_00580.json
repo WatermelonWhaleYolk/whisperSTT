@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_00580",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2023-01-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난달 21일 직장인 서 모 씨 통장으로 난데없이 15만 원이 입금됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "입금자는 모르는 사람이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.293,
+                "end": 8.854
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모르는 돈이 15만 원이 입금돼 가지고 보이스 피싱 그런 걸로 막 묶이는 거 아닌가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.864,
+                "end": 13.894
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "크게 걱정하실 필요는 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.904,
+                "end": 15.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 이 상담 전화 직후 걱정할 일이 생겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.690,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "지난달 서 모 씨 통장으로 모르는 사람이 15만 원을 입금해 보이스 피싱이 우려돼 상담 전화를 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00580_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

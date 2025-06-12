@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00826",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.616,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수 자리를 꿰차게 돼서 기분은 좋게 생각하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 경기를 잘해서 이 자리를 좀 지키고 싶은 마음입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.815,
+                "end": 8.535
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흔들리는 @소속1을 제치고 @소속2이 1위로 올라서게 되면서 여자부의 우승 경쟁은 본격 불이 붙게 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.545,
+                "end": 16.616
+            }
+        ]
+    },
+    "summary": "김연경이 각오를 밝히며 여자부의 우승 경쟁은 불이 붙었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00826_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

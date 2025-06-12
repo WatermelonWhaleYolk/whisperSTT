@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_02056",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.466,
+        "format": "MP4",
+        "date": "2018-01-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국제 올림픽 위원회 IOC는 북한의 평창 올림픽 참가와 관련해 북한에 문을 열어 놓고 있다면서 참가 신청 마감을 연장한다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.851
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부가 오늘 오후 한일 위안부 합의 후속 조치를 발표합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.861,
+                "end": 14.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부는 위안부 합의에 중대한 흠결이 있지만 재협상하거나 파기하기보다는 일본 정부의 책임 있는 조치를 촉구할 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.090,
+                "end": 22.466
+            }
+        ]
+    },
+    "summary": "국제 올림픽 위원회 IOC는 북한에 평창 올림픽 참가 신청 마감을 연장한다고 했고 정부는 오늘 오후 흠결이 있는 위안부 합의지만 재협상, 파기보다 일본 정부의 책임 있는 조치를 촉구하는 한일 위안부 합의 후속 조치를 발표한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02056_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02548",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.2,
+        "format": "MP4",
+        "date": "2020-12-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무엇을 도와드릴까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.077
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이봐 클롭 굳이 이렇게 비디오 판독을 봐야겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.087,
+                "end": 3.700
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "구라치다 걸리면 VAR 보는 거 안 배웠냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.710,
+                "end": 6.246
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋아 손흥민이 옵사이드가 아니라는 것에 승점 3점하고 1위 자리를 건다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.256,
+                "end": 10.284
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쫄리면 뒈지시던지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.294,
+                "end": 11.478
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 형님이 어디서 약을 팔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.488,
+                "end": 13.013
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "준비됐으면 까볼까? 어이 VAR",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.023,
+                "end": 15.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "판독을 시작합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.613,
+                "end": 17.200
+            }
+        ]
+    },
+    "summary": "무리뉴 감독이 손흥민이 옵사이드가 아니라는 것에 승점 3점하고 1위 자리를 건다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02548_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

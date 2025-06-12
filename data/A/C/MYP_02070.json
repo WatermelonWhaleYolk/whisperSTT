@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_02070",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.766,
+        "format": "MP4",
+        "date": "2021-07-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 진짜로 리버풀에서 저를 원하고 있는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘가 속고만 살았나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.200,
+                "end": 3.681
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대머리 밑에서 갇혀 지내더니 이젠 이적 제안도 못 믿는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.691,
+                "end": 7.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 구단에서 절 쉽게 놓아줄 리가 없을 텐데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.068,
+                "end": 9.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 토트넘으로선 너나 케인 둘 중 한 명이라도 잃는다면 유로파는커녕 컨퍼런스마저 힘들어지겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.611,
+                "end": 15.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 가장 중요한 건 흥민이 너의 결정 아니겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.540,
+                "end": 18.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이뭐 그렇긴 하지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.771,
+                "end": 19.822
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭘 고민하고 있어 흥민아 누누 감독님 믿에서 답답한 수비축구하면서 또 1년 허송세월 보낼 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.832,
+                "end": 25.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허송세월이라니 그래도 잘하면 컨퍼런스에서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.285,
+                "end": 27.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "수비축구도 수비수가 있어 수비축구지 너넨 제대로 된 수비수도 없지 않나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.523,
+                "end": 32.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 리버풀엔 곧 반다이크가 돌아온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.261,
+                "end": 34.766
+            }
+        ]
+    },
+    "summary": "리버풀 감독이 손흥민에게 구단 이적 제안하자 손흥민이 믿지 못하며 쉽게 놓아 주지 않을 거라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02070_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

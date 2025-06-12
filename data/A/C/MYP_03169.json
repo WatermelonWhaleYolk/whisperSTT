@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03169",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2023-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한번만 보는 건 또 아쉽지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.025
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미친놈.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.035,
+                "end": 4.690
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그로 인해 영원한 굴레가 생겨나게 되었고 그 구조는 실로 단순했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.700,
+                "end": 12.505
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "죽음 육체와 영혼이 분리되어 휴면 상태가 놓인 날 수복 피해가 누적된 육체를 수 년에 걸쳐 재구성 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.515,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "그는 한 번만 보면 아쉽다고 생각해 영원한 굴레를 만들었고 그 과정은 죽음과 수복을 거친다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03169_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 47
+                }
+            ]
+        }
+    ]
+}

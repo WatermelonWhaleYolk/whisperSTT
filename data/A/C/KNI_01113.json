@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01113",
+        "category": "스포츠뉴스",
+        "sub_category": 39,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.955,
+        "format": "MP4",
+        "date": "2022-08-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하드코트인 올림픽 테니스장 바닥이 마치 카펫처럼 벗겨집니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지진이 지나간 듯 코트 곳곳이 갈라져 있고 벗겨진 바닥 밑에 돌들이 방치돼 위험하기까지 합니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.585,
+                "end": 12.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대규모 관중석에 있는 센터 코트도 사정이 다르지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.566,
+                "end": 17.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보통 이렇게 딱딱 소리가 나야되는데 여기 놓으면 폭폭폭 거리죠 그죠?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.025,
+                "end": 21.955
+            }
+        ]
+    },
+    "summary": "하드코트인 올림픽 테니스장 바닥이 마치 카펫처럼 벗겨졌고 대규모 관중석에 있는 센터코트도 사정이 다르지 않다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01113_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

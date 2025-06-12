@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_03413",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.32,
+        "format": "MP4",
+        "date": "2022-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 현자 보아원 플레이케어를 발표하게 되어 매우 기쁘게 생각합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이들은 마땅한 사랑을 받아야만 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.146,
+                "end": 7.746
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옷장속에 괴물이 나타나면 곁에서 잡아줄 손이 있어야 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.756,
+                "end": 11.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "플레이케어가 이 문으로 들어오는 모든 아이들에게 행복과 미소를 가져다 주기를 진심으로 기대하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.762,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "플레이케어를 발표하게 되어 기쁘고 모든 아이들에게 행복과 미소를 가져다주기를 기대하겠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03413_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYP_04137",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2020-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "으아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.161
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "짜장면의 간은 눈물로 완성된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.171,
+                "end": 7.125
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "2 카펫",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.135,
+                "end": 10.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이거 완전 각 카펫 반 고양이 털 반이군.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.037,
+                "end": 15.239
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 이 최고급 고양이 빗이면 문제없지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.249,
+                "end": 18.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.675,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "카펫의 반 이상이 고양이 털이지만 최고급 빗이면 문제없이 청소할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04137_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

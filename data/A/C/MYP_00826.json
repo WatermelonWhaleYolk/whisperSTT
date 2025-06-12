@@ -1,0 +1,186 @@
+{
+    "metadata": {
+        "filename": "MYP_00826",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.2,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기 일단 엎드리래서 엎드리긴 했는데 이제 어떡합니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그대로 기어서 골문까지 가는거다",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.546,
+                "end": 4.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 기어가라뇨 그게 무슨",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.550,
+                "end": 6.130
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이대로는 매수당한 바람 때문에 전방으로 나갈 수 없다 하지만 기어간다면",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.146,
+                "end": 9.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "훔 제법 똑똑한 동료를 두었군 납작 엎드려 공기저항을 최대한 줄인 채 드리블하는 일명 람보르기니 드리블로 나아가는 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.820,
+                "end": 16.540
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "세상에 람보르기니 드리블은 못 참죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.557,
+                "end": 19.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 골문 앞까지 오긴 했다만 이제 어떡합니까 지금 공은 매수한테 있다고요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.390,
+                "end": 23.010
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 뺏겼었다고 아니 공도 없으면서 기어가는 놈이 어딨어 훔 이제 어떡하지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.190,
+                "end": 28.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 무슨 저런 사람이 다 있어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.030,
+                "end": 29.240
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "걱정마라 타랍박 공은 내가 어떻게든 넘겨주겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.240,
+                "end": 31.817
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "하하 이 몸의 공을 뺏어가겠다고 내가 돈도 돈이지만 드리블도 보통이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.820,
+                "end": 35.590
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "공 이리 내놔",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.220,
+                "end": 37.200
+            }
+        ]
+    },
+    "summary": "공이 타랍박에게 없는 줄 모르는 감독은 골대 앞까지 기어가라고 지시하고 타랍박은 골대 앞에서 당황해하고 그 모습을 보며 의기양양해 하는 매수의 공을 빼앗는 선수가 등장한다",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00826_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

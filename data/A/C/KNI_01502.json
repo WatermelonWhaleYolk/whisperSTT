@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_01502",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.57,
+        "format": "MP4",
+        "date": "2023-05-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "SK 특유의 지역 방어를 뚫지 못해 패스 미스를 연발하며 한 때 두 자릿수 점수 차까지 벌어졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "패색이 짙어졌지만 인삼 공사엔 팀의 기둥 @이름1과 에이스 @이름2이 있었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.444,
+                "end": 12.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4쿼터 @이름1이 상대 수비의 집중 견제를 뿌리치고 조금씩 점수 차를 좁혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.670,
+                "end": 18.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 분발하자 부진하던 @이름2도 되살아났습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 18.883,
+                "end": 23.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결정적인 석 점 슛으로 역전에 성공했고 @이름1의 석 점 포까지 들어가며 홈 팬들을 열광시켰습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 23.227,
+                "end": 30.563
+            }
+        ]
+    },
+    "summary": "패스 미스를 연발하며 한 때 두 자릿수 점수 차까지 벌어졌고 패색이 짙어졌지만 4쿼터 @이름1이 상대 수비의 집중 견제를 뿌리치고 조금씩 점수 차를 좁혔고 @이름1이 분발하자 부진하던 @이름2도 되살아났습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01502_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

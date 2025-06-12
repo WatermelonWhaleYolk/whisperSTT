@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_04009",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.595,
+        "format": "MP4",
+        "date": "2020-10-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 미팅 안 해요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.231
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자가 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.241,
+                "end": 3.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 술 한잔 안 해요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.739,
+                "end": 5.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돈이 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.129,
+                "end": 7.054
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무조건 없어 닥쳐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.064,
+                "end": 9.067
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "형들 음료수 빵 족구 한 판 할래요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.077,
+                "end": 13.115
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그래서인지 작은 놀 거리라도 놀 기회가 주어지게 되면",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.125,
+                "end": 18.611
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음료수로 흥이 나겠냐 목숨을 걸어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.621,
+                "end": 21.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회전 회오리.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.704,
+                "end": 23.419
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "미친놈들아 타임 내가 뭔 통키 아빠여 족구 하다 가게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.429,
+                "end": 28.595
+            }
+        ]
+    },
+    "summary": "대학 생활에 지친 주인공에게 작은 놀거리가 생기면 흥에 겨워 하는 내용의 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04009_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

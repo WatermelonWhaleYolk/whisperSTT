@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYP_04356",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.1,
+        "format": "MP4",
+        "date": "2019-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "크으으으 크으으으으 크으으으으으으으",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 21.602
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헤 헤 헤",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.612,
+                "end": 25.025
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으아 미친 씨 가리고 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.035,
+                "end": 26.824
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 미안.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.834,
+                "end": 29.120
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 그런 걸로 미안할 것까진 밥이나 먹자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.130,
+                "end": 34.100
+            }
+        ]
+    },
+    "summary": "한 캐릭터가 밥 먹으면서 재채기가 나오려고 하자 다른 캐릭터가 입가리고 하라고 화를 내자 미안하다고 사과 했고 밥이나 먹자고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04356_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_04017",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2020-10-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러던 중 나와 같은 느낌을 받았던",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.426
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 평안함에 물든 상아탑 같은 놈들",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.436,
+                "end": 4.911
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 가스파드 너도 같은 생각이냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.921,
+                "end": 9.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학교 선배 카이트형과 마주쳤다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.005,
+                "end": 13.243
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저런 건 진정한 축제라고 볼 수 없지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.253,
+                "end": 16.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카이트형",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.042,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "학교 축제에서 후배는 카이트 형과 마주쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04017_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01868",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.658,
+        "format": "MP4",
+        "date": "2022-03-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "허구연 총재는 취임 직후 음주운전과 승부조작 성범죄 약물복용 등 4가지를 뿌리뽑겠다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 정작 음주운전 파문을 일으킨 강정호 사태에 대해선 즉답을 피했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.848,
+                "end": 13.347
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러 각도에서 조명을 해봐야 되고 또 고려해봐야 될 사항도 상당히 많이 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.357,
+                "end": 21.520
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 저도 고민 중에 있고 심사숙고하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.520,
+                "end": 25.658
+            }
+        ]
+    },
+    "summary": "허구연 총재는 취임 직후 음주운전과 승부조작 성범죄 약물복용 등 4가지를 뿌리뽑겠다고 강조했지만 정작 음주운전 파문을 일으킨 강정호 사태에 대해선 즉답을 피했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01868_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

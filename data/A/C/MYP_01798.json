@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01798",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.3,
+        "format": "MP4",
+        "date": "2021-10-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 몇 명의 의견만 더 들어보고 재판을 마무리하겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 카바니.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.091,
+                "end": 5.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "작년 맨유를 리그 2위와 유로파 결승에 올려놓은 게 누구입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.188,
+                "end": 8.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바로 저 카바니라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.949,
+                "end": 10.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 호날두를 데려오자마자 벤치로 전락했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.311,
+                "end": 13.263
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "호날두가 밉다는 게 아니라 전술이 문제라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.273,
+                "end": 16.300
+            }
+        ]
+    },
+    "summary": "카바니는 작년 맨유를 리그 2위와 유로파 결승에 올려놓은 게 본인인데 호날두를 데려오자마자 벤치로 전락했다며 전술이 문제라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01798_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

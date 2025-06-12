@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_02044",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.666,
+        "format": "MP4",
+        "date": "2019-06-17",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 감독과 골든 골 수상자 이강인 등 선수들은 질의응답 시간을 통해 팬들의 궁금증을 풀어줄 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비록 우크라이나에 져 준우승을 차지했지만 사상 첫 피파 주간 남자 대에 결승 진출이라는 쾌거를 달성한 대표 팀.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.336,
+                "end": 16.666
+            }
+        ]
+    },
+    "summary": "우크라이나에 져 준우승을 차지했지만 사상 첫 피파 주간 결승에 진출한 쾌거를 이룬 대표 팀은 질의응답 시간을 통해 팬들의 궁금증을 풀어 줄 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02044_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 73,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

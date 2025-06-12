@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_00855",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.519,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영화 007 주제가에 맞춰 제임스 본드로 변신한 차준환 첫 과제인 고난도 4회전 쿼드러플 살코 깔끔하게 성공합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "트리플 악셀 더블 악셀 시퀀스도 실수 없이 해내는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.105,
+                "end": 14.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강렬한 눈빛 연기까지 한층 성숙해진 모습을 자랑한 차준환",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.646,
+                "end": 19.519
+            }
+        ]
+    },
+    "summary": "영화 007 주제가에 맞춰 제임스 본드로 변신한 차준환 첫 과제인 고난도 4회전 쿼드러플 살코 깔끔하게 성공하였고 트리플 악셀 더블 악셀 시퀀스도 실수 없이 해내는데요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00855_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

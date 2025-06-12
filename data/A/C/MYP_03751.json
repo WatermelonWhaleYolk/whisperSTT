@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_03751",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.206,
+        "format": "MP4",
+        "date": "2021-08-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "병의 내부 압력이 코르크를 밀어내기 때문에 코르크를 눌러주며 조심조심 빼는 것인데 한 번도 샴페인을 따 본 경험이 없던 우리는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.313
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 대강 후딱 따",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.323,
+                "end": 11.214
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "걍 확 뽑으면 되는 거 아니야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.224,
+                "end": 13.035
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "기다려 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.045,
+                "end": 15.026
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이이익 됐다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.036,
+                "end": 18.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코르크를 누르지 않는 과실을 범했고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.383,
+                "end": 20.649
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "응?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.659,
+                "end": 21.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 코르크는 방 한가운데 전등을 직격",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.838,
+                "end": 29.018
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으아아아아아",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.028,
+                "end": 32.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 유리의 비가 내리고 집주인의 눈물도 흘러내렸다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.229,
+                "end": 40.206
+            }
+        ]
+    },
+    "summary": "한 번도 샴페인을 따 본 경험이 없던 우리는 코르크를 누르지 않는 과실을 범했고 코르크는 전등 한가운데를 직격했고 집주인의 눈물도 흘러내렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 78
+                }
+            ]
+        }
+    ]
+}

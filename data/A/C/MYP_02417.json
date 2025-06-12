@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYP_02417",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.8,
+        "format": "MP4",
+        "date": "2021-02-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제 기억을 더듬어 그리고 있기 때문에 뭐야 저게 카바니라고 카바니 그렇게 그리는 거 아닌데라고 하신대도 뭐 딱히 제가 어떻게 해드릴 건 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 경기장에선 머리띠도 하고 있고 장발에 장발이 땀에 젖어 약간 거친 외모일 거라 생각하시는 분들이 많을 텐데 뽀송뽀송한 카바니를 만나보시면 이렇게 생겼을 수도 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.394,
+                "end": 22.800
+            }
+        ]
+    },
+    "summary": "남자는 카바니를 만났던 기억을 더듬어 뽀송뽀송한 카바니의 모습을 그리고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02417_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

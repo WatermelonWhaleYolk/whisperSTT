@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_01612",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.127,
+        "format": "MP4",
+        "date": "2023-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김낙현을 빼곤 3 대 3 무대는 처음이지만 리그 MVP가 2명으로 역대 최강 전력이란 평가입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 D리그 우승까지 합작한 4인방은 외출 때도 같이 노래방을 다닐 정도로 끈끈해 호흡은 걱정 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.520,
+                "end": 13.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자기가 다 제일 잘한다고 말은 하는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.997,
+                "end": 17.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 저는 이제 정현이가 제일 잘하는 것 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.021,
+                "end": 19.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 1년 정도 같이 같이 먹고 자면서 운동도 같이 하면서 합을 맞췄던 게 가장 큰 장점이라고 생각을 하고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.637,
+                "end": 27.127
+            }
+        ]
+    },
+    "summary": "국가대표 농구 상무 대표팀이 같이 먹고 자면서 운동도 같이 하면서 합을 맞췄던 게 가장 큰 장점이라고 인터뷰하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01612_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "KNI_01547",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 86.886,
+        "format": "MP4",
+        "date": "2023-01-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3회전 러츠 3회전 토릅 연결 점프로 연기에 포문을 여는 김예림 선수입니다 이 외에도 실수 없이 점프는 물론 성숙한 연기를 펼치면서 아 이게 바로 정말 시니어의 연기라는 것이 느껴질 만큼 아주 깊고 우아한 연기를 보여줬습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 15.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보시면 아시겠지만 경기 끝나고도 만족스러운 듯 손을 번쩍 들어 올렸는데 210.28점으로 2위를 차지했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.137,
+                "end": 22.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 알던 이 피겨 장군 김예림이 돌아왔다는 게 느껴졌는데요 사실 이 피겨라는 종목은 얼음 위에서 도약과 착지를 반복하다 보니 부상의 위험이 크고 신체 변화에 민감합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.490,
+                "end": 34.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여자 선수의 경우 전성기가 보통 10대 후반 20대 초반으로는 보는데요 예림 선수는 시간이 지나도 이렇게 몸 관리를 꾸준히 하면서 계속 성장하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.094,
+                "end": 43.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차준환 선수도 국내 팬들 앞에서 제임스 본드로 변신해 눈길을 사로잡았는데요 실수가 있었지만 곧바로 만회하면서 연결 점프를 붙이는 등 기지가 아주 돋보였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.860,
+                "end": 55.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역시 차준환 선수였고요 이번 대회 고무적이었던 것은 남자 여자 싱글 할 것 없이 한국 피겨 저변이 정말 넓어졌단 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 55.068,
+                "end": 62.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 여자 선수들의 경우에는 점수를 보면 정말 촘촘하게 좋은 선수들이 줄지어 이어있는 것을 볼 수 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 62.882,
+                "end": 70.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 나오는 김채연 선수를 비롯해서 이혜인 권민솔 김유재 등 정말 높은 수준을 자랑하는 선수들이 나타났고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 70.032,
+                "end": 77.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 이 아이스 댄스에서는 주니어 그랑프리 메달을 따내는 임해나 예콴 조가 등장하는 등 이 한국 피겨의 미래가 밝게 빛나고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 77.226,
+                "end": 86.886
+            }
+        ]
+    },
+    "summary": "김예림 차준환 등 특히 여자 선수들의 경우에는 점수를 보면 정말 촘촘하게 좋은 선수들이 줄지어 이어있는 것을 볼 수 있고 아이스 댄스에서는 주니어 그랑프리 메달을 따내는 임해나 예콴 조가 등장하는 등 이 한국 피겨의 미래가 밝게 빛나고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01547_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01547_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

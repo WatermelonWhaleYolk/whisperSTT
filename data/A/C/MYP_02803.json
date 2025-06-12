@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_02803",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.8,
+        "format": "MP4",
+        "date": "2020-06-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안 되지 안 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이대로라면 손님을 빼앗기게 생겼어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.820,
+                "end": 2.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "게다가 직원 말로는 저놈이 인서타에서 유명한 맛집 사냥꾼 김채스랬다고 저놈 인서타에 올라가는 것만으로도 매출이 10배는 뛸거라고 저 저기 손님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.587,
+                "end": 11.271
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아 더워서 갈비는 안 먹는다니까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.281,
+                "end": 13.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 그게 아니고 손님이 오시면 특별히 갈비로만 제공하며 1만 4000원 상당의 신제품 사이드메뉴 린가 두루치기까지 무료로 제공하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.779,
+                "end": 21.615
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.625,
+                "end": 22.800
+            }
+        ]
+    },
+    "summary": "갈비집 사장님이 손님을 뺏길까 봐 남성에게 갈비로만 제공하겠다고 제안한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02803_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

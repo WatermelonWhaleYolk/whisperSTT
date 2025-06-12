@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_03535",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.5,
+        "format": "MP4",
+        "date": "2022-05-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어르신 @이름1 진짜 구속은 얼마나 나오나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.633
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걍 쓰레기지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.643,
+                "end": 5.175
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 아마 최고가 130킬로 중반 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.185,
+                "end": 9.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그 구속으로 다시 프로에 가능하겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.940,
+                "end": 14.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무리 동네 야구라지만 여기도 실력 좋은 선출은 130은 던지거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.644,
+                "end": 20.538
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "플레이볼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.548,
+                "end": 21.674
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "와랏.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.684,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "@이름1 구속은 130킬로 중반 정도 나오는데 그 구속은 아무리 동네 야구라지만 여기도 실력 좋은 선출은 130은 던진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03535_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

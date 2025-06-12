@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01309",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.93,
+        "format": "MP4",
+        "date": "2023-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평창올림픽에서 아리랑 선율로 국내 팬들의 눈길을 사로잡았던 @이름1 @이름2 4년 뒤 베이징에서 한국 아이스 댄스는 본선행에 실패했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 새로운 희망이 시작됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.438,
+                "end": 13.398
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음악과 함께 강렬한 연길 시작하는 @이름1와 @이름2 과거 김연아가 연기에 익숙한 음악인 죽음의 무도에 맞춰 화려한 실력을 뽐냅니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 13.408,
+                "end": 23.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 선수는 팀 결성 4년 만에 주니어 그랑프리 사상 첫 금메달 파이널 은메달이라는 한국 피겨 새 역살 썼습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 23.341,
+                "end": 30.930
+            }
+        ]
+    },
+    "summary": "평창올림픽에서 아리랑 선율로 국내 팬들의 눈길을 사로잡았던 @이름1 @이름2는 4년 뒤 베이징에서 한국 아이스 댄스는 본선행에 실패했지만 팀 결성 4년 만에 주니어 그랑프리 사상 첫 금메달 파이널 은메달이라는 한국 피겨 새 역살 썼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

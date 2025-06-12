@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_00651",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.225,
+        "format": "MP4",
+        "date": "2023-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 추격에 박차를 가하던 3 쿼터 엘리웁 득점 시도가 나왔는데 림을 외면하고 말았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대 골 밑에서는 연신 득점 기회를 놓치면서 답답한 경기를 이어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.677,
+                "end": 12.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 줄곧 끌려가던 @소속1은 경기 막바지 @소속2 김동욱에게 쐐기 석 점포까지 허용하면서 시즌 최다 9연패에 빠졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.357,
+                "end": 22.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1 은희석 감독의 고민이 깊어지고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.121,
+                "end": 25.225
+            }
+        ]
+    },
+    "summary": "@소속1은 경기 막바지 @소속2에게 석 점포를 허용하면서 시즌 최다 9연패에 빠졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00651_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

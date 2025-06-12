@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03269",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "키우는 개 같은 건 줄 알았네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.895
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 쿠형의 경우도 일, 공부, 여행의 밸러스를 잘 유지하여 돈에 허덕이는 일은 없었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.905,
+                "end": 10.745
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 역시 이번 주도 1식 1찬으로 한 층 더 대부호에 다가섰군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.755,
+                "end": 19.974
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에 저 저 스크루지놈이 또?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.984,
+                "end": 23.790
+            }
+        ]
+    },
+    "summary": "더빙하는 사람들이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03269_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

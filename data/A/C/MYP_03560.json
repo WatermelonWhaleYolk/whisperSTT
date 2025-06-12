@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03560",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.854,
+        "format": "MP4",
+        "date": "2022-05-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "긴급 공수를 명하게 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 왜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.738,
+                "end": 3.866
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘 아무래도 치즈가 모자랄 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.876,
+                "end": 5.888
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "거래처에 발주 더 받아 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.898,
+                "end": 7.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 정도면 충분해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.375,
+                "end": 8.755
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그리고 오늘 휴일이라 거래처 다 쉴 텐데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.765,
+                "end": 12.066
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그럼 다른 가게 양해를 구해서라도 빌려와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.076,
+                "end": 15.720
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "남은 도우로 처 맞기 싫으면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.730,
+                "end": 17.726
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "난 오늘인데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.736,
+                "end": 20.854
+            }
+        ]
+    },
+    "summary": "어머니는 치즈가 모자랄 것 같다고 구해 오라고 하셨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03560_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

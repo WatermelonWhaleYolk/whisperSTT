@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_02759",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 51.6,
+        "format": "MP4",
+        "date": "2020-07-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 이름은 제이든 산초 2000년생 뽀시래기로 한국 사람은 아니지만 예를 들자면 주민 번호 뒷자리가 3으로 시작하는 새내기 중의 새내기다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 직업은 축구 선수 그것도 대단한 스타 플레이어라 아마 전 세계에서 가장 유명한 스무살 중 한 명일 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.611,
+                "end": 13.826
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 나의 소속 팀은 독일의 도르트문트 이곳에서 난 수많은 도움과 골을 넣으며 팀의 승리를 견인하고 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.836,
+                "end": 20.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빤스도 스무살 땐 일주일 내내 뼈다귀 해장국만 먹으며 친형이랑 PC방에서 살았다는 것처럼 많은 스무살 남자들이 가난한 학생이거나 아르바이트생 심지어 군대에 있는 친구들도 많지만 난 일주일만 뛰어도 3억 가까운 돈을 벌어들이고 있으며 내 가치라할 수 있는 이적료로 천 억이 넘는 어마어마한 가격표가 붙어 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.100,
+                "end": 36.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 나 역시도 뭘 해도 만족하기 힘든 불타는 청춘의 스무 살 뼈다귀 해장국도 먹고 싶고 더 많은 골도 넣고 싶으며 나의 고향 영국의 빅클럽으로 이적해 더 큰 무대에서 뛰며 발롱도르도 타고 싶다 이 말씀 그럼 어디 영국으로 떠나볼까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.632,
+                "end": 51.600
+            }
+        ]
+    },
+    "summary": "제이든 산초는 축구 선수로 전 세계에서 가장 유명한 스무살 중 한 명이고 소속 팀은 독일의 도르트문트이고 더 큰 무대에서 뛰고 싶다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02759_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

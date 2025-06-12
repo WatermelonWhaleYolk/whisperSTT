@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01836",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.25,
+        "format": "MP4",
+        "date": "2021-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재밌을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다나카 선수도 일본에 돌아갔고 저도 이제 한국으로 와서 이제 첫 이제 새로운 이제 시작을 하고 있는 상황이고 나라 대 나라로 붙는 거기 때문에 뭐 좀 더 이 마음 자세가 좀 시즌 때 붙는 거랑 다를 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.651,
+                "end": 14.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하게 되면 또 잘할 자신은 또 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.195,
+                "end": 17.250
+            }
+        ]
+    },
+    "summary": "선수는 한국으로 돌아와 새로운 시작을 하며 나라 대 나라로 붙는 경기는 시즌 경기와는 마음가짐이 다를 것 같다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01836_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

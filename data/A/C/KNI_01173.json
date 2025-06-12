@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_01173",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.021,
+        "format": "MP4",
+        "date": "2022-10-14",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "변치 않는 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.911
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "프로 선수 1호 배출이란 원대한 꿈을 꾸고 있는 덕적고 야구부",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.921,
+                "end": 5.541
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "계속 엄마한테 매일매일 얘기하고 하다가 한 5일 정도 그렇게 했는데 엄마가 결국 저한테 져주셔서 후회한 적은 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.551,
+                "end": 14.635
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "두산 베어스 @이름1 선수 올해 처음 일본에서 자신감 있게 던지는 모습을 보고서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.645,
+                "end": 21.021
+            }
+        ]
+    },
+    "summary": "프로 선수 1호 배출이란 원대한 꿈을 꾸고 있는 덕적고 야구부",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01173_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

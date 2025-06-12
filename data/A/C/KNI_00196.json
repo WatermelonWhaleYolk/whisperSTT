@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_00196",
+        "category": "스포츠뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.263,
+        "format": "MP4",
+        "date": "2023-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 치어리딩 대표팀이 코리아를 외치는 순간 이 절도 넘치는 군무가 인상적인데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호흡도 척척 화려한 공중 기술까지 선보이며 눈을 즐겁게 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.013,
+                "end": 13.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "총 84명으로 구성된 우리 선수단은 세계 선수권 출전에 앞서 출정식을 열고 선전을 다짐했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.133,
+                "end": 20.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "14회 연속 세계 선수권 출전인데다 이번 출정식은 창단 20주년을 기념하는 자리여서 더욱 의미가 깊었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.416,
+                "end": 30.263
+            }
+        ]
+    },
+    "summary": "총 84명으로 구성된 우리 선수단은 세계 선수권 출전에 앞서 출정식을 열고 선전을 다짐했으며 14회 연속 세계 선수권 출전인데다 이번 출정식은 창단 20주년을 기념하는 자리여서 더욱 의미가 깊었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00196_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00196_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

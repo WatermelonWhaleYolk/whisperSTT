@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_04125",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.756,
+        "format": "MP4",
+        "date": "2020-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "팬케이크 반죽은 기본 재료 곱하기 먹을 입수만큼이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 먼저 이 복잡한 수학 문제를 풀어야 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.106,
+                "end": 9.041
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 고대 악마 소환 의식을 할 때처럼 모든 재료를 뒤섞어 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.051,
+                "end": 13.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은 피 대신 우유나 쓰지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.363,
+                "end": 16.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "목숨이 달린 것 마냥 힘껏 저어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.504,
+                "end": 22.756
+            }
+        ]
+    },
+    "summary": "팬케이크 반죽은 사람 수 만큼 기본 재료를 준비해서 모든 재료를 넣고 뒤섞어 준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04125_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 7
+                }
+            ]
+        }
+    ]
+}

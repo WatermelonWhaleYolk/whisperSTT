@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_03729",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2021-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인가에서 한참 멀어져서야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.608
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 이런 산속에 정말 집이 있어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.618,
+                "end": 5.929
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다 왔어 다 왔어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.939,
+                "end": 7.427
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인가에서 한참 왔는데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.437,
+                "end": 9.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베일에 싸여있던",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.488,
+                "end": 12.098
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 산속이라면 분명 멋진 통나무집이겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.108,
+                "end": 15.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니면 운치 있는 한옥일까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.311,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "인가에서 한참 떨어진 산속에 정말 집이 있을지 궁금해 하고 멋진 통나무집일까 한옥일까 상상한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03729_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

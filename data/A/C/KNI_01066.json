@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01066",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.326,
+        "format": "MP4",
+        "date": "2022-05-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선거가 끝나자 수원은 또 한번 박정희 전 대통령을 패러디해 내 일생 K리그의 영광을 위하여라는 당선 이미지를 공식 SNS에 올렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 게시물이 올라간 날짜는 5 월 16 일 오일육 군사 정변이 일어난 날이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.891,
+                "end": 16.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팬들 사이에서도 패러디의 선을 넘었다는 비난 여론이 쏟아지자 수원 구단은 곧바로 이를 삭제하고 사과문을 통해 재발 방지를 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.720,
+                "end": 26.326
+            }
+        ]
+    },
+    "summary": "선거 후 수원은 또 한번 박정희 전 대통령을 패러디해 당선 이미지를 공식 SNS에 올렸는데 게시물이 올라간 날짜는 5 월 16 일 오일육 군사 정변이 일어난 날이었고 패러디의 선을 넘었다는 비난 여론이 쏟아지자 수원 구단은 곧바로 이를 삭제하고 사과문을 통해 재발 방지를 약속했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01066_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

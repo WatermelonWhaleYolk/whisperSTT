@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01637",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.866,
+        "format": "MP4",
+        "date": "2019-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평창 올림픽 은메달이 확정되는 순간 팀 킴이 가장 먼저 찾은 사람은 @이름1 전 부회장이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 교수님 감사합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.829,
+                "end": 11.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팀 킴은 영상 촬영이나 인터뷰 때 @이름1 전 부회장에 대한 감사함을 표현하도록 강요당한 것으로 나타났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.655,
+                "end": 19.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창 올림픽 이후 인기가 높아지자 연예인처럼 행동하지 말라면서 외모를 비하하는 등 폭언도 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.436,
+                "end": 26.866
+            }
+        ]
+    },
+    "summary": "김 전 부회장은 평창 올림픽 은메달을 딴 팀 킴에게 영상 촬영이나 인터뷰 때 감사함을 표현하도록 강요했고 올림픽 이후 인기가 높아지자 연예인처럼 행동하지 말라며 외모를 비하하는 폭언을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01637_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 95
+                }
+            ]
+        }
+    ]
+}

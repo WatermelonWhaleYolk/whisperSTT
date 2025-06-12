@@ -1,0 +1,208 @@
+{
+    "metadata": {
+        "filename": "MYP_03044",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.933,
+        "format": "MP4",
+        "date": "2019-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "호크루지 사장님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난로 좀 틀면 안 될까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.494,
+                "end": 9.988
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐가 춥다고 난로를 틀어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.988,
+                "end": 12.237
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "요호 메리크리스마스 호크루지 형님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.247,
+                "end": 14.868
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 시끄러워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.878,
+                "end": 16.538
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐가 좋도록 싱글벙글 웃고 다녀.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.548,
+                "end": 19.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우승컵도 못 들어본 주제에.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.048,
+                "end": 20.924
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에이 우승 못해봤다고 웃지도 못하나요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.934,
+                "end": 22.970
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내일 크리스마스 파티 오실 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.980,
+                "end": 24.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 안 가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.560,
+                "end": 25.747
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에이 형님 발롱도르 수상자들 다 모이기로 했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.757,
+                "end": 28.684
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "말씀은 저렇게 하셔도 그렇게 심술 궂은 양반은 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.694,
+                "end": 31.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.706,
+                "end": 32.441
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 쓸데없는 소리 하지 말고 얼른 썩 나가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.451,
+                "end": 35.605
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 형님도 참.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.615,
+                "end": 36.933
+            }
+        ]
+    },
+    "summary": "호크루지 사장에게 내일 크리스마스 파티에 발롱도르 수상자들이 다 온다고 파티에 오라고 하니 안 간다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03044_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

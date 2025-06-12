@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_02864",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.866,
+        "format": "MP4",
+        "date": "2020-05-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리는요. 우리는 다시 황유가 될 수 있을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.504
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그래 래시포드 다음은 맨유로구나 보리니가 살펴보리니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.514,
+                "end": 6.650
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무래도 제가 왔으니 다시 챔스도 나가고 우승컵도 경쟁하겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.660,
+                "end": 10.157
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맨유의 최전성기를 일컬어 황유 바닥까지 추락했던 멘유를 맹구 너희는 지금 딱 그 중간이니라 즉 황 맹 규",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.167,
+                "end": 18.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 황맹규라뇨 이름이 좀 별론 거 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.595,
+                "end": 21.369
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 아무튼 너희 황맹규는 적절한 세대 교체와 영입을 바탕으로 다시 빅4에 진입할 수 있을 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.379,
+                "end": 28.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다 보리니 선배.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.014,
+                "end": 29.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "단 얻는 게 있으면 잃는 게 있는 게 세상의 이치이지만 너희는 잃지 못할 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.290,
+                "end": 34.551
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 잃지 못하는 건 좋은 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.561,
+                "end": 36.763
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "얻기만 하면 개꿀 개꿀 개꿀딱이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.773,
+                "end": 39.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 린가드이도 말이냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.320,
+                "end": 41.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "린가드는 맨유에서 은퇴할 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.079,
+                "end": 43.866
+            }
+        ]
+    },
+    "summary": "한 남성이 린가드는 곧 맨유에서 은퇴할 것이라고 예언한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02864_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

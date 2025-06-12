@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00702",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2023-01-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뒤늦은 출국은 연봉 협상 진통 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 5억 5000만 원보다 약 47퍼센트가 깎인 2억 9000만 원에 지각 계약을 한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.553,
+                "end": 10.326
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더 잘하라는 의미로 받아들이고 더 열심히 해서 어 그냥 제가 부족했다는 건 받아들이고 올해 시즌엔 좀 더 좋은 모습 많이 보여드려야 될 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.336,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "뒤늦은 출국은 지난해 보다 약 47퍼센트가 깎인 연봉 협상 때문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00702_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

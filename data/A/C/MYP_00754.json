@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_00754",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.9,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엔젠간 맨유에서 뛸꺼다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 이런데서 뛴다고 누가 알아줘요? 무슨 프리미어리그에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.464,
+                "end": 4.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "싫으면 관둬라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.850,
+                "end": 5.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 머지사이드 주에 리버풀과 에버튼에서 스카우트도 온댔는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.003,
+                "end": 10.437
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 스카우트까지 온다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.447,
+                "end": 12.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 새끼 말을 믿을 수가 있어야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.140,
+                "end": 13.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 혹시 모르잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.853,
+                "end": 14.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "매일 밤마다 벽에 대고 공 차는 것도 지겨운데 밑져야 본전이겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.949,
+                "end": 18.535
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 어떻게 참가하면 되는데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.545,
+                "end": 20.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 공장에 이미 김치 유나이티드라고 축구팀 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.324,
+                "end": 24.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빵뚜아가 주장이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.378,
+                "end": 25.900
+            }
+        ]
+    },
+    "summary": "머지사이드 주에 리버풀과 에버튼에서 스카우트도 온다고 해서 매일 밤마다 벽에 대고 공 차는 것도 지겨운데 밑져야 본전이라 어떻게 참가하면 되는지 물었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00754_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 20,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

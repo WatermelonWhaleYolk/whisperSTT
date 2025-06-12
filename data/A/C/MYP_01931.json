@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01931",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.4,
+        "format": "MP4",
+        "date": "2021-09-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 어떻게 된 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 데뷔전에서 데뷔 골을 넣다니 도대체 그 비법이란 게 뭔가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.372,
+                "end": 5.516
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실 저에겐 특별한 스승님이 한 분 계십니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.526,
+                "end": 8.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스승님이라면 지금 뮌헨의 지휘봉을 잡고 있는 나겔스만 말인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.159,
+                "end": 12.173
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아뇨 그 새끼는 절 선발로도 안 쓰던 아니 그분도 물론 훌륭한 스승님이지만 진짜 스승님은 따로 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.183,
+                "end": 18.400
+            }
+        ]
+    },
+    "summary": "데뷔전에서 데뷔 골을 넣을 수 있었던 비법에 대해 묻자 특별한 스승님이 한 분 계시는데 뮌헨의 지휘봉을 잡고 있는 나겔스만도 훌륭한 스승님이지만 진짜 스승님은 따로 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01931_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

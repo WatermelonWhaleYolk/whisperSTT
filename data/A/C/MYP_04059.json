@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "filename": "MYP_04059",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.728,
+        "format": "MP4",
+        "date": "2020-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 될 거라 믿어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흠 그러니 저도 대리님을 도와 힘을 내서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.316,
+                "end": 4.966
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "틀렸어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.976,
+                "end": 5.462
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 곳에 그런날 따위는 오지 않을 거야.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.472,
+                "end": 9.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.245,
+                "end": 11.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그 그게 무슨?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.120,
+                "end": 12.976
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "퍼블리이 퍼블리 여기 있었구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.986,
+                "end": 17.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어어 대장장이 아저씨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.818,
+                "end": 19.089
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "큰일났다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.099,
+                "end": 20.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 돼 대장장이 아닌데 대장군에 가까운데 무 무슨 일이에요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.495,
+                "end": 26.462
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다 다 단검",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.462,
+                "end": 28.728
+            }
+        ]
+    },
+    "summary": "이곳에는 수호대도 오지 않고 영광스러운 날이 오지 않을 거라고 대리님이 조언을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04059_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

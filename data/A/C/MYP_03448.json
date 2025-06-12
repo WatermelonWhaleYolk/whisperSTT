@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "MYP_03448",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.362,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너클불 잡아본 적 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 기껏해야 110킬로미터 대공 근데 이상하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.570,
+                "end": 8.951
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와닥",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.961,
+                "end": 10.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 양쪽 눈 시력은 2점 0 엄마 아부지 고맙습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.615,
+                "end": 17.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분명히 보인다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.801,
+                "end": 19.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 오고 있잖아 미트 자리는 여기가 분명하잖아 왜지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.077,
+                "end": 29.362
+            }
+        ]
+    },
+    "summary": "내 양쪽 눈 시력은 2점 0 분명히 보이는데 저기 오고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

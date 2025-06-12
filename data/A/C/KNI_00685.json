@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_00685",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.822,
+        "format": "MP4",
+        "date": "2023-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 김선형은 계속 달립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.510
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "47득점 김선형의 야 득점이 어디까지 갈지 야 본인도 좀 소리를 지르고 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 3.530,
+                "end": 10.468
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@소속1도 이대성이 30점으로 분전했지만 무려 47점을 퍼부으며 한 수 위의 기량을 자랑한 김선형의 @소속2가 3차 연장 접전 끝에 3연승을 달렸습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 10.478,
+                "end": 22.822
+            }
+        ]
+    },
+    "summary": "이대성이 30점으로 분전했지만 김선형이 47점을 퍼부으며 3차 연장 접전 끝에 3연승을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00685_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

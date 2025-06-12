@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_03301",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.053,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 얼마나 늦게 왔다고 아하하 또 구라친다 하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.251
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아쉽게도 함께 살 수 없었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.261,
+                "end": 6.904
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "해외여행도 갈 수 있다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.914,
+                "end": 9.397
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 제가 좋은 데 아는데 사우스코리아라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.407,
+                "end": 13.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 우리는 당분간 각자의 길을 걷게 되었지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.627,
+                "end": 17.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그럼 잘 들 다녀오시고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.906,
+                "end": 20.053
+            }
+        ]
+    },
+    "summary": "형은 그동안 여행 자금을 빠방하게 모았다며 해외여행도 갈 수 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03301_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

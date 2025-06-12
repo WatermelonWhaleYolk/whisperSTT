@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_03153",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.324,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신성을 두 눈으로 목격하지 못했다 해도 그것이 더러운 영혼을 가녔다는 증거가 될 수는 없어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.294
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 저것은 성검도 못 뽑았는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.304,
+                "end": 8.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와우 리얼리?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 8.845,
+                "end": 15.964
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보셨죠? 용사라는 작자가 신성은 고사하고 성검 하나 못 뽑는 게 말이나 됩니까?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 15.974,
+                "end": 21.578
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뽑힌 건데요. 이거?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.588,
+                "end": 24.324
+            }
+        ]
+    },
+    "summary": "그녀는 용사가 성검을 뽑지 못했다고 말하는 노인과 용사가 뽑은 성검을 보고는 뽑힌게 맞다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

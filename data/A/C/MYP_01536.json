@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYP_01536",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.166,
+        "format": "MP4",
+        "date": "2022-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 다들 수고 많았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무려 맨시티를 상대로 버저비터 승리라니 아주 그냥 이뻐 죽겠어",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.507,
+                "end": 5.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 뭐랬습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.923,
+                "end": 7.205
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이름에 햄튼만 안 들어가면 무조건 이긴다고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.215,
+                "end": 10.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 헛소리인 줄 알았더만 정말 햄튼 공포증이 존재했을 줄이야",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.127,
+                "end": 13.875
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 팀의 부 주장으로서 근거 없는 소리를 하겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.885,
+                "end": 17.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 덕분에 4위 경쟁을 이어갈 수 있게 되었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.032,
+                "end": 20.166
+            }
+        ]
+    },
+    "summary": "감독이 맨시티를 상대로 버저비터 승리라며 덕분에 4위 경쟁을 이어갈 수 있게 됐다고 하며 선수들을 칭찬하고 선수는 햄튼만 이기면 무조건 이긴다고 근거 없는 소리가 아니였다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01536_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

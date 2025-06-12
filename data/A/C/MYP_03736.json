@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "filename": "MYP_03736",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.689,
+        "format": "MP4",
+        "date": "2021-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "장마로 젖은 나무들은 분신하길 거부했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 한참을 고인돌과 씨름하던 그는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.107,
+                "end": 6.698
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크아아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.708,
+                "end": 7.973
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 쉽지만 그냥 버너로 구워 먹을까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.983,
+                "end": 10.356
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그러게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.366,
+                "end": 11.008
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "라이터 하나론 어림없겠는데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.018,
+                "end": 13.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진전이 없자 갑자기 가방에서 무언가를 꺼내더니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.570,
+                "end": 18.034
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "젠장 그렇담 어쩔 수 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.044,
+                "end": 20.856
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "응?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.866,
+                "end": 22.689
+            }
+        ]
+    },
+    "summary": "젖은 나무들에 불이 붙지 않자 버너로 구워먹을까 고민하고 갑자기 형이 가방에서 무언가를 꺼낸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03736_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYP_03614",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.954,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하루도 빠짐없이",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잇 잇 잇 뜨악",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.330,
+                "end": 5.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새벽 같이 찾아왔",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.451,
+                "end": 7.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 잠을 파 먹기 시작했다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.458,
+                "end": 10.136
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저건 저승사자야 나 죽으면 데려가려고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.146,
+                "end": 14.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 강제 기상이 며칠씩 이어지자 나는 수면 부족으로 정신이 호락가락했고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.041,
+                "end": 20.954
+            }
+        ]
+    },
+    "summary": "비둘기는 새벽에 빠짐없이 찾아왔고 나는 수면 부족으로 정신이 오락가락했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03614_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

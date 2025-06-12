@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYP_01395",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.833,
+        "format": "MP4",
+        "date": "2022-04-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 너희들도 알다시피 우리 에버튼은 지금 엄청난 위기 아니 솔직히 말해서 강등을 눈앞에 두고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.998
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 램파드 감독님께서는 팀을 구하러 온 거 아니셨나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.008,
+                "end": 9.369
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부임하신 뒤로 12경기 동안 3승 1무 8패라니 이 정도면 소방수가 아니라 방화범 아니시냐고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.379,
+                "end": 15.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 뭐라고 할 말이 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.351,
+                "end": 17.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2부 리그까지 함께 가자 하진 않을 테니 얼마든지 이적을 위한 준비를 해도 좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.087,
+                "end": 21.250
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에버튼이 원래 프리미어리그 출범 이후로 단 한차례도 강등당한 적 없으며 아무리 망한 시즌도 중하위권 정도는 해내지 않았더래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.260,
+                "end": 28.833
+            }
+        ]
+    },
+    "summary": "에버튼이 강등 위기를 눈 앞에 두고 있다고 하자 한 남자가 램파드 감독님이 오신 이후로 8패를 했다고 얘기하고 다른 남자는 에버튼이 항상 중하위권은 유지했었다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01395_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_01395_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

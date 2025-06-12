@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_02805",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.366,
+        "format": "MP4",
+        "date": "2020-06-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "산등성이 사이로 해가 넘어갈 무렵 모든 사물이 붉게 물들고 저 언덕 너머로 다가오는 실루엣이 내가 기르던 개인지 나를 해치려 오는 늑대인지 분간할 수가 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 23.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 이름은 김덕배 암흑 세계에서 알아주는 조직 만수르파의 실세다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.016,
+                "end": 27.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 만수르파는 사우디아라비아라는 불모지에서 시작해 지금 영국 맨체스터 지역까지 섭렵하며 그 위세를 떨치고 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.789,
+                "end": 35.366
+            }
+        ]
+    },
+    "summary": "한 남성이 자신이 속한 만수르파에 대해서 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02805_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

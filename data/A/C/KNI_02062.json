@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_02062",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.466,
+        "format": "MP4",
+        "date": "2018-02-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 가장 큰 문제는 역시 영하 10도 아래까지 뚝 떨어지는 매서운 날씨입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.899
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개막식 리허설이 열린 이곳 평창은 영하 15도 강한 바람까지 불어 체감 온도는 영하 21도까지 떨어졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.909,
+                "end": 13.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개막식 당일에도 강추위가 예고되고 있어 각별한 준비가 필요합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.995,
+                "end": 19.466
+            }
+        ]
+    },
+    "summary": "개막식 리허설이 열린 평창은 영하 15도 강한 바람까지 불어 체감 온도는 영하 21도까지 떨어졌고 개막식 당일에도 강추위가 예고되고 있어 각별한 주의가 필요하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02062_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_02062_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

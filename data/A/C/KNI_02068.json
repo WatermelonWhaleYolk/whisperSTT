@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_02068",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.2,
+        "format": "MP4",
+        "date": "2018-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 바퀴를 27초로 세 바퀴를 도는 데 한 세트만 해도 힘든 이 훈련을 이상화는 세 번씩 반복했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 정말 굉장한 훈련 프로그램을 했었고 그래서 다시 알이 배길 정도로 다시 체력을 올려놨고 그래서 지금까지 오게 된 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.543,
+                "end": 19.200
+            }
+        ]
+    },
+    "summary": "이상화는 한 번 해도 힘든 훈련을 세 번씩 반복했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02068_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

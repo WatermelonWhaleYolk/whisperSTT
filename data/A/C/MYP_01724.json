@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01724",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.733,
+        "format": "MP4",
+        "date": "2021-11-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 세 가지를 섞었다가 싫어요 테러를 받을지도 모른다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누가 진짜로 가겠대?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.144,
+                "end": 4.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맨유에 새 감독으로 다른 사람이 올 수 있는 거고 나 역시 팀을 떠날 가능성이 높지 않지만 이런저런 기사들이 쏟아져 나오니까 만약에라도 이적한다면 어떨까 하고 생각만 해 보는 거지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.200,
+                "end": 13.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 뭐 포체티노 감독님과 너가 맨유에서 만난다면 나쁘진 않겠네 만약 내가 맨시티로 넘어간다면 맨체스터 더비에서 만나는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.233,
+                "end": 22.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현실은 둘 다 토트넘 레전드로 남을 것 같지만 맨체스 터더비에서 나란히 한 골씩이라 뭐 상상만 해도 설레긴 하네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.547,
+                "end": 28.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게만 된다면 너나 나나 은퇴 전의 우승컵 하나는 들 수 있겠지 그런데 만약 맨유로 간다면 경쟁이 심하지 않겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.050,
+                "end": 34.733
+            }
+        ]
+    },
+    "summary": "두 화자가 맨시티와 맨유로 넘어간다면 맨체스터 더비에서 만날 수 있다는 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01724_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

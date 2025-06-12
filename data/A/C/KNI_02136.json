@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_02136",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.642,
+        "format": "MP4",
+        "date": "2018-08-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 마음까지 뭐 생각 이런 게 하나도 없었으면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쓴소리를 처음으로 하셨기 때문에 경각심을 일깨워 줘 가지고 그 분위기 속에서 긴장할 수 있고 그다음 경기를 또 준비하는 과정에 있어서 더 잘할 수 있는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.828,
+                "end": 17.633
+            }
+        ]
+    },
+    "summary": "손흥민 선수가 쓴소리를 처음으로 했기 때문에 어린 선수들에게 경각심을 일깨워 줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02136_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

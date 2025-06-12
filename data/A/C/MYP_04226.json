@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_04226",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.731,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하하 으허하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저런 명찰이 있었던가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.144,
+                "end": 2.464
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "글쎄 처음 보는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.474,
+                "end": 4.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 집사님도 제 명엔 못 죽겠군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.567,
+                "end": 7.298
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "판결을 조정한다 임원진의 자비와 그 동안의 공로를 참작하여 퇴사 판결은 취소한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.308,
+                "end": 16.410
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "대신 고전 게임 부서로의 인사 이동을 명한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.420,
+                "end": 31.731
+            }
+        ]
+    },
+    "summary": "임원진의 자비와 그 동안의 공로를 참작하여 퇴사 판결은 취소하고 대신 고전 게임 부서로의 인사 이동을 명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04226_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

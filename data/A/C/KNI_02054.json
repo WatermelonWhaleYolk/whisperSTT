@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_02054",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.666,
+        "format": "MP4",
+        "date": "2018-01-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "삿포로 동계 아시안 게임에서 금메달을 따낸 최다빈은 선발전 총점 540.28점을 기록했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2장의 출전권 중 남은 1장은 김하늘이 차지했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 8.899,
+                "end": 14.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 선수 모두 첫 번째 올림픽 출전입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 14.780,
+                "end": 19.666
+            }
+        ]
+    },
+    "summary": "출전권을 차지한 김하늘과 최다빈은 모두 첫 번째 올림픽 출전이고 삿포로 동계 아시안 게임에서 금메달을 따낸 최다빈은 선발전 총점 540.28점을 기록했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02054_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

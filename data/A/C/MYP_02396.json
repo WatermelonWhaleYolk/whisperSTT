@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "filename": "MYP_02396",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 45.633,
+        "format": "MP4",
+        "date": "2021-02-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 오늘은 토트넘과의 리그 경기다 안타깝지만 데브라이너가 부상으로 결장했으니 많은 득점보다는 한 골 확실하게 넣고 승리를 가져오는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걱정 붙들어 매십쇼 프리미어 리그 최고의 윙어를 가리는 손흥민과 스털링의 승부 이른바 흥털 대전에서 이기고 돌아 오겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.943,
+                "end": 14.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 최고의 윙어 대결은 흥민이와 마네의 흥마 대전 아니었어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.064,
+                "end": 17.520
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에이 감독님 너무 그러지 마십시오 아무튼 얘들아 지난 리그 1차 전에서의 패배를 확실하게 갚아주고 오라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.530,
+                "end": 22.940
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나는 비록 부상으로 결정하지만 머 포든이나 실바 그리고 무엇보다 우리 팀에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.950,
+                "end": 27.055
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "내가 있지",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.065,
+                "end": 27.820
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래 귄도안이 있으니까 이길 수 있을 거야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.830,
+                "end": 29.776
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "덕배가 없는 날엔 퀸도안이 왕이다 덕없귄왕 오늘 이 몸의 능력을 확실하게 보여주고 오겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.786,
+                "end": 34.975
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 그래 내 몫까지 부탁할게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.985,
+                "end": 36.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실상 토트넘은 케인도 정상적인 컨디션이 아니고 흥민이만 고립시킨다면 허수아비 팀이다 한 두 명에 의존하는 원맨 팀의 최후를 똑똑히 보여주고 오도록",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.474,
+                "end": 45.633
+            }
+        ]
+    },
+    "summary": "맨 시티의 감독은 토토넘과의 경기에 앞서 선수들에게 많은 득점보다는 한 골을 확실하게 넣어야 하고 한두 명에 의존하는 원 맨 팀의 최후를 똑똑히 보여주고 오라고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02396_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

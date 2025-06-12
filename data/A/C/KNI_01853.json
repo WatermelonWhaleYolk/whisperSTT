@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01853",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.023,
+        "format": "MP4",
+        "date": "2021-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "MVP로 뽑힌 설린저 선수 인터뷰 들어보시겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.847
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "말씀 들어볼까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.857,
+                "end": 5.213
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.223,
+                "end": 16.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 KCC는 이제 송교창 이정현 라건아 등 국가대표 그 포워드 진을 앞세우고도",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.650,
+                "end": 23.023
+            }
+        ]
+    },
+    "summary": "KCC는 송교창, 이정현, 라건아 등 국가대표 포워드 진을 앞세웠지만 설린저 선수가 MVP로 뽑혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01853_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00167",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.809,
+        "format": "MP4",
+        "date": "2023-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 수사는 이들에게 범행을 지시한 중국 현지의 윗선 보이스 피싱 조직으로 향하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 특정된 인물은 2명 길 씨에게 마약 음료 제조를 지시한 20대 한국인 이 모 씨 전화 협박 등 범행에 가담한 걸로 보이는 30대 중국 국적 박 모 씨입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.628,
+                "end": 17.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 길 씨에게 이른바 던지기 수법으로 필로폰을 공급한 중국 국적의 30대 남성이 검거되면서 이 남성에게 범행을 지시한 중국 내 윗선도 추가로 확인됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.558,
+                "end": 28.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 일단 중국에 체류 중인 윗선 가운데 지금까지 신원이 확인된 3명에 대해 체포 영장을 신청할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.804,
+                "end": 36.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 중국 공안에도 수사 협조를 요청하고 추가로 범행에 가담한 윗선이 있는지 수사를 이어 나갈 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.525,
+                "end": 42.809
+            }
+        ]
+    },
+    "summary": "길 씨에게 이른바 던지기 수법으로 필로폰을 공급한 중국 국적의 30대 남성이 검거되면서 이 남성에게 범행을 지시한 중국 내 윗선도 추가로 확인됐으며 경찰은 일단 중국에 체류 중인 윗선 가운데 지금까지 신원이 확인된 3명에 대해 체포 영장을 신청할 예정입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00167_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 26
+                }
+            ]
+        }
+    ]
+}

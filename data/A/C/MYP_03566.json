@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "MYP_03566",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.259,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왼쪽보다 평소 15km가 더 나오는 오른쪽을 선택했고 그 결정의 성과는 바로 이어졌다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모두의 염원인 밥벌이를 할 수 있게 된 것",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.099,
+                "end": 13.153
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빗 맞았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.163,
+                "end": 14.982
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "과감한 몸쪽 승부가 아주 좋았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.992,
+                "end": 17.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직구가 좋은 괜찮은 신인이 들어왔어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.330,
+                "end": 20.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로 기대가 되는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.261,
+                "end": 22.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왼쪽이 질투했을까?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.591,
+                "end": 26.259
+            }
+        ]
+    },
+    "summary": "왼쪽보다 15km 더 나오는 오른쪽을 선택했고 그 결과는 바로 나타났고 괜찮은 신인이 나타났다는 찬사도 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03566_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

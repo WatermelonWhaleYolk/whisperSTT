@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "filename": "MYP_01533",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 49.6,
+        "format": "MP4",
+        "date": "2022-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 이 자식들아 상대가 맨시티도 아니고 번리야 번리 전반 동안 한 골은 넣어야 했던 거 아냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 오늘따라 전반보단 후반에 넣고 싶더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.695,
+                "end": 8.481
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 말 같지도 않은 소리를",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.491,
+                "end": 10.134
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "번리의 수비가 생각보다 더 끔찍했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.144,
+                "end": 12.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드리블로 한 명 제치면 두 명이 따라 달라 붙고 스프린트로 두 명 제치면 세 명이 달라 붙더라니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.254,
+                "end": 16.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 간결하게 패스로 전개하랬잖아",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.848,
+                "end": 19.299
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 그래도 비까지 오는 상황에서 푸스카스 골 같은 건 무리야",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.309,
+                "end": 22.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앗겠습니다 그럼 최대한 벗겨낸 다음 케인이나 클루셉스키한테 연결하도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.641,
+                "end": 26.614
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 벤탄쿠르 넌 이만 휴식을 취해라",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.624,
+                "end": 29.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 아이 제 폼이 좋지 않았다는 건 인정하지만 아직 전반전밖에 안 끝났는데 벌써 교체라니요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.129,
+                "end": 34.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부진해서 그렇다기보다 아까 다리가 찢어졌잖아 다음 경기에도 뛰려면 부상을 방지해야지",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.550,
+                "end": 39.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 벤탄쿠르의 빈자리는 제가 메꾸겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.760,
+                "end": 42.124
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래 후반전에는 무조건 먼저 넣어야 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.134,
+                "end": 44.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선제골이라도 먹히는 순간 번리 수비는 더 강해질 거라고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 44.718,
+                "end": 49.600
+            }
+        ]
+    },
+    "summary": "감독과 선수들이 번리와의 경기에 대해 이야기하고 있으며 선수들은 번리의 수비가 너무 끔찍했다고 하고 감독은 간결한 패스로 전개하여 후반전에는 무조건 골을 넣어야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01533_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

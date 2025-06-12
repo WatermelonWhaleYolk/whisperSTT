@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_02463",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.9,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거의 뭐 이 정도면 여권 사진이라 해도 믿을 것 같지 않나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 머리 색깔이 너무 밝은가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.865,
+                "end": 7.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 요리스 선수의 플레이를 본격적으로 보게 된 건 토트넘에 합류한 뒤부터였지만 사실 그전부터 엄청 잘할 것 같았어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.455,
+                "end": 15.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 왜냐면 전 어린 시절 형이랑 같이 피파 온라인 2를 엄청 했었는데 그 당시 저희 형 팀의 골키퍼가 리옹의 요리스였거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.277,
+                "end": 24.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반데사르나 카시야스 같은 당시 탑급 선수를 안 쓰고 요리스를 썼었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.227,
+                "end": 29.900
+            }
+        ]
+    },
+    "summary": "남자는 요리스를 그리며 요리스를 좋아하는 이유에 대해 설명하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02463_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

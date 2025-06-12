@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_00217",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.656,
+        "format": "MP4",
+        "date": "2022-06-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수많은 팬들이 관중석을 가득 메웠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오랜만에 축구화를 꺼내 신은 2002 태극 전사들은 아들 뻘과 맞붙는 이번 경기에 자신감이 넘쳤습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.863,
+                "end": 10.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 대승을 하면 어떻게 할까? 선수들이 어린 선수들이 기가 죽으면 어떻게 할까 이런 걱정을 하고 계시고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.568,
+                "end": 16.416
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진지하게 최선을 다 해서 경기에 임할 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.426,
+                "end": 21.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대승에 대한 걱정은 기우였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.126,
+                "end": 23.656
+            }
+        ]
+    },
+    "summary": "오랜만에 축구화를 꺼내 신은 2002 태극 전사들은 아들뻘과 맞붙는 이번 경기에 자신감이 넘쳤습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00217_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03798",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.611,
+        "format": "MP4",
+        "date": "2021-05-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그것이 쌓여서 겨울이 되자 장난이 아니었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.118
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빙하기다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.128,
+                "end": 5.809
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 얼어 디질라고 뭉쳤네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.819,
+                "end": 8.379
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피도 찬 것들이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.389,
+                "end": 10.156
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 끝나지 않는 그의 딜레마",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.166,
+                "end": 13.684
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이런 젠장 버리자니 아깝고 놔두자니 멈추질 못하겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.694,
+                "end": 19.432
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "화단을 그냥 없애 미친놈아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.442,
+                "end": 21.946
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔 석유농장 만드냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.956,
+                "end": 25.592
+            }
+        ]
+    },
+    "summary": "겨울이 되자 공룡들이 서로 뭉치고 버릴 수도 없고 놔두지도 못해 고민한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03798_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 73,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

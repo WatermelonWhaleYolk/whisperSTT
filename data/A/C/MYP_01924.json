@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYP_01924",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.568,
+        "format": "MP4",
+        "date": "2021-09-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첼시를 잡고 다시 한번 반등하겠다는 손케듀오의 토트넘이냐 지난 시즌엔 챔스에서 우승했으니 이번 시즌엔 리그 우승이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토트넘을 잡고 선두를 탈환하겠다는 루카쿠의 첼시냐 프리미어리그 5라운드에서 승점 3점을 가져갈 팀은 어디일까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.831,
+                "end": 15.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구독자 여러분들의 선택은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.344,
+                "end": 23.555
+            }
+        ]
+    },
+    "summary": "프리미어리그 5라운드에서 승점 3점을 가져갈 팀은 첼시를 잡고 다시 한번 반등하겠다는 토트넘일지 이번 시즌엔 리그 우승을 바라며 토트넘을 잡고 선두를 탈환하겠다는 루카쿠의 첼시일지 구독자분들의 선택은 무엇인지 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01924_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_01924_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

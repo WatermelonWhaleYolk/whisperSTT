@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00681",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-01-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세리머니 이제 준비를 해야 될 거 같은데 저도 저지만 저희 팀 선수들을 좀 잘 준비를 시켜갖고 올스타전을 준비하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "간판 스타들이 펼칠 우정의 대결은 물론 스파이크 서브 콘테스트 등 다양한 이벤트가 팬들 곁을 찾아갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.796,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "간판 스타들이 펼칠 우정의 대결은 물론 스파이크 서브 콘테스트 등 다양한 이벤트가 팬들 곁을 찾아간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00681_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_01935",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.266,
+        "format": "MP4",
+        "date": "2021-09-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거 뒤집어 쓰고 따라와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.244
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 훈련하는데 헬멧을 왜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.254,
+                "end": 3.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 새끼가 뒤질라고 잔말 말고 안 따라와?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.477,
+                "end": 6.440
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아다마 선배 힘든 훈련이시겠지만 참고 버텨낸다면 분명 득점 기계로 거듭나실 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.450,
+                "end": 12.025
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "희찬이 스승님이라니까 일단 따라는 가겠는데 헬멧은 안 쓰면 안 됩니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.035,
+                "end": 16.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 헬멧은 제 승모근을 위축시켜서 근손실이 온단 말이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.637,
+                "end": 20.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아따 새끼 헬창 아니랄까 봐 고집 드럽게 세네 어 근손실 피하려다 리그에서 손실되고 싶어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.677,
+                "end": 27.793
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 한 시즌에 열 골은 넣을 수 있게 제대로 교육해 줄 테니까 따라와라 아다마. 진실의 방으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.803,
+                "end": 36.266
+            }
+        ]
+    },
+    "summary": "헬멧을 쓰고 따라오라고 하자 헬멧은 승모근을 위축시켜서 근손실이 온다며 안 쓰고 싶다고 했고 이에 스승은 근손실 피하려다 리그에서 손실되고 싶냐며 한 시즌에 열 골은 넣을 수 있게 해 줄테니 따라와라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01935_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

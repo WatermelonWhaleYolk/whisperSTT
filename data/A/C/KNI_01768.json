@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01768",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.434,
+        "format": "MP4",
+        "date": "2018-12-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "검찰이 자신에게 문우람이 승부 조작을 제의했다는 거짓 진술을 하도록 유도했다고 주장했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우람이 통장에서 대가성 금액 1000만 원이 인출되었다며 허위 사실을 이야기했고 검사님의 거짓말에 넣어 가 순간 우람이도 알고 있었나라는 생각을 해서 허위 진술을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.660,
+                "end": 17.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 승부 조작을 한 것으로 생각되는 프로 야구 선수가 더 있다며 실명을 공개했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.155,
+                "end": 22.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "브로커이 저에게 이런 선수들도 승부 조작을 다 한다고 동영상을 보여주며 정대현, 문성현, 김태평 이런 선수들은 왜 조사를 안 하는지 궁금합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.000,
+                "end": 35.433
+            }
+        ]
+    },
+    "summary": "검찰이 승부 조작을 제의했다는 거짓 진술을 하도록 유도했다고 주장하며 승부 조작을 한 것으로 생각되는 선수가 더 있다며 실명을 공개했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01768_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

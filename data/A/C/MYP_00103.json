@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_00103",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.766,
+        "format": "MP4",
+        "date": "2023-07-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 코망 언제 왔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.081
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시간이 없어서 제가 쐈는데 괜찮은 거죠 레반도프스키 형님?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.091,
+                "end": 5.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 잘했어 코망.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.811,
+                "end": 6.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼른 노이어 큰 형님께 가보자.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.003,
+                "end": 10.393
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이거 오는 길에 보아탱인가 뭔가 하는 놈을 처리하고 왔더니 늦었구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.403,
+                "end": 14.655
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "얼른 올라가서 노이어놈을.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.665,
+                "end": 16.379
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "띵.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.389,
+                "end": 17.766
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성 대신 총을 쏜 후 큰 형님께로 가는 동시에 큰 형님을 노리는 다른 남성도 그쪽으로 가고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

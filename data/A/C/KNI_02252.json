@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_02252",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.733,
+        "format": "MP4",
+        "date": "2017-12-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아슬아슬 굽어진 1.7킬로미터의 트랙",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "루지와 봅슬레이 등 썰매 종목이 열리는 슬라이딩 센터입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.211,
+                "end": 7.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "90미터 높이로 우뚝 솟은 스키 점프대",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.668,
+                "end": 11.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수 안전을 위해 바람막이 시설이 보강됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.617,
+                "end": 14.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스피드 스케이트와 쇼트트랙, 아이스하키 등 인기 종목이 치러질 강릉 빙상경기장",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.923,
+                "end": 21.733
+            }
+        ]
+    },
+    "summary": "썰매종목이 열리는 슬라이딩 센터는 1.7킬로미터 트랙으로 이루어져 있고 90미터 높이로 되어있는 스키 점프대는 안전을 위해 바람막이 시설이 보강되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02252_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

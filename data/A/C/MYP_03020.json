@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_03020",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.133,
+        "format": "MP4",
+        "date": "2020-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이적이라도 해야지 원.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.456
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 뱅거 팀장님 나가고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.466,
+                "end": 4.035
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꽃이 지고 나서야 봄인 줄 알았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.045,
+                "end": 7.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4등 하던 시절이 너무 그립다 그리워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.078,
+                "end": 9.646
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이고 형님들 걱정하지 마세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.656,
+                "end": 12.264
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여기는 승점을 마구마구 퍼주는 맹륜 진사 갈비잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.274,
+                "end": 16.357
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "승점 모자랄 때는 맹륜 진사 갈비.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.367,
+                "end": 19.776
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "무한으로 먹혀요 맹륜 진사 갈비.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.786,
+                "end": 23.337
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아스날도 브라이튼도 맹륜 진사 갈비.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.347,
+                "end": 26.553
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 구단 회식은 맹륜 진사 갈비.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.563,
+                "end": 30.211
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "강등권 탈출은 맹륜 진사 갈비.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.221,
+                "end": 34.133
+            }
+        ]
+    },
+    "summary": "뱅거 팀장님이 계시고 4등 하던 시절이 그립다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03020_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 59
+                }
+            ]
+        }
+    ]
+}

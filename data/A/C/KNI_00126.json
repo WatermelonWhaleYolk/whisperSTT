@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_00126",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.094,
+        "format": "MP4",
+        "date": "2023-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여자 대표팀 훈련에서 반가운 얼굴이 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.112
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 A 매치 142 경기 출전에 빛나는 미드필더 조소현 금발로 염색한 게 참 인상적이죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.122,
+                "end": 9.976
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부상을 털고 대표팀에 돌아왔는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.986,
+                "end": 12.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당장은 잠비아와의 평가전을 준비하지만 멀리는 7월 호주 뉴질랜드 월드컵에 초점이 맞춰져 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.118,
+                "end": 18.989
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "월드컵의 성적을 좀 더 잘 내서 어린 선수들이 축구를 좀 더 하고 싶다라는 마음이 들게끔 하는 게 그게 좀 더 중요하다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.999,
+                "end": 28.094
+            }
+        ]
+    },
+    "summary": "조소현 선수가 부상을 털고 대표팀에 돌아왔고 잠비아와 평가전과 호주 뉴질랜드 월드컵에 초점을 맞춰 준비하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00126_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

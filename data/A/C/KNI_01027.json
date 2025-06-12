@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_01027",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.295,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "눈 덮인 한라산 등반로를 구자철이 힘찬 발걸음으로 오릅니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제주 FC 파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.711,
+                "end": 6.924
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "11년 전 약속을 지키고 제주로 돌아온 만큼 백록담에서 특별한 입단 사진을 찍기 위해서입니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 6.934,
+                "end": 15.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "칼바람이 부는 추운 날씨에도 구자철은 팬들을 생각하며 유니폼을 입고 다양한 포즈로 촬영에 임했습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 15.669,
+                "end": 29.295
+            }
+        ]
+    },
+    "summary": "칼바람이 부는 추운 날씨에도 구자철은 팬들을 생각하며 유니폼을 입고 다양한 포즈로 촬영에 임했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01027_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

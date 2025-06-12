@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_02938",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.9,
+        "format": "MP4",
+        "date": "2020-03-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 오리 고기를 분명 이로 씹고 혀로 넘겨서 목구멍으로 넘겼는데 없어졌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 간 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.060,
+                "end": 9.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마술인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.115,
+                "end": 9.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분명히 정확히 목구멍을 조준해서 넘겼는데 사라졌어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.811,
+                "end": 13.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐가 어떻게 된 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.169,
+                "end": 14.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇담 다음으로 모우라멜라면?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.430,
+                "end": 16.900
+            }
+        ]
+    },
+    "summary": "감독은 오리 고기를 먹고 놀란 후 모우라멜라면을 먹는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02938_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

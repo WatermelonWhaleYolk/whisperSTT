@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_04166",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.023,
+        "format": "MP4",
+        "date": "2020-05-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이고는 아이 이제 그만 웃어야 되는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여긴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.287,
+                "end": 6.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 여긴 그러니까 뭐랄까 저승이여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.120,
+                "end": 13.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "액션 부서 핵 때찌 맞고 한 큐에 디져 브렀제.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.800,
+                "end": 18.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "구라치지 마 딱 봐도 고전 게임 부서구만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.287,
+                "end": 23.023
+            }
+        ]
+    },
+    "summary": "패치가 여기가 어디냐고 묻자 직원은 액션 부서에 맞고 죽어서 저승이라고 거짓말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04166_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "KNI_02100",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.3,
+        "format": "MP4",
+        "date": "2018-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 어떻게 표현해야 되지 영미 영미 요 말이 거의 유행어가 됐죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.352
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.352,
+                "end": 4.860
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너무 소극적인데요 영미 영미 영미 영미 영미 이거 잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.860,
+                "end": 8.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘하시네요 역시",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.130,
+                "end": 9.260
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 컬링 좀 보신 분들이라면 어 이 영미라는 이름의 매력에 푹 빠지셨을 텐데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.260,
+                "end": 14.795
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 도대체 영미가 뭐길래 누구길래 국민들을 좀 이 좀 열광에 빠트리는지 화면을 보면서 직접 설명드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.795,
+                "end": 23.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자 컬링 대표팀의 김은경 선수가 돌을 던지고 난 뒤에 스위핑 저기 빗질을 하는 동료 선수인 김영미 선수에게 보내는 약속된 신호인데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.752,
+                "end": 33.300
+            }
+        ]
+    },
+    "summary": "평창 동계 올림픽으로 컬링에 대한 관심도가 높아졌는데 컬링 대표팀 김은경 선수가 동료인 김영미 선수를 부르는 말이 유행어가 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02100_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

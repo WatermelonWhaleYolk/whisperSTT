@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01738",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.066,
+        "format": "MP4",
+        "date": "2021-11-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아자르 아자르 자네 그러다 비행기 시간 늦게어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.332
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 사리 감독님이 여긴 어쩐일이세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.342,
+                "end": 6.674
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잠깐 내 목소리가 돌아왔잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.684,
+                "end": 8.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 친구가 무슨 뚱딴지 같은 소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.641,
+                "end": 10.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동료들과 작별 인사는 잘 마무리했지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.444,
+                "end": 12.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 공항까지 데려다 줄 테니 얼른 일어나게나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.993,
+                "end": 17.066
+            }
+        ]
+    },
+    "summary": "화자1 이 화자 2에게 비행기 시간이 다 되었으니 이제 일어나라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01738_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_01565",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.451,
+        "format": "MP4",
+        "date": "2020-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도쿄 올림픽 종목 별 예선 일정도 큰 폭의 변화를 피할 수 없는 상황입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여자 축구에서는 중국 우한에서 난징으로 변경했다 다시 호주 시드니에서 열리기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.713,
+                "end": 11.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "복싱은 중국 우한에서 요르단으로 여자 농구는 중국 포산에서 세르비아로 장소를 급하게 바꿨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.336,
+                "end": 18.451
+            }
+        ]
+    },
+    "summary": "코로나 바이러스의 영향으로 도쿄 올림픽 예선 경기의 장소들이 변경되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01565_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

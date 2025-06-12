@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_00519",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.767,
+        "format": "MP4",
+        "date": "2023-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 오늘부턴 중국 내 공간에서의 단기 체류 비자 발급도 사실상 중단됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 다 장례식 참석 같은 몇 가지 사유는 예외로 두긴 했지만 국내 단기 여행은 당분간 자제시킬 필요가 있다고 판단한 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.587,
+                "end": 14.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5일부터는 중국에서 출발하기 전에도 전문가용 신속항원검사나 PCR 검사를 통해 코로나19 음성임을 증명해야 합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.092,
+                "end": 22.088
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "12월 한 달 중국발 입국자 349명이 국내에서 코로나19 양성 판정을 받았는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.098,
+                "end": 28.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 최근엔 해외 입국 확진자의 30퍼센트가량이 중국발 확진자로 분석됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.324,
+                "end": 33.767
+            }
+        ]
+    },
+    "summary": "오늘부턴 중국 내 공간에서의 단기 체류 비자 발급도 사실상 중단됐는데 국내 단기 여행은 당분간 자제시킬 필요가 있다고 판단한 것이며 5일부터는 중국에서 출발하기 전에도 전문가용 신속항원검사나 PCR 검사를 통해 코로나19 음성임을 증명해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00519_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 49,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

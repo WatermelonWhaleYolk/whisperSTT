@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_00779",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.696,
+        "format": "MP4",
+        "date": "2023-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 헌재가 공석 상태로 심판하는 데 부담을 느끼거나 이태원 참사 수사 결과 등을 보고 판단하려 할 경우 결정이 늦어질 수도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장관 공백이 현실화된 행안부가 긴급 간부 회의를 시작으로 차관 대행 체제를 가동한 가운데 여야는 오늘도 공방을 이어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.962,
+                "end": 17.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 헌정 질서 파괴 입법 독재라며 민주당을 비판했고 민주당은 오히려 헌법 정신 실천이자 현 정권이 자초한 결과라고 맞받았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.365,
+                "end": 27.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.690,
+                "end": 29.696
+            }
+        ]
+    },
+    "summary": "장관 공백이 현실화된 행안부는 긴급 간부 회의를 시작으로 차관 대행 체제를 가동했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00779_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

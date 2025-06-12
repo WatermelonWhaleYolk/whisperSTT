@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_03391",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.737,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "몸 쪽 높은 몸 쪽",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "볼 볼 타자가 깜짝 놀랄 깊은 몸 쪽 공",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.498,
+                "end": 7.605
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 어 어머나 왜 그래 누가 보면 꼭 위협구 던진 거 같잖아 손에서 살짝 빠졌네 글고 그런 건 프로에선 위협구 축에도 못 껴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.615,
+                "end": 20.677
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와아 드러븐 새끼 아들 같은 녀석한테 하는 행사 보소 아 참 좋은 거 가르친다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.687,
+                "end": 29.755
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저 같아서 좀 짠하네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.765,
+                "end": 32.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후 후 자아 덤벼 봐 이 자식들아",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.504,
+                "end": 37.737
+            }
+        ]
+    },
+    "summary": "아들 같은 녀석한테 위협구 던지는 거 보니 참 좋은 거 가르치고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03391_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

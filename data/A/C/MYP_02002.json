@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_02002",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.866,
+        "format": "MP4",
+        "date": "2021-08-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 비록 한 경기밖에 치르지 않았지만 무려 디펜딩 챔피언 맨시티를 잡으며 기분 좋게 출발했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.303
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이대로라면 컨퍼런스 정도는 무난하게 우승하지 않겠누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.313,
+                "end": 10.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하 아무래도 스톤스가 결장하니까 디아스 혼자서는 저를 막아내기 역부족이더군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.148,
+                "end": 14.411
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이대로만 간다면 컨퍼런스는 물론 리그에서도 좋은 성적 기대해봐도 되겠는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.421,
+                "end": 18.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많은 사람들이 신입생 로메로가 결장한다면 누누의 수비 축구는 무리뉴의 수비 축구보다도 형편없을 거라지 않았누.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.410,
+                "end": 25.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 어떻게 됐누.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.104,
+                "end": 26.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "산체스와 다이어 즉 싼다 라인을 데리고 무실점.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.571,
+                "end": 29.866
+            }
+        ]
+    },
+    "summary": "토트넘은 아직 한 경기지만 맨시티를 잡으며 기분 좋게 출발했고 손흥민은 스톤스가 결장하니 디아스 혼자서 저를 막아내기엔 역부족이었다며 이대로 가면 리그에서 좋은 성적이 나올 수도 있겠다고 했고 로메로가 결장한다면 누누의 수비 축구는 형편없을 거라 했지만 산체스와 다이어를 데리고 무실점이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

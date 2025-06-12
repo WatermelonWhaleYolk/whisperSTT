@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_01158",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.072,
+        "format": "MP4",
+        "date": "2022-10-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 4쿼트 돌파 득점 이후 @이름1이 부상으로 빠지면서 @이름2와 호흡을 맞춘 첫 공식 경기는 패배로 끝났습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.391
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KC 유니폼 입고 뛰게 됐는데 그 좀 많이 아쉬운 점이 많이 남고 웅이가 오늘 패스 많이 빼줬는데 제가 못 받아 먹어 가지고 좀 웅이한테 좀 미안한 마음이죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.401,
+                "end": 16.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 DB에서 가스 공사를 거쳐 FE로 친정팀에 들어온 @이름3이 팀 내 최다 19득점으로 팀 승리를 이끌었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 16.781,
+                "end": 24.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가스 공사를 꺾은 현대 모비스 @이름4 감독은 4강에서 @이름5 LG 감독과 쌍둥이 감독 맞대결을 펼치게 됐습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 24.597,
+                "end": 32.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름6입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 32.741,
+                "end": 35.068
+            }
+        ]
+    },
+    "summary": "가스 공사를 꺾은 현대 모비스 @이름4 감독은 4강에서 @이름5 LG 감독과 쌍둥이 맞대결을 펼치게 됐다고 설명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01158_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

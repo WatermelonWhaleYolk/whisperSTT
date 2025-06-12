@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_04151",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.963,
+        "format": "MP4",
+        "date": "2020-05-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하 그게 그렇게 될 수가 있는지 뭔가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하 에이 됐다 무슨 소용이야 이제 와서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.771,
+                "end": 13.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 나도 더 이상 노력 따윈 하지 않을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.789,
+                "end": 19.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 이런 퀴퀴한 바닥에서 요딴 거지 같은 것만 처먹다 가는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.268,
+                "end": 25.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 술집 까지 말게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.593,
+                "end": 27.484
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "퇴직금 다 때려 박은 건데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.494,
+                "end": 29.963
+            }
+        ]
+    },
+    "summary": "손님은 이제 와서 무슨 소용이냐며 이제 더 이상 노력하며 살지 않겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04151_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_01206",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.503,
+        "format": "MP4",
+        "date": "2022-11-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예매 28분 만에 3000여 석 모두 매진 이어 지난 1일 수원에선 좀처럼 볼 수 없던 3층 좌석에 관중이 목격되는 등 좌석 점유율이 무려 97퍼센트를 기록했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김연경이 가는 곳마다 관중이 몰리는 복귀 효과가 홈과 원정 구분 없이 나타나고 있는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.083,
+                "end": 20.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘도 경기 전부터 몰려든 관중은 4000명을 훌쩍 넘겨 개막전 때보다 더 많은 4765명이 경기장을 찾았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.030,
+                "end": 30.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어제 시험이 끝나 가지고 많이 놀고 오늘은 연경 언니 보러 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.162,
+                "end": 36.503
+            }
+        ]
+    },
+    "summary": "김연경이 가는 곳마다 관중이 몰리는 복귀 효과가 나타나고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01206_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01206_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYP_03694",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.4,
+        "format": "MP4",
+        "date": "2021-10-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어이",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이거 너무 오래돼서 완전 갔는디 야 이참에 그냥 새로 하나 사지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.547,
+                "end": 19.191
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 고칠 수 있는 데까진 1번 고쳐줘 봐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.201,
+                "end": 22.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 카스파드 잘 있는겨?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.881,
+                "end": 29.230
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 으아 하아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.240,
+                "end": 33.400
+            }
+        ]
+    },
+    "summary": "오래돼서 상태가 안 좋으니 새로 사라 하는데 그래도 고칠 수 있는 데까진 고쳐달라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03694_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

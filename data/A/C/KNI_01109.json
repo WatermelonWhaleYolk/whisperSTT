@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_01109",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.627,
+        "format": "MP4",
+        "date": "2022-07-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여자 배구가 한 뼘 더 성장하기 위해선 남자와 큰 차이를 보이는 셀러리 캡 등 환경이 개선돼야 한다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수들이 더 좋은 대우를 받고 또 좋은 환경에서 배구를 한다고 하면은 너무 어 좋을 것 어 같고 또 앞으로도 그렇게 됐으면 하는 바람이 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.611,
+                "end": 20.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 시즌 만에 브이 리그로 돌아온 @이름1은 현대 건설 등 강팀들이 많아 쉽게 우승을 장담할 수 없다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.757,
+                "end": 27.627
+            }
+        ]
+    },
+    "summary": "여자 배구가 한 뼘 더 성장하기 위해선 남자와 큰 차이를 보이는 샐러리 캡 등 환경이 개선되어야 한다고 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01109_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

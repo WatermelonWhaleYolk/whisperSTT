@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "filename": "MYP_04273",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.128,
+        "format": "MP4",
+        "date": "2020-02-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3 전서구형",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 타입은 다수로 구성되어 있으며 매장의 크기가 큰 카페에서 발견할 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.634,
+                "end": 8.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "난 카페모카",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.350,
+                "end": 9.507
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 내가 받아갈께 윗층에 자리 좀 맡아줘.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.517,
+                "end": 12.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통 한 명이 대표로 주문을 하러 오는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.821,
+                "end": 16.327
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 모카 2잔이요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.337,
+                "end": 17.597
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이스로 드릴까요 따뜻하게 드릴까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.607,
+                "end": 20.301
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에고 그걸 안 물어 봤네요 아이 빨리 물어 보고 올게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.311,
+                "end": 24.125
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "천천히 다녀오세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.135,
+                "end": 25.901
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자기야",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.911,
+                "end": 28.128
+            }
+        ]
+    },
+    "summary": "전서구형 타입은 다수로 구성되어 있고 큰 카페에서 발견할 수 있는데 보통은 한 명이 주문하러 온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04273_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

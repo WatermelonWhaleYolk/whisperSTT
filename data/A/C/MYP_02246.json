@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_02246",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 55.4,
+        "format": "MP4",
+        "date": "2021-04-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 이름은 케빈 데 브라이너 aka @이름1 맨시티와 벨기에를 넘어 세계 최고의 미드필더 자리를 호시탐탐 노리고 있는 축신 지망생이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "축신 그러니까 축구의 신이라는 칭호는 호날두와 메시는 물론 예로부터 호나우두와 호나우지뉴, 마라도나와 펠레 등 공격수들이 주로 차지해왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.310,
+                "end": 15.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠머나 베켄바워 같은 프리롤 선수를 제외하고 정통 수비수 유일의 발롱도르 수상자 칸나바로나 골키퍼들의 골키퍼라 불리는 야신 역시도 축구의 신으로 불리지는 못했는데 아무래도 수많은 경기를 결정지었던 득점이 공격수의 발끝에서 나왔기 때문일 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.416,
+                "end": 29.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 공격수가 아닌 미드필더 중에서도 축구의 신 자리에 오른 사람이 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.010,
+                "end": 32.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그건 바로 마에스트로 지네딘 지단 내 꿈은 언젠가 지단을 따라잡고 새로운 미드필더 출신의 축신이 되는 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.470,
+                "end": 38.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 일단 사비나 이니에스타부터 넘고 오라고 그래 뭐 그것도 맞는 말이지만 손오공에게 계왕권이 있고 나루토에게 선인 모드가 있다면 나에게도 위대한 선배들을 뛰어넘을 숨겨진 각성 모드 레드페이스가 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.647,
+                "end": 50.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 롤 모델은 피카추 그럼 어디 세계 최고의 자리를 얻으러 떠나 볼까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.220,
+                "end": 55.400
+            }
+        ]
+    },
+    "summary": "남자는 세계 최고의 미드필더 자리를 호시탐탐 노리고 있는 축구의 신 지망생이라고 소개합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02246_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

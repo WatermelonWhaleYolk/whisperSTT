@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "MYP_03940",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.989,
+        "format": "MP4",
+        "date": "2021-01-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결국",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가스파드 찾으신 분?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.621,
+                "end": 2.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그가 날 면회를 왔다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.349,
+                "end": 5.136
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도넛 먹어라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.146,
+                "end": 6.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군인이 휴가 나와서 군인을 면회 오다니 산업 스파이여 뭐여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.483,
+                "end": 13.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 입대일을 맞추려던 두 청년은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.714,
+                "end": 16.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이야 결국 둘 다 병장이 되서야 만나네요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.826,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "결국 병장이 되어서 휴가 나와 주인공에게 면회 온 친한 형과 마주하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03940_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "KNI_01656",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 45.133,
+        "format": "MP4",
+        "date": "2019-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유벤투스와 케이리그 올스타 팀의 경기 표를 13만 원에 산 축구 팬 이 모 씨.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호날두의 경기 모습을 직접 보기 위해 거금을 썼지만 경기가 모두 끝난 후 분통만 터뜨려야 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.569,
+                "end": 13.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "호날두 사진을 불태우고 계시는 분도 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.010,
+                "end": 16.155
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피켓을 갈가리 찢고 계시는 것도 제가 봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.165,
+                "end": 19.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약속과 다른 결장 이른바 노쇼에 분노한 축구 팬들이 주최 측인 더 페스타를 상대로 집단 손해배상 소송에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.061,
+                "end": 28.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 법률 사무소의 소송단 모집에 사흘도 안 돼 2천 여명이 참여 의사를 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.204,
+                "end": 34.699
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "티켓을 보통 세네 장 많게는 10장까지 구매하신 분들이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.709,
+                "end": 38.982
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "50퍼센트에서 70퍼센트 정도의 티켓 금액을 환불 받으시면 어느 정도 만족하실 수 있을 거라 생각합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 38.992,
+                "end": 45.133
+            }
+        ]
+    },
+    "summary": "호날두의 경기 불참에 분노한 축구 팬들이 주최 측을 상대로 집단 손해배상 소송에 나섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01656_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00245",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.287,
+        "format": "MP4",
+        "date": "2023-04-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "황대헌은 나흘 전 1차 선발전에서 지독한 불운에 시달렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1000미터 경기에서 선두로 달리다 한 바퀴 남겨놓고 빙판에 걸려 넘어진 뒤 땅을 쳤습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.860,
+                "end": 11.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종합 순위 8위까지 밀려 일곱 명을 뽑는 국가대표 승선을 장담할 수 없게 된 황대헌 2차 선발전에서 멋지게 반전에 성공했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.701,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "황대헌은 국가대표 선발전 1차에 1000미터 경기에서 선두로 달리다 한 바퀴 남겨놓고 빙판에 걸려 넘어졌으나 2차 선발전에서 멋지게 반전에 성공했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00245_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 119
+                }
+            ]
+        }
+    ]
+}

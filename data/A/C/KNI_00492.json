@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "filename": "KNI_00492",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.116,
+        "format": "MP4",
+        "date": "2023-05-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 대표팀의 진호준은 결승에서 세계 랭킹 1위 영국의 브래들리 신든에게 아쉽게 졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자 68킬로그램급 이대훈의 후계자로 주목 받는 진호준은 처음 출전한 세계 선수권에서 은메달을 따냈습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.082,
+                "end": 16.116
+            }
+        ]
+    },
+    "summary": "이대훈의 후계자로 주목받는 진호준 선수가 처음 출전한 세계 태권도 선수권 대회에서 은메달을 땄다는 소식이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00492_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

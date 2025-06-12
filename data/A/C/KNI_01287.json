@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "KNI_01287",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 49.783,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 시소게임이 이어지던 4쿼터 막판 SK 김선형이 분위기를 바꿨습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김선형은 가로채기에 이은 속공으로 다시 승부를 뒤집었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.063,
+                "end": 9.245
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김선형이 날아올라서 리드를 가져옵니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.255,
+                "end": 13.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "골밑 돌파로 허일영의 득점까지 도와 SK의 1점차 승리를 이끌어냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.456,
+                "end": 19.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "21분만 뛴 김선형은 6득점에 그쳤지만 도움 7개 가로채기 4개로 빛났습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.447,
+                "end": 25.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 아반도는 경기 종료 4초 전 자유투 3개 중 1개를 놓쳐 동점을 만들지 못했고 선두 인삼공사는 1점 차 패배에 고개를 숙였습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 25.056,
+                "end": 33.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "DB는 두경민의 원맨쇼를 앞세워 한국가스공사를 제압했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 33.918,
+                "end": 38.594
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3점슛 9개 등 개인 통산 최다인 43득점을 집중시키는 인생 경기를 펼쳤습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 38.604,
+                "end": 44.922
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와이프가 제가 2득점 경기했다고 많이 죽었다고",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.932,
+                "end": 49.783
+            }
+        ]
+    },
+    "summary": "프로농구 SK가 인삼공사에 김선형이 4쿼터 막판 해결사로 나서면서 짜릿한 한 점차 승리를 거뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01287_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

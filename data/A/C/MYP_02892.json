@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "filename": "MYP_02892",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.1,
+        "format": "MP4",
+        "date": "2020-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 최전방에서 공을 잡은 손흥민.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노이어는 이미 골문을 비워놓은 채 멀리 나가있거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.660,
+                "end": 4.592
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 손흥민 선수 침착하게 마무리할 줄 아는 선수이기 때문에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.602,
+                "end": 7.373
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저기 박지성 오빠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.383,
+                "end": 8.658
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 어라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.668,
+                "end": 9.404
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "지성이 형.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.414,
+                "end": 10.162
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이 뭐 그때 정말 고마웠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.172,
+                "end": 11.740
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐 형님들 덕분에 그때 @이름1이랑 사귀기 시작해가지고 지금은 결혼까지 뭐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.750,
+                "end": 15.718
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "고마웠어요. 오빠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.728,
+                "end": 16.551
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "혹시라도 집 구하실 땐 어디?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.561,
+                "end": 18.068
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다 있다. 다방",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.078,
+                "end": 19.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그게 저는 직방을 쓰기 때문에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.193,
+                "end": 20.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민 슛 골 들어갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.827,
+                "end": 24.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국이 독일을 상대로 2대0 앞서 나갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.484,
+                "end": 27.415
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "박지성 선수 아니 2002년의 모든 영웅들 정말 고마웠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.425,
+                "end": 38.100
+            }
+        ]
+    },
+    "summary": "손흥민 선수의 경기 해설을 하면서 박지성 선수를 포함한 2002년 월드컵 선수들에 대한 감사 인사를 듣는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02892_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

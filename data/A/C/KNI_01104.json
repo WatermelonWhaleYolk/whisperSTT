@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01104",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.662,
+        "format": "MP4",
+        "date": "2022-07-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2년 전 트랩을 트레블 GS칼텍스는 지난 시즌 현대건설에게 단 1승도 못 건지고 1위를 내줬습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "낚시 훈련으로 선수들의 멘털을 강화하는 동시에 차 감독은 현대건설이란 월척을 낚는 법을 구상 중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.433,
+                "end": 15.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밤새 이제 어떻게 하면 선수들한테 이렇게 좀 좋은 효과적인 어떤 그런 훈련 프로그램을 있을까라고 이제 계속 이렇게 앉아서 고민을 막 하다가 정말 좋은 아이디어들을 제가 많이 어 만들어 냈던 것들이 있었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.394,
+                "end": 29.662
+            }
+        ]
+    },
+    "summary": "2년 전 트랩을 트레블 GS칼텍스는 지난 시즌 현대건설에게 단 1승도 못 건지고 1위를 내줬습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01104_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

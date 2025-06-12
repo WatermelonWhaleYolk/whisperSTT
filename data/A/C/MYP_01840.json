@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_01840",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.668,
+        "format": "MP4",
+        "date": "2021-10-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 감독님 우리 팀 후보들도 훌륭하긴 하지만 아무래도 전 대회를 우승하려면 추가 영입이 필요하지 않을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "캉테 말이 맞습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.350,
+                "end": 6.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "수비는 완벽에 가까울지라도 공격은 보강이 필요하다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.607,
+                "end": 9.478
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "공격 보강이라니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.488,
+                "end": 10.710
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 첼시는 공격도 완벽에 가깝다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.720,
+                "end": 13.290
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 그랬다가 제가 다치기라도 하면 어쩌시려고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.300,
+                "end": 15.922
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "다치지 않으면 되잖아 그게 어려워?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.932,
+                "end": 18.666
+            }
+        ]
+    },
+    "summary": "첼시 팀원들이 감독에게 우승을 위한 공격 추가 영입의 필요성을 얘기하자 감독은 공격이 완벽에 가까우니 추가 영입이 필요 없다며 다치지 않으면 된다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

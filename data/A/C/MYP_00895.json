@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_00895",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.866,
+        "format": "MP4",
+        "date": "2022-12-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자식들 하여간 눈치는 더럽게 빠르다니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 내 동생 흥민이에게 어시하지 못한 게 아쉽긴 하지만 목표는 달성했군",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.283,
+                "end": 5.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.652,
+                "end": 6.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 이제 그만 용서해 주고 싶다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.498,
+                "end": 8.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 됐어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.372,
+                "end": 9.302
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 호날두가 비록 어깨는 좁더라도 지난 일을 가지고 마음에 담아둘 만큼 속이 좁은 사람은 아니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.312,
+                "end": 13.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민 그리고 대한민국 내가 도와줄 수 있는 건 여기까지다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.009,
+                "end": 17.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 너희들의 투지와 열정이라면 브라질도 불가능한 상대는 아니지 않겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.597,
+                "end": 21.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 한번 높이높이 올라가 보라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.503,
+                "end": 23.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 호날두가 결승에서 기다리고 있을 테니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.644,
+                "end": 28.866
+            }
+        ]
+    },
+    "summary": "호날두 선수가 대한민국 선수들의 투지와 열정을 칭찬하며 우승 경기에서 보자며 남은 경기들을 격려하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00895_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

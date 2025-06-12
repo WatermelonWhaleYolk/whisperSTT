@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01121",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.187,
+        "format": "MP4",
+        "date": "2022-08-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고도를 기다리며를 인생 책으로 꼽은 그라운드의 철학자 @이름1 오늘도 묵묵히 자신의 몫을 다하며 고도를 기다리고 있습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고도를 기다리며 저는 그 고도가 희망이라고 생각을 합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 9.412,
+                "end": 13.191
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "희망을 가지고 최선을 다해서 좋은 모습 보여드릴 수 있도록 노력하겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 13.201,
+                "end": 19.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 19.368,
+                "end": 21.187
+            }
+        ]
+    },
+    "summary": "고도를 기다리며를 인생 책으로 꼽은 @이름1은 오늘도 묵묵히 자신의 몫을 다하며 고도를 기다리고 있으며 희망을 가지고 최선을 다해서 좋은 모습 보여드릴 수 있도록 노력하겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01121_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 58,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00316",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.018,
+        "format": "MP4",
+        "date": "2022-11-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월드컵 조별 리그 경기가 예정된 오는 24일과 28일 다음 달 3일 광화문 광장 거리 응원이 가능해졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울시는 광화문 광장 자문단 회의를 열고 붉은 악마가 된 광화문 광장 사용 신청을 조건부로 허가했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 9.287,
+                "end": 18.018
+            }
+        ]
+    },
+    "summary": "월드컵 조별 리그 경기가 예정된 오는 24일과 28일 다음 달 3일에는 광화문 광장 거리 응원이 가능해졌다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00316_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

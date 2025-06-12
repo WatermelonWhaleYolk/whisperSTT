@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_01384",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.294,
+        "format": "MP4",
+        "date": "2023-04-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "챔피언 결정전답게 경기장을 가득 채운 팬들의 열기가 뜨거웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.019
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한항공의 우승을 보기 위해 제주도에서 천안까지 왔다는 응원 문구도 눈에 띄었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.029,
+                "end": 12.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들은 멋진 플레이로 기대에 부응했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.549,
+                "end": 16.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현대 캐피탈 리베로 @이름1은 몸을 던지는 수비로 공을 건져냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.456,
+                "end": 21.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부상이 오래될 정도로 놀라운 투혼 2연패를 당한 현대 캐피탈을 깨우기에 충분했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.848,
+                "end": 28.294
+            }
+        ]
+    },
+    "summary": "챔피언 결정전답게 경기장을 가득 채운 팬들의 열기가 뜨거웠으며 부상이 오래될 정도로 놀라운 투혼 2연패를 당한 현대 캐피탈을 깨우기에 충분했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01384_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

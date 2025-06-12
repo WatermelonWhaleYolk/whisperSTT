@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00371",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.796,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 중에서도 지난 달 a매치 이후 대표팀 내 불화설이 터져나왔던 수비수 김민재를 달래는 게 가장 중요한 과제였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나폴리를 직접 찾은 클리스만 감독은 김민재와 식사하며 진솔한 대화를 나눴고 이제 많이 안정됐다고 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.276,
+                "end": 17.570
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.580,
+                "end": 29.796
+            }
+        ]
+    },
+    "summary": "불화설이 터져나왔던 김민재를 달래는 게 가장 중요한 과제였고 클리스만 감독은 나폴리를 직접 찾아 식사하며 진솔한 대화를 나눴다고 이제 많이 안정됐다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00371_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

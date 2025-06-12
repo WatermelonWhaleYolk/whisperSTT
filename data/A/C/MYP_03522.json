@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "MYP_03522",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.022,
+        "format": "MP4",
+        "date": "2022-05-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바로 2대를 연임하게 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.370
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 뭐 그럼 니가 회장 또 해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.380,
+                "end": 4.898
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "변화보단 안정이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.908,
+                "end": 6.585
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "윗대가리가 설치면 아래가 피곤해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.595,
+                "end": 9.523
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "이 우매한 프롤레타리아 놈들 귀 얇기가 뭔 미농지여.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.533,
+                "end": 16.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이때 발생한 급속 탄핵 문화로 인해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.991,
+                "end": 21.065
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.075,
+                "end": 22.022
+            }
+        ]
+    },
+    "summary": "귀 얇기가 미농지인 우매한 프롤레타리아 놈들 때문에 바로 다시 2대를 연임하게 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03522_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

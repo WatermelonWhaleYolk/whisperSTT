@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_03248",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.688,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 최근에 한 게 진짜 오래됐네요 벌써.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도로헤도로에서 카이만 도로에서 녹음을 시도 해봤구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.595,
+                "end": 6.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 또 헬루바 보스라는 미국 카툰 애니메이션 거기에서 그 올빼미 캐릭터인 스톨라스 그거 말고는 대체로는 게임 트레일러입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.699,
+                "end": 20.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.213,
+                "end": 21.688
+            }
+        ]
+    },
+    "summary": "더빙하는 팀의 남성들이 자기소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03248_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

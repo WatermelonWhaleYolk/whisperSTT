@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_01977",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.7,
+        "format": "MP4",
+        "date": "2021-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "루카쿠 그는 이태리에서 제다이 마스터라 불리는 콘테를 만났습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 콘테라면 안토니오 콘테를 말하는 것이냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.785,
+                "end": 8.025
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇사옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.035,
+                "end": 9.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그가 루카쿠의 숨겨진 포스를 깨우치게 해준 장본인이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.141,
+                "end": 13.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇단 말이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.333,
+                "end": 14.391
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 숨겨진 힘을 개방하는 비법이 뭐라 하던가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.401,
+                "end": 17.718
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "등지고 딱딱",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.728,
+                "end": 18.774
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 콘테 당신이 어떻게 여길.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.784,
+                "end": 21.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 부족을 살리기 위해 직접 모셔왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.358,
+                "end": 24.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 믿지 못 하신다 해도 콘테 님은 믿을 수 있으시겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.315,
+                "end": 29.700
+            }
+        ]
+    },
+    "summary": "루카쿠는 이태리에서 제다이 마스터라 불리는 안토니오 콘테를 만났는데 루카쿠의 숨겨진 힘을 깨우치게 해준 장본인이고 부족을 살리기 위해 콘테를 직접 모셔왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01977_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

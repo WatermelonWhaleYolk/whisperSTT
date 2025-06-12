@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "filename": "MYP_03306",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.454,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비교적 저렴하며 다양한 인연을 맺을 수 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.816
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "냉장고에 내 김치 니가 처먹었냐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.826,
+                "end": 6.049
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하 김치는 한국인의 것이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.059,
+                "end": 8.211
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 똥 나오려 해 빨리 열어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.221,
+                "end": 10.777
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "크하하하 내 똥은 이미 나오고 있다",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.787,
+                "end": 14.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 이런 버팔로 같은 새끼들",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.208,
+                "end": 17.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리도 마찬가지로 이 쉐어룸을 구하러 다녔는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.269,
+                "end": 21.454
+            }
+        ]
+    },
+    "summary": "우리는 비교적 저렴하며 다양한 인연을 맺을 수 있는 쉐어룸을 구하러 다녔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03306_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

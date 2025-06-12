@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01993",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.818,
+        "format": "MP4",
+        "date": "2020-11-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방을 빼는 거군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.576
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KT 두산 선수들도 이제 중립 구장인 실내 고척돔에서 이제 치르는 플레이오프가 낯설기만 한데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.586,
+                "end": 7.491
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 실내 고척돔 적응을 누가 빨리하느냐가 이제 이번 플레이오프 관건으로 떠올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.501,
+                "end": 12.509
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 두산과 KT의 대표 선수죠. 오재원 황재균 선수 인터뷰 들어보시겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.519,
+                "end": 18.818
+            }
+        ]
+    },
+    "summary": "두산과 KT의 이번 플레이오프는 실내 고척돔 적응을 누가 빨리하느냐가 관건으로 떠올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01993_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

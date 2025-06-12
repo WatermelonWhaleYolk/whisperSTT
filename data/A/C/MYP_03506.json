@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYP_03506",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.855,
+        "format": "MP4",
+        "date": "2022-06-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.989
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 기념으로 인생 마지막 경기 찍어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.999,
+                "end": 4.265
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 홈런 처맞을 수 있잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.275,
+                "end": 8.168
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "초구 쳤다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.178,
+                "end": 11.347
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 1루 쪽으로 파울 파울 2구",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.357,
+                "end": 17.052
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "크으윽",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.062,
+                "end": 18.747
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "볼 볼 뱃은 돌지 않았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.757,
+                "end": 21.855
+            }
+        ]
+    },
+    "summary": "홈런 처맞을 수 있으니 기념으로 인생 마지막 경기를 찍는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03506_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

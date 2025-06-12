@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_03204",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.101,
+        "format": "MP4",
+        "date": "2023-05-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "피치 공주 결국 마지막에 나의 내 것으로 만들거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피치 피치 피치 피치 피치 피치 피치 피치 피치 피치 사랑해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.697,
+                "end": 20.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피치 피치 피치 사랑 앞에선 거친 남자도 로맨틱해 지네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.655,
+                "end": 35.101
+            }
+        ]
+    },
+    "summary": "그는 거친 남자이나 피치를 향한 사랑 앞에서는 로맨틱해 지고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03204_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

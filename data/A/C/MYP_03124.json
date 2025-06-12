@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYP_03124",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 25.558,
+        "format": "MP4",
+        "date": "2023-07-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쉽사리 포기할 기미가 보이지 않는다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마냥 멍청한 년인줄 알았건만 이리도 날 귀찮게 할 줄이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.507,
+                "end": 6.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 마왕이라는 정체를 들키지 않으려면 혼자가 편할텐데",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.676,
+                "end": 10.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게든 떼어내야 한다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.612,
+                "end": 12.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 이 세실아 니가 정 그렇다면 내 부하가 되는 걸 허락해 주마.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 12.566,
+                "end": 16.772
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어머나 벌써 말을 놓으시는 저 박력",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.782,
+                "end": 19.683
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시끄럽고 이제부터는 내가 시키는 일에는 무조건 따라야 한다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 19.693,
+                "end": 22.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 22.825,
+                "end": 23.683
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여부가 있겠나요?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 23.693,
+                "end": 25.558
+            }
+        ]
+    },
+    "summary": "용사의 몸 안에 있는 마왕은 정체를 들키지 않기 위해서 세실에게 부하가 되는 걸 허락하는 척하며 자신의 말에 무조건 따라야 한다고 당부했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03124_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

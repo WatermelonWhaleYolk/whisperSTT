@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "filename": "MYP_01094",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.035,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 성격이 지랄 맞대 팀이 이런 걸 어쩔 건데 루카쿠는 빤스런 스털링은 홈런 하나 확실한 건 가봉맨 병신 첼신 참 별나고 이상한 팀이야 선수는 형편없고 형편없고 구단주도 별로야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 22.033
+            }
+        ]
+    },
+    "summary": "팀에서 루카쿠 스털링 가봉맨이 형편없고 구단주와 첼시는 이상하고 별난 팀이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01094_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

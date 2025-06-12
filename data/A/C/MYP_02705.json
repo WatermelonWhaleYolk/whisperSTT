@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_02705",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.433,
+        "format": "MP4",
+        "date": "2020-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1 투표 끝 히샬리송이 마피아로 지목되었다 히샬리송 최후의 별론",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.418
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 코가 크다고 마피아라는 건 도대체 뭔 개소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.428,
+                "end": 7.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "살릴 것인가 죽일 것인가 3 2 1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.328,
+                "end": 11.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선량한 시민 히샬리송이 죽었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.422,
+                "end": 13.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 첫 번째 밤이 되었다 마피아는 죽일 사람을 지목",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.728,
+                "end": 17.433
+            }
+        ]
+    },
+    "summary": "히샬리송이 코가 크다고 마피아라는 건 뭔 개소리냐고 하는데 히샬리송은 선량한 시민이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

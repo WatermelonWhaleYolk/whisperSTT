@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYP_04074",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.191,
+        "format": "MP4",
+        "date": "2020-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어디 갔지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.679
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "13년간에 독재를 하면서 이제는 의원님의 존재 마저 지우려고 하는군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.689,
+                "end": 6.016
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "의원님께서 그때 대통령이 되셨어야 이런 일이 없었을 텐데 말입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.026,
+                "end": 11.037
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "헤 그 때의 일은 이 몸이 부족해서 벌어진 일이요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.047,
+                "end": 15.495
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나도 결코 깨끗하지만은 않소.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.505,
+                "end": 17.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 의원님 지지자들 중에서도 분명히 부정 선거를 저지른 자리도 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.923,
+                "end": 25.191
+            }
+        ]
+    },
+    "summary": "독재자들이 의원님의 존재를 지우려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04074_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

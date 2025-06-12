@@ -1,0 +1,188 @@
+{
+    "metadata": {
+        "filename": "MYP_01299",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 42.8,
+        "format": "MP4",
+        "date": "2022-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 설마 파란색 유니폼을 좋아한다거나 그런 이유기만 해봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.469
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 정도로 간단한 게 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.479,
+                "end": 5.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첫 번째 이유는 제가 인테르의 골수팬이란 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.316,
+                "end": 7.995
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수가 되기 전부터 인테르를 응원해왔고 이젠 인테르의 선수로서 우승을 경험한 인테르 그 자체인데 어떻게 이적을 하겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.005,
+                "end": 15.511
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너가 인테르를 좋아하는 만큼 인테르는 널 좋아하지 않는 것 같은데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.521,
+                "end": 18.895
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그게 무슨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.905,
+                "end": 19.994
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "구단이 제정적으로 힘들긴 하다지만 정말 아끼는 선수였다면 널 팔려고 하겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.004,
+                "end": 24.085
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "듣고 보니 그렇긴 하네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.095,
+                "end": 25.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면에 우리 토트넘은 아끼는 선수를 절대 팔지 않아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.396,
+                "end": 28.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 난 내가 직접 이적하겠다고 요청했음에도 절대 팔지 않았을 만큼 선수를 아끼는 구단이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.534,
+                "end": 33.973
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 예전에 베일이나 모드리치는.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.983,
+                "end": 36.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 케인만큼 아끼지 않았던 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.107,
+                "end": 37.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 실력이 뒷받침 되어야 하겠지만 한번 입단하면 죽을 때까지 뛰어야 하는 클럽.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.908,
+                "end": 42.800
+            }
+        ]
+    },
+    "summary": "토트넘에 오면 죽을 때까지 뛸 수 있도며 토트넘은 절대 아끼는 선수를 팔지 않는다고 설득하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01299_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00241",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기쁨의 눈물이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "디비전 승격을 해서 윗 디비전에서 한 번 뛰어보고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.119,
+                "end": 9.571
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자 아이스하키는 평창 이후 공격수 이은지와 골리 허은비 등 신예들의 가세로 신구조화가 이루어졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.581,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "여자 아이스하키는 평창 이후 공격수 이은지와 골리 허은비 등 신예들의 가세로 신구조화가 이루어졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00241_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

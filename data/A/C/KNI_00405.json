@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "KNI_00405",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.266,
+        "format": "MP4",
+        "date": "2023-05-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아빠가 평소에 일이 많아서 자주 못 있는데 어린이날이어서 같이 놀이동산 오니까 기분이 좋아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하늘은 흐리고 비도 내렸지만 어린이들은 우산 대신 각양각색의 머리띠를 쓰고 실내 공연과 놀이기구를 즐겼습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.927,
+                "end": 16.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "붐비는 놀이공원 대신 박물관에도 발길이 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.394,
+                "end": 20.415
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰 꿈나무들을 위해 다양한 체험 행사가 열렸습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.425,
+                "end": 24.291
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "순찰차도 처음 타보고",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.301,
+                "end": 26.339
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.349,
+                "end": 27.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "테이저 건을 쏘는 경찰 아저씨를 구경하면서 놀란 입을 다물지 못합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.728,
+                "end": 33.266
+            }
+        ]
+    },
+    "summary": "어린이날에 비가 내렸지만 아이들은 실내 공연과 놀이기구를 즐겼으며 다양한 체험 행사도 열렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00405_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 13,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00405_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYP_04229",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.428,
+        "format": "MP4",
+        "date": "2020-03-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 개인적으로 스피드를 즐기지 않는다 하지만 부득이하기에 스피드가 필요한 순간도 있는 법",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.407
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 너 다 제치고 저기 체육관 배달 먼저 가야겠다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.417,
+                "end": 10.301
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 거긴 아직 멀었는데요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.311,
+                "end": 12.403
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이종격투기팀 회식인데 음식이",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.413,
+                "end": 15.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 이야기는 광석의 사내들",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 15.809,
+                "end": 23.423
+            }
+        ]
+    },
+    "summary": "나는 개인적으로 스피드를 즐기지 않지만 부득이하기에 스피드가 필요한 순간도 있는 법이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04229_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

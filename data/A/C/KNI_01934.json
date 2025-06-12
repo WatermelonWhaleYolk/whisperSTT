@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01934",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2021-10-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빙상 경기 연맹은 조사 위원회를 꾸려 당시 사건을 들여다보기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 심석희를 당분간 대표팀에서 분리시키고 월드컵 출전도 보류했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.928,
+                "end": 11.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 대해 심석희는 당시 @이름1 코치에게 폭행을 당해 정신적으로 불안한 상태였다면서 올림픽 결승에서 고의로 넘어지거나 동료를 넘어뜨린 건 사실이 아니라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.348,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "빙상 경기 연맹은 심석희 선수 관련 의혹에 대해 조사 위원회를 꾸려 사건을 확인하는 동안 심석희 선수를 대표팀에서 분리시키고 월드컵 출전도 보류하기로 했는데 이에 심석희 선수는 당시 코치에게 폭행을 당해 정신이 불안 상태였다며 의혹을 부인했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01934_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 91
+                }
+            ]
+        }
+    ]
+}

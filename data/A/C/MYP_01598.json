@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_01598",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.7,
+        "format": "MP4",
+        "date": "2022-01-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 애초에 베르너한텐 기대도 안 했지만 루카쿠는 언제까지 그럴 건데 내가 잔소리를 멈추면 골을 넣어 줄 텐가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.023
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감독님을 바꿔주신다면 골을 넣어 드리죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.033,
+                "end": 9.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.611,
+                "end": 10.356
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다들 아시다시피 저는 인테르 시절 콘테 감독님 밑에서 괴물 공격수로 자라났습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.366,
+                "end": 15.341
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첼시에 와서 뛰어 보니 역시 저에겐 콘테 감독님이 필요하더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.351,
+                "end": 19.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토트넘에서 널 데려가려면 그나마 케인과의 스왑딜이 유력할 텐데 토트넘이 미쳤다고 바꿔 주겠나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.331,
+                "end": 24.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수가 아니라 감독 스왑딜을 말하는 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.943,
+                "end": 27.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 뭔 개 소리야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.656,
+                "end": 29.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토트넘이 다른 건 몰라도 공격만큼은 화려하지 않습니까 케인과 손흥민 그리고 그 이름이 뭐였더라 베르나르 베르베르였던가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.017,
+                "end": 36.700
+            }
+        ]
+    },
+    "summary": "베르너는 감독 스왑딜을 제안하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01598_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

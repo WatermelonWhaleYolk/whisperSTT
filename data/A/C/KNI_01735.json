@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01735",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.9,
+        "format": "MP4",
+        "date": "2018-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "운명의 4강전 상대는 예선에서 우리나라에 9대 2 패배를 안겼던 노르웨이 우리 대표팀은 후공을 잡은 1엔드에서 오히려 먼저 1점을 내주며 출발이 좋지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 감독은 3엔드 종료 후 컨디션이 좋지 않은 차재관을 빼고 이동하를 투입하는 승부수를 던졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.925,
+                "end": 20.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이동하의 연이은 활약 속에 우리 대표팀은 승부에 균형을 맞추며 분위기 반전에 성공했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.835,
+                "end": 26.900
+            }
+        ]
+    },
+    "summary": "우리 컬링 대표팀은 노르웨이에 맞선 경기에서 1엔드에서 불안한 출발을 보였으나 차재관을 이동하로 교체 투입하면서 승부의 균형이 맞춰지기 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01735_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

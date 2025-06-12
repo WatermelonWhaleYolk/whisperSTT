@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00739",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.989,
+        "format": "MP4",
+        "date": "2023-02-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "6월 말까지 뛰고 원 소속 팀 노팅엄으로 복귀할 예정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.924
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6년 만에 K리그로 돌아온 황의조 FC서울 훈련장에서 선수들과 만났는데 복귀 소감 한번 들어보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.934,
+                "end": 11.408
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "짧지만 그래도 6개월 동안 최선을 다해서 열심히 할 테니까 많이 도와주셨으면 좋겠고 그리고 팀에 정말 도움이 될 수 있도록 열심히 하겠습니다. 감사합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.418,
+                "end": 22.989
+            }
+        ]
+    },
+    "summary": "6년 만에 K리그로 돌아온 황의조 선수는 6월 말까지 뛰고 원 소속 팀 노팅엄으로 복귀할 예정입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00739_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

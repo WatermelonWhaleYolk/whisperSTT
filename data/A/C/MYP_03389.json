@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "MYP_03389",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.229,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에잇 거 애들 상대로 초구부터 냅다 던질 수 없잖아 쳐 보라고 살짝 던져준 거지 아 글고 파울인데 그리 심각할 건 없잖소 크하하하하 오늘 재밌다 재밌어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 15.401
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 그래",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.411,
+                "end": 17.217
+            }
+        ]
+    },
+    "summary": "내가 애들 상대로 냅다 던질 수 없어서 살짝 던져준 거고 파울인데 심각할 건 없잖아요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03389_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

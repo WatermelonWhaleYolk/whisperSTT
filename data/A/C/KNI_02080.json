@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02080",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.866,
+        "format": "MP4",
+        "date": "2018-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 웨이트나 또는 육상 훈련 어떤 파워적인 면을 최대한 끌어서 홈 트랙 이점과 동시에 스타트를 보완한다면 원하는 성적이 나오지 않을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤성빈은 오는 11일까지 체력 훈련을 마친 뒤 이곳 평창 슬라이딩 센터에서 사상 첫 금메달을 향한 마지막 주행 연습에 돌입합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.792,
+                "end": 19.099
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.109,
+                "end": 21.866
+            }
+        ]
+    },
+    "summary": "윤성빈은 오는 11일까지 체력 훈련을 마친 뒤 평창 슬라이딩 센터에서 마지막 주행 연습에 돌입합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

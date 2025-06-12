@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "KNI_02282",
+        "category": "스포츠뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.8,
+        "format": "MP4",
+        "date": "2016-01-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다리를 펴면 한 바퀴당 0.2점의 더 높은 점수를 받을 수 있어 최대 2점의 고득점을 목표로 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리드믹 스텝에도 승부수를 띄웠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.111,
+                "end": 10.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수구와 동작 그리고 음악의 3박자가 어우러져 다채로운 느낌을 전달했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.935,
+                "end": 16.852
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "리드믹 스텝은 0.3점뿐이 되지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.862,
+                "end": 19.883
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 이것이 음악과 조화를 못 이루었을 때에는 그것을 점수를 받을 수가 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.893,
+                "end": 26.068
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 이제 연재 같은 경우는 아주 잘 조화를 이룬 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.078,
+                "end": 30.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손연재는 다음달부터 10 차례 이상의 국제 대회에 참가해 리우 올림픽까지 실전 감각을 끌어올릴 예정입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.483,
+                "end": 38.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.287,
+                "end": 41.800
+            }
+        ]
+    },
+    "summary": "다리를 펴면 한 바퀴당 높은 점수를 받을 수 있고 고득점이 가능하기 때문에 사용하고 리드믹 스텝도 음악과 조화를 이루지 못하면 필요가 없지만 손연재는 다채롭게 잘 살려 다음달부터 10 차례 이상의 국제 대회에 참가해 실전감각을 끌어올릴 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02282_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 44,
+                    "act": 116
+                }
+            ]
+        }
+    ]
+}

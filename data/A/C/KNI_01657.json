@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_01657",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.8,
+        "format": "MP4",
+        "date": "2019-08-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유벤투스 구단은 프로축구 연맹이 보냈던 항의서안에 @이름1 회장 명의로 답신을 보냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유벤투스는 무책임하고 거만했다는 연맹의 비판을 받아들일 수 없다면서 호날두의 결장은 휴식을 취해야 한다는 의무진의 의견에 따른 것이었다고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.005,
+                "end": 15.845
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사상 초유의 지각 사태에 대해서도 한국 경찰이 에스코트를 제공하지 않았다며 책임을 전가했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.855,
+                "end": 22.907
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 연맹이 계약 위반이라 주장하는 사항들에 대해서는 법적 대응에 나설 것이라 덧붙였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.917,
+                "end": 28.800
+            }
+        ]
+    },
+    "summary": "유벤투스 구단은 프로축구 연맹이 보낸 항의서안에 @이름1 회장 명의로 답신을 보냈는데 호날두의 결장은 의무진의 의견의 따른 것이고 지각 사태에 대해서도 한국 경찰이 에스코트를 제공하지 않았다며 책임을 전가했우야 계약 위반이라 주장하는 사항들에 대해 법적 대응에 나설것이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01657_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 5,
+                    "act": 38
+                }
+            ]
+        }
+    ]
+}

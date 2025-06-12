@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_02626",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.2,
+        "format": "MP4",
+        "date": "2020-11-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "짐이 머지 않아 케인과 함께 40골을 합작할 것이니 그대들은 SK 듀오만 믿고 패스에만 집중하면 되는 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 폐하 하지만 저는 LG이옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.848,
+                "end": 10.066
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이런 미련한 자를 보았나 그 SK가 아니라 손흥민과 케인의 SK를 말씀하시는 것도 모르냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.076,
+                "end": 15.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "폐하 제가 이놈을 철퇴로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.635,
+                "end": 17.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 루카스와 모우라와 가리스 베일의 LG 말이오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.424,
+                "end": 20.168
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래 그래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.178,
+                "end": 20.766
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "LG도 언젠간 SK만큼 잘해줘야 우리가 우승을 할 수 있는 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.776,
+                "end": 24.325
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하이고 듣자 듣자 하니 진짜 못 들어주겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.335,
+                "end": 26.714
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "빤스 손뽕이냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.724,
+                "end": 28.104
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐만 했다하면 손흥민, 손흥민 참나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.114,
+                "end": 30.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누구인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.082,
+                "end": 31.200
+            }
+        ]
+    },
+    "summary": "손흥민과 케인 듀오가 40골을 할 수 있도록 잘 도와달라고 하고 있고 베일은 그 옆에서 궁시렁 거리고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02626_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 11,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

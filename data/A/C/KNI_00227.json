@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00227",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.857,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차분하게 활 시위를 당기는 임시현.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모자에 캐릭터 장식을 달고 올림픽만큼 치열한 국가대표 양궁 선발전에 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.463,
+                "end": 9.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선물받은 건데 너무 귀여워서 달았고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.686,
+                "end": 14.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2003년 생 만 열아홉 살 임시현이 국가대표 평가전 최종 1위로 상위 네 명에게 주어지는 항저우 아시안게임 출전권을 따냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.344,
+                "end": 23.857
+            }
+        ]
+    },
+    "summary": "국가대표 양궁 선발전에 나선 임시현은 최종 1위로 상위 네 명에게 주어지는 항저우 아시안게임 출전권을 따냈습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00227_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

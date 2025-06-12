@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_02153",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.466,
+        "format": "MP4",
+        "date": "2017-01-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "은빛 설원 위를 시원하게 내달립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전국에서 모인 바이애슬론 선수들로 동계 훈련에 참가한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.016,
+                "end": 7.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올림픽 개최지인 평창은 동계종목경기장을 갖추고 있는 데다 각종 대회까지 열리면서 훈련지로 인기가 높습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.670,
+                "end": 16.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올 겨울에만 크로스컨트리와 바이애슬론 등 동계 종목에서 500여 명의 선수가 찾았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.580,
+                "end": 23.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 대한민국의 유일한 바이애슬론 경기장이기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.300,
+                "end": 27.466
+            }
+        ]
+    },
+    "summary": "올림픽 개최지인 평창은 동계종목경기장을 갖추고 있으며 각종 대회까지 열리며 훈련지로 인기가 높고 올 겨울에만 크로스컨트리와 바이애슬론 등 동계 종목에서 500여 명의 선수가 찾았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

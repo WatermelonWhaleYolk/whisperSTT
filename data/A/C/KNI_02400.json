@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_02400",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.466,
+        "format": "MP4",
+        "date": "2015-08-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "10만 관중이 운집한 평양 5월 1일 경기장에서 벌어진 결승전에선 북 선수끼리 맞붙어 425 체육단이 우승을 차지했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 선수단은 경기도 팀이 5위 강원도 팀이 6위를 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.816,
+                "end": 13.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북남 간의 군사적 긴장 상황 속에서 아주 평화롭게 잘 진행됐다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.950,
+                "end": 18.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이것이 아주 큰 기쁨과",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.525,
+                "end": 21.466
+            }
+        ]
+    },
+    "summary": "평양 경기장에서 벌어진 유소년 국제 대회에서 우리 선수단들은 5위와 6위를 했으며 평화롭게 잘 진행됐다고 평가됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

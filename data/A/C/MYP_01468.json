@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "MYP_01468",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.7,
+        "format": "MP4",
+        "date": "2022-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 계약을 비밀로 하라뇨?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "솔직히 수많은 빅클럽과의 경쟁에서 이기신 건데 동네방네 자랑하셔야 하는 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.448,
+                "end": 5.303
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자랑은 무슨 자랑이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.313,
+                "end": 6.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 너를 영입했다는 사실이 알려진다면 다른 팀들은 새로운 매물을 찾기 시작할 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.735,
+                "end": 10.681
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "챔스 우승을 노리는 우리에게 레알이나 바르샤의 보강은 있어선 안 될 일.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.691,
+                "end": 14.517
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "홀란도르 자넨 여름 이적 시장이 닫히기 직전까지 다른 팀들의 제안을 들어주면서 시간을 끌어라. 말라이쿰",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.527,
+                "end": 20.700
+            }
+        ]
+    },
+    "summary": "만수르는 챔스 우승을 노리기 때문에 레알이나 바르샤에게 보강이 있으면 안 되니까 홀란드가 영입된 걸 알면 새로운 매물을 찾지 못하게 여름 이적 시장이 닫히기 직전까지 다른 팀들의 제안을 들면서 시간을 끌라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01468_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

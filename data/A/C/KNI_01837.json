@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_01837",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.798,
+        "format": "MP4",
+        "date": "2022-10-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우상혁의 점프를 눈앞에서 보기 위해 수많은 팬들이 관중석을 가득 매웠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관중들의 박수를 유도하며 힘찬 함성과 함께 도약에 나선 우상혁",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.229,
+                "end": 11.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2미터 15를 가뿐히 뛰어넘자 주먹을 불끈 쥐며 포효합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.824,
+                "end": 16.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "발목 통증 탓에 2미터 20은 넘지 못한 가운데 우상혁은 자신의 올 시즌 최고 기록 2미터 36에 한참 못 미친 2미터 15의 기록으로 전국 체전 통산 7번째 금메달을 목에 걸었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 16.978,
+                "end": 31.798
+            }
+        ]
+    },
+    "summary": "2미터 15를 가뿐히 뛰어넘은 우상혁은 발목 통증 탓에 자신의 올 시즌 최고 기록에는 못 미치는 2미터 15의 기록으로 전국 체전 7번째 금메달을 목에 걸었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01837_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 37
+                }
+            ]
+        }
+    ]
+}

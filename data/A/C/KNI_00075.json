@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_00075",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.192,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 운영 능력이 뛰어난 맏형 곽윤기 등 동료들과 함께 후회 없는 마지막 질주를 다짐했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.321
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희가 한마음 한뜻으로 준비했던 것들을 모두 보여줄 수 있는 그런 무대가 됐으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.331,
+                "end": 14.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자 대표팀은 2006년 토리노 대회 이후 무려 16년 만에 계주 정상 탈환을 노리고 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.617,
+                "end": 21.778
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베이징에서 KBS 뉴스 김기범입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.788,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "남자 대표팀은 후회없는 마지막 질주를 다짐하고 준비했던 것들을 모두 보여줄 수 있는 무대가 됐으면 좋겠다며 16년 만에 계주 정상 탈환을 노리고 있다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00075_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00075_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

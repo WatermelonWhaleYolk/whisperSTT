@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_04037",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.127,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "살아 숨 쉬는 생물뿐만 아니라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가스파드 이제 집에 가야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.816,
+                "end": 4.202
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이젠 안 갑갑하겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.212,
+                "end": 6.406
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크레이터 우리 지구 망하나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.416,
+                "end": 9.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "온갖 무생물들에게도 동등히 적용되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.840,
+                "end": 13.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 나는 모래밭에서 다양한 녀석들을 구조해 왔지만 차마 손을 쓸 수 없었던 금단의 영역도 존재했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.944,
+                "end": 27.127
+            }
+        ]
+    },
+    "summary": "가스파드가 땅을 파서 온갖 생물들을 묻어 주었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04037_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

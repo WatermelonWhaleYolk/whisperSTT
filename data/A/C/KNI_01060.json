@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01060",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.466,
+        "format": "MP4",
+        "date": "2022-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마치 형 같은 친근한 리더십을 바탕으로 부임 첫해 컵대회 정규리그 플레이오프 우승까지 달성한 전 감독",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물음표였던 감독이지만 이제는 그 물음표를 살짝 지운 느낌을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.422,
+                "end": 12.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현역 시절 화려한 고공 농구를 선보였던 에어본 전 감독이 연출하는 SK의 전성시대는 이제부터 시작입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.238,
+                "end": 20.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.189,
+                "end": 23.456
+            }
+        ]
+    },
+    "summary": "친근한 리더십을 바탕으로 부임 첫해 컵대회 정규리그 플레이오프 우승까지 달성한 전 감독이 연출하는 SK의 전성시대는 이제부터 시작이라고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01060_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

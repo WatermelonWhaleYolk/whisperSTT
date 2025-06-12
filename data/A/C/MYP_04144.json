@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_04144",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.151,
+        "format": "MP4",
+        "date": "2020-05-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아아아아아아아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.757
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어서 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.767,
+                "end": 7.632
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.642,
+                "end": 8.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 무파니 아니세요 어서 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.943,
+                "end": 12.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 일로 오셨어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.112,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "무파니가 가게 안으로 들어와서 인사를 하자 직원이 무슨 일로 오셨냐고 물어 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04144_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

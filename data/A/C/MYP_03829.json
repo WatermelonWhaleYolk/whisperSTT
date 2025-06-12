@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYP_03829",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.692,
+        "format": "MP4",
+        "date": "2021-04-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "응?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시선이 느껴지면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.523,
+                "end": 1.215
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "귀신 같이 시치미를 떼었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.225,
+                "end": 3.894
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "봤구나 닝겐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.904,
+                "end": 6.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭘 그걸 숨겨. 니가 원 토이스토리여?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.125,
+                "end": 10.619
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 이렇게도 재주꾼이었던 해리는 사실 지금은 세상에 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.629,
+                "end": 17.512
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어느 날 일광욕을 위해 어항을 창가에 내놓았었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.522,
+                "end": 23.975
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "햇빛 쬐고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.985,
+                "end": 25.692
+            }
+        ]
+    },
+    "summary": "자기가 키우는 거북이가 평소에 재주가 많았지만 지금은 이 세상에 없는 존재이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03829_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

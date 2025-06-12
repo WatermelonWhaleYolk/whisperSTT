@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01262",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.462,
+        "format": "MP4",
+        "date": "2022-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2002 년 우승팀 주장 브라질 카푸의 메시지가 2022 년 16 강 진출을 바라는 한국 캡틴 손흥민에게 힘을 불어넣어 주고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도하에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.185,
+                "end": 13.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그런가 하면 포루투갈에 패한 가나는 16 강 진출을 위해 남은 경기에 총력전을 다하겠다고 예고했는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.884,
+                "end": 22.174
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 가나팀 감독은 한국과의 2 차전을 이기고 16 강에 오르겠다고 자신감을 내비쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.184,
+                "end": 28.417
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 기자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.427,
+                "end": 29.462
+            }
+        ]
+    },
+    "summary": "포루투갈에 패한 가나팀의 감독은 한국과의 2 차전을 이기고 16 강에 오르겠다고 자신감을 내비쳤다고 앵커는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01262_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

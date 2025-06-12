@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03498",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.571,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 맘 놓고 던져 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "150킬로대는 무리지만 그 이하는 충분히 따라갈 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.069,
+                "end": 6.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고교 땐 @이름1 선배 공도 잡아봤습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.042,
+                "end": 8.374
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으응 이글스 @이름1",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.384,
+                "end": 11.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 같은 학교 1년 선배였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.611,
+                "end": 13.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나이는 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.570,
+                "end": 14.648
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 싸가지 새끼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.658,
+                "end": 16.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아아닛 어떻게 개싸가지인 걸 아시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.398,
+                "end": 18.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "완전 잡놈이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.787,
+                "end": 20.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "개잡놈이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.052,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "150킬로대는 무리지만 그 이하는 충분히 따라갈 수 있고 고교 땐 @이름1 선배 공도 잡아봤으니 맘 놓고 던져 주세요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03498_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

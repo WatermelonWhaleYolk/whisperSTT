@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "filename": "MYP_02206",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 43.733,
+        "format": "MP4",
+        "date": "2021-05-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 다들 모여 봐라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 유로파 결승전에서 우리가 아쉽게 준우승에 머물렀지만 2위도 잘한 거니 너무 실망하지 말도록",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.963,
+                "end": 6.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그러니까 왜 마샬을 안 쓰신 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.120,
+                "end": 9.072
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 점쟁이가 마샬 어쩌고 했었잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.082,
+                "end": 11.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마샬은 부상으로 명단 제외였는데 무슨 수로 써?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.977,
+                "end": 14.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 만약 니가 감독이라면 1대1 동점에다가 연장전까지 갔을 때 미치지 않고서야 마샬을 쓰겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.600,
+                "end": 19.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몰라요. 몰라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.848,
+                "end": 21.068
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이미 우승할 것 같다고 친구들한테 실컷 자랑해놨는데 에휴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.078,
+                "end": 25.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해만 축구하고 그만둘 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.502,
+                "end": 26.892
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내년도 있으니까 짜증 낼 기운 남아 있으면 훈련부터 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.902,
+                "end": 29.731
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전 맨유에서 높은 주급을 바라지도 않았고 그저 우승할 수 있는 팀이라 믿고 계약한 건데 이게 뭡니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.741,
+                "end": 35.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러는 녀석이 결승전에서 그렇게 똥을 에휴 됐다. 됐어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.032,
+                "end": 38.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 다들 아직 점심 전이지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.294,
+                "end": 40.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감독이 너희들을 위로할 겸 오늘 점심을 사겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 40.015,
+                "end": 43.733
+            }
+        ]
+    },
+    "summary": "맨유 감독은 유로파 결승에서 준우승을 차지한 선수들을 격려하며 마샬을 기용하지 않은 것과 우승을 못 했다며 투덜대는 선수들에게 점심을 사준다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02206_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_02006",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.666,
+        "format": "MP4",
+        "date": "2021-08-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "솔직히 컨퍼런스 그거 우승해봤자 제2의 아우디컵이 되어 놀림이나 받는 거 아냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "컨퍼런스가 하부 리그이긴 해도 유에파가 주관하는 공식 대회다 기래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.728,
+                "end": 9.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아우디컵이랑은 비교도 안될 뿐더러 아예 무관인 것보다는 낫지 않캇어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.173,
+                "end": 13.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 그냥 맨시티 가면 리그며 챔스며 바로 우승할 수 있는 거 아니냐고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.439,
+                "end": 17.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맨시티의 최대 결함인 최전방 스트라이커",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.997,
+                "end": 20.666
+            }
+        ]
+    },
+    "summary": "케인은 컨퍼런스 우승해봤자 제2의 아우디컵이 되는 거 아니냐고 하자 하부 리그이긴 해도 유에파가 주관하는 공식 대회라 비교도 안된다며 무관인 것보다는 낫겠다고 하고 케인은 맨시티 가면 리그며 챔스며 바로 우승할 수 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02006_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

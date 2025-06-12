@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "MYP_03618",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.969,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 한동안 나는 속수무책으로 잠을 빼앗겼지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제는 더 이상 그들에게 시달리지 않는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.343,
+                "end": 11.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 잘 잤다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.898,
+                "end": 14.375
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "커피 1잔 할까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.385,
+                "end": 16.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 이제",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.452,
+                "end": 18.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이야 오늘 날씨도 시꺼멓네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.649,
+                "end": 26.147
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "디랙퍼스트 먹을 시간이군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.157,
+                "end": 28.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "낮에 잔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.872,
+                "end": 31.518
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사탄 같은 놈",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.528,
+                "end": 35.969
+            }
+        ]
+    },
+    "summary": "나는 한동안 속수무책으로 비둘기에 시달렸지만 이제는 낮에 잠을 잔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03618_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

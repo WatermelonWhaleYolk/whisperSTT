@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_03656",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.554,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 왜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당시만 해도 로드킬은 흔한 일이 아니었고 죽은 동물을 처음 본 나는 매우 마음이 아팠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.076,
+                "end": 7.699
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으아엑",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.709,
+                "end": 8.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야이씨 시끄러 무서운척 하면서 자세히 보지마",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.792,
+                "end": 12.165
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 심란한 마음으로 한참동안 자리를 뜨지 못했는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.175,
+                "end": 17.246
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "좋은데로 가야돼",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.256,
+                "end": 19.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 즐겨놓고는 뭘",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.632,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "당시엔 로드킬이 흔한 일이 아니어서 한참 동안 자리를 뜨지 못하고 좋은 데로 가라고 이야기를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03656_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 13,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

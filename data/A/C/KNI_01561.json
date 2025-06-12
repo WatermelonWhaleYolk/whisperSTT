@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01561",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.288,
+        "format": "MP4",
+        "date": "2023-03-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경찰 조사 역시 지지부진한 가운데 선수 어머니만이 형사 민사 소송에 가처분 신청까지 아들의 억울함을 풀기 위해 나 홀로 고군분투 중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 그 사람들이 평생 축구공을 만지지 못하게 했으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.311,
+                "end": 14.672
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죽을 때 할 거니까 걱정 말고 편하게 살아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.682,
+                "end": 17.797
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평생을 후회하게 만들고 할 테니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.807,
+                "end": 22.288
+            }
+        ]
+    },
+    "summary": "경찰 조사 역시 지지부진한 가운데 선수 어머니만이 형사 민사 소송에 가처분 신청까지 아들의 억울함을 풀기 위해 나 홀로 고군분투 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01561_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

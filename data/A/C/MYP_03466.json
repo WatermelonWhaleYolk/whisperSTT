@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03466",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.738,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 로이드 형은 그 도전 정신의 스케일이 남달랐고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.606
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나는 단순한 유학으로 만족할 수 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.616,
+                "end": 6.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "희대의 경험들 마구마구 하고 수백 배 성장해서 돌아오겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.711,
+                "end": 12.065
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.075,
+                "end": 12.606
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래 넌 한국에서 감당하기 벅차다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.616,
+                "end": 15.712
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "탈 아시아급이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.722,
+                "end": 17.106
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.116,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "로이드 형의 도전 정신은 한국에서 감당하기 벅찬 탈 아시아급의 스케일이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03466_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_01604",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.97,
+        "format": "MP4",
+        "date": "2022-01-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어이 흥민아 케인 이쪽이야 이쪽",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.569
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "알리 근데 무슨 일로 부른 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.579,
+                "end": 4.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그게 내래 좋은 소식이 하나 있어서 술이나 1잔 사려고 부른 기지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.736,
+                "end": 8.934
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "좋은 소식이라니 설마 이적이라도 하는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.944,
+                "end": 11.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이적은 무슨 오히려 그 반대다 기래",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.066,
+                "end": 13.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반대라면 설마 은퇴?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.391,
+                "end": 15.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 내래 이제야 20대 중반인데 미쳤다고 은퇴를 하갔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.170,
+                "end": 18.966
+            }
+        ]
+    },
+    "summary": "알리가 좋은 소식이 있어 술을 사려고 동료들을 불렀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01604_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

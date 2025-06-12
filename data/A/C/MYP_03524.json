@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYP_03524",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2022-05-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그는 그 자리에서만 6대 회장직을 연임하게 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "회장님 이쪽 보고 손 좀 흔들어 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.817,
+                "end": 6.482
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "6대 회장 연임의 포부를 말씀해 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.492,
+                "end": 9.131
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "탄압과 폭정의 완전 개방을 약속하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.141,
+                "end": 14.088
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 얼마 지나지 않아 모두 입대를 하게 되어 잠시 공백기 갖게 되었고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.098,
+                "end": 20.246
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "야 신병 사회에서 뭐했어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.256,
+                "end": 22.441
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "회장이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.451,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "그는 그 자리에서만 6대 회장직을 연임하게 되었고 얼마 지나지 않아 모두 입대를 하게 되어 잠시 공백기 갖게 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03524_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

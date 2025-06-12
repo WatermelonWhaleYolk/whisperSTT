@@ -1,0 +1,190 @@
+{
+    "metadata": {
+        "filename": "MYP_01516",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 50.666,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 앞다리는 3 두 번째 자리는 9 마지막으로 길게 4번 울렸으니 0을 네 개 더해 39만 원을 구매 후 돌려준다는 거야",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 16.801
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돈을 돌려준다는 시그널을 진동으로 보내다니 이런 앙큼한 띠링 같으니라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.811,
+                "end": 21.607
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무튼 핸드폰 사기엔 띠링만 한 데 없더라고 잘들 구매하고 최저가로 산다면 나중에 밥이나 한 번 사",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.617,
+                "end": 27.363
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다 메시 형님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.373,
+                "end": 28.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이봐 음실장 어떻게 구매 완료했어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.730,
+                "end": 31.152
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "예 일단 네이마르님 카드로 결제했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.162,
+                "end": 33.310
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아마 조만간 택배로 받아보실 수 있을 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.320,
+                "end": 35.653
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 잘했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.663,
+                "end": 36.881
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 드디어 나도 연아의 햅틱에서 탈출인 건가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.891,
+                "end": 39.715
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가만 그 돌려준다는 금액은?",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.724,
+                "end": 41.497
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 계좌로 입력했지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.507,
+                "end": 42.882
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "예 그거야 당연히 제 수고비 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.891,
+                "end": 46.137
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.147,
+                "end": 46.815
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "여태까지 실장으로 부려 먹으시면서 월급 한 번 안주시지 않았습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.827,
+                "end": 50.700
+            }
+        ]
+    },
+    "summary": "네이마르는 할인을 해주는 시그널을 진동으로 보내는 방법에 놀라고 메시는 핸드폰 사기에는 띠링만 한 곳이 없다고 말하는 한편 돌려주는 금액은 내 계좌로 입력 했는지 묻는 네이마르의 질문에 음바페는 여태까지 실장으로 부려 먹으며 월급을 안 줬으니 본인의 수고비로 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01516_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

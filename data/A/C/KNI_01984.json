@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01984",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.05,
+        "format": "MP4",
+        "date": "2020-07-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기장 안에서의 이제 마스크 착용과 거리 두기도 상당히 잘 지켜지는 모습이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 좌석 거리를 띄어서 음식을 섭취하는 모습이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.622,
+                "end": 9.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나오고 있는 게 음식 섭취 중이신데 복도에서 지금 이거를 먹고 있는 거군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.923,
+                "end": 13.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좌석은 안 되고 이제 복도에서만 음식물 섭취가 가능하게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.451,
+                "end": 17.050
+            }
+        ]
+    },
+    "summary": "야구 경기장 안에서 마스크 착용과 거리 두기가 잘 지켜지고 있고 음식은 복도에서만 섭취할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01984_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 10,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

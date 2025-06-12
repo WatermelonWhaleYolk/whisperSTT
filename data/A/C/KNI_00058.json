@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_00058",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.515,
+        "format": "MP4",
+        "date": "2022-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평소 월드컵보다도 오히려 더 쉬운 이제 경사도랑 코스 조성이고 배추보이 이번에는 금메달 꼭 따도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.981,
+                "end": 9.794
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피겨 남자 싱글에서는 차준환과 이시형이 쇼트 프로그램에 출전합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.804,
+                "end": 15.515
+            }
+        ]
+    },
+    "summary": "이상호는 평소 월드컵보다 쉬운 경사도와 코스 조성이라며 이번에는 꼭 금메달을 따겠다고 화이팅을 외쳤고 피겨 남자 싱글에서는 차준환과 이시형이 쇼트 프로그램에 출전한다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00058_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00058_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

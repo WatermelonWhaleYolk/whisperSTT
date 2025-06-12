@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_02459",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 54.354,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "작년에 8전 8수의 @이름1 선수가 @이름2 선수에게 1위를 내줬습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 뭐 @이름1 선수같은 경우에는 사실 400미터도 괜찮지만 400미터 허들이 또 주력으로 하는 선수기 때문에 아 사실 이번 대회에도 어떻게 보면 400미터에도 좀 욕심을 냈던 것으로 보여지는데 마지막 싸움에서 후반 싸움에서 조금 뒤처지는 모습을 보여줬습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.148,
+                "end": 20.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "400미터 허들까지 하면 400미터 선수가 어 400미터 허들에서는 지구력에 있어서는 아주 좋은 모습일 수 있겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.380,
+                "end": 28.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 일단은 400미터의 기록이 있다는 것은 그마만큼 400미터 허들에서는 좀 유리하다고 볼 수가 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.143,
+                "end": 35.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 300미터 아 자 결과가 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.050,
+                "end": 40.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광주광역시청에 @이름2 선수가 1위 전북개발공사의 @이름1 선수가 2위 포항시청 @이름3 선수가 3위로 들어온 여자 대학 일반부 400미터 결승 경기였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.441,
+                "end": 50.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 기록은 @이름2 선수가 57초 플랫이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.440,
+                "end": 54.354
+            }
+        ]
+    },
+    "summary": "400미터 여자 육상 결승 경기에서 @이름2 선수가 1위를 기록했고 400미터 허들이 주종목인 @이름1 선수는 2위 그리고 포항시청 @이름3 선수가 3위를 차지했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02459_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

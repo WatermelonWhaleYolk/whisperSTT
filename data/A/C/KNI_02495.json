@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_02495",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.433,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "축구예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "깜둥이라고 할 때가 뭐 가끔 속상할 때도 있고 제가 일부러 이렇게 태어나고 싶어서 태어난 게 아니잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.242,
+                "end": 13.457
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "중학교 2학년 때는 막 친구들도 별로 없고 막 그랬는데 애들도 막 때리고 막 그래서 애들이 막 싫어했어요 저를.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.467,
+                "end": 25.216
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 제가 혼자 막 운동하고 그러니까 애들이 운동을 잘하니까 갑자기 저를 좋아하게 되고 다시 친구가 생겼어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.226,
+                "end": 35.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "운동이 저를 친구를 사귀는데 많이 도움을 준 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.143,
+                "end": 39.433
+            }
+        ]
+    },
+    "summary": "축구를 하고 나서 친구가 생겼다고 인터뷰한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02495_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

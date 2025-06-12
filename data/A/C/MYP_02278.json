@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_02278",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.933,
+        "format": "MP4",
+        "date": "2021-04-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마샬의 싸대기에 볼이 따끔해 아야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "눈물이 고여도 꾹 참을래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.930,
+                "end": 15.019
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 주먹 한 방 상대 수비 뒤통수에 꽂아 넣고서 유유히 돌아가 버릴 테니까 우리 둘의 마지막 경기를 잘 부탁해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.029,
+                "end": 32.933
+            }
+        ]
+    },
+    "summary": "그림으로 그려진 축구 선수가 볼은 맞고 맞은 선수가 다른 선수의 튀통수를 주먹으로 친 후 들어가고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02278_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

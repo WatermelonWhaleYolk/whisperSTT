@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_01608",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.947,
+        "format": "MP4",
+        "date": "2022-01-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시청자 여러분 빤하 욕해줘 온더 블록의 큰 자기 해리 케인",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아기 자기 델레 알리 인사 드립니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.400,
+                "end": 6.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 혹시 빤스 유튜브에 출연해 욕을 먹으면 귀신같이 부활한다는 얘기 들어보셨나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.510,
+                "end": 12.016
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그게 정말입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.026,
+                "end": 13.594
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말이고 말고요 과거 린가드를 시작으로 많은 선수가 부활에 성공했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.604,
+                "end": 18.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 요 근래 욕을 많이 먹었던 알리 씨 역시 얼마전 FA컵에서 좋은 모습을 보여주셨잖아요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.107,
+                "end": 23.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내래 어쩐지 몸이 깃털처럼 가볍고 공이 발에 착착 달라붙더니만 그게 다 욕 때문이었구먼유",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.722,
+                "end": 29.727
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇습니다 유튜브 초창기에만 해도 세계 최초 내가 응원하는 팀이 안 나왔으면 하는 채널 이라는 댓글이 종종 보였지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.737,
+                "end": 36.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은 제발 우리 팀 선수 욕 좀 해달라 라는 댓글이 상당히 많이 보이고 있죠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.720,
+                "end": 41.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 오늘도 부진에 허덕이는 선수들에게 시원한 욕 한 사발 날려볼까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.430,
+                "end": 45.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째 게스트 들어와 주세요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.761,
+                "end": 48.933
+            }
+        ]
+    },
+    "summary": "이 채널에서 욕을 먹으면 부진에 시달리던 선수들이 좋은 모습을 보여준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01608_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

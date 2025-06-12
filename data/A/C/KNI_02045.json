@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_02045",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.0,
+        "format": "MP4",
+        "date": "2019-06-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 17일 진천 선수촌에서 훈련을 하던 쇼트트랙 남자 국가 대표 선수들 사이에 성희롱 시비가 일어났습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쇼트트랙 국가 대표 A 선수가 암벽 등반 훈련 도중 다른 선수들이 보는 앞에서 후배 B 선수의 바지를 내렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.479,
+                "end": 16.000
+            }
+        ]
+    },
+    "summary": "진천 선수촌에서 훈련을 하던 쇼트트랙 남자 국가 대표 A 선수는 암벽 등반 훈련 도중 다른 선수들이 보는 앞에서 후배 B 선수의 바지를 내려 성희롱 시비가 일어났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02045_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_01944",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.066,
+        "format": "MP4",
+        "date": "2021-09-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 토트넘의 손흥민 선수 발언해주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요 개막 이후 세 경기에서 두 번의 결승골을 만들어낸 자타 공인 토트넘의 에이스 손흥민입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.568,
+                "end": 7.830
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심지어 알리가 얻어낸 PK까지 제가 찼더라면 세 번의 결승골 모두 제 발끝에서 나왔을 테죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.840,
+                "end": 12.561
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 정도면 승리 요정을 넘어 승리의 방정식이 따로 없지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.571,
+                "end": 15.938
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안녕하세요 팰리스의 상징 윌프리드 자하입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.948,
+                "end": 18.978
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 손흥민 선수의 활약이 대단한 건 인정하지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.988,
+                "end": 22.066
+            }
+        ]
+    },
+    "summary": "토트넘의 손흥민이 발언했는데 개막 이후 세 경기에서 두 번의 결승골을 만들어낸 자타 공인 토트넘의 에이스이며 알리가 얻어낸 PK까지 찼더라면 세 번의 결승골까지 모두 손흥민의 발끝에서 나왔을 거라며 승리의 방정식이 따로 없지 않냐고 말하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01944_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

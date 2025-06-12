@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_04348",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2019-10-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새로 했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.524
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이놈 보소.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.534,
+                "end": 1.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진작 이렇게 잘라줄 것이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.876,
+                "end": 4.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미용실에 현미경이 있나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.460,
+                "end": 6.200
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이런 그를 만날 때면 난 남자들의 단골 고충이 떠오른다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.210,
+                "end": 12.018
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "오빠 나 뭐 달라진 거 없어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.028,
+                "end": 15.463
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그 글쎄 어제보다 더 예뻐진 것 같은데 머리 했나 옷 했나 향수 바꿨나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.473,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "화자 2가 화자 1을 만나면 남자들의 단골 고충이 떠오른다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04348_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

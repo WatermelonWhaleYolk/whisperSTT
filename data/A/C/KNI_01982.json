@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "filename": "KNI_01982",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.991,
+        "format": "MP4",
+        "date": "2020-06-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "축구 협회나 뭐 또 정부 차원에서 어 그거는 조치를 내야 될 건데 이제 저희가 간절히 바라는 거는 사태가 좀 진정되고 선수들이 이제 운동을 뭐 시합장 시합도 하고 운동장에서 좀 활기 있게 움직이는 모습을 보고 싶습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 15.816
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이달 11일 고교 야구 황금 사자기부터 종목별 전국 대회가 시작되지만 감염 확산에 대한 우려는 여전히 남아 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.826,
+                "end": 24.991
+            }
+        ]
+    },
+    "summary": "남성은 축구 협회, 정부 차원의 조치와 사태가 진정되면 선수들이 시합도 하고 운동장에서 활기 있는 모습을 보고 싶다고 했고 종목별 전국 대회가 이달 11일 고교 야구 황금 사자기부터 시작되지만 감염 확산 우려는 남아 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01982_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

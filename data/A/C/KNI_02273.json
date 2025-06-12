@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNI_02273",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.3,
+        "format": "MP4",
+        "date": "2016-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더블 악셀에 이어서 트리플",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.285
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 번째 트리플 콤보 플러스",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.295,
+                "end": 4.677
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "비엘만 스핀에서는 유연성이 돋보였고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.687,
+                "end": 7.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "속도가 정말 빠르죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.003,
+                "end": 9.186
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.196,
+                "end": 9.677
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "연기도중 노랫말을 따라할 정도로 여유도 넘쳤습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.687,
+                "end": 15.540
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "프리 스케이팅을 마친 뒤 감격의 눈물을 비친 유영은 180점 대의 높은 점수로 1위에 올라 김연아의 역대 최연소 우승 기록을 갈아치웠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.550,
+                "end": 29.300
+            }
+        ]
+    },
+    "summary": "피겨스케이트 선수인 유영은 비엘만 스핀에서 유연성이 돋보였고 연기도중 노랫말을 따라할 정도로 여유도 넘친 연기를 펼쳐 180점대의 높은 점수로 1위에 올라 김연아의 역대 최연소 우승기록을 갈아치웠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02273_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 116
+                }
+            ]
+        }
+    ]
+}

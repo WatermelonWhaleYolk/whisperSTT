@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "filename": "MYP_03825",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.294,
+        "format": "MP4",
+        "date": "2021-04-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이상하게도 날이 갈수록.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 밥 먹자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.871,
+                "end": 3.945
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "크하하하 그래. 뺏어 먹어버려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.945,
+                "end": 8.709
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "많이 있어. 나눠 먹어 좀",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.719,
+                "end": 12.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주인 성격을 닮아가기 시작했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.828,
+                "end": 16.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "급한 성격에 마이 페이스인 로이드에 비해 해리는 항상 느긋하고 평화로웠는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.094,
+                "end": 22.887
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "로이드 먹는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.897,
+                "end": 24.151
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "잘 먹네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.161,
+                "end": 25.063
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "로이드 싼다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.073,
+                "end": 26.402
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "잘 싸네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.412,
+                "end": 28.294
+            }
+        ]
+    },
+    "summary": "20대 남성이 자기들이 키우는 거북이 두 마리가 각각 자기 주인과 닮은 성격을 보여주고 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03825_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

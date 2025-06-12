@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_02714",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.533,
+        "format": "MP4",
+        "date": "2020-09-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 내 공격을 돕는 과정이라면 어느 정도 허락한다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.972
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 사람은 유벤투스의 호네이프 교수? 둘이 뭔 얘기를 하는 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.982,
+                "end": 7.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쉿 쥐새끼 한 마리가 우리 얘길 엿듣고 있군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.461,
+                "end": 11.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윙가르디움 레비호우사.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.051,
+                "end": 15.256
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 메시포터?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.266,
+                "end": 16.748
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매시포터",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.758,
+                "end": 18.533
+            }
+        ]
+    },
+    "summary": "유벤투스의 호네이프 교수가 메시포터가 엿듣고 있는 걸 알고 마법을 부린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02714_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

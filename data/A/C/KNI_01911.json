@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_01911",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.136,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "종아리 부상으로 포르투갈전에 결장했던 김민재는 이번에도 나홀로 자전거를 타며 회복에 전념했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3경기나 격전을 치르느라 모두가 지칠 법도 하지만 기적을 만들 기세를 16강전까지 이어갈 생각입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.186,
+                "end": 15.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 지난 6월 브라질과의 평가전에서 5대 1 참패를 당한 수모를 제대로 되갚아주겠다는 의지가 강합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.745,
+                "end": 23.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "16강도 진짜 선수들이 하나되서 열심히 하면은 못할 건 없다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.551,
+                "end": 28.729
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자신 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.739,
+                "end": 29.822
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같은 사람이니까 부딪혀 봐야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.832,
+                "end": 32.265
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지금까지 준비한 걸 다 보여드리면",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.275,
+                "end": 36.136
+            }
+        ]
+    },
+    "summary": "종아리 부상으로 포르투갈전에 결장했던 김민재 선수가 회복에 전념하며 16강전 준비에 대한 강한 자신감을 내비치며 의지를 다지는 모습을 보여줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01911_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

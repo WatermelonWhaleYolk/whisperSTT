@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_01065",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.77,
+        "format": "MP4",
+        "date": "2022-05-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "K리그 마스코트 반장 선거에 나선 수원 삼성 아길레온의 출마 영상입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김 부장도 내가 그만 하길 바라나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.322,
+                "end": 8.393
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "임자 하고 싶은 대로 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.403,
+                "end": 11.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수원 구단은 반장 선거 기간 내내 박정희 전 대통령을 패러디한 영상과 사진을 활용해 홍보 활동을 펼쳤습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.798,
+                "end": 20.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 수원의 아길레온은 3 년 연속 K리그 마스코트 반장에 뽑혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.183,
+                "end": 25.759
+            }
+        ]
+    },
+    "summary": "수원 구단은 K리그 마스코트 반장 선거에 나선 수원 삼성 아길레온의 박정희 전 대통령을 패러디한 영상과 사진을 활용해 홍보 활동을 펼쳤고 3 년 연속 K리그 마스코트 반장에 뽑혔다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01065_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

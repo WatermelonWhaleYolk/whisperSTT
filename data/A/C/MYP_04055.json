@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYP_04055",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2020-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수호대엔 고전게임 부서가 있긴 하지만 요원에 배치해 주진 않잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앗 대리님 빼고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.108,
+                "end": 5.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 때는 이곳도 영광스러운 시절이 분명히 있었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.985,
+                "end": 11.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이대로 잊혀지기엔 너무 아깝다 생각해서 제 나름 뭐든 해보고 있는 중이거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.814,
+                "end": 17.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홍보도 하고 지원 요청도 해보고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.950,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "수호대에는 고전게임 부서가 있긴 하지만 요원에 배치해 주진 않아서.지원을 하지 않았고 한 때는 이곳도 영광스러운 시절이 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04055_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_01438",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.576,
+        "format": "MP4",
+        "date": "2023-04-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선배들이 일궈낸 영광을 재현하기 위해 @이름1 호가 파주에 모여 발을 맞추기 시작했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 지난달 20 세 이하 아시안컵에 출전하지 못했던 선수들에겐 엔트리 마감을 앞둔 마지막 점검 무대입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.895,
+                "end": 13.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당초 인도네시아였던 개최지가 종교적인 문제로 아르헨티나로 바뀌면서 대표팀은 숙제가 하나 더 늘었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.456,
+                "end": 20.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 감독은 12 시간의 시차가 있는 아르헨티나의 낯선 환경에 적응하는 게 첫 번째 과제라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.619,
+                "end": 28.030
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많은 양을 짧은 시간에 해야 되는 그런 부분이 어려움이 있는 것 같은데 모든 나라가 준비를 해야 되기 때문에 충실히 뭐 면밀하게 체크를 잘하겠",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.040,
+                "end": 40.573
+            }
+        ]
+    },
+    "summary": "20 세 이하 아시안컵에 출전하지 못했던 선수들이 엔트리 마감을 앞둔 마지막 점검 무대에 모여 발을 맞췄다며 감독은 12 시간의 시차가 있는 아르헨티나의 낯선 환경에 적응하는 게 첫 번째 과제라고 밝혔다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01438_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

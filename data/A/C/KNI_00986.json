@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNI_00986",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2022-01-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5세트 마지막 1점을 남기고 김호철 감독이 작전 타임을 부릅니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누가 뭐 잡아먹어?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.760,
+                "end": 5.883
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 서브 리시브가 돼야 수지가 볼을 때릴 수가 있어.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.893,
+                "end": 9.195
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 그러니까 너 웃지 말고 결정을 내줘야 한다니까",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.205,
+                "end": 14.303
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.313,
+                "end": 15.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김희진의 공격으로 3 대 2 극적인 승리를 거두자 마치 우승이라도 한 것처럼 축제 분위기입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.061,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "김희진의 공격으로 3 대 2 극적인 승리를 거두자 마치 우승이라도 한 것처럼 축제 분위기입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00986_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_03080",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.5,
+        "format": "MP4",
+        "date": "2019-11-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 이 바르셀로나 향기가 이 고기 육즙 사이에 배 가지고 아 구워 먹으니까 정말 맛있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이건 직접 자셔 봐야 할 것 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.487,
+                "end": 7.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마지막으로 고기 도둑 짭짤한 양파 절임에 싸 먹는 것도 잊으면 아쉽단다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.206,
+                "end": 12.307
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 양파가 이게 사비네 밭에서 길러 가지고 아 이 향이 아주 잡내를 싹 잡아주고 어우 아주 향긋해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.317,
+                "end": 17.812
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그리고 그 고기의 고소한 맛을 극대화시켜서 정말 맛있어요 정말.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.822,
+                "end": 22.500
+            }
+        ]
+    },
+    "summary": "돼지불백에 바르셀로나 향기가 배어서 정말 맛있고 사비네 밭에서 기른 양파로 만든 양파 절임에 싸 먹으면 향이 잡내를 잡아주고 고기의 고소한 맛을 극대화시킨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

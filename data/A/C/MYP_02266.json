@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_02266",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.166,
+        "format": "MP4",
+        "date": "2021-04-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마음의 문을 더 굳게 닫지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "득점해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.900,
+                "end": 8.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 중요한 건 나도 알아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.967,
+                "end": 12.374
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "월클 돼라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.384,
+                "end": 15.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보다 나를 한 번 안아줘요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.540,
+                "end": 19.166
+            }
+        ]
+    },
+    "summary": "월클이 되라고 이야기하는 남자에게 또 다른 남자는 안아달라고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02266_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

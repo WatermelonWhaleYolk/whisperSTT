@@ -1,0 +1,213 @@
+{
+    "metadata": {
+        "filename": "MYP_02118",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 42.633,
+        "format": "MP4",
+        "date": "2021-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래 누누라면 연봉도 얼마 안 할 테고 선수 사달라고 징징대지도 않겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.238
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하 거기다가 우리 맘대로 주무를 수도 있지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.248,
+                "end": 7.624
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.634,
+                "end": 8.234
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "켁켁 아니 이게 무슨 냄새야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.244,
+                "end": 10.707
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이거 울버햄튼에서 사임했던 누누 냄샌데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.717,
+                "end": 13.253
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 회장님 설마 새로운 감독으로 누누를 데려오는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.263,
+                "end": 17.112
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "차라리 애기 감독 메이슨을 정식으로 선임하시라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.122,
+                "end": 19.812
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "응애 나 애기 메이슨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.822,
+                "end": 21.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "메이슨은 경력도 모자라고 무엇보다 너희 선수들이랑 친하잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.379,
+                "end": 25.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수 팔아서 돈 좀 만지려면 내 입맛대로 굴릴 수 있는 감독을 구해와야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.508,
+                "end": 29.677
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이렇게는 못 살아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.687,
+                "end": 30.815
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "도대체 언제까지 무관으로 머무실 생각입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.825,
+                "end": 33.582
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "누누를 데려오는 순간 사비를 들여서라도 이적할 테니 각오하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.592,
+                "end": 37.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선 넘네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.344,
+                "end": 38.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맨시티가 제시한 금액이 1500억 내가 팔겠다는 금액이 24000억",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.427,
+                "end": 42.633
+            }
+        ]
+    },
+    "summary": "케인이 감독으로 메이슨을 선임하자고 하자 회장이 입맛대로 굴릴 수 있는 누누를 데려온다고 하니까 케인이 이적한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02118_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

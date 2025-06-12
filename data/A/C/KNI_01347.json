@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_01347",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.428,
+        "format": "MP4",
+        "date": "2023-01-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "LG의 주장 이관희가 KCC 허웅의 공을 가로채 파울까지 얻어냅니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허웅을 잘 봉쇄한 이관희는 공격에서도 3쿼터 결정적인 3점슛 3개를 넣는 등 맹활약했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.287,
+                "end": 13.023
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조상현 감독 부임 후 달라진 LG는 인삼공사에 이어 2번째로 20승 고지를 밟았습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.033,
+                "end": 19.738
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조동현 감독의 현대 모비스도 승리해 쌍둥이 형제 감독은 즐거운 설날을 보냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 19.748,
+                "end": 26.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 26.310,
+                "end": 28.428
+            }
+        ]
+    },
+    "summary": "LG는 KCC에 승리해 인삼공사에 이어 2번째로 20승 고지를 밟았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01347_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

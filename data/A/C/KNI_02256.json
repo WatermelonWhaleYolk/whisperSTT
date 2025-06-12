@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02256",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.242,
+        "format": "MP4",
+        "date": "2017-12-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대관령 중에서도 바람이 가장 센 그런 황태덕장을 하던 곳입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일몰 후에는 진짜 살을 에는 그런 바람이 분다고 생각하시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.566,
+                "end": 11.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 상황에서 올림픽 개폐회식장을 찾은 선수와 관람객들은 5시간가량 칼바람을 맞으며 혹한을 견뎌야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.282,
+                "end": 19.233
+            }
+        ]
+    },
+    "summary": "개폐회식장이 위치한 곳은 대관령 중에서도 바람이 세 황태덕장을 하던 곳으로 살을 에는 바람이 불어 선수와 관람객들은 5시간가량 칼바람을 맞으며 혹한을 견뎌야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02256_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

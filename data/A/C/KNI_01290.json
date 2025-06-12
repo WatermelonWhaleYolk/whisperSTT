@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_01290",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.856,
+        "format": "MP4",
+        "date": "2022-12-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국가대표 철벽 실력도 변함없었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 상대 주포 카타리나의 공격을 허락하지 않았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.503,
+                "end": 6.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1은 카타리나를 1세트 단 1점으로 묶으며 첫 세트 승리를 가져왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.610,
+                "end": 12.977
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2세트 중반엔 완벽한 회복을 알리듯 서브 에이스까지 기록합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.987,
+                "end": 18.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1 대 1로 맞선 3세트엔 속공이 빛났습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.755,
+                "end": 22.856
+            }
+        ]
+    },
+    "summary": "양효진이 상대 주포 카타리나의 공격을 1세트 1점으로 묶으며 첫 세트를 승리로 가져 왔다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01290_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

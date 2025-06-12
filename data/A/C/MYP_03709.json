@@ -1,0 +1,171 @@
+{
+    "metadata": {
+        "filename": "MYP_03709",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 42.475,
+        "format": "MP4",
+        "date": "2021-10-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "포기해",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쳐자",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.002,
+                "end": 3.189
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "늦어서 그냥 잤다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.199,
+                "end": 4.865
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다음날 아침",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.875,
+                "end": 16.166
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에 에에에 하아 배고프다",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.176,
+                "end": 23.419
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우연히 발견한",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.429,
+                "end": 25.741
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음 내 휴대폰이 어디갔",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.751,
+                "end": 28.203
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스티커 한장에",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.213,
+                "end": 31.117
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오잖아?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 31.127,
+                "end": 33.779
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 마음은 불안해졌고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 33.789,
+                "end": 36.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어젯밤 고생과 굶주림의 의미를 퇴색시키고 싶지 않았던 내 바람을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.363,
+                "end": 42.475
+            }
+        ]
+    },
+    "summary": "다음날 아침 핸드폰을 찾다가 스티커를 우연히 발견하고 마음이 불안해졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03709_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 54
+                }
+            ]
+        }
+    ]
+}

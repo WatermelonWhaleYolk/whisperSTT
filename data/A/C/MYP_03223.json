@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03223",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.692,
+        "format": "MP4",
+        "date": "2023-03-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "굿",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.475
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "느끼해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.485,
+                "end": 1.295
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "컬쳐쇼크",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.305,
+                "end": 3.527
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여기 소주 팔까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.537,
+                "end": 4.857
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 바에 한 번 물어볼까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.867,
+                "end": 7.036
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "왓 캔 아이 겟 유?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.046,
+                "end": 8.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앗 아 외국인이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.848,
+                "end": 11.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 헤 헬로.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.110,
+                "end": 13.570
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소 소주 소주 에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.560,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03223_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

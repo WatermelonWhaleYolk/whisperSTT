@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "KNI_02476",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 59.392,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2미터 10의 높이 3차 시기의 도전하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3차 시기가 마지막 시기입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.172,
+                "end": 5.372
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 여기서 넘는다면 다음 기회에도 3번의 기회가 주어지지만 여기서 넘지 못하면 바로 이제 끝이 납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.382,
+                "end": 13.909
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 아쉽습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.919,
+                "end": 16.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 실패하는 경우가 점프 위치와 착지의 지점이 너무 멀거나 너무 가까우거나 아 그 본인이 설정했던 그 적정한 높이에 딱 맞아야 되는 거죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.865,
+                "end": 30.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그렇습니다 그래서 선수들이 간혹 경기를 할 때 그 조주 위치를 바꾸는 경우가 볼 수 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.728,
+                "end": 36.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 테이프로 표시를 하니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.810,
+                "end": 38.034
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "날씨에 따라서 그리고 상황에 따라서 조금씩 변기 변화를 줘야되기 때문에 선수들이 약간 어려움을 먹고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.044,
+                "end": 45.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 함안구청의 @이름1 선수 2미터 10 3차 시기 아",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.861,
+                "end": 50.887
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많은 선수들이 지금 2미터 10을 실패를 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.897,
+                "end": 55.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 시기 도전이었는데 2미터 10",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.391,
+                "end": 59.392
+            }
+        ]
+    },
+    "summary": "남자 높이뛰기 결승에서 함안구청의 @이름1 선수 등 선수들이 잇따라 2미터 10의 높이를 넘지 못하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02476_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

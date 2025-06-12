@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_00995",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.066,
+        "format": "MP4",
+        "date": "2022-10-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "위험 위험 수비 두 명 붙으면 등지고 딱딱 돈 괴물이 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.723
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저래놓고 1년 만에 인테르로 돌아갔다니 이건 괴물이 아니라 연어 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.733,
+                "end": 8.966
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다음은 누누 감독님의 순서입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.976,
+                "end": 11.021
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "토트넘에서 경질당한 충격을 노래했었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.031,
+                "end": 13.477
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오랜만에 불러보는군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.487,
+                "end": 14.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어이 누더기 양반 시작 안 하고 뭐 하누.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.943,
+                "end": 17.485
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "누군가에겐 똥",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.495,
+                "end": 19.066
+            }
+        ]
+    },
+    "summary": "루카쿠는 1년 만에 돌아갔고 누누감독은 충격을 노래했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00995_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 14,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

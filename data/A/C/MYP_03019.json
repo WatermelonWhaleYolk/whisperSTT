@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03019",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.133,
+        "format": "MP4",
+        "date": "2020-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기가 그 승점을 나눠준다는 곳인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.368
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "매 맹륜 진사 갈비?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.378,
+                "end": 4.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 들어가 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.280,
+                "end": 5.601
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 어서 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.611,
+                "end": 6.570
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 예 그쪽으로 두 분 앉으세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.580,
+                "end": 7.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 새끼 저거 린가드 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.915,
+                "end": 9.641
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아휴 린가드고 뭐고 이번 시즌은 승점이 모자라서 유로파도 힘들겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.651,
+                "end": 14.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 무스타피가 아직 선발로 나오고 있는데 유로파는 무슨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.238,
+                "end": 18.133
+            }
+        ]
+    },
+    "summary": "여기가 승점을 나눠준다는 맹륜 진사 갈비 식당이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03019_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

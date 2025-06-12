@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02797",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.0,
+        "format": "MP4",
+        "date": "2020-06-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어라 먹자 골목에 새로운 식당들이 많이 생겼네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 맹륜진사갈비 갈비도 땡기는데 무한 리필이라 이거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.554,
+                "end": 6.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옆집은 어디보자 토식이두마리치킨 한 마리 가격에 두 마리를 준다고 역시 저녁은 치느님인가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.956,
+                "end": 12.547
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 손님 이쪽으로 오십쇼 이쪽으로.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.557,
+                "end": 15.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 때가 어느 땐데 호객 행위를 하고 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.308,
+                "end": 17.632
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아유 손님 저녁은 역시 치킨이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.642,
+                "end": 20.010
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘 같이 더운 날 치킨에 맥주 한 잔 어떠십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.020,
+                "end": 22.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하이고 이거 완전 쌍으로 난리네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.009,
+                "end": 25.000
+            }
+        ]
+    },
+    "summary": "남성이 저녁 메뉴를 고민하는데 치킨집 사장님과 갈비집 사장님이 나와서 호객 행위를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02797_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

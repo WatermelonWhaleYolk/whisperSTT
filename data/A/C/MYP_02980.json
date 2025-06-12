@@ -1,0 +1,348 @@
+{
+    "metadata": {
+        "filename": "MYP_02980",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 104.333,
+        "format": "MP4",
+        "date": "2020-01-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자자 다들 주목 내가 오늘 출근길에 아주 좋지 못한 소식을 들었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.474,
+                "end": 16.238
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동네 꼬마애들까지도 호날두는 메시보다 한 수 아래라며 떠들고 다닌다는데 이딴 소문을 낸 새끼 거수",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.248,
+                "end": 22.990
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 자기가 무슨 @이름1 야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.000,
+                "end": 24.544
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "완전 호석대구먼 호석대.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.554,
+                "end": 26.145
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.155,
+                "end": 27.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇다면 이 이야기에 조금이라도 동의한다 거수.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.031,
+                "end": 30.499
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아니 장군 아무리 장군이 우리 공을 다 가로챘대도 설마 우리가 그렇게까지 하겠소?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.509,
+                "end": 35.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "솔직히 나는 너희를 못 믿겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.817,
+                "end": 37.686
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 얼마나 많은 공을 세워서 우리 레알국을 최강으로 이끌었는데 솔직히 배신감이 들어서 너희랑 같이 일 못하겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.696,
+                "end": 45.113
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "장군 설마 이번 발롱도르에 메시가 유력하다는 소문 때문에 그러는 거요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.123,
+                "end": 48.694
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네가 그랬구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.704,
+                "end": 49.528
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네가 그런 개 같은 소문을 퍼뜨리고 다녔구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.538,
+                "end": 52.155
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 고마운 줄 모르고 감히",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 52.165,
+                "end": 54.107
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭔 소리요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 54.117,
+                "end": 54.752
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "장군도 알다시피 난 골프 치러 다니느라 전쟁에 제대로 참여도 못 했소.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 54.762,
+                "end": 58.469
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 됐고 난 새로운 도전을 위해 이탈리아로 떠날 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 58.479,
+                "end": 62.139
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아니 장군 갑자기 그게 무슨 이적이라도 한단 말이오?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 62.149,
+                "end": 65.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공을 쌓아주면 뭐 하냐고 녹봉도 내 수준에 못 미치는 것 같고 유벤투스라는 곳에서 내 가치를 알아보고 두둑이 챙겨준다더군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 65.110,
+                "end": 73.026
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아휴 꺼지려면 빨리 꺼지십시오 장군 꼴도 보기 싫으니.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 73.036,
+                "end": 76.035
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "얘들아 좀 못 이기면 어떻냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 76.045,
+                "end": 77.473
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저 새끼 비위 맞춰주는 시절 지긋지긋했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 77.483,
+                "end": 79.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 이 새끼가 나 아니었으면 너희 여기까지 오지도 못했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 79.853,
+                "end": 83.497
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "알겠으니 빨리 썩 꺼지십시오 장군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 83.507,
+                "end": 85.487
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "당신 없이 우리끼리 잘해볼 테니 유벤투스 가셔서도 부디 호석대 노릇 잘하시길 바랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 85.497,
+                "end": 91.215
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이것들이 보자 보자 하니 됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 91.225,
+                "end": 93.395
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부디 나 없이 리그에서도 챔스에서도 많이들 지고 레알은 호날두빨이었다는 소리 많이 나오게 고생들 해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 93.405,
+                "end": 100.070
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "함께해서 더러웠고 다시는 보지 맙시다 장군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 100.080,
+                "end": 104.333
+            }
+        ]
+    },
+    "summary": "호날두가 이탈리아로 이적한다는 소리에 다른 팀원들은 붙잡지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02980_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 11,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

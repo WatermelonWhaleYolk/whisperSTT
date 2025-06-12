@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_00861",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.65,
+        "format": "MP4",
+        "date": "2023-02-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "울산은 K리그 득점왕 출신 주민규를 영입해 공격력을 한층 강화했고 전북 역시 월드컵 스타 조규성의 잔류에 울산에서 뛰던 미드필더 아마노 준을 영입했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미디어데이에 참석한 각 팀 사령탑은 전북과 울산 제주와 인천을 4강 후보로 꼽았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.202,
+                "end": 17.650
+            }
+        ]
+    },
+    "summary": "울산은 K리그 득점왕 출신 주민규를 영입해 공격력을 한층 강화했고 전북 역시 월드컵 스타 조규성의 잔류에 울산에서 뛰던 미드필더 아마노 준을 영입했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00861_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_02116",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.104,
+        "format": "MP4",
+        "date": "2019-09-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이은혜 선수에게 양영자 감독은 엄마 같은 존재라고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.641
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 혼자 한국에 있다 보면 또 외로운 점도 힘든 일도 많이 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.651,
+                "end": 12.327
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그때마다 감독님 항상 저를 첫 번째 도와주는 사람이고 저한테 엄마 같기도 하고 또 탁구를 도와주는 선생님하고도 제가 인생 방향 잘 몰랐을 때도 방향 잡아주는 선생님이었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.337,
+                "end": 31.100
+            }
+        ]
+    },
+    "summary": "이은혜 선수에게 양영자 감독은 혼자 한국에서 힘들고 외로울 때 인생의 방향을 잡아주고 엄마처럼 챙겨주는 선생님이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02116_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

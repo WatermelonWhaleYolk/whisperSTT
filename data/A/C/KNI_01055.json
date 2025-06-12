@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "KNI_01055",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.064,
+        "format": "MP4",
+        "date": "2022-05-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하십니까? KBS @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.273
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KB 감독 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.283,
+                "end": 5.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이름 때문에 굉장히 주목했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.341,
+                "end": 8.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 매직?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.125,
+                "end": 9.421
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저한테 운이 따랐죠 제가 이 좋은 선수들을 만나서 제가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.431,
+                "end": 13.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 편의 만화 같은 @이름2 매직의 핵심은 박지수입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 13.160,
+                "end": 17.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "늘 집중 수비의 대상인 박지수를 적게 출전시키고 이기는 전략입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.250,
+                "end": 23.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가드의 산실 송도고 시절 익힌 고 @이름3 선생님의 가르침을 @이름4 등 가드들을 통해 실현했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.028,
+                "end": 31.064
+            }
+        ]
+    },
+    "summary": "KB를 좋은 성적으로 이끈 @이름2 감독과 인터뷰하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01055_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01598",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.986,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "남은 6경기 전승을 해서 좀 저희 팀이 확실히 1위 팀 상위권 팀이라는 걸 확실하게 다른 팬분들이나 선수들한테 보여주고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.552
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "외국인 선수 스펠맨이 부상 복귀했지만 먼로가 부상으로 빠진 인삼공사는 3연패해 LG에 한 경기 반 차로 쫓기게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.562,
+                "end": 17.539
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.549,
+                "end": 19.986
+            }
+        ]
+    },
+    "summary": "스펠맨이 부상 복귀했지만 먼로가 부상으로 빠진 인삼공사는 LG에 쫓기게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01598_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

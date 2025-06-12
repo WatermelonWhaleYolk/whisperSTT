@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYP_03780",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 42.724,
+        "format": "MP4",
+        "date": "2021-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "피해를 최소화하기 위해 반사적으로 머리를 창밖으로 날렸지만 그는 두 가지를 간과했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 에이컨 버스가 없었던 그 시절 여름엔 대부분의 창문이 열려 있었다는 점 그리고 버스가 우회전을 하고 있었다는 점",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.553,
+                "end": 15.798
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뿌에에에엑엑",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.808,
+                "end": 20.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 그는 1토 3피의 쾌거를 이룩해 내고 역관광 버스로 환승했다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.516,
+                "end": 32.541
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하 이제 한국에도 뮤탈이 사네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.551,
+                "end": 35.679
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어허 잡아 잡아 날라갈라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.689,
+                "end": 38.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 지독한 사춘기가 시작되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.253,
+                "end": 42.709
+            }
+        ]
+    },
+    "summary": "창문이 모두 열려있는 버스에서 우회전을 하는 순간 창밖으로 구토를 해서 버스 안의 3명에게 토사물이 묻었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03780_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

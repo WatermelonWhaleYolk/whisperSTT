@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYP_02577",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.0,
+        "format": "MP4",
+        "date": "2020-11-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 물고기가 물긴 했는데 힘이 센 놈인가봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀처럼 안 끌려 오는데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.230,
+                "end": 3.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 참돔벨레 모드를 가동할 때군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.148,
+                "end": 5.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그건 어떻게 하는 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.637,
+                "end": 6.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼른 해봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.528,
+                "end": 7.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미끼만 먹고 도망가겠어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.089,
+                "end": 8.466
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "로셀소 너 참참참이란 게임 알고 있지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.476,
+                "end": 10.966
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참참참이라면 그 고개를 돌려 방향을 맞추는 그거",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.976,
+                "end": 13.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바로 그거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.881,
+                "end": 14.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물고기와 참참참 게임을 해서 이쪽으로 유인하는 거라네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.881,
+                "end": 18.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 무슨 물고기랑 참참참을 한다 그래?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.666,
+                "end": 20.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잠자코 지켜보고 있으라고 자 참참참",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.543,
+                "end": 25.000
+            }
+        ]
+    },
+    "summary": "물고기가 바늘에 걸렸는데 끌려오지 않자 은돔벨레는 참참참 게임을 해서 물고기를 유인해야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02577_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

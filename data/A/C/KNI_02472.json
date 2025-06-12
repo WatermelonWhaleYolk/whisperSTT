@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_02472",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.017,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 이건 모르겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 거의 뭐 동시에 들어갔다고 봐야 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.289,
+                "end": 4.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이건 정말 모르겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.483,
+                "end": 6.432
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 @이름1가 앞서다가 @이름2이 앞서기도 했고 @이름2이 앞서다 @이름1가 앞서기도 했고 자",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.442,
+                "end": 13.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기서는 6번 레인의",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.825,
+                "end": 17.017
+            }
+        ]
+    },
+    "summary": "남자 대학 일반부 200미터 육상 경기 선수에서 @이름1 선수와 @이름2 선수가 접전을 펼쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02472_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 150
+                }
+            ]
+        }
+    ]
+}

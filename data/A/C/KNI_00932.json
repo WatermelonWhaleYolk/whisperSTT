@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNI_00932",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2122-11-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "태극전사들의 선전에 우리 축구 팬들은 경기가 끝나고도 쉽게 숙소로 발길을 돌리지 못했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.722
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 정말 다치지 않고 정말 너무 수고하셨고 저희는 또 남아서 가나 전 때 열심히 응원하도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.732,
+                "end": 12.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국 파이팅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.873,
+                "end": 13.949
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "파이팅.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.959,
+                "end": 15.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 교민과 아리랑 응원단은 사물놀이를 연주하며 경기장 주변을 행진했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.710,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "축구 팬들은 응원하고 아리랑 응원단은 사물놀이를 연주하며 행진했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00932_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 4
+                }
+            ]
+        }
+    ]
+}

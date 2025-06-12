@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_02157",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 21.766,
+        "format": "MP4",
+        "date": "2017-07-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어제부터 내린 비의 양은 충북 진천이 101밀리미터로 가장 많았고 세종, 전의 팔십오 점 오 충남, 천안 팔십 점 일 등의 강수량을 기록하고 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갑자기 불어난 물에 어젯밤 7시 50분부터 청주 무심천 하상 도로가 전면 통제되고 있고 하상 도로에 주차돼 있던 차량 5대가 침수돼 견인하는 소동이 벌어졌습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.791,
+                "end": 21.766
+            }
+        ]
+    },
+    "summary": "충북 진천에서는 어제부터 101밀리미터의 비가 내렸으며 청주의 무심천 하상 도로는 갑자기 불어난 물 때문에 어젯밤 7시 50분부터 도로가 전면 통제됐으며 주차돼 있던 차량 5대가 침수돼 견인됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02157_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 12,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

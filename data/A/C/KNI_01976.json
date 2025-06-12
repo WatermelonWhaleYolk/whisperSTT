@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01976",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.619,
+        "format": "MP4",
+        "date": "2020-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "홈 플레이트까지 걸어가서 하는 비접촉 비대면 그런 시구가 눈길을 끌기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 무관중 경기다 보니까 분위기를 돋을 수 있는 그런 기발한 아이디어들도 사실 많이 나왔는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.346,
+                "end": 11.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무관중이다 보니까 이제 실제 무 그림을 그리 그리기도 하고 팬들에 얼굴을 어 그린 현수막에 관중석이 설치를",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.865,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "무관중으로 진행된 경기 시구는 비접촉 비대면으로 이뤄졌고 분위기를 돋을 수 있도록 무 그림을 그리거나 팬들의 얼굴을 그린 현수막을 관중석에 설치하는 등 기발한 아이디어들이 많이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01976_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

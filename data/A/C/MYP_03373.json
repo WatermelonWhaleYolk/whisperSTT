@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_03373",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2022-09-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "휴우 깨끗하고만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.429
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특이점이 하나만 있다면 그 아파트 꼭대기 층엔 집이 딱 한 가구밖에 없었는데 왜인지 이 집 앞은 청소를 해도 해도 매일 다시 더러워졌고 나는 이 집의 위생 관념이 원망스러워지기 시작했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.439,
+                "end": 19.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으 더러운 놈 딱 한 번 마주치기만 해라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.892,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "아파트 꼭대기 층엔 집이 딱 한 가구밖에 없었는데 집 앞을 매일 청소를 해도 다시 더러워졌고 나는 원망스러워지기 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03373_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

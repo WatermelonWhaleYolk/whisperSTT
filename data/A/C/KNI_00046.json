@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_00046",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.582,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 보고 싶어서 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기술면이 있어서 정말 훌륭하고 대한의 건아다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.835,
+                "end": 7.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 이런 선수는 국보급이고 보물이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.474,
+                "end": 11.444
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "프리미어 리그 23골로 리버풀 살라흐와 공동 득점왕",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.454,
+                "end": 15.582
+            }
+        ]
+    },
+    "summary": "정말 이런 선수는 국보급이고 보물이고 기술면에 있어서 정말 훌륭하고 대한의 건아라고 한 여성이 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00046_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00046_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00309",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.953,
+        "format": "MP4",
+        "date": "2022-11-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "노래를 부르고 춤을 추며 도하를 축구의 열기로 가득 채웠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.001
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.011,
+                "end": 12.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 카타르 팬들은 처음으로 중동에서 열리는 월드컵을 개최한 자부심으로 들떠 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.978,
+                "end": 19.953
+            }
+        ]
+    },
+    "summary": "노래와 춤을 추며 도하를 축구의 열기로 가득 채웠고 특히 카타르 팬들은 처음으로 중동에서 월드컵을 개최한 자부심으로 들떠 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

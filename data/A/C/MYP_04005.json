@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "filename": "MYP_04005",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.462,
+        "format": "MP4",
+        "date": "2020-11-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "겉옷 벗고 할게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하 편하게 하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.690,
+                "end": 4.822
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나름 제대로 하려나보네 귀엽군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.832,
+                "end": 9.423
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나는 또 사람을 잘 못 봤다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.433,
+                "end": 13.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 보니 후배 년이랑 바람 나서 토낀 내 전 남친 닮았네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.674,
+                "end": 17.824
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아닌데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.834,
+                "end": 18.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무조건 안 닮은데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.282,
+                "end": 20.698
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 사실 남자도 아닌데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.708,
+                "end": 22.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누나 아니 언니 기다려 봐 잠깐만 타임.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.570,
+                "end": 24.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대답은 필요 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.849,
+                "end": 25.949
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대답 안 했는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.959,
+                "end": 29.462
+            }
+        ]
+    },
+    "summary": "주인공은 고운 외모와 다르게 힘이 세고 바람 펴서 헤어진 전 남자친구와 닮았다고 화가 난 여학생에게 맞는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

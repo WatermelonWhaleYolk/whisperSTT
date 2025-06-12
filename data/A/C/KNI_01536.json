@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_01536",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.96,
+        "format": "MP4",
+        "date": "2023-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 계속 똑같은 말 너무 많이 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "난생처음 출연한 시사 프로그램이지만 가드와 패스를 주고 받듯 재치 있는 티키타카 답변이 오고 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.750,
+                "end": 11.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재밌게 말씀을 이렇게 드리고 싶은데 아직 질문이 뭐 재미있는 질문이",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.899,
+                "end": 18.782
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너무 딱딱합니까 질문이?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.792,
+                "end": 20.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.010,
+                "end": 20.550
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.550,
+                "end": 21.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방송도 잘 활용했는데 FA 계약을 앞둔 만큼 의미 있는 메시지도 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.348,
+                "end": 26.960
+            }
+        ]
+    },
+    "summary": "난생처음 출연한 시사 프로그램이지만 가드와 패스를 주고 받듯 재치 있는 티키타카 답변이 오고 갔고 방송도 잘 활용했는데 FA 계약을 앞둔 만큼 의미 있는 메시지도 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01536_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

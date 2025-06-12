@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03716",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5시간 동안 구워 먹었다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.903
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어두워서 안 보인다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.913,
+                "end": 3.539
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후레시 좀 갖고 와라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.549,
+                "end": 4.883
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어두워서 어딨는지 안 보이는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.893,
+                "end": 7.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기다 왠지 모르게 시간이 지날수록 컨디션이 급격히 떨어졌는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.039,
+                "end": 12.963
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "근데 너 아까부터 왜 이렇게 앓아?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.973,
+                "end": 15.493
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어디 다쳤어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.503,
+                "end": 16.689
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니요 다치진 않았는데 스",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.699,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "세 명이서 5시간 동안 고기를 구워 먹는데 한 명이 시간이 지날수록 컨디션이 급격히 떨어지자 상태를 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03716_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 149
+                }
+            ]
+        }
+    ]
+}

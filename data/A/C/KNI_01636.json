@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_01636",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.466,
+        "format": "MP4",
+        "date": "2019-01-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기분 막 기분상으로 이렇게 보면 딱 통일된 이런 분위기 속에서 다 경기를 한",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.989
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "치열하게 몸싸움을 하다가도 넘어진 상대 선수에겐 손을 내밀며 다가섭니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.999,
+                "end": 12.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기 결과는 1대 0 북한 소백수 팀의 승리 하지만 승패는 크게 중요하지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.412,
+                "end": 19.625
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "언제나 먼저 경계를 허문 건 스포츠였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.635,
+                "end": 23.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남과 북을 선수들은 그라운드 안에서 손을 맞잡고 하나가 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.122,
+                "end": 27.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "중국 쿤밍에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.322,
+                "end": 30.466
+            }
+        ]
+    },
+    "summary": "경기 결과는 1대 0 북한 소백수 팀의 승리였지만 승패는 크게 중요하지 않았으며 치열하게 몸싸움을 하다가도 넘어진 상대 선수에겐 손을 내밀며 다가서는 남과 북 선수들은 그라운드 안에서 손을 맞잡고 하나가 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01636_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

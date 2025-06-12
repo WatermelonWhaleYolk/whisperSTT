@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00306",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.288,
+        "format": "MP4",
+        "date": "2022-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민보다 하루 먼저 대표팀 훈련에 참가한 수비의 핵 김민재는 벤투 감독과 동료들이 마련해 준 깜짝 생일 파티로 밝게 웃으며 체력 회복에 집중했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흥민이 형이 어떤 압박감에서 이제 축구를 하는지 알 수 있었고 또 수비에서 일단 제가 실수를 하는 일이 없어야 할 거 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.797,
+                "end": 22.288
+            }
+        ]
+    },
+    "summary": "김민재는 벤투 감독과 동료들이 마련한 깜짝 생일 파티로 밝게 웃으며 체력 회복에 집중했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00306_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

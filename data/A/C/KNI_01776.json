@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_01776",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.9,
+        "format": "MP4",
+        "date": "2017-06-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "60미터 지점부터 선두로 치고 나온 @이름1은 가장 먼저 결승선을 통과합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최종 기록은 10초 07",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.771,
+                "end": 8.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 대한민국 100미터 최고의 기록이 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.705,
+                "end": 13.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 꿈같은 일이 만들어진 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.870,
+                "end": 16.288
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 씨",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.298,
+                "end": 20.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자신의 100미터 한국 신기록을 이틀 만에 다시 0.06초 단축했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.090,
+                "end": 25.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒷바람도 초속 0.8미터에 불과해 이 기록은 공인 기록으로 인정받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.659,
+                "end": 30.900
+            }
+        ]
+    },
+    "summary": "대회에서 @이름1은 100미터 한국 최고 신기록을 경신했고 이는 공인 기록으로 인정받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01776_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

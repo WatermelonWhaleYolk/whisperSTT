@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_01868",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.4,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 과르디올라 감독과 대머리 선수들에게도 가발을 권한다 들었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형 지금 내 머리가 벗겨지는 중이라 그러나 본데 그까짓 머리 심으면 그만 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.912,
+                "end": 8.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대머리가 문제가 아니라 겨울 이적 시장이라고 회장님이 널 순순히 보내 주겠냐는 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.829,
+                "end": 14.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "천하의 만수르마저 2번 다시 그런 협상은 하고 싶지 않다고 혀를 내둘렀는데 무슨 수로 널 데려가겠냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.151,
+                "end": 20.400
+            }
+        ]
+    },
+    "summary": "손흥민이 상대방한테 겨울 이적 시장이라고 회장님이 널 순순히 보내 주겠냐며 천하의 만수르마저 2번 다시 그런 협상은 하고 싶지 않다고 했는데 무슨 수로 널 데려가겠냐고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01868_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNI_01651",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.066,
+        "format": "MP4",
+        "date": "2019-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한국 축구의 역사를 새로 쓴 주인공들이 하나 둘 모습을 드러내자 입국장이 들썩입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새벽부터 몰려든 환영 인파에 선수들은 달라진 위상을 실감했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.116,
+                "end": 16.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "폴란드에 있을 때는 저희가 이 정도일 줄은 몰랐는데 역사적인 일을 내냈고 또 저희가 좀 자랑스럽게 느껴집니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.752,
+                "end": 25.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팬이 선물한 머리띠를 직접 써 보고 마중 나온 가족과 인사를 나눴습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.308,
+                "end": 30.967
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "고생했어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.977,
+                "end": 33.066
+            }
+        ]
+    },
+    "summary": "한국 축구의 역사를 새로 쓴 주인공들이 하나 둘 모습을 드러내자 새벽부터 몰려든 환영 인파에 입국장이 들썩입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01651_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

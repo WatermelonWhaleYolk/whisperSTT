@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_02946",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.266,
+        "format": "MP4",
+        "date": "2020-02-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 시청자 여러분 대망의 8강전 대한민국과 스페인의 경기가 시작되었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.463
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 선수들 충분히 할 수 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.473,
+                "end": 6.737
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스페인이 뭐 무적함대라는 별명처럼 대단한 전력을 갖고 있는 건 맞지만 대한민국 포르투갈과 이탈리아를 꺾고 올라왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.747,
+                "end": 14.522
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 시작한 지 3분만에 엘게라의 슛 아 들어가 버렸어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.532,
+                "end": 18.077
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 지금 엘게라 선수 김태영 선수를 누르고 들어갔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.087,
+                "end": 21.317
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반칙이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.327,
+                "end": 22.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 다행히 심판을 휘슬을 붑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.440,
+                "end": 24.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 골이 무효로 처리됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.125,
+                "end": 25.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "천만다행입니다 정말.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.463,
+                "end": 26.678
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 이것들이 초반부터 세게 나오네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.688,
+                "end": 28.637
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "남일아 우리도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.647,
+                "end": 30.266
+            }
+        ]
+    },
+    "summary": "화자가 스페인과 대한민국의 축구 중계를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02946_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

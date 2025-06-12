@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYP_03286",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.882,
+        "format": "MP4",
+        "date": "2022-12-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "먹고 살면서 하고 싶은 거 하는 게 쉬운 줄 알아?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.139
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잔업 수당은 두둑이 챙겨 주고 말하죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.149,
+                "end": 8.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 하체는 쓰레기야 그걸 던지기 위해선 풀하체는 기본 중에 기본이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.580,
+                "end": 15.882
+            }
+        ]
+    },
+    "summary": "영감은 먹고 살면서 하고 싶은 거 하는 게 쉬운 일이 아니라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03286_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

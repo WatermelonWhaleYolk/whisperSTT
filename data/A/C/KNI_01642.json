@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01642",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.733,
+        "format": "MP4",
+        "date": "2019-03-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조 전 코치가 학생들을 폭행한 장소도 전 교수가 빌려준 빙상장 내 샤워실과 라커룸이었던 것으로 확인됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 한체대 일부 교수들이 학생들로부터 금품을 받거나 전지훈련 비용 등을 횡령한 사실도 드러났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.102,
+                "end": 14.431
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빙상장 특혜 대관 금품 수수 일부 교수의 비위 행위 등 총 82건의 비위행위를 확인했습니다 일부 혐의에 대해서는 수사 당국에서 수사를 진행하도록 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.441,
+                "end": 29.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 교수는 지난해 감사에서도 중징계 요구를 받았지만 그동안의 공적을 고려해 3개월 감봉의 경징계를 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.314,
+                "end": 36.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "교육부의 이번 중징계 요구에 한체대가 어떤 징계를 내릴지 관심이 쏠립니다 KBS 뉴스 @ 이름1 입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.641,
+                "end": 44.733
+            }
+        ]
+    },
+    "summary": "조 전 코치가 학생들을 폭행한 장소도 전 교수가 빌려준 빙상장 내이며 또 한체대 일부 교수들이 학생들로부터 금품과 전지훈련 비용 등을 횡령란 사실도 드러났고 전 교수는 지난해 중징계 요구를 받았지만 그동안 의 공적을 고려해 3개월 감봉의 경징계를 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01642_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 90
+                }
+            ]
+        }
+    ]
+}

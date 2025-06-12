@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_02395",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.166,
+        "format": "MP4",
+        "date": "2015-08-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유소년 국제 축구 대회를 앞두고 북측과 중국을 제외한 4개국 팀은 양각도 호텔에 여장을 풀었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양각도 호텔은 대동강 한가운데 능라도에 자리 잡은 47층 높이 객실 1000여 개의 국제 수준의 호텔로 북측이 자랑하는 시설입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.804,
+                "end": 17.094
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.104,
+                "end": 24.166
+            }
+        ]
+    },
+    "summary": "유소년 국제 축구 대회로 4개국 팀은 북한 양각도 호텔에 머물고 있으며 이 호텔은 북측이 자랑하는 시설이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02395_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 27,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

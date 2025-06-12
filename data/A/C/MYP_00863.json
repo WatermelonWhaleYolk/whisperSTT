@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYP_00863",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.837,
+        "format": "MP4",
+        "date": "2022-12-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 흥민이 레전더리 클래스입니다 하여간 가만 보면 은근 팔불출 같은 구석이 있으시다니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.088
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 저는요 비록 4강에 올라가지 못했지만 잉글랜드의 주장으로서 팀을 8강까지 월클 케인선수는 월클입니다 역시 그렇죠 제가 아무리 PK를 실축하며 치명적인 오점을 남겼다지만 솔직히 제가 아니면 누가 월드 클래스겠습니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.098,
+                "end": 18.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 뚱딴지 같은 소리입니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.562,
+                "end": 20.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "케인 선수는 월급 받는 만큼 하는 클래스 줄여서 월클입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.333,
+                "end": 23.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니 이제 그만 주급 올려서 재계약한 다음 우리 흥민이한테 우승컵 좀 안겨달란 말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.897,
+                "end": 29.833
+            }
+        ]
+    },
+    "summary": "흥민이는 레전더리 클래스라고 하니 은근 팔불출 같은 구석이 있다며 얘기하자 케인 선수는 월급 받는 만큼 일해서 월클이고 이제 그만 주급 올려서 재계약한 다음 흥민이한테 우승컵 안겨달라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00863_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00863_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

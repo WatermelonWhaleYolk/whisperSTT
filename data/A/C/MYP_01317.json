@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYP_01317",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.533,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자자 드디어 기다리고 기다리던 첫 번째 선수를 영입했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 최대한 비밀리에 영입한다고 하긴 했는데 다들 이미 알고 있으려나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.518,
+                "end": 7.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "알고 있고 말고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.683,
+                "end": 8.922
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "분데스와 세리에서 우승을 경험했던 베테랑이자 크로아티아를 월드컵 준수승에 올려 놓았던 양발잡이 윙어 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.932,
+                "end": 16.016
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 이름이 페리카나였나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.026,
+                "end": 17.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "페리카나가 아니라 페리시치다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.555,
+                "end": 19.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뿐만 아니라 요리스의 백업 키퍼 포스터까지 이적료 한 푼 안들이고 FA로 데려오는데 성공했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.677,
+                "end": 25.591
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "수준급 선수 2명을 데려오고도 아직 2400억은 그대로 있다니 이거 정말 꿈만 같군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.601,
+                "end": 31.533
+            }
+        ]
+    },
+    "summary": "분데스와 세리에서 우승을 경험했던 베테랑이자 크로아티아를 월드컵 준수승에 올려 놓았던 양발잡이 윙어 페리시치를 영업했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01317_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

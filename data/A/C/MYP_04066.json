@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "MYP_04066",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.271,
+        "format": "MP4",
+        "date": "2020-08-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐야 뭐야 뭐 야 야 너 뭐하는 거야?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이리내 그거 내 거라고",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 2.715,
+                "end": 5.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "싫은데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.456,
+                "end": 7.828
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 신한테 가서 무릎 꿇고 빌어라 이 변태새끼야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.838,
+                "end": 12.092
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지드라다 드디어 찾았네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.102,
+                "end": 24.097
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "도대체가 땡땡이나 치기나 하고 뭘 하고 있길래",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.107,
+                "end": 27.753
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 마침 이 녀석을 줘 패고 있던 참이었지 정말이지 열 받게 하네",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 27.763,
+                "end": 34.565
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이 새끼가 너희들을 도찰하고 있더라고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 34.575,
+                "end": 38.271
+            }
+        ]
+    },
+    "summary": "변태가 여자들을 도촬하고 있어서 지드라가 발견하고 혼내 줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04066_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

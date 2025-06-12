@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_02170",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.666,
+        "format": "MP4",
+        "date": "2019-10-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 진행 상황은 경기 감독관을 통해 띄엄띄엄 전해졌고 최종 결과는 0대 0 무승부였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 진행 결과에 대해서 목말라 하셨으리라 생각이 듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.968,
+                "end": 10.484
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최대한 경기 진행 사항을 전달해드리고자 노력을 했으나",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.494,
+                "end": 16.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "FIFA 인판티노 회장까지 직접 평양까지 찾아가 지켜봤지만 깜깜이 경기의 해법은 찾지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.263,
+                "end": 23.666
+            }
+        ]
+    },
+    "summary": "FIFA 회장까지 찾아갔지만 축구 경기의 자세한 상황은 알 수 없었고 결과는 무승부였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02170_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

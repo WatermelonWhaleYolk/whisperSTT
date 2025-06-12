@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_04019",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2020-10-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 카이트형과 만들어 낼 화끈한 비주얼이 기대되긴 했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 괜찮아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.927,
+                "end": 7.504
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물풍선이니 그렇게 아프진 않을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.514,
+                "end": 10.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어차피 중요한 건 오늘 제대로 즐기는 거였으니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.021,
+                "end": 15.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 한가지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.385,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "후배가 카이트형과 만들어 낼 비주얼이 기대가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04019_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

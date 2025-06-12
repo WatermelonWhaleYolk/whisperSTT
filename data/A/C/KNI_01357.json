@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_01357",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.906,
+        "format": "MP4",
+        "date": "2023-01-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혼자서 무려 52일 동안 식량과 장비 등을 보급받지 않은 채 100킬로그램이 넘는 썰매를 끌며 남극점을 정복한 김영미 대장 한국인 최초로 무보급 단독으로 남극점에 도달한 철의 여인이 오늘 금의환향했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 14.997
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 팔을 번쩍 펼치며 귀국장에 들어선 김영미 대장 부모님은 극한의 추위를 딛고 돌아온 딸을 따뜻한 포옹으로 맞이했는데 김 대장의 소감 들어볼까요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.007,
+                "end": 25.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 여기 한국 한파라고요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.412,
+                "end": 27.883
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좀 더워서 네 아직 밖에 안 나가봐서 잘 모르겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.893,
+                "end": 32.688
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다시 제자리로 돌아온 것에 대한 감사함 따뜻한 사람들이 곁에 있다는 것을 다시 한번 느끼게 된 원정이었던 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.698,
+                "end": 39.906
+            }
+        ]
+    },
+    "summary": "한국인 최초로 무보급 단독으로 남극점에 도달한 김영미 대장이 금의환향하여 다시 제자리로 돌아온 것에 대한 감사함을 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01357_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

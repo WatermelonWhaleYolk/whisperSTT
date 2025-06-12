@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00693",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.222,
+        "format": "MP4",
+        "date": "2023-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코치 경험도 없는 초보 사령탑이지만 지난해 9위까지 추락한 @소속1을 부활시키겠다며 이를 악물었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한번 부딪쳐 보겠습니다. 어 많은 분들이 그런 좀 불신을 가지고 계시다면 어 시즌이 끝났을 때는 아 아 그런 생각이 잘못됐구나 하실 수 있도록 저 역시 많이 준비를 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.989,
+                "end": 22.222
+            }
+        ]
+    },
+    "summary": "코치 경험도 없는 초보이지만 지난해 9위까지 추락한 @소속1을 부활시키겠다며 이를 악물었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00693_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

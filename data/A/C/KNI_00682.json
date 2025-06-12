@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00682",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.185,
+        "format": "MP4",
+        "date": "2023-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1가 석 점 차로 끌려가던 4쿼터 막판 4.4초를 남기고 김선형이 자유투 3개를 얻어냅니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "귀중한 자유투 3개로 김선형은 승부를 연장으로 끌고 갔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.304,
+                "end": 14.755
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연장전에서도 김선형의 해결사 본능은 이어졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 14.765,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "석 점 차로 끌려가던 막판에 김선형이 자유투 3개를 얻어내 승부를 연장으로 끌고 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00682_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 150
+                }
+            ]
+        }
+    ]
+}

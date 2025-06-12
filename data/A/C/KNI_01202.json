@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_01202",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.434,
+        "format": "MP4",
+        "date": "2022-10-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "훈련 전 꼼꼼한 테이핑 준비 작업으로 시즌을 준비해 온 한 선수는 올 시즌에도 동료들과 변함없는 기량으로 개막 전 승리를 거뒀습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 선수의 부상 투혼을 앞세운 대한 항공의 3연속 통합 우승 도전에 초반부터 관심이 집중됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.341,
+                "end": 17.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 4000여 명의 관중이 운집한 김연경의 복귀 전 그리고 흥국생명의 시즌 두 번째 경기는 원정 티켓이 예매 28분 만에 매진되는 등 프로 배구 쿼트가 시작부터 뜨겁게 달아오르고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.847,
+                "end": 32.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.375,
+                "end": 34.434
+            }
+        ]
+    },
+    "summary": "한 선수의 부상 투혼을 앞세운 대한 항공의 우승에 관심이 집중됐으며 프로 배구 쿼트가 시작부터 뜨겁게 달아오르고 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01202_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

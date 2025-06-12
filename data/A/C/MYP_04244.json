@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYP_04244",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.833,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "냄새 냄새가 나 점점 가까워지고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "괴뢰 원수들의 돈육 잡내가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.499,
+                "end": 13.778
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무 냄새도 안 나는",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.788,
+                "end": 17.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 곧 돼지들이 몰려올 겁니다 버드님들과 돼지들의 오랜 전쟁에 대해서는 익히 들어 알고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.642,
+                "end": 23.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 그 약탈자들을 심판하시어 이 달걀을 되찾으시고 제게 자유를 되찾아 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.726,
+                "end": 32.832
+            }
+        ]
+    },
+    "summary": "돼지들의 냄새가 나는 걸로 보아 곧 몰려올 것 같으니 그 약탈자들을 버드님이 심판해서 달걀을 되찾으시고 저에게 자유를 되찾아 주셨으면 좋겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04244_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 22
+                }
+            ]
+        }
+    ]
+}

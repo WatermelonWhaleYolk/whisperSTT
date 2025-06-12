@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_01742",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.133,
+        "format": "MP4",
+        "date": "2018-03-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평창 동계 올림픽에서 따돌림 논란이 불거진 여자 스피드 스케이팅 팀 추월 경기 등에 대해서 정부가 감사에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문화 체육 관광부와 대한 체육회는 대한 빙상 경기 연맹에 대해서 15일 동안 합동 감사에 들어가며 연맹 측의 회의록과 대표 선발 규정 등 자료를 요청했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.732,
+                "end": 19.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 감사 대상에는 올림픽 직전 일어난 쇼트트랙 코치의 심석희 선수 폭행과 노선영 선수 출전 관련 연맹의 행정 착오 등도 포함될 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.894,
+                "end": 30.133
+            }
+        ]
+    },
+    "summary": "쇼트트랙 코치의 심석희 선수 폭행과 노선영 선수 출전에 관련해서 정부가 감사에 나섰으며 문화 체육 관광부와 대한 체육회는 연맹 측에 자료를 요청했다고 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01742_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

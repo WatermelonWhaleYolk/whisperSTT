@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_01578",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.69,
+        "format": "MP4",
+        "date": "2023-03-03",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현대 건설과의 격차를 다시 벌리며 우승 꿈을 부풀렸습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.014
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공교롭게도 또 현대 건설이랑 정규 리그 마지막 경기가 저희가 또 있기 때문에 그전에 저희가 좀 확정을 시키면 더 좋지 않을까",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.024,
+                "end": 14.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한때 개막 15연승 독주를 달렸던 현대 건설도 연승 행진을 재개하며 극적인 뒤집기를 꿈꾸고 있습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 14.905,
+                "end": 23.690
+            }
+        ]
+    },
+    "summary": "한때 개막 15연승 독주를 달렸던 현대 건설도 연속 행진을 재개하며 극적인 뒤집기를 꿈꾸고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01578_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

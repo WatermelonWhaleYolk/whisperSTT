@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_01560",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.565,
+        "format": "MP4",
+        "date": "2023-03-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지도자들로부터 폭언 폭력을 호소하며 세상을 떠난 김포 FC 유소년 선수 정 군의 생일인 오늘 체육 시민 단체들이 명명백백한 진상 규명과 책임자 처벌을 촉구하고 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김병수 김포시장과 김포 FC @이름1 대표를 규탄한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.752,
+                "end": 17.631
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "규탄한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.641,
+                "end": 18.704
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "규탄한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.714,
+                "end": 19.421
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "규탄한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.431,
+                "end": 20.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스포츠 윤리 센터가 8개월여의 조사 끝에 감독과 코치 등 3명에 대한 징계를 의결했지만 해당 지도자들은 재계약까지 한 채 여전히 김포 FC에 몸담고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.598,
+                "end": 32.565
+            }
+        ]
+    },
+    "summary": "지도자들로부터 폭언 폭력을 호소하며 세상을 떠난 김포 FC 유소년 선수 정 군의 생일인 오늘 체육 시민 단체들이 명명백백한 진상 규명과 책임자 처벌을 촉구하고 나섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01560_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

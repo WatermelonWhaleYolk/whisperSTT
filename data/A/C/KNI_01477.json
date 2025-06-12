@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01477",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.336,
+        "format": "MP4",
+        "date": "2023-01-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "데이원 스포츠의 모기업은 중견 기업인 대우 조선 해양 건설인데 모기업이 심각한 경영난에 빠지며 자금 조달이 어려워진 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대우 조선 해양 건설 노조 측은 @이름1 회장이 경영 위기에도 무리하게 농구단을 인수했다고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.170,
+                "end": 14.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 회장이 체육계의 발판으로 자신의 대외적 이미지를 만들고 영향을 넓혀 가고 있는 과정에 부족 사항은 회사의 존립을 위협 위협하는 상황으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.912,
+                "end": 26.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 비판이 거세지자 @이름1 회장은 최근 컬링 연맹 회장과 체육회 이사직에서 물러났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.827,
+                "end": 33.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 그 여파가 농구단으로 이어져 파행이 우려됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.078,
+                "end": 36.336
+            }
+        ]
+    },
+    "summary": "대우 조선 해양 건설 노조 측은 @이름1 회장이 경영 위기에도 무리하게 농구단을 인수했다고 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01477_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

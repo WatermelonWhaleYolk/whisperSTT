@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_02893",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.6,
+        "format": "MP4",
+        "date": "2020-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요? 여러분",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주말 잘들 보내고 계신가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.846,
+                "end": 2.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많은 분들이 그림을 어떻게 그리는지 궁금해 하시길래 오늘은 린가드 그리는 법을 알려드리려고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.572,
+                "end": 8.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저만 따라하시면 누구나 손 쉽게 린가드를 그릴 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.816,
+                "end": 12.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 참고로 그림은 아이패드와 프로 크리에이트 앱을 사용합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.915,
+                "end": 17.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 시작합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.143,
+                "end": 19.600
+            }
+        ]
+    },
+    "summary": "아이패드와 프로 크리에이트 앱을 이용하여 린가드 그리는 법을 알려주겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02893_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

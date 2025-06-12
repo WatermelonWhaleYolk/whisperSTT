@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_01266",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2022-12-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘 느껴졌거든요 저도 그래서 되게 감동받았어요 이번 월드컵을 보고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 월드컵을 끝으로 한국 축구와의 동행을 마무리한 벤투 감독은 지난 4년이 영광스러운 시간이었다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.997,
+                "end": 12.258
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.268,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "특히 월드컵을 끝으로 한국 축구와의 동행을 마무리한 벤투 감독은 지난 4년이 영광스러운 시간이었다고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01266_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

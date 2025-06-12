@@ -1,7 +1,14 @@
-from transformers import WhisperProcessor, WhisperForConditionalGeneration
+from transformers import WhisperForConditionalGeneration, WhisperProcessor
 
-model = WhisperForConditionalGeneration.from_pretrained("./whisper-finetuned/checkpoint-200")
-processor = WhisperProcessor.from_pretrained("openai/whisper-small")  # ← 원본에서 불러와야 함
+model = WhisperForConditionalGeneration.from_pretrained(
+    "../whisper-finetunedv2/checkpoint-1000",
+    local_files_only=True
+)
+# 생성된 체크포인트 명
+processor = WhisperProcessor.from_pretrained(
+    "../whisper-finetunedv2/checkpoint-1000",
+    local_files_only=True
+)
 
-model.save_pretrained("./whisper-finetuned-final")
-processor.save_pretrained("./whisper-finetuned-final")
+model.save_pretrained("../zeraV03") # 저장할 폴더 이름
+processor.save_pretrained("../zeraV03")

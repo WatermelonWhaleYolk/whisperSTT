@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_00368",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.05,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김유성은 이번 삼성과의 대구 3연전부터 팀과 동행하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 앞서 김유성은 중학교 시절 학교폭력 피해자와 합의하면서 이승엽 감독이 1군 엔트리 등록 기준으로 내세운 조건을 충족시켰는데 오늘은 경기 전 불펜 투구까지 소화했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.606,
+                "end": 17.050
+            }
+        ]
+    },
+    "summary": "김유성은 학교폭력 피해자와 합의하면서 이승엽 감독이 내세운 조건을 충족시켰데 오늘은 경기 전 불펜 투구까지 소화시켰다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00368_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

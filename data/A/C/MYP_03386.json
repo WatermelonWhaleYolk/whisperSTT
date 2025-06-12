@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_03386",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.216,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "화이팅",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아저씨 아니 선배님 힘내세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.462,
+                "end": 5.478
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 새끼들 병아리처럼 조잘조잘 내가 나이가 몇인데 선배가 뭐냐 아 삼촌이라 불러 새끼들아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.488,
+                "end": 16.216
+            }
+        ]
+    },
+    "summary": "내가 나이가 몇인데 선배가 뭔지 삼촌이라고 부르라고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03386_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

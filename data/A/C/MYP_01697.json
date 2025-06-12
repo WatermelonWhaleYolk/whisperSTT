@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_01697",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.833,
+        "format": "MP4",
+        "date": "2021-12-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정말이지 못하는 녀석을 찾기가 힘들 지경 아 그러고 보니 한 명 있었구먼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설마 응원을 열심히 안 했다고 그러는 기래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.622,
+                "end": 7.225
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내래 다음 경기부터 나팔이라도 챙겨 오겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.235,
+                "end": 10.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "녀석도 참 알리 너 말고 팀의 부주장이자 간판 스트라이커면서 리그에서 고작 1골에 머물러 있는 케인을 말하는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.318,
+                "end": 19.833
+            }
+        ]
+    },
+    "summary": "화자1이 1골 밖에 넣지 못한 케인에 대해서 말하고 화자2는 다음부터는 나팔을 가져와서 응원하겠다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01697_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

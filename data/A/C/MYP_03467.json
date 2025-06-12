@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03467",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.95,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "호주산 방목이군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굿 마블링",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.591,
+                "end": 3.607
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상 물정에 대한 무지로 인해 맹목적으로 정보를 긁어 모으던 그는 제대할 때 쯤엔",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.617,
+                "end": 9.943
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "병장 맥키",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.953,
+                "end": 10.916
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "병장 브랜든",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.926,
+                "end": 12.119
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "응 그래 나가서 부모님 속 썩이지 말고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.129,
+                "end": 15.658
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.668,
+                "end": 16.950
+            }
+        ]
+    },
+    "summary": "그는 세상 물정에 대한 무지로 인해 맹목적으로 정보를 긁어모았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03467_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

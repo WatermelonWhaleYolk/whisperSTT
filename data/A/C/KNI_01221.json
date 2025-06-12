@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_01221",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.388,
+        "format": "MP4",
+        "date": "2022-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인천을 출발해 월드컵이 열리는 카타르 도하까지는 비행시간만 10시간 가까이 걸렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 지금 축구대표팀과 함께 카타르로 향하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.603,
+                "end": 10.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠시후면 이제 결전지에 도착하는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.801,
+                "end": 13.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들의 각오 들어보시겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.830,
+                "end": 16.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영광스럽게 생각하고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.220,
+                "end": 18.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저의 첫 번째 월드컵 정말",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.475,
+                "end": 21.388
+            }
+        ]
+    },
+    "summary": "월드컵이 열리는 카타르 도하까지는 비행시간만 10시간 가까이 걸렸고 결전지에 도착하기 전 선수들의 각오를 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01221_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

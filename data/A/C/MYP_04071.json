@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYP_04071",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.96,
+        "format": "MP4",
+        "date": "2020-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 커피가 맛이 않나 이 자식은 여가 죽었나",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "딴 악마의 저주 때문에 루시퍼랑 저스티스의 요원이 서로 바뀌었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.410,
+                "end": 14.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흣 걱정 마라 나로 말할 것 같으면 하찮은 녀석의 저주 따위 문제 될 게 없다 이 말이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.491,
+                "end": 21.960
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "루시퍼씨 벽에 다 대고 큰소리 쳐봤자 소용없는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.970,
+                "end": 26.960
+            }
+        ]
+    },
+    "summary": "악마의 저주 때문에 루시퍼와 저스티스의 요원이 서로 바뀌었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04071_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

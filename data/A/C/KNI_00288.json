@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00288",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2022-11-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "송민규는 A 매치 데뷔 골을 월드컵 개막 직전에 터뜨리며 벤투 감독에게 제대로 눈도장을 찍었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들의 의욕이 넘치다 보니 아찔한 순간도 펼쳐졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.626,
+                "end": 12.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중앙 수비수 박지수가 공중 볼을 경합하다 발목을 다쳐 결국 들것에 실려 나갔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.104,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "송민규는 A 매치 데뷔 골을 월드컵 개막 직전에 터뜨리며 벤투 감독에게 제대로 눈도장을 찍었고 중앙 수비수 박지수가 공중 볼을 경합하다 발목을 다쳐 결국 들것에 실려 나갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00288_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

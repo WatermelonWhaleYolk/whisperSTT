@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_00983",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.997,
+        "format": "MP4",
+        "date": "2022-01-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4년이 지난 지금 상황은 달라졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무서울 만큼 성장한 정재원을 이제는 이승훈이 따라잡기 벅찬 모습입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.259,
+                "end": 7.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올림픽 전 마지막 시험 무대에서도 정재원의 1500미터 만 미터 모두 뒤졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.973,
+                "end": 13.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이승훈도 에이스는 이제 정재원이라며 실력 차이를 인정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.922,
+                "end": 18.191
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금의 저하고는 경기력을 비교하면 안 될 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.201,
+                "end": 22.743
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 남은 스케이팅 생활은 정말 이제 뭐 성적에 연연하지 않고 즐기면서 하고 싶다 그런 마음이었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.753,
+                "end": 30.997
+            }
+        ]
+    },
+    "summary": "무서울 만큼 성장한 정재원을 이제는 이승훈이 따라잡기 벅찬 모습이고 이승훈도 에이스는 이제 정재원이라며 실력 차이를 인정했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00983_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

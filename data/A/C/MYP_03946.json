@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYP_03946",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.824,
+        "format": "MP4",
+        "date": "2020-12-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전국에 걸쳐 목격한 신비의 노숙자들을 만나보는 비정기 시리즈 그 세 번째.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 이야기는 서울역 공성전.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.129,
+                "end": 12.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거 서울역 근처에서 직장생활을 했던 나는 어느 겨울 늦게까지 야근을 했는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.512,
+                "end": 18.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 택시 온다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.115,
+                "end": 22.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "택시가 정말 안 잡혔다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.379,
+                "end": 24.824
+            }
+        ]
+    },
+    "summary": "주인공이 서울역 근처에서 직장생활을 할 당시 밤늦게 택시를 잡으려는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03946_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

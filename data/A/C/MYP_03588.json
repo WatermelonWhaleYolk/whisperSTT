@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "filename": "MYP_03588",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.444,
+        "format": "MP4",
+        "date": "2022-04-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "난 아직 마운드에서 은퇴하지 않았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것은 아주 중요한 사실이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.409,
+                "end": 13.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.543,
+                "end": 15.379
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하하하하 퇴물도 이런 퇴물이 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.389,
+                "end": 20.396
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "동네 야구도 황송한 거여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.406,
+                "end": 23.378
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이렇게 두들겨 맞는데 무슨 놈의 프로 복귀야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.388,
+                "end": 27.328
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "예",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.338,
+                "end": 27.885
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네놈 어제 끝내기 처 맞는 거 누가 동영상 올려 놨네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.895,
+                "end": 32.055
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "동네 4번에게 전 프로가 홈런 처 맞다라고 하하하하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.065,
+                "end": 37.510
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그건 그냥 몸 푼다고 던진 거라니까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.520,
+                "end": 40.418
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 그리고 베트가 수십 만 원짜리 도깨비예요 참",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.428,
+                "end": 44.444
+            }
+        ]
+    },
+    "summary": "마운드에서 은퇴하지 않았고 어제 끝내기 던진 게 홈런이 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03588_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

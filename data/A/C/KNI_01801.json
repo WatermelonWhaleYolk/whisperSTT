@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01801",
+        "category": "스포츠뉴스",
+        "sub_category": 35,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.666,
+        "format": "MP4",
+        "date": "2016-08-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "6점이라는 실수를 해서 아 오늘 떨어졌구나 생각을 했어요 지금까지 딴 메달 중에 가장 무거운 금메달인 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올림픽 역사를 다시 쓴 진종오의 위대한 승리였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.828,
+                "end": 13.098
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진종오는 세계 사격 사상 처음 올림픽 3회 연속 우승인 동시에 대한민국 올림픽 선수로는 개인 종목 3연패를 달성한 최초의 선수가 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.108,
+                "end": 23.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베이징 올림픽 때도 울고 런던 올림픽 때도 울어서 이번에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.151,
+                "end": 26.666
+            }
+        ]
+    },
+    "summary": "진종오는 세계 사격 사상 처음 올림픽 3회 연속 우승인 동시에 대한민국 올림픽 선수로는 개인 종목 3연패를 달성한 최초의 선수로 올림픽 역사를 다시 쓴 진종오의 위대한 승리였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

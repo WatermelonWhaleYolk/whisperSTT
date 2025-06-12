@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02701",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.3,
+        "format": "MP4",
+        "date": "2020-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐야 여기 어디야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.514
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 토트넘 놈들이잖아 난 분명 빅클럽 아니면 이적하지 않는댔는데 날 납치한 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.524,
+                "end": 6.753
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭔 소리야 우리도 납치된 것 같은데 여기는 어디지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.763,
+                "end": 9.611
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "지금부터 마피아 게임을 시작하겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.621,
+                "end": 11.422
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아니 마피아 게임이라니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.432,
+                "end": 12.715
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "마피아는 밤마다 시민을 1명 죽일 수 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.725,
+                "end": 15.146
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "의사는 1명을 지목해 살릴 수 있으며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.156,
+                "end": 17.300
+            }
+        ]
+    },
+    "summary": "토트넘 놈들이 난 분명 빅클럽 아니면 이적하지 않는댔는데 납치한 거냐고 하는데 마피아 게임이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02701_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

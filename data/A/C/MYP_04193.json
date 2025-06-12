@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYP_04193",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.819,
+        "format": "MP4",
+        "date": "2020-04-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이에 못지않게 산티아고도 강렬한 첫인상을 남겨 주었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아침 일찍 학교 가는 버스안에서 무심코 창 밖을 바라보던 나는",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.420,
+                "end": 10.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 잠와 어?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.860,
+                "end": 14.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지각하지 않기 위해 뛰는 무리들을 발견했다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.876,
+                "end": 18.366
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흐음.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.376,
+                "end": 19.819
+            }
+        ]
+    },
+    "summary": "이에 못지않게 산티아고도 강렬한 첫인상을 남겨 주었는데 아침 일찍 학교 가는 버스안에서 무심코 창 밖을 바라보다 지각하지 않기 위해 뛰는 무리들을 발견했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04193_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

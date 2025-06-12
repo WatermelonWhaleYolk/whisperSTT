@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_01887",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.7,
+        "format": "MP4",
+        "date": "2021-09-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면 이번 시즌 다시 한번 뮌헨이 트레블을 이루는 것과 팀은 무관에 그치면서 레반도프스키 후보가 발롱도르를 수상하는 것 중 어느 것을 선택하시겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 팀 성적도 중요하지만 우리 뮌헨은 2번이나 트레블을 이뤄냈잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.865,
+                "end": 13.495
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반면에 나 레반도프스키는 발롱도르를 코앞에서 놓치며 1번도 수상하지 못했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.505,
+                "end": 17.731
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번만큼은 개인 수상을 선택하겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.741,
+                "end": 19.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "발롱도르",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.632,
+                "end": 20.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "레반도프스키 후보 통과입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.285,
+                "end": 22.159
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 아무리 발롱도르 운이 없었다 해도 팀의 트레블을 거절한다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.169,
+                "end": 26.256
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "팀보다 더 위대한 선수는 없다는 거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.266,
+                "end": 28.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음은 메시 후보 차례입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.678,
+                "end": 30.700
+            }
+        ]
+    },
+    "summary": "사회자가 이번 시즌 뮌헨이 트레블을 이루는 것과 팀은 무관에 그치면서 레반도프스키 후보가 발롱도르를 수상하는 것 중 어느 것을 선택하겠냐고 묻자 레반도프스키는 발롱도르를 코앞에서 놓치며 1번도 수상하지 못했다며 발롱도르를 선택하겠다고 하고 사회자는 레반도프스키 후보 통과라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01887_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

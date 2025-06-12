@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_00963",
+        "category": "스포츠뉴스",
+        "sub_category": 11,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.621,
+        "format": "MP4",
+        "date": "2022-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "목표였던 40살을 채우지 못하고 37살에 은퇴한 장종훈은 고교 야구의 장타력 실종에 대해 쓴소리도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야구 강국 미국 일본과 달리 나무 배트를 쓰는 우리나라는 단타식으로 맞히는 데 급급하다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.245,
+                "end": 14.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잠깐만요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.492,
+                "end": 16.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.504,
+                "end": 17.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 이건 민감한 얘기인데 방망이에 대해서 얘기해도 되나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.311,
+                "end": 20.308
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "해도 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.318,
+                "end": 21.163
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "해도 상관없어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.173,
+                "end": 21.621
+            }
+        ]
+    },
+    "summary": "37살에 은퇴한 장종훈은 고교 야구의 장타력 실종에 대해 쓴소리도 했는데 나무 배트를 쓰는 우리나라는 단타식으로 맞히는 데 급급하다는 겁니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00963_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

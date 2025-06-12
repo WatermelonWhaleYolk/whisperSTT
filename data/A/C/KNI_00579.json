@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_00579",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.085,
+        "format": "MP4",
+        "date": "2023-01-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "점점 더 고난도 기술을 요구하는 피겨 흐름에 맞춰 어린 나이부터 치열하게 기술을 연마하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "풍부한 표현력이 무기인 선수도 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.360,
+                "end": 10.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 고난도 점프 없이 주니어 그랑프리 메달을 획득할 만큼 풍부한 표현력과 스케이팅 솜씨를 자랑하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.576,
+                "end": 19.085
+            }
+        ]
+    },
+    "summary": "점점 더 고난도 기술을 요구하는 피겨 흐름에 맞춰 어린 나이부터 치열하게 기술을 연마하는데 고난도 점프 없이 주니어 그랑프리 메달을 획득할 만큼 풍부한 표현력과 스케이팅 솜씨를 자랑하는 선수도 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00579_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

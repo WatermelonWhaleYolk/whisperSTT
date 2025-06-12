@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNI_01433",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.472,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 그동안 차마 못 봤던 인터뷰 영상을 은퇴하고 나서야 처음으로 본다며 또다시 눈물을 흘렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 이런 이미지가 아니라서 울면 안 되는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.459,
+                "end": 10.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.735,
+                "end": 12.143
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그냥 조금 마음이 좀 그래 가지고 좋은데 좋지만은 않더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.153,
+                "end": 17.419
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 울분이 쌓였던 것 같고 뭔가 서러움이 좀 있었던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.429,
+                "end": 22.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그동안의 배구 생활에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.850,
+                "end": 25.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마음 고생도 많았지만 누구보다 밝은 모습으로 묵묵히 제 몫을 다했던 @이름1 코트를 떠나도 진한 감동은 팬들의 기억에 남게 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.638,
+                "end": 37.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.188,
+                "end": 39.472
+            }
+        ]
+    },
+    "summary": "누구보다 밝은 모습으로 제 몫을 다했던 김유리는 코트를 떠나도 진한 감동은 팬들의 기억에 남게 됐다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01433_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 66
+                }
+            ]
+        }
+    ]
+}

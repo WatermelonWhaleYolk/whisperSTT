@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_03362",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.156,
+        "format": "MP4",
+        "date": "2022-09-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 정말 고마워 하지만 그 돈으로 이르는 사람들을 도우면 가장 달콤한 디저트가 되어 주지 않을까 네 입만 입이니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.159
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당신이 제일 어려워 저 뒤에 방관자 웃지 마 즐기지 마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.169,
+                "end": 15.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 미개하게 느껴지기 때문이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.459,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "성인 타입의 요셉형과 대화하다 보면 내가 미개하게 느껴진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03362_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

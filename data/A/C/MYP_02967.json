@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_02967",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.366,
+        "format": "MP4",
+        "date": "2020-02-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 내일 날이 밝는 대로 애들을 데리고 원정길에 나선다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할 수 있다 레알.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.270,
+                "end": 5.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할라 마드리드 자 얘들아 우리의 첫 관문은 바로 이곳 맨도시라는 지역이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.236,
+                "end": 13.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 이곳을 통과해야 비로소 챔피언스산에 한 발 내디딘다고 볼 수 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.324,
+                "end": 19.043
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실상 이번 스토리는 레알이 챔스 탈락하는 순간 쫑나는 거니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.053,
+                "end": 23.366
+            }
+        ]
+    },
+    "summary": "법사는 원정대에게 첫는 관문이 맨도시라고 이야기하고 있고 일단 맨도시를 통과해야 비로소 엄청난 스산에 한 발 내디딘다고 볼 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02967_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

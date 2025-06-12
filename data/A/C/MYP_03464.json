@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "filename": "MYP_03464",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.238,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 노동자 다이어리 원 더 비기닝",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군인들은 사회로 나갈 날이 다가올수록",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.863,
+                "end": 15.315
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이야 이제 전역도 얼마 안 남았네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.325,
+                "end": 18.292
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다 왔어 다 왔어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.302,
+                "end": 20.360
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "흐흐흐흐흐흐 녀석들.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.370,
+                "end": 23.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2년 동안 쌓아온 바깥세상에 대한 환상으로 인해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.112,
+                "end": 26.545
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "난 나가면 머리 길러서 바로 클럽 가야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.555,
+                "end": 29.581
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하하놔 야망 없는 놈 형은 전국 일주 돌 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.591,
+                "end": 33.908
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "헤헤헤헤헤헤 녀석들",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.918,
+                "end": 37.286
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "야 너희들",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.296,
+                "end": 38.238
+            }
+        ]
+    },
+    "summary": "군인들은 사회로 나갈 날이 다가올수록 2년 동안 쌓아온 바깥세상에 대한 환상이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03464_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "KNI_01652",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.6,
+        "format": "MP4",
+        "date": "2019-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인천공항의 뜨거운 열기는 서울 시청 앞 환영 행사로 이어졌습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결승전에서 못다 한 늦은 헹가래를 받은 @이름1 감독은 선수들에게 모든 공을 돌렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.486,
+                "end": 12.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "임금이 있어서 백성이 있는 게 아니고 백성이 있어서 임금이 있는 거처럼 우리 선수들이 있기에 제가 지금 이 자리에 있습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.609,
+                "end": 23.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제자들은 재치 넘치는 3행시로 스승의 은혜에 화답했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.333,
+                "end": 28.231
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "정말 훌륭하신 @이름1 감독님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.241,
+                "end": 32.168
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "용.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.178,
+                "end": 33.454
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "사랑해용.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 33.464,
+                "end": 35.600
+            }
+        ]
+    },
+    "summary": "인천공항의 뜨거운 열기는 서울 시청 앞 환영 행사로 이어져 선수들이 @이름1 감독에게 헹가래를 하고 @이름1 감독은 모든 공을 선수들에게 돌렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01652_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01652_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

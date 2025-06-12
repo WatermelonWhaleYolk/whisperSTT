@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_02290",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.166,
+        "format": "MP4",
+        "date": "2021-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 봐 무리뉴 피고 무리뉴 방금 원고가 한 말이 사실입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.587
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼요 명명백백한 사실입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.597,
+                "end": 5.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.603,
+                "end": 6.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "존경하는 회장님 저는 이렇듯 경질 당할 수도 있는 자리에서도 거짓말을 말하지 않듯 절대로 없는 얘기를 꾸며서 말하지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.375,
+                "end": 12.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안타깝게 탈락했던 유로파 리그 기억나시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.912,
+                "end": 15.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기억하고 말고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.331,
+                "end": 16.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그날 제가 구단주님께 얼마나 까였는지 알긴 아세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.694,
+                "end": 19.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "디나모 자그레브와의 2차전을 앞두고 전 선수단 모두에게 오르시치를 주의하라고 전달했으며 오르시치의 득점 패턴에 대한 분석까지 전달했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.761,
+                "end": 26.812
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 경기 당일 오르시치에게 그 패턴 그대로 실점했죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.822,
+                "end": 29.898
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무려 3골이나 말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.908,
+                "end": 31.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이래도 선수 탓을 안 하게 생겼습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.110,
+                "end": 33.086
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그저 남탓 남탓 남탓 감독인 당신이 제대로 된 전술을 구사하지 못했다고는 생각하지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.096,
+                "end": 40.166
+            }
+        ]
+    },
+    "summary": "무리뉴는 이전에 치뤘던 경기들을 예시로 항변을 하고 원고 측 대표인 주장 선수는 제대로 된 전술을 구사하지 못했다고 반박하고 있는 장면을 만화 캐릭터로 표현되고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02290_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

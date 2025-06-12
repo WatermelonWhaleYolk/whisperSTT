@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "KNI_00451",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.757,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불혹의 나이인 마흔 살 최장수 치어리더로 동료들에겐 좋은 롤모델이며 팬들에겐 문학의 상징적 존재입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 제가 감히 평가를 할 수가 없는 위치여가지고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.649,
+                "end": 11.142
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 팀장이지만 항상 본받고 싶은 그런 선배님입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.152,
+                "end": 15.339
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 희로애락을 같이 겪었다고 해도 과언이 아니에요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.349,
+                "end": 17.941
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "선수처럼 결번을 해줘도 정말 그 아깝지 않을 하나의 표상이 되지 않을까라는 생각합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.951,
+                "end": 23.757
+            }
+        ]
+    },
+    "summary": "불혹의 나이 최장수 치어리더로 동료들에겐 본받고 싶은 좋은 롤모델이며 팬들에겐 선수처럼 결번을 해줘도 아깝지 않을 문학의 상징적 존재라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00451_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

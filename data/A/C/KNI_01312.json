@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_01312",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.953,
+        "format": "MP4",
+        "date": "2023-01-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 협회가 A 의무 팀장을 귀국시키면 나머지 의무 스태프들이 철수하겠다고 맞서면서 일부 선수들과 협회의 심각한 갈등이 있었음이 드러났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일부 선수들은 @이름1 씨가 자격증이 없는 게 문제라면 장비 담당 등 다른 직책으로 등록하면 될 것 아니냐는 요구도 했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.779,
+                "end": 19.953
+            }
+        ]
+    },
+    "summary": "일부 선수들과 협회의 심각한 갈등이 있었음이 드러났고 일부 선수들은 안 씨가 자격증이 없는 게 문제라면 장비 담당 등 다른 직책으로 등록하면 될 것 아니냐는 요구도 했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01312_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

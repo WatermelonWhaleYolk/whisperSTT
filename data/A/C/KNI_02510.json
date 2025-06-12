@@ -1,0 +1,193 @@
+{
+    "metadata": {
+        "filename": "KNI_02510",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.566,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니요 그건 아닌데.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.472
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.482,
+                "end": 2.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.476,
+                "end": 3.633
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다리 아프다고 했잖아 다쳤다고.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.643,
+                "end": 7.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 심한 게 아니에요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.328,
+                "end": 10.443
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심한 게 아니야 그런데 왜 안 나왔어?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.453,
+                "end": 13.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "늦잠 잤어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.160,
+                "end": 14.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "늦잠 잤어?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.475,
+                "end": 15.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어제는?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.414,
+                "end": 16.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "늦잠 잤고 그제도 늦잠 잤고?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.924,
+                "end": 20.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.266,
+                "end": 21.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕히 계세요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.088,
+                "end": 22.784
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유니폼 갖고 왔어?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.794,
+                "end": 24.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.218,
+                "end": 25.566
+            }
+        ]
+    },
+    "summary": "선생님과 마실라가 왜 연습 안 나왔는지 대화를 나누고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02510_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 10,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01889",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.021,
+        "format": "MP4",
+        "date": "2022-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예전 모습으로 다시 또 돌아갈 수 있게끔 많이 도와주고 계시는데 저 또한 보답하고 또 욕 좀 많이 안 했으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.638
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수들의 마음을 무장해제시키는 따뜻한 기동매직이 포항 상승세의 원동력이 되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.648,
+                "end": 16.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기동매직 영원하라",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.067,
+                "end": 19.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.079,
+                "end": 21.021
+            }
+        ]
+    },
+    "summary": "선수들의 마음을 무장해제시키는 따뜻한 기동매직이 포항 상승세의 원동력이 되고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01889_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

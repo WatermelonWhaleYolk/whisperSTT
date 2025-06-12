@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_02795",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.6,
+        "format": "MP4",
+        "date": "2020-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너도 도움 정도는 할 수 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.745
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 손흥민 선수 라멜라 선수에게 어떤 조언 같은 걸 해주는 것 같아 보이는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.755,
+                "end": 6.404
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "라멜라 선수 이제 정신차리고 패스해죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.414,
+                "end": 8.659
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무튼 마지막으로 캉테 선수의 인터뷰 보시면서 이 시간 마무리 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.669,
+                "end": 12.201
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "캉테 선수 무더위에 재개된 프리미어리그 경기를 직접 해보니 좀 어떠신가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.211,
+                "end": 15.626
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 열기도 더 더해지고 요새 불쾌지수도 높고 너무 끈적끈적한 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.636,
+                "end": 20.329
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "활동하기 너무 힘들어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.339,
+                "end": 22.482
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "열기도 더 더해지고 너무 힘들어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.492,
+                "end": 26.330
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "요새 불쾌지수 너무 높고 끈적끈적 힘들어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.340,
+                "end": 30.054
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "너무 힘들어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.064,
+                "end": 31.733
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "끈적끈적 끈적끈적",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.743,
+                "end": 32.600
+            }
+        ]
+    },
+    "summary": "한 선수가 무더위 때문에 끈적끈적해서 힘들다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

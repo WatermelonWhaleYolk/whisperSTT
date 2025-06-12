@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_01034",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.066,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "의욕에 넘쳐 공격자 반칙을 범하는가 하면 시간에 쫓겨 던진 슛은 림도 맞추지 못했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 오리온은 한호빈이 절묘한 플로터를 버저와 함께 성공시키는 등 SK와 달리 경기가 잘 풀렸습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.901,
+                "end": 15.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "SK는 막판 거센 추격에도 오리온을 넘지 못해 1위 확정을 향한 매직 넘버를 2에서 줄이지 못했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 15.707,
+                "end": 24.584
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 경기를 보여드리지 못해서 또 정말 죄송하고 또 다음 경기 준비 잘해서 팬들이 또 즐거운 경기를 볼 수 있게 준비하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.594,
+                "end": 33.066
+            }
+        ]
+    },
+    "summary": "SK는 막판 거센 추격에도 오리온을 넘지 못해 1위 확정을 향한 매직 넘버를 2에서 줄이지 못했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01034_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

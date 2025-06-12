@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_02208",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.5,
+        "format": "MP4",
+        "date": "2017-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동계 아시안 게임이지만 이번 대회 선수들의 각오가 남다른 이유도 중국의 존재 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "노련한 부분도 있기도 하고 또 굉장히 거칠게 레이스 하는 스타일이기 때문에 선수들 모두가 그런 부분이 잘 유의해서 레이스를 풀어나갈 생각이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.399,
+                "end": 17.500
+            }
+        ]
+    },
+    "summary": "중국이 노련한 부분도 있고 거칠게 레이스 하는 스타일이라 선수들이 그런 부분을 잘 유의하고 레이스를 풀어나갈 생각으로 이번 동계 아시안 게임 참여하는 선수들의 각오가 남다르다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02208_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 64,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

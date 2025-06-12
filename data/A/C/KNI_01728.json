@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_01728",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.933,
+        "format": "MP4",
+        "date": "2018-03-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "북한의 마유철 김정현 크로스컨트리 선수들은 1.1킬로미터 예선에 출전해 완주에 성공했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 대회 마지막 경기를 마치고 문재인 대통령의 격려를 받은 북한 선수단은 내일 돌아갑니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.941,
+                "end": 14.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "휠체어컬링 대표팀은 노르웨이와의 예선 8차전에서 9대 2로 졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.263,
+                "end": 19.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.793,
+                "end": 21.933
+            }
+        ]
+    },
+    "summary": "북한의 마유철 김정현 크로스컨트리 선수들은 1.1킬로미터 예선 경기에서 완주했고 휠체어컬링 대표팀은 노르웨이와의 예선 경기에서 패배했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01728_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

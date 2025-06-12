@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_04211",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.689,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이거 어떻게 대리임이 아시면서 뒤지는데 예 아 그거요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 달걀을 탈취할 때 시간과 장소가 적힌 메시지를 남깁니다 꼭 돼지들이 훔친 것처럼 일종의 도전장 같은 걸 남겨요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.520,
+                "end": 16.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우린 그 시간과 장소에 맞춰 세팅을 하는 거죠 그 작업도 항상 대리님이 직접 하셨기 때문에.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.156,
+                "end": 22.689
+            }
+        ]
+    },
+    "summary": "달걀을 탈취할 때 시간과 장소가 적힌 메시지를 꼭 돼지들이 훔친 것처럼 일종의 도전장 같은 것을 남기고 우린 그 시간과 장소에 맞춰 세팅을 하는 건데 그것도 항상 대리님이 하셨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04211_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

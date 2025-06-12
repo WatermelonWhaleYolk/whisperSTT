@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYP_00818",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.766,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "걱정 마세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저런 배신자 새끼들",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.592,
+                "end": 3.137
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "타랍박 너무 신경 쓰지 마라. 우리는 우리대로 경기해서 승리를 가져오면 된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.147,
+                "end": 7.425
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "자 지금부터 팩토리 월드컵의 결승전 FC 매수와 냠냠 쩝쩝 김치 마을의 경기를 시작합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.435,
+                "end": 12.892
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "냠냠 쩝쩝 김치 마을이라니 우린 김치 유나이티드라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.902,
+                "end": 15.744
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그거나 그거나 자 그럼 경기 시작 삐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.754,
+                "end": 18.766
+            }
+        ]
+    },
+    "summary": "남자가 예전 팀원들에게 배신자라고 하자 대리는 신경 쓰지 말라고 말한 잠시 후 심판은 경기 시작을 알린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00818_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

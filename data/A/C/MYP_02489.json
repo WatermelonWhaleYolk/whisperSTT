@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYP_02489",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.2,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이제 저만의 그림체를 살리다 보니까 요새 들어서 이제 새롭게 선수들을 다시 좀 업그레이드시켜서 그리고 있는데 사진을 참고해서 그리지만 이제 사진을 대고 그리지 않다 보니까 가끔 좀 안 닮는다는 댓글도 많이 봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 18.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 뭐 나름대로 그래도 좋아들 하시니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.323,
+                "end": 22.200
+            }
+        ]
+    },
+    "summary": "새롭게 선수들을 다시 업그레이드해 그리고 있는데 안 닮았다는 댓글도 많이 봅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02489_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

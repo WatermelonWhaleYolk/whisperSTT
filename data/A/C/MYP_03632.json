@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYP_03632",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.204,
+        "format": "MP4",
+        "date": "2021-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아버지 나를 지켜줘",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "히노카미 카구라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.172,
+                "end": 4.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "푸른 비단의 하늘",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.861,
+                "end": 7.758
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.768,
+                "end": 10.935
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.945,
+                "end": 12.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전력으로 간다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.187,
+                "end": 18.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힘내라 탄지로",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.974,
+                "end": 24.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맛을 좀 볼까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.598,
+                "end": 27.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카마도 가문의 비전",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.655,
+                "end": 35.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올바른 호흡을 익히는거야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 35.378,
+                "end": 38.204
+            }
+        ]
+    },
+    "summary": "입으로 숨을 마시고 맛을 좀 볼까 하며 빵 반죽을 하다 반죽이 불로 변하면서 카마도 가문의 비전을 외친다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03632_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 50
+                }
+            ]
+        }
+    ]
+}

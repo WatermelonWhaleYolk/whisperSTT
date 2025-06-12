@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "filename": "MYP_03800",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.899,
+        "format": "MP4",
+        "date": "2021-05-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 그의 이러한 취향들을 비난했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.562
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 것 좀 그만 사",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.572,
+                "end": 4.213
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "유치하게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.223,
+                "end": 5.199
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "후후후후 솔직하지 못하군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.209,
+                "end": 8.736
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "자 사실은 재밌어 보인다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.746,
+                "end": 12.343
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "방울 터뜨려보고 싶다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.353,
+                "end": 15.653
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "외면해도 소용없다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.663,
+                "end": 17.846
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "체면도 자존심도 필요 없다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.856,
+                "end": 21.847
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에라이 모르겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.857,
+                "end": 23.451
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하하 하하하하",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.461,
+                "end": 24.838
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "좋아할 줄 알았다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.848,
+                "end": 26.234
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하하",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.244,
+                "end": 27.743
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역시 남자는 커도 애였다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.753,
+                "end": 32.899
+            }
+        ]
+    },
+    "summary": "우리는 그의 이러한 취향들을 비난했지만 결국 비누방울을 터트리며 논다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03800_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 4
+                }
+            ]
+        }
+    ]
+}

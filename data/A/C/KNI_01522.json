@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNI_01522",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.889,
+        "format": "MP4",
+        "date": "2022-12-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "키움 히어로즈 @이름1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.692
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1은 전체 313표 중 179표를 얻어 @이름2 82표 차로 제쳤습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 1.702,
+                "end": 8.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름3 감독에게 축하 꽃다발을 받은 @이름1은 그동안의 논란을 의식한듯 담담하게 겸손한 수상 소감을 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.673,
+                "end": 16.985
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "앞으로 더 좋은 모습 보이고 좋은 선수가 될 수 있도록 노력 많이 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.995,
+                "end": 22.889
+            }
+        ]
+    },
+    "summary": "@이름3 감독에게 축하 꽃다발을 받은 @이름1은 그동안의 논란을 의식한듯 담담하게 겸손한 수상 소감을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01522_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

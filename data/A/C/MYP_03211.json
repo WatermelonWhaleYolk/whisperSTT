@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_03211",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 그르게 결국 차한테 한방거리 되셨네 아이고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 뭐라카데 어 뭐라카데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.895,
+                "end": 6.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기다 그가 만약 청년기에 이 사고를 당했었다면 그거 젊을 때였으면 군",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.300,
+                "end": 12.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군을 면제 받았을 정도의 중상이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.113,
+                "end": 18.194
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니야 난 후회하지 않아 그래 후회 안 할 거야 .",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.204,
+                "end": 23.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 뭐 이해한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.208,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03211_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

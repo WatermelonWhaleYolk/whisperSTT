@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_02355",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 45.333,
+        "format": "MP4",
+        "date": "2021-03-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 여보세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오랜만이다 가레스 베일 아니 지비 나인 요원",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.980,
+                "end": 3.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누 누구세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.690,
+                "end": 4.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그새 내 목소리를 잊은건가 난 웨일스 마피아의 빅 보스",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.462,
+                "end": 7.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 라이언 준식 님이시군요 근데 어쩐 일로 전화하셨는지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.716,
+                "end": 11.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "코드 네임 지비 나인 너에게 특별 임무가 주어졌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.319,
+                "end": 13.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 특별 임무라뇨 저 이제 마피아에서 손 떼기로 한 거 잊으셨습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.000,
+                "end": 17.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "레알에서 활동하며 약속한 트로피 10개에 3개를 얹어 드렸으면 이제 그만 골프나 치면서 쉬엄쉬엄 지내게 해 주셔야죠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.125,
+                "end": 23.058
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몇 달 있으면 유로 2021이 시작된다는 사실 알고 있겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.068,
+                "end": 26.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 그건 그냥 참가에 이의를 두시는 거 아니었어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.254,
+                "end": 28.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 웨일즈가 프랑스나 포르투갈 같은 강팀을 피하며 터키, 스위스, 이탈리아와 함께 에이 조로 편성되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.827,
+                "end": 34.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고요 그 정도라면 우리도 한번 해볼 만하다는 건가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.685,
+                "end": 37.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇다 그렇기 때문에 지비 나인 너는 유로가 개최되기 전까지 공을 끌어 올리면서 토트넘에 잠입시킨 또 다른 동료 비디 33과 제이알 14",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.533,
+                "end": 45.333
+            }
+        ]
+    },
+    "summary": "웨일스 마피아의 빅 보스 라이언 준식은 가레스 베일에게 유로 2021이 개최되기 전 공을 끌어 올리라는 특별 임무를 줍니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02355_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

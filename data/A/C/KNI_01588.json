@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_01588",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.923,
+        "format": "MP4",
+        "date": "2023-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흥국생명도 쉽게 물러서지는 않았습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김연경과 @이름1의 합작으로 경기는 풀세트로 이어졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.652,
+                "end": 6.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "운명의 5세트를 책임진 건 베테랑 @이름2였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.647,
+                "end": 10.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2의 강력한 퀵오픈을 마지막으로 0퍼센트의 확률을 뚫어낸 기적의 우승이 만들어졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.953,
+                "end": 17.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "V리그 챔피언결정전에서 일이 차전을 먼저 내주고 역전 우승을 차지한 건 도로공사가 처음입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.391,
+                "end": 23.923
+            }
+        ]
+    },
+    "summary": "V리그 챔피언결정전에서 일이 차전을 먼저 내주고 역전 우승을 차지한 건 도로공사가 처음이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01588_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

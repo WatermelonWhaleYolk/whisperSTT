@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_01878",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.458,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바닷가 앞에선 입수도 빠질 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강성현 감독을 물에 빠뜨리기도 하며 훈련의 스트레스를 날려버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.399,
+                "end": 8.029
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "관절이 좀 따르지 않은 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.039,
+                "end": 10.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관절이요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.136,
+                "end": 11.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설레는 마음으로 왔는데 그런데 막상 모래사장을 보니까 아 훈련은 훈련이구나 이런 생각이 들었던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.455,
+                "end": 17.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 여파로 리그가 연이어 조기 종료된 탓에 1위를 하고도 우승이라는 방점을 찍지 못했던 현대건설",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.452,
+                "end": 25.458
+            }
+        ]
+    },
+    "summary": "코로나 여파로 리그가 연이어 조기 종료된 탓에 1위를 하고도 우승이라는 방점을 찍지 못했던 현대건설이 바닷가로 훈련을 왔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01878_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

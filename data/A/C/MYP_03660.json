@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYP_03660",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.662,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결국 우리 인간들이 그렇게 만들어버린 건데 사죄의 의미로 깃털 하나라도 남겨주고 싶어서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.258
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오그라들게 저질러버렸다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.268,
+                "end": 12.391
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헌데 의미조차 불분명한 이 똥 같은 발언에 아이들의 마음이 크게 일렁이기 시작했고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.401,
+                "end": 19.729
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 너무 멋지다",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.739,
+                "end": 22.655
+            }
+        ]
+    },
+    "summary": "인간들이 그렇게 만든 거니 사죄의 의미로 깃털을 남겨주고 싶다 하니 아이들의 마음이 크게 일렁이기 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03660_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

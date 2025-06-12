@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_04349",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.588,
+        "format": "MP4",
+        "date": "2019-10-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "패디큐어 색 바꿨단 말이야 긴장 안 하지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 신발이라도 벗고 물어봐 이년아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.184,
+                "end": 7.987
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이런 그의 꿈은 언젠가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.997,
+                "end": 10.933
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "캬라멜 프라푸치노 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.943,
+                "end": 12.859
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "앞으로 바리스타가 되는 것.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.869,
+                "end": 16.284
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "앞으로 라면 불친절해도 컨셉으로 봐줄 것 같기 때문.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.294,
+                "end": 21.588
+            }
+        ]
+    },
+    "summary": "한 캐릭터의 꿈은 앞으로 바리스타가 되는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04349_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02104",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.17,
+        "format": "MP4",
+        "date": "2021-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이탈리아가 준결승에 올라가면 새로운 녀석들을 그려주겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.261
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그래도 그렇죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.271,
+                "end": 4.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "라인업에도 없으신 분이 나와 버리면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.141,
+                "end": 5.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원망하려거든 저 사회자 양반을 원망하게나 원래 임모빌레를 그리던 도중 급하게 가투소를 그렸다던가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.887,
+                "end": 11.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 놓고 누누인지 뭔지를 데려왔다잖아 하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.974,
+                "end": 14.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 일단 알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.828,
+                "end": 15.865
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 대표팀 벤치에라도 계시다는 가정하에 말씀드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.875,
+                "end": 18.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래 그럼 뭐 나부터 얘기하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.701,
+                "end": 21.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 이탈리아는 현재 패배는커녕 무승부도 하지 않고 8강에 진출했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.050,
+                "end": 25.166
+            }
+        ]
+    },
+    "summary": "상대팀 선수가 이탈리아 선수가 라인업도 없지만 대표팀 벤치에 있다는 가정하에 얘기한다며 이탈리아는 현재 전 경기 우승으로 8강에 진출했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02104_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

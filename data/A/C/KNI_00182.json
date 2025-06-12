@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNI_00182",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.686,
+        "format": "MP4",
+        "date": "2022-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이현중은 부담이 너의 게임에 영향을 끼치게끔 두지 말고 달고 다녀라는 김연경의 조언을 공개하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밥 한번 사줬다 거덜 날 뻔했어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.563,
+                "end": 9.795
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "100만 원 넘게 나왔어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.805,
+                "end": 11.136
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저 혼자 먹은 것도 아니었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.146,
+                "end": 13.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네가 많이 시켰잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.394,
+                "end": 15.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월드 스타 김연경의 응원을 받은 이현중도 부쩍 힘을 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.461,
+                "end": 19.686
+            }
+        ]
+    },
+    "summary": "이현중은 부담이 너의 게임에 영향을 끼치게끔 두지 말고 달고 다녀라는 월드 스타 김연경의 조언와 응원을 받고 부쩍 힘을 냈습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00182_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00182_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

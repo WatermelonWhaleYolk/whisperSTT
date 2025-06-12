@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "KNI_01135",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.399,
+        "format": "MP4",
+        "date": "2022-09-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 최종 기록이 323센치미터 올해 지원하셔도 괜찮을 것 같은데 농구 선수로 전향하실 마음 없으신가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.125
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지면에서 1미터 정도 뛰어오른 건데 지난 시즌 참가 신인 최고 기록 79.71센치미터를 훌쩍 뛰어넘는 서전트 점프 기록입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.135,
+                "end": 17.112
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "제가 1등인가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.112,
+                "end": 18.148
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "KBL 참가 선수 중에 지금 1등이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.148,
+                "end": 20.919
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근력 특정 테스트에서도 가스 공사 @이름1의 최고 기록 25개를 가뿐하게 넘겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.929,
+                "end": 27.292
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "서른 여기까지만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.302,
+                "end": 32.399
+            }
+        ]
+    },
+    "summary": "신인 최고 기록을 뛰어넘는 점프를 하고 특정 테스트의 최고 기록을 가뿐히 넘겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

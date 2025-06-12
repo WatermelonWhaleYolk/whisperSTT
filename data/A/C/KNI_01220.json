@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01220",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.724,
+        "format": "MP4",
+        "date": "2022-11-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이어서 둘째 판도 따내면서 무서운 기세를 이어가는데요 이번에도 삽 치기 기술 2대 0 이제 한판만 이기면 되는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "셋째판 긴장감 속에 호루라기가 울렸고 @이름1 팽팽한 힘겨루기 끝에 왼덧걸이로 @이름2를 쓰러뜨립니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 9.791,
+                "end": 17.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3대 0 완승 @이름1은 이만기 이후 37년 만에 대학생 천하장사 타이틀을 차지한 선수가 됐습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.423,
+                "end": 24.724
+            }
+        ]
+    },
+    "summary": "@이름1 선수는 무서운 기세로 상대 선수를 쓰러뜨려 3대 0 완승을 해 이만기 이후 37년 만에 대학생 천하장사 타이틀을 차지했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01220_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 62
+                }
+            ]
+        }
+    ]
+}

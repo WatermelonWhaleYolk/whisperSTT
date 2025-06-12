@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_01217",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.996,
+        "format": "MP4",
+        "date": "2022-11-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오는 22일 남극 대륙 서쪽인 허큘레스 인렛에서 출발하는 @이름1은 약 45일 동안 썰매를 끌고 1130여 킬로미터를 걸어 남위 90도에 도달한다는 목표입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중간에 식량과 연료 등 물자를 보급받지 않고 단독으로 남극점을 밟으면 한국 최초로 기록됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.903,
+                "end": 19.898
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에서 가장 큰 하얀 캔버스라고 얘기를 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.908,
+                "end": 24.779
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기에 제 두 발로 온몸으로 그려낼 수 있는 그림 하나를 완성하고 싶은 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.789,
+                "end": 29.996
+            }
+        ]
+    },
+    "summary": "남극 대륙 서쪽 허큘레스 인렛에서 출발하는 @이름1은 약 45일 동안 썰매를 끌고 1130으 킬로미터를 걸어 남위 90도에 도달한다는 목표이며 중간에 물자를 보급받지 않고 단독으로 남극점을 밟으면 한국 최초로 기록된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01217_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 28,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

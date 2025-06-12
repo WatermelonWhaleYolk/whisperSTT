@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_03220",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.926,
+        "format": "MP4",
+        "date": "2023-03-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 노동자 다이어리 7 최후의 나날들 채무자 1",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "카지노에서 빚 탕감 작전은 실패했지만 이제 취직했으니 금방이다 이 빚쟁이 놈아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.706,
+                "end": 25.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "독촉 안 했는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.180,
+                "end": 26.926
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03220_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

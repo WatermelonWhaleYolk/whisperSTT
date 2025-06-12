@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00093",
+        "category": "스포츠뉴스",
+        "sub_category": 41,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.549,
+        "format": "MP4",
+        "date": "2022-03-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대회 초반 두 개 종목에서 기대하는 만큼의 성적은 얻지 못했지만 신이헌은 자신의 도전 정신은 결코 꺾이지 않았다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "중국은 이 종목 1 2 위를 차지하는 등 무더기 매달을 수확하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.673,
+                "end": 16.549
+            }
+        ]
+    },
+    "summary": "두 개 종목에서 기대하는 만큼의 성적은 얻지 못했지만 신이헌은 자신의 도전 정신은 결코 꺾이지 않았다고 강조 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00093_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "metadata": {
+        "filename": "MYP_02437",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.0,
+        "format": "MP4",
+        "date": "2021-02-05",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "농담이다 농담.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 아무튼 골 넣은 거 축하한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.127,
+                "end": 2.941
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 방금 말했던 거 사실이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.951,
+                "end": 4.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 뭐 뭐가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.941,
+                "end": 5.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "탈맹 효과인지 뭔지 그거 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.005,
+                "end": 7.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거 나한테도 적용되는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.761,
+                "end": 9.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지네딘 지그바.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.529,
+                "end": 10.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.308,
+                "end": 10.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "포그바 너가 맨유를 떠난다면 지네딘 지단급으로 자랄 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.927,
+                "end": 13.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "녀석 빈말이라도 기분은 좋네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.921,
+                "end": 15.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 일단 맨유에서 우승 트로피부터 들고 생각해 보지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.804,
+                "end": 18.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.707,
+                "end": 19.085
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지그바가 되고 싶다면 언제든 연락해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.095,
+                "end": 20.752
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 에이전트인 라이올라 씨라면 좋은 팀을 알아봐 줄 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.762,
+                "end": 23.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 뭐 그 양반이라면 좋은 팀을 알아봐 주겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.242,
+                "end": 25.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 다음 주에 만나자고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.623,
+                "end": 27.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "메시 린가드 아니 린가르 딩요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.370,
+                "end": 30.000
+            }
+        ]
+    },
+    "summary": "두 사람은 서로 성공적인 이적에 대해 이야기를 나누었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02437_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

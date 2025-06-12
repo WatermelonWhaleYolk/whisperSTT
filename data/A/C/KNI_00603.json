@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00603",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2023-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 지난해 말 임대를 연장하기로 홍명보 감독과 구두로 약속했다가 돌연 라이벌팀 전북으로 가버렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마노는 울산에서 받았던 연봉에 비해 10만 달러 약 1억 2000만 원을 더 받고 전북행을 택한 것으로 전해졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.086,
+                "end": 16.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약속을 저버리고 팀을 옮긴 아마노 준에 대해 홍 감독은 역대 최악의 선수라는 비난을 쏟아냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.368,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "지난해 말 임대를 연장하기로 홍명보 감독과 구두로 약속했던 아마노는 연봉을 더 받고 라이벌팀 전북으로 가버려 홍 감독은 역대 최악의 선수라는 비난을 쏟아냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00603_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

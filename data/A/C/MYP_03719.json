@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "filename": "MYP_03719",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.86,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "으",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.853
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "삼겹살 내놔 얘들아",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.863,
+                "end": 2.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드드리겠습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 2.590,
+                "end": 4.946
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 필요없어.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.956,
+                "end": 7.106
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "특대인배의 마음으로 무능한 동생들을 이해해 주었다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 7.116,
+                "end": 11.943
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "으어엉 형님 죄송해요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 11.953,
+                "end": 16.211
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고기를 살리지 못했어요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 16.221,
+                "end": 19.482
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "힘들게 오셨는데 헤헤",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 19.492,
+                "end": 21.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "괜찮아. 괜찮아. 감기들라 어서 들어가자 하하",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 21.792,
+                "end": 26.860
+            }
+        ]
+    },
+    "summary": "동생들이 형님에게 고기를 드리지 못했지만 형님은 이해해 주고 비가 오니 들어가자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03719_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 66,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

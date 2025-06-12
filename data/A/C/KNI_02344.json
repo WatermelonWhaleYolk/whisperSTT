@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_02344",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.1,
+        "format": "MP4",
+        "date": "2016-07-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시간이 촉박해 걱정이지만 4회 연속 올림픽 무대를 밟게돼 기쁘다며 팬들에게 감사의 뜻을 나타냈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.228
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 감사하죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.238,
+                "end": 8.756
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실망시켜드린 부분이 굉장히 많은데 마지막까지 최선을 다하는 게 팬분들 응원에 보답하는 거라고 생각을 하고 있고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.766,
+                "end": 16.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4종목에 출전하겠다고 밝힌 박태환에겐 쉽지 않은 도전이 기다리고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.721,
+                "end": 22.236
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박태환의 올해 최고 기록은 메달권과는 거리가 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.246,
+                "end": 27.100
+            }
+        ]
+    },
+    "summary": "박태환은 4회 연속 올림픽 무대에 서는 것으로 4종목에 출전하겠다고 밝혔으며 마지막까지 최선을 다하겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02344_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

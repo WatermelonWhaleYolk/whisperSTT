@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_00875",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.722,
+        "format": "MP4",
+        "date": "2023-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 1명의 해결사는 베이징 올림픽을 시작으로 개인 통산 10번째 태극 마크를 단 김현수였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김현수는 엉덩이가 빠진 채로 절묘한 적시타를 쳐 대표 팀의 완승에 기여했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.041,
+                "end": 11.743
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "항상 국제 대회는 의미가 남다르다고 생각을 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.753,
+                "end": 15.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 저번 맞 이 전 대회에 조금 저희가 부족했기 때문에 만회하고자 하려고 하는 마음이 큰 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.162,
+                "end": 22.722
+            }
+        ]
+    },
+    "summary": "베이징 올림픽을 시작으로 개인 통산 10번째 태극 마크를 단 김현수는 엉덩이가 빠진 채로 절묘한 적시타를 쳐 대표 팀의 완승에 기여했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00875_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

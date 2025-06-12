@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01714",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.597,
+        "format": "MP4",
+        "date": "2021-12-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면 발롱도르의 주인공은 메시가 아닌 내가 되었을 거라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.141
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "솔직히 너가 나쁘지 않은 선수임은 틀림없지만 3등이라는 소식을 들었을 때 도저히 믿을 수 없었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.151,
+                "end": 8.146
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 우승 점수가 그 정도로 높았다고 하면 모든 게 맞아 떨어진다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.156,
+                "end": 11.764
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팀빰이 그 정도로 중요하단 말이야 레반도프스키가 아무리 많은 골을 넣으면 뭐 하냐 폴란드 사람이니까 만년 2등인 거고 케인이 리그를 씹어먹으면 뭐하냐 토트넘 소속이니까 23등이나 하고 있는 거지 발롱도르를 타고 싶다면 어떻게 해야 한다?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.774,
+                "end": 25.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우승 국가와 우승팀 소속부터 되란 말이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.269,
+                "end": 34.590
+            }
+        ]
+    },
+    "summary": "화자 1이 화자 2에게 발롱도르를 타고 싶다면 우승 국가와 우승팀 소속부터 되다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01714_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

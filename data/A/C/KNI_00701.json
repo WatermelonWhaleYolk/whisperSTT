@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00701",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.82,
+        "format": "MP4",
+        "date": "2023-01-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나 홀로 짐을 끌고 들어오는 모습이 쓸쓸해 보입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흰색 마스크에 정장 차림 동료들 한 명 없이 뒤늦게 출국장에 들어선 강백호입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.583,
+                "end": 11.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 일단 늦은 출국으로 좀 죄송스럽고요. 그리고 뭐 앞으로 열릴 대회도 마찬가지고 시즌도 열심히 잘 준비해 보겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.083,
+                "end": 20.820
+            }
+        ]
+    },
+    "summary": "강백호는 흰색 마스크에 정장 차림으로 동료 한 명 없이 뒤늦게 출국장에 들어섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00701_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 123
+                }
+            ]
+        }
+    ]
+}

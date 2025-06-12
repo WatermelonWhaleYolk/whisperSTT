@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "KNI_00997",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 40.373,
+        "format": "MP4",
+        "date": "2022-01-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기가 잘 풀리지 않자 전희철 감독 언성이 점점 높아집니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.316
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 정신 안 차리는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.326,
+                "end": 6.078
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "턴오버 하면 수비 안 할 거냐고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.088,
+                "end": 8.585
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 봐도 좀 움찔움찔한데 선수들이 좀 무서웠을 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.595,
+                "end": 16.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에는 작전 타임을 불러 놓고 선수들에게 무언의 메시지를 보냅니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.091,
+                "end": 21.976
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전희철 감독은 아직까지 선수들에게 다가가지 않고",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.986,
+                "end": 26.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "때로는 버럭 호통 때로는 침묵의 작전 타임 프로 배구 현대 캐피탈 최태용 감독을 연상시킵니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.959,
+                "end": 33.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무언의 자극제?",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.600,
+                "end": 35.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감독님 마음은 충분히 이해하고 선수끼리 얘기하다 보면 더 분위기 좋게",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.592,
+                "end": 40.373
+            }
+        ]
+    },
+    "summary": "때로는 버럭 호통 때로는 침묵의 작전 타임 프로 배구 현대 캐피탈 최태용 감독을 연상시키는 전희철 감독입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00997_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

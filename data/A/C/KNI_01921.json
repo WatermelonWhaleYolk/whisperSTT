@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_01921",
+        "category": "스포츠뉴스",
+        "sub_category": 34,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.191,
+        "format": "MP4",
+        "date": "2021-08-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스스로에게도 정말 중요한 대회인데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세계 선수권과 아시안 게임을 재패한 류한수이기에 여기서 금메달을 따면 그랜드 슬램을 완성합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.265,
+                "end": 8.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19의 여파로 대표팀 중 김민석과 류한수 단 둘만 출전했고 훈련 파트너도 없었던 좀 열악한 상황이었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.753,
+                "end": 16.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 류한수는 이번이 마지막 올림픽인 만큼 후회가 없고 싶다라고 저희 취재진에게 전했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.093,
+                "end": 22.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 직접 들어보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.308,
+                "end": 25.191
+            }
+        ]
+    },
+    "summary": "류한수는 세계선수권과 아시안게임을 재패했고 이번 올림픽에서 금메달을 따면 그랜드슬램을 완성하는데 그는 이번이 마지막 올림픽인 만큼 후회가 없고 싶다라고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01921_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

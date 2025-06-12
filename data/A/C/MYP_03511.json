@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03511",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.593,
+        "format": "MP4",
+        "date": "2022-06-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "20바퀴?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.555
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뛰어 이 쉐끼야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.565,
+                "end": 2.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예예 알았으니까 소리 좀 지르지 마쇼 좀.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.723,
+                "end": 7.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나 먼저 불알즈 삼겹살 회식 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.654,
+                "end": 10.763
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빼 처먹지 말고 다 뛰고 와라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.773,
+                "end": 13.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.512,
+                "end": 14.137
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치 치사하게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.147,
+                "end": 16.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원하는 것에 공짜는 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.341,
+                "end": 19.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 본격적인 시작이니 시동 걸어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.607,
+                "end": 23.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아요요요요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.740,
+                "end": 26.593
+            }
+        ]
+    },
+    "summary": "나 먼저 불알즈 삼겹살 회식 갈 것이니 빼 먹지 말고 운동장 20바퀴 다 뛰고 와라.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03511_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

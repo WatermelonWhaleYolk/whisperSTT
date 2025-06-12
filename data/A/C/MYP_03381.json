@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03381",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.917,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1라운드 1픽은 당연한 전국 최고 고교 선수입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허허 녀석 잘 생겼네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.785,
+                "end": 8.057
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "새끼 싸가지 없게 생겼네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.067,
+                "end": 14.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 새끼야 연락도 없고 되진 줄 알았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.302,
+                "end": 17.917
+            }
+        ]
+    },
+    "summary": "전국 최고 고교 선수인데 잘 생겼고 너는 연락이 없고 죽은 줄 알았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03381_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

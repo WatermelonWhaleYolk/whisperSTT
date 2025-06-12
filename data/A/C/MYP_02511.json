@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_02511",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.033,
+        "format": "MP4",
+        "date": "2021-01-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이놈 자식아 두 번째는 뭐냐고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.368
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 에릭센 나도 정말 궁금해서 그런데 두 번째는 뭔가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.378,
+                "end": 8.237
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 왜 말을 하다 마는 거야 두 번째는 뭐냐고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.247,
+                "end": 11.503
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이 새끼 이거 진짜 안 되겠구먼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.513,
+                "end": 13.535
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이봐 음실장 당장 이 자식 묶어 두드려 패서라도 두 번째가 뭔지 들어야겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.545,
+                "end": 18.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠습니다 네이마르님 이놈 자식아 일로와 인마 두 번째는 뭐냐고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.648,
+                "end": 22.103
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아이 잠깐만요 말할게요 말한다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.113,
+                "end": 24.458
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "두 번째는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.468,
+                "end": 26.033
+            }
+        ]
+    },
+    "summary": "심리전에 대해 말해 주겠다던 에릭센이 말을 하지 않고 있자 다른 선수들이 화를 내고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02511_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

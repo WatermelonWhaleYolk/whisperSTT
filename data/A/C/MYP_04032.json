@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "MYP_04032",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.064,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "생매장 구조대",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 어릴 때 놀이터를 좋아했던 이유는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.778,
+                "end": 13.522
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가스파드 놀이터 갈까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.532,
+                "end": 15.713
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.723,
+                "end": 16.771
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여긴 영 탈게 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.781,
+                "end": 20.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "딴데 가자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.786,
+                "end": 22.385
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.395,
+                "end": 23.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아휴 그래 이정도는 돼야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.320,
+                "end": 27.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가서 놀아 가스파드",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.115,
+                "end": 31.064
+            }
+        ]
+    },
+    "summary": "나는 가스파드와 함께 놀이터에 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04032_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

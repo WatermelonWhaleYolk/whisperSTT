@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_01938",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.733,
+        "format": "MP4",
+        "date": "2021-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어릴 땐 저 못지 않은 축구 신동이었지만 무슨 대머리 아저씨한테 속아서 아베다 케다브라인가 하는 비누로 세수를 했더니 이마에 번개 자국이 생겼더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 뒤로 축구는 영 못하지만 저와 똑 닮은 덕에 제 땜빵으로 가끔 경기에 나오는 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.419,
+                "end": 14.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 카네 오늘도 비비크림으로 번개 자국 잘 가리고 뛰었지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.824,
+                "end": 18.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연하지 내가 그런 거 하나는 확실하잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.695,
+                "end": 21.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "열심히 뛰어서 땀이라도 나면 지워지니까 앞으로도 산책한다 생각하고 다녀오라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.017,
+                "end": 27.733
+            }
+        ]
+    },
+    "summary": "어릴 땐 축구 신동이었지만 대머리 아저씨한테 속아서 아베다 케다브라라고 하는 비누로 세수를 했다가 이마에 번개 자국이 생겨서 그 뒤로 축구는 영 못하지만 똑같이 생긴 모습 덕분에 땜빵으로 가끔 경기에 나온다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01938_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_01938_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

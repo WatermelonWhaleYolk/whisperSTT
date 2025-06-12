@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01663",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.256,
+        "format": "MP4",
+        "date": "2023-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 MVP 김선영도 석 점 슛 4개를 꽂아 넣으며 힘을 보탰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 SK가 열석 점 앞선 채 맞은 3쿼터 하지만 인삼공사 변준형이 살아나면서 승부는 다시 팽팽해졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.141,
+                "end": 14.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스펠맨의 득점포가 가동됐고 아반도 역시 가공할 만한 점프로 블록슛을 성공시키는 등 두 팀은 동점에 역전을 반복했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.160,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "SK와 인삼공사가 동점에 역점을 반복했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01663_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

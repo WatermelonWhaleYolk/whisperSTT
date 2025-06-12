@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_03030",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 59.733,
+        "format": "MP4",
+        "date": "2019-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1의 골목식당 상암동 먹튀골목 마지막 날입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 백대표님께서 특단의 솔루션을 준비하셨다는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.713,
+                "end": 6.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "백대표님 그게 도대체 뭐죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.724,
+                "end": 8.278
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잠깐 있어봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.288,
+                "end": 9.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 오늘 장사하고 정 안 된다 싶으면 그때 투입하겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.619,
+                "end": 13.278
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이 피자집이 문제점이 한두 개가 아닐 텐데 그게 한순간에 해결 가능한 문제였습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.288,
+                "end": 17.688
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2씨 생각은 어떠세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.698,
+                "end": 59.733
+            }
+        ]
+    },
+    "summary": "백대표가 특단의 조치를 준비했다는데 오늘 장사를 해보고 정 안 된다 싶으면 그때 투입을 하겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03030_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

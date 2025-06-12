@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_02275",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.466,
+        "format": "MP4",
+        "date": "2016-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "초등학생 선수들도 지금도 잘하고 있지만 앞으로가 더 중요하기 때문에 남은 시즌 또 다음 시즌 더 열심히 했으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.429
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남자 싱글의 이준형은 역대 한국 남자 선수 최고점인 223.72점을 기록하면서 2년 연속 정상에 올랐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.439,
+                "end": 18.292
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.302,
+                "end": 21.466
+            }
+        ]
+    },
+    "summary": "김연아는 초등학생 선수들에게 앞으로의 중요성을 강조하며 응원을 보냈고 남자 싱글에서 이준형은 역대 한국 남자 선수 최고점인 223.72점을 기록하면서 2년연속 정상에 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02275_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

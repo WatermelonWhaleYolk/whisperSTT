@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_03033",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.633,
+        "format": "MP4",
+        "date": "2019-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오이 내가 음료를 주문할 테니까 잘 들어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.046
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음음.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.056,
+                "end": 3.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 지기지기자가자가조고조고 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.588,
+                "end": 5.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.404,
+                "end": 5.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그거 말고 옆에 있는 조고조고 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.924,
+                "end": 7.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.760,
+                "end": 8.167
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그거 내려놓고 위에 있는 조고조고 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.167,
+                "end": 10.252
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.252,
+                "end": 10.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그걸 왜 가져오니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.736,
+                "end": 11.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코카콜라 갖고 오라고 코카콜라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.933,
+                "end": 14.022
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 진작 그렇게 말하던가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.032,
+                "end": 15.949
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 요리사님이 한국어가 서툴러서 주문에도 문제가 있네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.959,
+                "end": 20.633
+            }
+        ]
+    },
+    "summary": "요리사님이 주문을 받으러 나왔는데 한국어가 서툴러서 주문에도 문제가 있는 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03033_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 121
+                }
+            ]
+        }
+    ]
+}

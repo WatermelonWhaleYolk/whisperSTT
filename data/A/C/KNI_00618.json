@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_00618",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.654,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "처음 겪는 큰 실패였지만 @이름1은 좌절보단 재활에 집중했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실패도 좋은 경험으로 삼겠다며 올해도 NBA를 향한 각오를 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.209,
+                "end": 10.208
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "과거에 머물러 있으면은 저는 현재의 저한테 미래의 저한테 도움이 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.218,
+                "end": 14.526
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좀비처럼 아무 생각 없이 그냥 쓰러지면 좀비처럼 다시 일어나서 그렇게 계속 도전할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.536,
+                "end": 21.654
+            }
+        ]
+    },
+    "summary": "처음 겪는 큰 실패였지만 @이름1은 좌절보단 재활에 집중했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00618_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

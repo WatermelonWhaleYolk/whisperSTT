@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_02940",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.4,
+        "format": "MP4",
+        "date": "2020-03-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아휴 무리뉴 그 양반은 그런 거지 같은 음식을 먹었으면 같이 뭐라도 먹으며 입 좀 헹구지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐가 그리 바쁘다고 벌써 영국으로 돌아갔대.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.792,
+                "end": 7.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 혼자 나가서 밥 먹기 좀 그런데 아 한국이 배달 음식이 유명했지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.338,
+                "end": 12.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 뭐더라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.128,
+                "end": 12.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "짜장면이든가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.888,
+                "end": 13.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.801,
+                "end": 14.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "천지반점?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.669,
+                "end": 15.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 시켜 먹어야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.841,
+                "end": 19.400
+            }
+        ]
+    },
+    "summary": "무리뉴의 영국행을 아쉬워하며 짜장면을 배달 시켜 먹는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02940_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": null,
+                    "act": 17
+                }
+            ]
+        }
+    ]
+}

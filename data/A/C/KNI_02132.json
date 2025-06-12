@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_02132",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.366,
+        "format": "MP4",
+        "date": "2018-08-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한소희의 기량으로 전반을 30점 차 이상 앞선 단일팀은 후반에도 선수 전원을 기용하며 108 대 40 완승을 거뒀습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.249
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시합을 하러 왔고 이제는 결과를 이제 받아들여야 되는 시기기 때문에 이젠 손발이 안 맞다는 건 핑계인 것 같고 선수들 모두 좀 시간이 없지마는 경기에 들어가서 좀 집중을 해서 더 잘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.259,
+                "end": 19.366
+            }
+        ]
+    },
+    "summary": "한소희의 기량으로 전반을 30점 차 이상 앞선 단일팀은 후반에도 선수 전원을 기용하며 108 대 40 완승을 거뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02132_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

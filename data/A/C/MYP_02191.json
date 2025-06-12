@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYP_02191",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.0,
+        "format": "MP4",
+        "date": "2021-06-03",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그대의 어시스트 받을 수가 있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 얘가 뭐라는 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.800,
+                "end": 6.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그대를 만나서 그대와 아우디컵 우승할 수 있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.159,
+                "end": 13.187
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 설마 저 노래는?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.197,
+                "end": 14.811
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미안해 흥민아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.821,
+                "end": 17.000
+            }
+        ]
+    },
+    "summary": "케인은 손흥민을 만나 아우디컵을 받을 수 있다고 말하며 미안함을 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02191_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

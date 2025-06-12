@@ -1,0 +1,181 @@
+{
+    "metadata": {
+        "filename": "MYP_03603",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.811,
+        "format": "MP4",
+        "date": "2022-04-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 마지막이 아직도 생생하네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.992
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마지막 잘했던 선수였어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.002,
+                "end": 4.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때도 지금처럼 결정적일 때 구원으로 올라와 던졌지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.539,
+                "end": 11.326
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 공 생각보다 심심하잖유.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.336,
+                "end": 17.811
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 쳤다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.821,
+                "end": 20.327
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "크다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.337,
+                "end": 21.049
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "크다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.059,
+                "end": 21.570
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "넘어간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.580,
+                "end": 23.237
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "세이 믿으라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.247,
+                "end": 24.746
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "의심 않고 믿으면 내가 무엇을 보여 준다 했느뇨?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.756,
+                "end": 28.377
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "기적과 삼겹살이옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.387,
+                "end": 31.798
+            }
+        ]
+    },
+    "summary": "지금처럼 결정적일 때 구원으로 올라와 던졌고 공을 쳐 보니 별것 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03603_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

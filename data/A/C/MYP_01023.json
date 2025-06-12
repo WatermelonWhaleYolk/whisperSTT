@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_01023",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 179.286,
+        "format": "MP4",
+        "date": "2022-10-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 지금보다 2배라면 홀란드만큼 넣으란 얘기 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.407
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네가 홀란드 보다 부족한 게 뭐가 있다고 그게 어려워?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.417,
+                "end": 6.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 그 자식은 소속팀부터가 맨시티이며 덕배라는 패스 셔틀도 한 명 데리고 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.395,
+                "end": 11.170
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "거기다가 키도 홀란드가 조금 더 크고 스피드도 홀란드가 훨씬 빠르며 외모도 홀란드가 압도적으로 잘생겼죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.180,
+                "end": 16.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흥민이 너 홀란드한테 와꾸라이팅이라도 당했어? 토트넘의 라이언 고슬링인 내가 어딜 봐서 조까프리오보다 못생겼다는 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.063,
+                "end": 22.410
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 그게 실력이 너무 뛰어나서 그런지 보면 볼수록 잘생겨 보이더라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.420,
+                "end": 25.736
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 홀란드가 나타났으니 이제 득점왕 같은 건 할 수도 없고 할 생각도 없다는 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.746,
+                "end": 30.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할 수 없긴 누가 할 수 없습니까? 솔직히 마음만 먹으면 저도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.271,
+                "end": 33.729
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 그 마음은 도대체 언제 먹을 거냐고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.739,
+                "end": 179.286
+            }
+        ]
+    },
+    "summary": "홀란드는 소속팀이 맨시티이며 덕배라는 패스 셔틀을 데리고 있어서 득점왕을 하기는 어렵지만 마음만 먹으면 할 수 있다고 얘기를 나눈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01023_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

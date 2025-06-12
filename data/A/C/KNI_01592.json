@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_01592",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.828,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계속해서 자신과의 싸움을 이어간 우상역이었습니다 올해 아직 넘지 못한 2미터 33에 도전하면서 이례적으로 분위기를 가라앉히는 모습이었는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진지한 얼굴로 도약을 시작했고 첫 번째 시도만에 멋지게 성공했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.946,
+                "end": 12.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국에 헤리슨 호주에 바덴 러시아에 이마뉴크와 함께 올해 남자 높이뛰기 기록 공동 1위에 오른 순간인데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.404,
+                "end": 19.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세계 육상연맹이 별도로 집계하는 월드랭킹 포인트 예선엔 우상혁이 이 점프를 통해서 단독 1위에 등극했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.606,
+                "end": 26.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우상혁 선수에 인터뷰 함께 들어보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.240,
+                "end": 28.828
+            }
+        ]
+    },
+    "summary": "진지한 얼굴로 도약을 시작했고 첫 번째 시도만에 멋지게 성공했고 세계 육상연맹이 별도로 집계하는 월드랭킹 포인트 예선엔 우상혁이 이 점프를 통해서 단독 1위에 등극했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01592_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

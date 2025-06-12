@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYP_02484",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.433,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "살라하고 스털링, 살라와 스털링 제가 뭐라고 해야 되지 저만의 약간 얄미운 선수 랭킹 저는 웬만하면 아담 존슨, 호비뉴 이런 선수들만큼 인성 파탄자가 아닌 이상 다 좋아합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 뭐 스털링 선수도 비슷한 맥락이긴 한데 살라 선수가 제가 얄밉다고 말한 건 이제 어떤 부정적인 의미가 아니라 살라가 워낙 실력이 좋잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.877,
+                "end": 25.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.437,
+                "end": 26.433
+            }
+        ]
+    },
+    "summary": "살라와 스털링 선수가 저에게 얄미운 선수 랭킹인데 부정적인 의미가 아니라 실력이 좋아서 입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02484_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

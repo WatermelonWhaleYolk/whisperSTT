@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_01818",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2021-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "백 선생은 또 1979년 YMCA 위장 결혼 사건과 1986년 부천 권인숙 양 성고문 폭로 대의를 주도한 혐의로 체포돼 옥고를 치르기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "독자 민중 후보로 출마했던 1987년 대선 때는 김영삼 김대중 후보의 단일화를 호소하며 사퇴했고 1992년 대선 때도 독자 후보로 출마했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.963,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "백 선생은 YMCA 위장 결혼 사건이나 부천 권인숙 양 성고문 폭로 대의를 주도한 혐의 등으로 옥고를 치르기도 했으며 대선 때 독자 민중 후보로 출마하기도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01818_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

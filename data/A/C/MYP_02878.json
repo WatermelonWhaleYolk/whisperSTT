@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYP_02878",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.9,
+        "format": "MP4",
+        "date": "2020-04-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 아뇨. 그게 아니라 센스가 엄청나다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전국에 효돌이들 다 어디가 있나 했더니 여기 모여 있었고만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.272,
+                "end": 5.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나같은 불효자는 나가 뒤져야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.130,
+                "end": 7.062
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 첫 번째 참가자 @이름1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.072,
+                "end": 11.359
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우와",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.369,
+                "end": 12.098
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "평소완 다른 말투 심장이 시큰해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.108,
+                "end": 15.449
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "난 네가 낯설었고 비가 내릴 듯 하늘은 시커매.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.459,
+                "end": 18.928
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "반복된 실망과 다툼 속 서론 지쳤고 넌 아마 오늘 여기서 내게 꼭 꼭 꼭 꼭 꼭 꼭이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.938,
+                "end": 27.444
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "완전 꼭이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.454,
+                "end": 29.804
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "틀딱이 나타났다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.814,
+                "end": 32.623
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "지금",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.633,
+                "end": 33.900
+            }
+        ]
+    },
+    "summary": "쇼 미더 할머니 무대의 첫 번째 참가자인 @이름1은 노래를 부른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02878_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

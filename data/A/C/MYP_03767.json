@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_03767",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.863,
+        "format": "MP4",
+        "date": "2021-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "패왕의 속사정",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학교 선배인 @이름1형은",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.390,
+                "end": 12.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형 시원한 거 한 잔 하시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.391,
+                "end": 14.191
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어우 좋지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.201,
+                "end": 17.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요즘 날씨가 꽤 풀리",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.740,
+                "end": 19.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강하다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.799,
+                "end": 21.572
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "글치 많이 포근해졌지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.582,
+                "end": 25.554
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.564,
+                "end": 26.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "등골이 아직 서늘한 것 같은데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.120,
+                "end": 29.863
+            }
+        ]
+    },
+    "summary": "@이름1형에게 시원한 음료를 권했는데 캔 음료가 망가지는 것을 보고 등골이 서늘하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03767_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 78
+                }
+            ]
+        }
+    ]
+}

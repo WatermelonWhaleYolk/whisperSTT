@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00915",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.766,
+        "format": "MP4",
+        "date": "2022-06-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "카타르 이제 월드컵 전에 이제 한번 이제 이제 한번 가는 건데 조직 위원회도 좀 방문해가지고 팸플릿이라든가 포스터라든가 관련된 엠블럼이라든가 뭐 이런 걸 좀 추진해오려고 계획 잡고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 우리 가족들도 전부 반대했죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.590,
+                "end": 17.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그런 거금을 들여가지고 왜 축구에 관련된 수집품을 사오느냐 뭐 반대가 뭐 엄청 많았죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.341,
+                "end": 26.766
+            }
+        ]
+    },
+    "summary": "가족들의 반대가 심했지만 수집가는 카타르 월드컵 전에 조직 위원회를 방문하고 포스터나 엠블럼 등을 추진하려고 계획 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00915_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

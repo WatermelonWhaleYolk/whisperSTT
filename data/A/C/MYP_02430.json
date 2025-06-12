@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02430",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.366,
+        "format": "MP4",
+        "date": "2021-02-07",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물론 부상의 여파가 있었지만 당시 아우크스부르크의 2군 감독이었던 내가 그 녀석의 코치로서의 재능을 알아보고 단번에 그쪽으로 전향시켰어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.172
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 그게 진짜예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.182,
+                "end": 9.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 나겔스만이 지금 젊은 명장으로 대접받는 건 전부 내 덕이나 다름없는 게지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.597,
+                "end": 14.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니 케파 너도 지금 당장 은퇴하고 코치로 부임하게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.672,
+                "end": 17.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이참에 이름도 개명해서 케겔스만 어떤가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.867,
+                "end": 20.625
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 케겔스만은 뭔 케겔스만이에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.635,
+                "end": 22.690
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "헛소리 마시고 선발이나 시켜달라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.700,
+                "end": 24.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "케파 아 시발 안 나가나 실력은 없으나 고집이 세다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.799,
+                "end": 28.366
+            }
+        ]
+    },
+    "summary": "감독은 케파에게 실력이 없으며 고집이 세다며 은퇴하고 코치를 하라고 권유하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02430_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

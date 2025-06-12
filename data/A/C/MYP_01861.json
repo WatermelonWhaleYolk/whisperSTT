@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_01861",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.647,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이봐 손두한 아니 손흥민",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 대니 잉스가 지난 시즌 사우스햄튼 소속일 때만 해도 정말이지 자네에게 많은 골을 내주었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.276,
+                "end": 8.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 1차전은 4달라 아니 4골을 달라는 협상에 응하며 1경기에 무려 4골을 내어줬어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.381,
+                "end": 15.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 지금의 난 아스톤빌라의 공격수",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.052,
+                "end": 17.633
+            }
+        ]
+    },
+    "summary": "대니 잉스는 지난 시즌 사우스햄튼 소속일 때 손흥민한테 많은 골을 내주었다며 협상에 응해 1경기에 4골을 내줬다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01861_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

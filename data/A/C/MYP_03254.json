@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03254",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.392,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 안녕하십니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엠지규입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.669,
+                "end": 3.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "솔직히 이제 우리팀에서 저 모르시면 초짜에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.038,
+                "end": 7.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "짬이 좀 많이 차가지고 각설하고 어느덧 제가 팀에서 활동한지 어 4년 5년 가량이 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.977,
+                "end": 17.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계속 더빙하고 유지할 수 있었던 이유는 재밌게 봐주시는 분들 그리고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.897,
+                "end": 25.392
+            }
+        ]
+    },
+    "summary": "더빙하는 팀의 사람들이 자기소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03254_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

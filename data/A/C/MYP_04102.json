@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_04102",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.571,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금 이게 무슨 일인지 설명해 보시지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.750,
+                "end": 8.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도대체 천국 기밀 자료 보관실에 있어야 할 자료가 왜 망할 거실에 있는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.161,
+                "end": 13.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 가져온 건 맞는데 캐로베로스가 몰래",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.090,
+                "end": 16.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 거기서 왜 꺼내오고 지랄이야 이 미친년아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.169,
+                "end": 18.690
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.700,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "루시퍼가 천국 기밀 자료 보관실에 있어야 할 자료가 왜 거실에 있냐며 아자젤을 혼내고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04102_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

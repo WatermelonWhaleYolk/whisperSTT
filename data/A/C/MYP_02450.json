@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_02450",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.233,
+        "format": "MP4",
+        "date": "2021-01-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "슈크림인지 뭔지 아는 친구는 결국 못 데려오는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 케인 산체스도 뒤에서 다 듣고 있다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.936,
+                "end": 5.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "듣자 듣자 하니 너무하네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.190,
+                "end": 6.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "산체스 걔 내가 봤을 땐 잘하던데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.674,
+                "end": 8.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 언제였더라 내가 옛날에 봤었는데 아 걔는 알렉시스 산체스였지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.731,
+                "end": 13.303
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 베일 선배까지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.313,
+                "end": 14.501
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "산체스가 가끔 실수는 하지만 언젠간 최고의 센터백으로 자라날 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.511,
+                "end": 18.668
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "주 주장.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.678,
+                "end": 19.243
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그리고 너희 공격수들은 가서 골 넣을 생각만 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.253,
+                "end": 22.179
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "센터백들의 실수는 내가 전부 커버할 테니.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.189,
+                "end": 26.233
+            }
+        ]
+    },
+    "summary": "선수들은 토론을 벌이며 서로의 역량에 대해 이야기하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02450_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

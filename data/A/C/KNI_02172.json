@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_02172",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.433,
+        "format": "MP4",
+        "date": "2019-10-17",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주장 손흥민은 북한 선수들이 너무 거칠었다며 선수들이 다치지 않은 것만도 다행이라고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수들이 다치지 않고 돌아온 것만으로도 정말 저는 너무나도 큰 수확이라고 생각될 정도로 경기가 매우 거칠었고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.464,
+                "end": 14.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심한 욕설도 많이 와닿던 것 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.510,
+                "end": 17.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사상 유례없는 무관중 경기는",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.454,
+                "end": 20.433
+            }
+        ]
+    },
+    "summary": "손흥민은 북한 선수들과의 경기에서 돌아와 선수들이 다치지 않은 것만으로도 다행이라고 인터뷰했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02172_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

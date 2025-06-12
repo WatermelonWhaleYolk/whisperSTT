@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYP_04103",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 요즘 들어 내 꼴이 이게 뭔지 이놈이고 저놈이고 아주 속을 박박 긁는데 나는 망할 지옥의 CEO라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 열내지는 마 루시",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.188,
+                "end": 11.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.286,
+                "end": 13.202
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그보다 그 녀석한테는 왜 숨기는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.212,
+                "end": 15.737
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 어썸한데 이때의 루시는",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.747,
+                "end": 18.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 그건",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.453,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "루시퍼가 요즘 들어 자기의 속을 박박 긁는 사람이 많다고 한숨 쉬고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

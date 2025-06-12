@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_02166",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.8,
+        "format": "MP4",
+        "date": "2021-06-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나도 내가 어디까지 미쳐버릴지 모르겠군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 유로에 못 나가는 게 오히려 다행인 건가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.348,
+                "end": 4.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누구든 좋으니 무조건 우승컵 가져오도록 하고 최소 8강에도 못 든 놈들은 그낭 끝나는 대로 이적하는 게 좋을 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.791,
+                "end": 11.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돌아온다면 지옥 같은 훈련이 기다리고 있을 테니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.597,
+                "end": 15.800
+            }
+        ]
+    },
+    "summary": "화자1은 누구든 좋으니 무조건 우승컵을 가져오도록 하고 최소 8강에도 못 든 사람은 끝나는 대로 이적하는 것이 좋을 것이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02166_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

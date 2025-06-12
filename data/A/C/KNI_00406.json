@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_00406",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.22,
+        "format": "MP4",
+        "date": "2023-05-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "푸른색 경찰 제복을 입고 사격을 하면서 오늘은 꼬마 경찰이 되어봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.643
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3학년 때부터 사격 선수가 되고 싶었는데 이렇게 와서 해봤어 해봤는데 재밌었던 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.653,
+                "end": 12.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비가 오고 바람이 불어도 아이들에게 오늘은 어린이날 우리들 세상이었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.664,
+                "end": 18.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.219,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "어린이날을 맞아 경찰 제복을 입고 사격을 하며 꼬마 경찰이 되기도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 13,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00406_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "10대 미만",
+                    "gender": "여성",
+                    "place": 13,
+                    "object": null,
+                    "act": 4
+                }
+            ]
+        }
+    ]
+}

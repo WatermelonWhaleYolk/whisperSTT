@@ -1,0 +1,179 @@
+{
+    "metadata": {
+        "filename": "MYP_01356",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.7,
+        "format": "MP4",
+        "date": "2022-05-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 비록 웨스트햄을 상대로 승점을 1점밖에 챙기지 못했지만 여전히 우리가 1위다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.404
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리버풀이 남은 경기를 전부 이기더라도 우리가 아스톤빌라만 잡으면 1점 차로 우승할 수 있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.414,
+                "end": 8.961
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 아스톤 빌라의 감독이 제라드 선배이지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.971,
+                "end": 11.683
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수 시절 실패했던 리그 우승의 한을 풀기 위해서 칼을 제대로 갈고 나오지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.693,
+                "end": 16.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제라드가 리버풀 감독도 아닌데 그렇게까지 하겠나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.131,
+                "end": 18.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강등권도 아니겠다 적당히 하다가 승점이나 내주겠지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.785,
+                "end": 21.438
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "흠 리버풀의 레전드로서 누구보다 리버풀의 우승을 바라고 있을 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.448,
+                "end": 25.816
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "옆 동네에 덜 푸른 심장과는 다르게 제라드 선배의 심장은 아주 새빨간 색이니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.826,
+                "end": 30.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래봤자 리버풀도 아닌 아스톤빌라를 데리고 우리 맨시티를 잡는다고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.832,
+                "end": 34.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 말 같지도 않은 소리를.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.605,
+                "end": 35.823
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.833,
+                "end": 36.521
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "솔직히 제가 아스톤빌라에 남아 있었다면 모를까 지금의 빌라로는 어림도 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.531,
+                "end": 40.704
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그리고 제라드 선배라면 솔직히 말해 리버풀 우승의 억제기 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.714,
+                "end": 44.700
+            }
+        ]
+    },
+    "summary": "리버풀이 남은 경기를 전부 이겨도 우리가 아스톤빌라만 잡으면 우승인데 아스톤빌라 감독이 제라드라서 우승의 한을 풀기 위해 칼을 갈고 나올 것인지 리버풀의 레전드로서 리버풀의 우승을 바랄 것인지 의견이 분분하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01356_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

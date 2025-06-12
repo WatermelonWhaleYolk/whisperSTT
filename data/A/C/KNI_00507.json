@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_00507",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.182,
+        "format": "MP4",
+        "date": "2023-01-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어색한 점도 있지만 30년 가까운 현장 경험이 리허설부터 묻어납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.077
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금도 생각이 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.087,
+                "end": 6.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아마도 @이름1 선수 정도의 어떤 그런 경험 있는 선수면",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.646,
+                "end": 10.462
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.472,
+                "end": 10.910
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초구 같은 경우나 원스트라이크 먹고 칠 생각을 하고 있을 텐데",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.920,
+                "end": 14.184
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.194,
+                "end": 14.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "벌써 좀 피해 가는 부분이",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.516,
+                "end": 16.182
+            }
+        ]
+    },
+    "summary": "어색한 점도 있지만 30년 가까운 현장 경험이 리허설부터 묻어난다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00507_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

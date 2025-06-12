@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_00296",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.792,
+        "format": "MP4",
+        "date": "2022-11-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "장시간 비행에 새벽 입성 그리고 오후 훈련까지 체력적 부담이 큰 상황인만큼 먼저 자전거 타기와 조깅으로 몸을 풀었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어 간단한 볼 훈련을 하며 회복에 집중했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.322,
+                "end": 14.167
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 시간여 진행된 훈련 막바지엔 웃음이 터져 나올 정도로 활기찬 분위기가 이어졌고 특히 극적으로 월드컵행에 오른 이강인은 연신 밝은 미소로 훈련했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 14.177,
+                "end": 25.792
+            }
+        ]
+    },
+    "summary": "대표팀은 자전거와 조깅으로 몸을 풀고 간단한 볼 훈련을 하며 회복에 집중했으며 훈련 막바지엔 활기찬 분위기가 이어졌고 특히 극적으로 월드컵행에 오른 이강인은 연신 밝은 미소로 훈련했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00296_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00296_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNI_01036",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.963,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맘먹고 던진 슛이 림 위에 멈춰 코트엔 웃음꽃이 피었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.253
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나는 농구 빼고 다 잘한다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.253,
+                "end": 6.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "명장면만 만드는 건 아닙니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.895,
+                "end": 9.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국내 득점 6위 3점 슛 6위를 기록해 기량 발전상 후보에 올라 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.601,
+                "end": 15.988
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "본인의 유튜브 채널을 운영하는라 훈련량이 적다는 쓴소리도 들었지만 가장 많은 훈련을 소화한 결괍니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.998,
+                "end": 22.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앙숙으로 불리는 KCC 이정현에 대한 심정도 팬들을 향해 솔직히 말했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 22.991,
+                "end": 29.963
+            }
+        ]
+    },
+    "summary": "이관희 선수는 국내 득점 6위 3점 슛 6위를 기록해 기량 발전상 후보에 올라 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01036_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "filename": "MYP_03820",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.106,
+        "format": "MP4",
+        "date": "2021-04-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아냐. 얘는 50년 넘게 살고 다 크면 고질라가 되거든.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 걸 왜 마트에서 팔아? 생체병기 코너야 뭐야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.083,
+                "end": 12.438
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대강 견적이 나올 정도다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.448,
+                "end": 15.065
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이런 나도 한때는 개와 고양이 외엔 관심 없던 시절이 있었지만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.075,
+                "end": 20.242
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "자고로 애완동물은 사람과 교감을 할 수 있는 종류가 최고지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.252,
+                "end": 25.033
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그건 교감이 아니라 반감이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.043,
+                "end": 27.688
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "@이름1 소장님 모셔와.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.698,
+                "end": 29.670
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "거북이를 좋아하게 된 잊지 못할 계기가 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.680,
+                "end": 34.766
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘의 이야기는 거북이 달린다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.776,
+                "end": 40.106
+            }
+        ]
+    },
+    "summary": "20대 남성이 예전에는 개와 고양이 외에는 관심이 없었지만 거북이를 좋아하게 된 계기가 있었다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03820_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

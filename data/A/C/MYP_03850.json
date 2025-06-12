@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "filename": "MYP_03850",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.718,
+        "format": "MP4",
+        "date": "2021-03-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "포박도 풀게 되었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 좀 풀어주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.133,
+                "end": 2.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도대체 어딜 왔길래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.558,
+                "end": 4.321
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇잖아도 이제 풀거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.331,
+                "end": 5.904
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "기대해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.914,
+                "end": 6.996
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하나 둘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.006,
+                "end": 8.936
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "셋.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.946,
+                "end": 10.142
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아아악 눈부셔.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.152,
+                "end": 10.979
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 제 시야에 처음 들어온 것은 너무나 아름다운 새하얀 눈밭이었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.989,
+                "end": 17.888
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "눈?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.898,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "20대 유튜버가 새벽 작업 중에 갑자기 아는 형들이 자기를 데리고 눈밭에 간 일화를 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03850_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

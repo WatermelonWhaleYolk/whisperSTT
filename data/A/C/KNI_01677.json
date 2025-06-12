@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_01677",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.496,
+        "format": "MP4",
+        "date": "2023-03-28",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야구장 내야 관중석 지붕과 외야 담장 위쪽에 모두 3 대의 카메라가 설치돼 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심판은 수신기가 장착된 조끼와 또 이어폰을 착용하 착용합니다 3대의 카메라가 투수의 공을 추적해 얻은 데이터를 기계가 판독해 스트라이크 여부를 소리로 심판에게 전달합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.014,
+                "end": 18.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 프로 2 군 경기에서 시범 운용되고 있는 이른바 로봇 심판이 빠르면 다음 달 초부터 고교 야구에도 도입 될 전망인데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.105,
+                "end": 26.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "판정 논란을 줄이는데 도움이 될 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.440,
+                "end": 29.496
+            }
+        ]
+    },
+    "summary": "야구장 내야 관중석 지붕과 외야 담장 위쪽에 모두 3 대의 카메라가 설치되어 심판은 수신기가 장착된 조끼와 이어폰을 착용해 카메라가 투수의 공을 추적해 얻은 데이터를 기계가 판독해 스트라이크 여부를 소리로 전달하는 로봇 심판이 프로 2 군 경기에서 시범 운용 중이며 다음 달 초부터는 고교 야구에도 도입 될 전망이라서 판정 논란을 줄이는데 도움이 될 것으로 보입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01677_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01677_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

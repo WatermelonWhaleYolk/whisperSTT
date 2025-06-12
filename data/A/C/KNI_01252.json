@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNI_01252",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.865,
+        "format": "MP4",
+        "date": "2022-11-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기가 끝나고는 카타르 현지 한류 동호회와 합류해 도하 거리를 행진하며 우리 문화를 알릴 계획입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대한민국.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.114,
+                "end": 10.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도하에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.558,
+                "end": 14.788
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어제 사우디아라비아가 우승 후보 아르헨티나에 역전승을 거뒀다는 소식 전해드렸는데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 14.798,
+                "end": 22.876
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "월드컵 역사에 손꼽힐 만한 대이변에 사우디 전체가 들썩였고 승리를 기념하는 공휴일도 선포됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 22.886,
+                "end": 30.789
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름2 기자입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.799,
+                "end": 31.865
+            }
+        ]
+    },
+    "summary": "도하에서 우리나라 교민들과 붉은악마가 월드컵 응원 준비를 하고 있으며, 사우디아라비아가 우승 후보 아르헨티나에 역전승을 거두었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01252_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

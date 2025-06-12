@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_03803",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.623,
+        "format": "MP4",
+        "date": "2021-05-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 오 비비탄 총 샀네?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허 근데 너무 작은 거 아냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.259,
+                "end": 7.018
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 이게 뭘 모르는 구만",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.028,
+                "end": 10.098
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 이놈은 주머니에 넣어도 안 보일 정도로 작아서 킬러 삘 내는데 최고봉이라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.108,
+                "end": 16.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.979,
+                "end": 20.235
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오 총",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.245,
+                "end": 22.619
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "싸랍",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.629,
+                "end": 23.623
+            }
+        ]
+    },
+    "summary": "친구의 비비탄 총이 너무 작은 것 같다고 이야기했지만 주머니에 넣어도 안 보일 정도로 작아서 킬러 삘 내는데 최고라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03803_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

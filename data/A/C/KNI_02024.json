@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_02024",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 22.1,
+        "format": "MP4",
+        "date": "2019-08-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대회가 열릴 때면 매일 밤 선수 학부모들이 음식과 술을 준비했다는데 이걸 야간 자율 학습을 줄인 야자라고 부른다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정 감독은 현재 횡령과 성폭행 의혹 등으로 학교에선 대기 발령 고교 축구 연맹은 회장 직무가 정지된 상태 하지만 학부모들은 여전히 정 감독의 영향력을 두려워합니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 8.641,
+                "end": 22.100
+            }
+        ]
+    },
+    "summary": "정 감독은 횡령과 성폭행 의혹으로 대기 발령과 직무 정지 상태이지만 학부모들은 여전히 그의 영향력을 두려워하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02024_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

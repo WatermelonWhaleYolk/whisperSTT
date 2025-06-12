@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00637",
+        "category": "스포츠뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.517,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "천천히 하나부터 너무 한꺼번에 이렇게 다 하려고 하지 않고 계단 하나씩 이렇게 올라가다 보면은 성장해 있지 않을까 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1의 당찬 도전이 성공을 거둔다면 빅 리그를 꿈꾸는 야구 유망주들에게도 큰 용기가 될 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.196,
+                "end": 17.517
+            }
+        ]
+    },
+    "summary": "@이름1의 도전이 성공한다면 빅 리그를 꿈꾸는 야구 유망주들에게 큰 용기가 될 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00637_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 103
+                }
+            ]
+        }
+    ]
+}

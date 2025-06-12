@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "MYP_04178",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2020-05-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "반가운 마음에 옆 칸으로 넘어가려던 찰나",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 너 오래",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 3.050,
+                "end": 4.325
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미처 시야에 들어오지 못한 누군가와 서로 부딪히고 말았는데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.335,
+                "end": 11.944
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그는 전철에서 구걸하던 맹인 노숙자였다 넘어진 그는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.954,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "옆 칸으로 넘어가려던 찰나 맹인 노숙자와 부딪히고 말았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04178_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

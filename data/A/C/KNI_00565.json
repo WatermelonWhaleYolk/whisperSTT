@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00565",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.298,
+        "format": "MP4",
+        "date": "2023-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여자 싱글에서는 베이징 동계 올림픽 9위에 올랐던 @이름1이 깨끗한 연기로 71.59점.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 높은 점수를 받았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.398,
+                "end": 9.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1차 선발전에서 언니들을 제치고 1위를 차지했던 신성 @이름2은 첫 점프에서 다소 흔들리며 2위를 기록했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.136,
+                "end": 18.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "태극 마크를 향한 마지막 관문이 될 피겨 남녀 싱글 프리 스케이팅 경기는 내일 펼쳐집니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.146,
+                "end": 24.290
+            }
+        ]
+    },
+    "summary": "태극 마크를 향한 마지막 관문이 될 피겨 남녀 싱글 프리 스케이팅 경기는 내일 펼쳐진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00565_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_02466",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경합한다면 또 좋은 기록도 예상이 되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.013
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 400미터 1위 @이름1 3레인이냐 아니면 2년 넘게 무패가도 시흥시청의 @이름2이냐 가평구청의 @이름3 5레인 과연 어떤 경기를 보여줄지 일단 @이름2은 4레인입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.023,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "경합이 예상되는 400미터 경기에서 1번 레인에서는 시흥시청의 @이름1과 2년 넘게 무패의 기록을 자랑하는 3번 레인의 가평구청의 @이름3이 출전한다. 현재는 4번 레인에 위치한 @이름2도 기대되는 선수 중 하나이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02466_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

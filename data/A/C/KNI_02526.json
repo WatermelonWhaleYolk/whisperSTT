@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "KNI_02526",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.5,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1번 @이름1",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.975
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선수의 꿈은 그라운드를 누비는 것 서운한 마음이 고스란히 얼굴에 드러납니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.985,
+                "end": 9.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실력 차이는 내가 볼 때 없다 알겠냐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.059,
+                "end": 12.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 무슨 차이가 있다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.703,
+                "end": 14.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정신력밖에는 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.211,
+                "end": 16.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정신력이 센 팀이 이기게 돼 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.092,
+                "end": 18.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 뛸 때 마지막까지 어깨 밀어 넣고 쓰러지더라도 달리세요 알겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.526,
+                "end": 28.500
+            }
+        ]
+    },
+    "summary": "이름이 불리지 않아 서운한 마음이 얼굴에 드러나며 선생님은 정신력으로 마지막까지 달리라고 조언한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02526_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

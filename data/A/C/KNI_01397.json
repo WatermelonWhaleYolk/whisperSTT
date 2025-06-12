@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01397",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.063,
+        "format": "MP4",
+        "date": "2023-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이달 말 강릉에서 열리는 시니어 세계 선수권 대회 출전을 앞두고 진천 선수촌에서 훈련 중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "50대 이상 동호인 4명이 태극 마크를 달게 된 사연은 우리나라의 짧은 컬링 역사 때문 1세대 컬링 선수들이 아직 출전 조건인 50세가 안 돼 동호인들로만 시니어 대표 팀이 구성됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.570,
+                "end": 21.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "26살인데 제 아들은 39입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.622,
+                "end": 25.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 막내딸 정도 되는 그 나이 애들하고 같이 해 보니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.216,
+                "end": 30.063
+            }
+        ]
+    },
+    "summary": "50대 이상 동호인 4명이 태극 마크를 달게 된 사연은 우리나라의 짧은 컬링 역사 때문 1세대 컬링 선수들이 아직 출전 조건인 50세가 안 돼 동호인들로만 시니어 대표 팀이 구성됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01397_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

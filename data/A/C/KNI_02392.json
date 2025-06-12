@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_02392",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.144,
+        "format": "MP4",
+        "date": "2016-12-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문화 체육 관광부는 감사 결과 이같은 비위, 규정 위반 사례를 적발해 11건의 징계와 시정, 환수 조치를 요구했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 감사 자료를 특검에 제출하는 한편 체육 특기자 입학 비리가 확인된 @이름1에 대해서는 징계 절차를 밟도록 대한 체육회에 요청하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.521,
+                "end": 19.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.556,
+                "end": 22.133
+            }
+        ]
+    },
+    "summary": "문화 체육 관광부는 비위, 규정 위반 사례를 적발해 징계와 시정, 환수 조치를 요구하고 @이름1에 대해서 정계 절차를 요청하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02392_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 16,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYP_00993",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.845,
+        "format": "MP4",
+        "date": "2022-10-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "호날두한테 어깨빵. 같은 팀도 싫어하니 마음이 아팡. 화풀이로 때려버린 라멜라의 뺨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 된 선수가 기껏 살아나면 부상, 부상에서 돌아오면 부진. 아무래도 앙리가 되긴 그른 것 같지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.793,
+                "end": 13.883
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 이번에도 한 번 더 알리 선수의 차례인데요. 토트넘의 카운팅 스타가 되길 바랐지만 결국 별똥별이 되어버린 자신의 처지를 비판했었죠. 알리 선수 나와주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.893,
+                "end": 23.529
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "라이징 스타.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.539,
+                "end": 24.833
+            }
+        ]
+    },
+    "summary": "미샬 선수는 기껏 살아나면 부상, 부상에서 돌아오면 부진 상태다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00993_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

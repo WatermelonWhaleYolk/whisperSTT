@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNI_00427",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.898,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성북구청은 재개발 사업이 신속히 추진되도록 정부, 서울시와 긴밀하게 협력하겠다는 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "교회 측은 또 소송을 예고했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.432,
+                "end": 10.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당초 개발 계획 수립 당시 교회 부지로 정해졌던 땅에 아파트를 지을 수 없다는 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.290,
+                "end": 16.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희가 변경된 교회 부지에 대해서 조합을 상대로 소유권 확인 및 부지 반환 소송을 제기할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.850,
+                "end": 24.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조합이 예상하는 입주 시점은 빨라야 2027년 새로운 소송 여부가 재개발의 또 다른 변수로 남을 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.228,
+                "end": 31.898
+            }
+        ]
+    },
+    "summary": "교회 측은 개발 계획 수립 당시 교회 부지로 정해졌던 땅에 아파트를 지을 수 없고 교회 부지에 대해서 조합을 상대로 소유권 확인 및 부지 반환 소송을 제기할 예정이고 성북구청은 재개발 사업이 신속히 추진되도록 정부, 서울시와 긴밀하게 협력하겠다는 입장을 밝혔고 조합이 예상하는 입주 시점은 빨라야 2027년 새로운 소송 여부가 재개발의 또 다른 변수로 남을 것으로 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00427_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00427_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 7,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

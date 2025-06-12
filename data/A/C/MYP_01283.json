@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_01283",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 47.043,
+        "format": "MP4",
+        "date": "2022-06-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래 여기까지 오느라 수고 많았네 난 맨체스터의 정신 나간 빡빡이와 다르게 자네의 공격 성향을 100프로 이해할 수 있다는 거 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.657
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "과르디올라 감독님이 좀 실험적이시긴 하지만 정신이 나가시진 않았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.977,
+                "end": 11.735
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정신 나간 사람이 어떻게 리그에서 우승을 하겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.162,
+                "end": 14.572
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실력에 비해 겸손한 데다 충성심까지 있다니 자네야말로 우리 아스날이 찾던 인재구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.797,
+                "end": 20.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 아스날은 예로부터 9번보다는 14번이 스트라이커를 상징하는 번호라는 거 알고 있지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.557,
+                "end": 25.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앙리와 월콧 그리고 가봉맨에 이어 새로운 아스날의 14번이 되어 주게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.840,
+                "end": 29.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지만 그 이름이 은케티아였나 그 친구도 제법 날카롭던데 제가 합류하면 확실히 주전으로 뛸 수 있는 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.205,
+                "end": 35.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 친구가 당연한 소릴 하고 있구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.790,
+                "end": 37.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "은케티아가 촉망받는 녀석이긴 하지만 자네와의 나이 차이는 고작 2살밖에 나지 않아 23살의 은케티아는 우승은커녕 개인 수상조차 없는 반면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.940,
+                "end": 47.033
+            }
+        ]
+    },
+    "summary": "과르디올라 감독이 아스날의 스트라이커를 상징하는 14번으로 앙리와 월콧, 가봉맨을 이을 새 선수를 영입했으며 맨체스터 감독과는 다르게 이 선수의 공격 성향을 100프로 이해할 수 있다고 하는데 새로 영입된 선수가 은케티아도 제법 날카로운데 자신이 주전으로 뛸 수 있는게 확실하냐고 확인하자 과르디올라 감독이 은케티아도 촉망받는 선수지만 23살이고 우승은커녕 개인 수상조차 없으니 당연한 소리라고 답하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01283_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

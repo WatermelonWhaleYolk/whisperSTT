@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02784",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.3,
+        "format": "MP4",
+        "date": "2020-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비켜줄 테니 편하게 넣어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.022
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 저 양반 지금 뭐하는 거예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.032,
+                "end": 3.677
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 칸구는 전형적인 카푸어다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.687,
+                "end": 6.050
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "본인은 2평짜리 고시원에 살면서도 차는 뽀르셰를 타고 다니지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.060,
+                "end": 9.676
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래서 차량 소비에 현명한 사람들만 보면 죄책감을 느껴 저렇게 양보한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.686,
+                "end": 14.198
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그래도 지금 경기가 지게 생겼는데 뭐하는 거예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.208,
+                "end": 16.938
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "괜찮다 타랍박.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.948,
+                "end": 18.002
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나에게 비장의 무기가 있으니 너무 걱정 말아라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.012,
+                "end": 22.300
+            }
+        ]
+    },
+    "summary": "한 선수가 경기에서 질까 걱정을 하고 다른 선수가 비장의 무기가 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02784_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

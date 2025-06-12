@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_01150",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.676,
+        "format": "MP4",
+        "date": "2022-09-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "회화 예술의 진수를 만날 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.373,
+                "end": 7.903
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토요일 밤 스포츠 뉴스입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.913,
+                "end": 27.393
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번에는 터질까요? 토트넘 손흥민이 약 4시간 후 레스터 시티를 상대로 9경기 만의 시즌 첫 골에 도전합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.403,
+                "end": 36.182
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "A매치 소집 전 마지막 경기라 더 간절한데 콘테 감독도 여전한 신뢰를 보내고 있습니다. @이름2 기자입니",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.192,
+                "end": 43.676
+            }
+        ]
+    },
+    "summary": "토트넘 손흥민이 4시간 후 레스터 시티를 상대로 시즌 첫 골에 도전하는데 A매치 소집 전 마지막 경기라 더 간절하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01150_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

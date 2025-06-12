@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_02031",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.4,
+        "format": "MP4",
+        "date": "2019-06-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세네갈과 승부차기 혈투를 벌인 지 이틀 만의 첫 훈련이자 에콰도르전을 준비한 마지막 담금질에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.024
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 훈련에서 대표 팀은 에콰도르를 공략할 전술을 마련하는 데 집중했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.034,
+                "end": 12.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정정용 감독은 아시아 최고 팀의 자존심을 걸고 결승 진출에 도전하겠다는 출사표를 던졌습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.828,
+                "end": 20.703
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.713,
+                "end": 22.400
+            }
+        ]
+    },
+    "summary": "정정용 감독과 축구 대표 팀은 에콰도르전을 준비하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02031_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

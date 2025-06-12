@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00635",
+        "category": "스포츠뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.215,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자신감의 원천은 최고 시속 160킬로미터의 강속구와 10대라곤 믿기지 않는 신체 능력.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 류현진으로부터 195센티미터의 큰 키에도 근육까지 탄탄하다며 미국에서도 충분히 통한다고 인정받았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.816,
+                "end": 15.215
+            }
+        ]
+    },
+    "summary": "강속구와 뛰어난 신체 능력은 물론 류현진으로부터 196센티미터의 큰 키에 근육까지 탄탄하다며 인정받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00635_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

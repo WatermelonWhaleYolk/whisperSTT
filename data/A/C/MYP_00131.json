@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYP_00131",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.033,
+        "format": "MP4",
+        "date": "2023-07-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자식들 하여간 눈치는 더럽게 빠르다니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 동생 흥민이에게 어시하지 못한 게 아쉽긴 하지만 목표는 달성했군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.447,
+                "end": 5.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.936,
+                "end": 6.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 이제 그만 용서해 주고 싶다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.632,
+                "end": 8.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "됐어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.465,
+                "end": 9.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 호날두가 비록 어깨는 좁더라도 지난 일을 가지고 마음에 담아둘 만큼 속이 좁은 사람은 아니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.463,
+                "end": 13.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민 그리고 대한민국.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.834,
+                "end": 15.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 도와줄 수 있는 건 여기까지다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.746,
+                "end": 17.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 너희들의 투지와 열정이라면 브라질도 불가능한 상대는 아니지 않겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.565,
+                "end": 21.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 한번 높이 높이 올라가 보라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.370,
+                "end": 23.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 호날두가 결승에서 기다리고 있을 테니까.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.566,
+                "end": 28.033
+            }
+        ]
+    },
+    "summary": "한 남성이 대한민국을 도와주고 브라질과의 경기에서도 승리하라며 응원하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00131_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

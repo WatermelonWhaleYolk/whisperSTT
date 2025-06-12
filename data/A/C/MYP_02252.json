@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "filename": "MYP_02252",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 50.166,
+        "format": "MP4",
+        "date": "2021-04-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "설마 말씀 중에 죄송하다 하시려고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.876
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니요 그런 게 아니라 두 분께서 말씀하시는 사이 드림팀이 7 대 7 동점을 만들었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.886,
+                "end": 5.873
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 남은 시간은 5분이었다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.883,
+                "end": 7.858
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "5분 만에 3골을 넣었다고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.868,
+                "end": 9.438
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 교체로 들어온 드림팀의 제시 린가드 선수가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.448,
+                "end": 12.054
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "세상에 결국 또 기승전 린가드인 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.064,
+                "end": 14.813
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "상대방이 킥오프 하자마자 뺏어서 하프라인 중거리 슛으로만 3골을 기록",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.823,
+                "end": 17.971
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 말이 되는 소리를 하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.981,
+                "end": 19.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "라고 하는 순간 마지막 킥오프를 가로채 그대로 슛 그대로 버저비터가 들어가며 8 대 7 기적의 역전승을 만들어냈습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.607,
+                "end": 25.329
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무리 빤스 유튜브라지만 너무한 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.339,
+                "end": 28.194
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 뭐 저라고 그러고 싶어서 그런 게 아니라 린가드 선수가 잘하는 걸 어떡",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.204,
+                "end": 31.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠깐만요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.187,
+                "end": 31.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말씀 중에 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.632,
+                "end": 33.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘부로 차세대 축구의 신은 마약이나 다름없는 선수 모든 축구 선수들의 우상 호날두, 메시는 발끝에도 못 미치는 선수 제시 린가드입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.418,
+                "end": 50.166
+            }
+        ]
+    },
+    "summary": "지는 상황에서 3골을 기록한 린가드 선수가 차세대 축구의 신이라고 @이름1 코치님이 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02252_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "filename": "KNI_00765",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.248,
+        "format": "MP4",
+        "date": "2023-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 지난달에 이어 이번 달에도 선수단 임금 지급이 지연되고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "데이원스포츠는 프로농구 최초로 네이밍스폰서십을 도입하는 등 자생력을 갖추려 했지만 실패했고 결국 매각 대상이 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.463,
+                "end": 15.248
+            }
+        ]
+    },
+    "summary": "데이원스포츠는 자생력을 갖추는데 실패하고 선수단 임금 지급이 지연되면서 결국 매각 대상이 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

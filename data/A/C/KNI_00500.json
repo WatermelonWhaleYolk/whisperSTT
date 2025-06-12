@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00500",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.899,
+        "format": "MP4",
+        "date": "2021-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이에 앞서 이재영 이다영의 소속팀인 흥국생명은 무기한 출전 정지라는 징계를 내렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 따라 인기를 누리던 두 자매는 선수 생활 최대 위기를 맞았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.182,
+                "end": 11.843
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 다른 학교 폭력의 가해자인 남자 배구 금융 그룹 @이름1과 @이름2도 국가 대표 자격 박탈 징계를 받은 가운데 오늘 또 1명의 여자 배구 선수가 자신에게 폭력을 가했다는 폭로글이 온라인 커뮤니티에 올라오면서 배구계의 학교 폭력 파문은 더욱 확산되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.853,
+                "end": 30.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.849,
+                "end": 32.899
+            }
+        ]
+    },
+    "summary": "배구계의 학교 폭력 파문은 더욱 확산되고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

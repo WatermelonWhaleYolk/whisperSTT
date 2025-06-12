@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01241",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.905,
+        "format": "MP4",
+        "date": "2022-11-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "온 국민이 함께했던 2002년 4강 신화 때부터 독일을 상대로 대이변을 일으킨 2018년까지 월드컵과 함께해온 거리 응원이 이번엔 특별한 의미로 돌아옵니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붉은 악마 응원단은 이태원 참사의 아픔과 슬픔을 기억할 거라며 위로와 추모의 의미로 거리 응원을 다시 추진하게 됐다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.236,
+                "end": 20.589
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 내부적인 검토를 좀 많이 했었어요 그래서 저희 방식으로 그러니까 이걸 잘 치르면 좀 더 이제 희망적으로 우리 국민들한테 힘을 주지 않을까라는 형태로 진행하게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.599,
+                "end": 32.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국 CBS의 월드컵 파워랭킹에서 우리나라가 출전국 32개 국 중 22위에 올랐습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 32.246,
+                "end": 38.905
+            }
+        ]
+    },
+    "summary": "붉은 악마 응원단이 2022 월드컵에서 이태원 참사의 위로와 추모의 의미로 거리 응원을 추진하게 됐다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01241_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

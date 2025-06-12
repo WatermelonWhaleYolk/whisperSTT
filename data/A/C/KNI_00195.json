@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_00195",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 39.706,
+        "format": "MP4",
+        "date": "2023-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인삼공사 변준형이 공을 몰고 가는데요 몸을 아끼지 않는 김진유의 허슬 플레이 한번 보시죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김승기 감독이 강조하는 이 허슬 수비 이정현의 속공으로 연결되면서 순식간에 분위기가 바뀝니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.028,
+                "end": 14.592
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "곧이어 림에 이 3점 슛을 정확하게 적중시킨 이정현 이번엔 경기장을 찾은 팬들의 분위기를 띄우는 세리머니까지 여기가 안양 아니고 고양인가요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.602,
+                "end": 27.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1차 전 무려 56점 패배로 인해 싱거운 시리즈가 될 것이란 예상을 비웃듯 32점을 넣은 이정현을 중심으로 똘똘 뭉친 캐롯이 1승 1패 승부를 원점으로 돌렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.024,
+                "end": 39.706
+            }
+        ]
+    },
+    "summary": "1차 전 무려 56점 패배로 인해 싱거운 시리즈가 될 것이란 예상을 비웃듯 32점을 넣은 이정현을 중심으로 똘똘 뭉친 캐롯이 1승 1패 승부를 원점으로 돌렸습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00195_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00195_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 67,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_00198",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.158,
+        "format": "MP4",
+        "date": "2023-04-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "추락하는 전북을 향한 성난 팬심은 김상식 감독과 대표 이사의 퇴진을 요구할 정도로 거세지고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.082
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김상식 나가 김상식 나가.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.092,
+                "end": 13.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 중엔 홈 팬들의 응원 거부로 원정 팬들의 응원 소리가 더 크게 들립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.721,
+                "end": 19.402
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구단은 음향 기기를 이용해 응원가를 트는 대응으로 반발만 키우고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.412,
+                "end": 25.158
+            }
+        ]
+    },
+    "summary": "추락하는 전북을 향한 성난 팬심은 김상식 감독과 대표 이사의 퇴진을 요구할 정도로 거세지고 있고 구단은 음향 기기를 이용해 응원가를 트는 대응으로 반발만 키우고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00198_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00198_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

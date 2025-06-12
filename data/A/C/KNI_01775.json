@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_01775",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.1,
+        "format": "MP4",
+        "date": "2017-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세계 태권도 선수권 대회는 세계 태권도 연맹이 2년마다 개최하며 우리나라에서 치르는 것은 이번이 일곱 번째입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.531
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 대회에는 역대 최대인 183개국 선수와 임원 1700여 명이 참가합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.541,
+                "end": 13.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북측 시범단의 참석에 따라 이번 대회는 새 정부 출범 이후 첫 남북 스포츠 교류일 뿐 아니라 남북 교류 확대의 초석을 놓는 계기로 주목됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.690,
+                "end": 23.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.818,
+                "end": 26.100
+            }
+        ]
+    },
+    "summary": "세계 태권도 선수권 대회는 2년 마다 개최되고 한국에서 개최되는 것은 일곱번 째인데 역대 최대로 183개국 선수와 임원 1700여 명이 참가하고 새 정부 출범 이후 첫 남북 스포츠 교류라고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01775_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

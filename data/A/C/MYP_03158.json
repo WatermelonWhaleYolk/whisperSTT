@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYP_03158",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희 십자회는 이번 여정도 용사님을 지원할 것을 약속드립니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.109
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래? 고맙다 인간아.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.119,
+                "end": 8.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용사님도 참. 인간아라니요. 그렇게 딱딱한 표현 말고 편하게 박세실리아라고 불러 주셔도 돼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.233,
+                "end": 18.442
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 사람이름이 박세실리아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.452,
+                "end": 20.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.142,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "용사는 앞으로도 자신을 지원 하겠다는 십자회 소속 인간의 이름이 박세실리아라는 것을 듣고 의문을 품었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03158_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

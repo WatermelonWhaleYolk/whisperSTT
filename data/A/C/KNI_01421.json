@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_01421",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.966,
+        "format": "MP4",
+        "date": "2023-04-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "팀 트로피 대회에 처음 출전해 일본을 제치고 첫 은메달까지 획득한 우리 선수들 아주 밝은 얼굴로 귀국했는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많은 팬들도 공항을 찾아서 이 성과를 함께 축하해 줬습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.762,
+                "end": 11.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 대표팀도 이제부터 젊은 우리를 주목해 달라는 의미를 담아 인기 아이돌 그룹이지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.716,
+                "end": 17.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뉴진스의 어텐션 안무로 화답했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.307,
+                "end": 19.799
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 대단하고 정말 박수받아야 마땅한 그런 성과라고 생각을 하는 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.809,
+                "end": 26.203
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누구 하나 빠질 것 없이 정말 서로가 서로를 열심히 응원해 주고 서로 열심히 경기 뛰고 이렇게 했던 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.213,
+                "end": 32.966
+            }
+        ]
+    },
+    "summary": "팀 트로피 대회에 처음 출전한 우리 선수들이 일본을 제치고 첫 은메달까지 획득해 아주 밝은 얼굴로 귀국했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01421_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 137
+                }
+            ]
+        }
+    ]
+}

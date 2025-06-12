@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_01264",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.656,
+        "format": "MP4",
+        "date": "2022-12-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 2주 국민들에게 축구와 함께하는 뜨거운 겨울을 선사한 축구 대표 팀이 팬들의 힘찬 함성 속에 돌아왔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현지에서 소속 팀으로 복귀한 김승규와 정우영 등을 제외하고 24명 태극 전사들이 차례로 들어섰고 팬들 앞에서 가장 먼저 꺼낸 이야기는 감사의 인사였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.665,
+                "end": 19.641
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금처럼 이렇게 많이 응원해 주시면 저희가",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.651,
+                "end": 23.656
+            }
+        ]
+    },
+    "summary": "현지에서 소속 팀으로 복귀한 김승규와 정우영 등을 제외하고 24명 태극 전사들이 차례로 들어섰고 팬들 앞에서 가장 먼저 꺼낸 이야기는 감사의 인사였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01264_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

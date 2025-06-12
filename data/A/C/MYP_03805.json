@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "filename": "MYP_03805",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.124,
+        "format": "MP4",
+        "date": "2021-05-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 아니 그 내가 잘못한 게 아니고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.785,
+                "end": 2.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아뇨 안 봐도 무조건 쟤가 나쁜 놈이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.590,
+                "end": 6.897
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그 정도까진",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.907,
+                "end": 8.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너 콩밥 좋아하니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.162,
+                "end": 10.209
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "호랑이 새끼를 사귀었구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.219,
+                "end": 11.986
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그는 변호사답게 뛰어난 분석력과 지식을 갖추고 있으며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.996,
+                "end": 16.966
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내추럴 본 이디어트가 무슨 뜻이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.976,
+                "end": 19.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너 나 그리고 우리라는 뜻이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.974,
+                "end": 22.518
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우와",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.528,
+                "end": 24.124
+            }
+        ]
+    },
+    "summary": "변호사인 친구는 무조건 상대방이 나쁜 놈이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03805_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 18
+                }
+            ]
+        }
+    ]
+}

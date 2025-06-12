@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "KNI_00468",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.055,
+        "format": "MP4",
+        "date": "2023-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중앙대 동기로 프로 데뷔 시기도 같았던 만큼 얽힌 이야기들도 많습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.826
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신인왕도 뺏어가고 뭐 1순위도 뺏어가고 그냥 혼자 다 해 먹더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.836,
+                "end": 9.645
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래서 바로 다음 해에 MVP 했잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.650,
+                "end": 11.765
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그 정규 리그",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.775,
+                "end": 12.522
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저는 그게 부러웠어요. 아 정말 얘가 진짜 독기 품었구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.532,
+                "end": 16.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대학 시절 이후 12년 만에 호흡을 맞추게 된 오세근과 김선영은 이제 같은 길을 걸어가게 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.077,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "오세근과 김선영 선수는 중앙대 동기로 프로 데뷔 시기도 같아 대회에 얽힌 비화가 많다며 앞으로 같은 팀으로서 호흡을 맞추게 됐다는 소식이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00468_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00468_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

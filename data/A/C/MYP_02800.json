@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_02800",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.633,
+        "format": "MP4",
+        "date": "2020-06-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 하긴 포장보다는 홀이 비싼 게 맞지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 잠깐 한 마리 가격에 두 마리를 준다고 써놓고서 2만 3000원 지금 나랑 장난합니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.452,
+                "end": 7.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 한 마리는 얼만데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.544,
+                "end": 9.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 그게 한 마리만 하면 1만 6000원입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.188,
+                "end": 11.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 사기꾼을 봤나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.542,
+                "end": 12.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그래도 원래 두 마리 시키면 3만 2000원이지만 2만 3000원이면 엄청 싼 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.662,
+                "end": 17.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 뭐 시간도 늦었고 하니 속는 셈 치죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.796,
+                "end": 20.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대신 세 마리같은 두 마리로 부탁합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.355,
+                "end": 22.479
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 예 손님 이쪽으로 들어오시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.489,
+                "end": 24.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 잠시만요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.169,
+                "end": 24.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인서타 검색 좀 해보고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.929,
+                "end": 26.633
+            }
+        ]
+    },
+    "summary": "남성이 치킨 1마리는 얼마인지 물어보고 사장님이 답을 하자 왜 1마리 가격에 2마리를 주는 게 아니냐고 뭐라고 하고 검색을 하겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02800_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

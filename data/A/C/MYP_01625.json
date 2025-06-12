@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_01625",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.966,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전 이만 레알로 넘어가 레알의 왕이 될 테니 안녕히 계십쇼 네이마르 씨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.841
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네가 레알에 가든 말든 이제 내 알 바 아니다 어디 챔스에서 만나기라도 해봐 이적한 걸 제대로 후회하게 될 거다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.851,
+                "end": 10.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 가가 또 부상인 건 아니시고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.490,
+                "end": 12.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허허",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.600,
+                "end": 13.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 새끼가 진짜?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.050,
+                "end": 14.188
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나 네이마르야 네이마르 파리의 왕 네이마르라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.190,
+                "end": 17.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "병원에만 누워있는 왕은 들어본 적이 없습니다 계속 그렇게 부상을 달고 사신다면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.201,
+                "end": 21.966
+            }
+        ]
+    },
+    "summary": "네이마르의 부상에 후배가 레알로 이적해 레알의 왕이 되려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01625_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

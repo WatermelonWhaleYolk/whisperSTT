@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00117",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.425,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마이클 밀러 전력 강화 위원장도 이사진에 포함되어 있어 대표팀 운영에도 비상이 걸렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.707
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거는 사실은 축구인들의 잘못이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.717,
+                "end": 8.898
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 정무 감각이 떨어지는 다른 세상에 살고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.908,
+                "end": 12.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집행부가 마비된 상태인 가운데 폐쇄적 의사 결정을 진행한 정몽규 회장은 사실상 홀로 남은 상황 책임감을 통감하지 않으면서 언제까지 한국 축구 수장으로 버티고 있을지 지켜볼 일입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.294,
+                "end": 25.425
+            }
+        ]
+    },
+    "summary": "위원장도 이사진에 포함되어 있어 대표팀 운영에 비상이 걸렸고 정몽규 회장 홀로 언제까지 버티고 있을지 지켜볼 일이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00117_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

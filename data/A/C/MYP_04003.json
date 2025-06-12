@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "filename": "MYP_04003",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.459,
+        "format": "MP4",
+        "date": "2020-11-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그림이 좀 달랐다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꺄아악 어떡해 진짜 때렸어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.632,
+                "end": 4.327
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뺑소니다 화물차 급 뺑소니.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.337,
+                "end": 8.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 언제부터 있었는지 모를 방송부의",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.143,
+                "end": 11.095
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "말씀드리는 순간 첫 뺨이 작렬했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.105,
+                "end": 13.752
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "바 방송부?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.762,
+                "end": 16.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "논스톱 인터뷰까지",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.575,
+                "end": 18.354
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "돈 많이 벌었나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.364,
+                "end": 19.547
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "기분이 어떤가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.557,
+                "end": 20.247
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "합의금 받아서 등록금 낼 기분이다 이놈들아 이걸 왜 작년에 하고 또 하냐고",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.257,
+                "end": 26.459
+            }
+        ]
+    },
+    "summary": "뺨을 굉장히 세게 친 여학생은 가버리고 그 순간 방송부에서 나와 촬영을 하며 찰리 형의 기분과 돈을 많이 벌었는지 인터뷰 하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

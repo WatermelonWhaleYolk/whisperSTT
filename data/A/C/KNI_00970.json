@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_00970",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.73,
+        "format": "MP4",
+        "date": "2022-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전기 종료 1.4초를 남기고 김선영의 선택은 플로터였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.589
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "짜릿했던 것 같고 팀원들이 엄청 때렸어요 저를.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.599,
+                "end": 9.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞는 게 진짜 그렇게 기분 좋은 거일 수도 있구나라고 느꼈던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.793,
+                "end": 14.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허를 찌르고 높이의 열세를 보기 좋게 뒤집는 김선영 특유의 경쟁력입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.967,
+                "end": 21.330
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "살짝 좀 떨어진 상태에 이 상태에서 바로 쏘는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.340,
+                "end": 26.726
+            }
+        ]
+    },
+    "summary": "전기 종료 1.4초를 남기고 김선영의 득점으로 경기를 뒤집었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00970_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

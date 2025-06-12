@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_02404",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.246,
+        "format": "MP4",
+        "date": "2021-02-16",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너가 경찰이면 조사 결과는 어떻게 되지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.252
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그게 케인 널 조사했는데 마피아가 아니라더라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.262,
+                "end": 4.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이 녀석이 날 의심했어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.899,
+                "end": 6.546
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "의심이라니 원래 마피아 하면 한 명씩 다 조사해 보는 거잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.556,
+                "end": 9.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윙크스 너도 뭐라고 좀 해봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.348,
+                "end": 10.583
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 아이 전 사실",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.593,
+                "end": 11.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "됐어 쟤가 뭘 할 줄 안다고 다시 한번 말하지만 쟤는 후보 선수 중에서도 실력이라곤 하나도 없는 애야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.789,
+                "end": 17.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얌전히 있는 애 괴롭히지 말고 흥민이로 가자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.434,
+                "end": 19.755
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "자 투표 시작 3",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.765,
+                "end": 21.233
+            }
+        ]
+    },
+    "summary": "축구 선수들은 서로 마피아 의심을 하며 마피아를 지목하여 죽일 사람을 투표하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

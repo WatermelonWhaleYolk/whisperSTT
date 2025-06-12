@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03520",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2022-05-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "균형잡인 공사의 밸런스와 더불어 흔치 않은 묘한 카리스마가 있었기에 만장일치로 1대 회장이 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.043
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 회장은 @이름1",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.053,
+                "end": 10.373
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.383,
+                "end": 11.268
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "오호호 삐회장",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.278,
+                "end": 13.510
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "헷 앞으로의 포부를 밝혀라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.520,
+                "end": 15.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.999,
+                "end": 16.777
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 걍",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.787,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "균형잡인 공사의 밸런스와 더불어 흔치 않은 묘한 카리스마가 있었기에 만장일치로 @이름1이 1대 회장이 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03520_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

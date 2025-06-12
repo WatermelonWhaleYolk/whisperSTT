@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00154",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2023-04-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지방 자치 단체 공무원 10명 중 8명은 언어 폭력을 경험했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "30퍼센트는 성희롱을 경험했고 폭행을 당한 경우도 15퍼센트로 조사됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.528,
+                "end": 10.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "악성 민원인을 처리하고 나면 과도한 업무가 기다립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.558,
+                "end": 14.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 한 지자체 누리집엔 복지 공무원 가족의 호소 글이 올라왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.501,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "지방 자치 단체 공무원 10명 중 8명은 언어 폭력을 경험고 30퍼센트는 성희롱을 경험했고 폭행을 당한 경우도 15퍼센트로 조사됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00154_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

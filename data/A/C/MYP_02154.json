@@ -1,0 +1,193 @@
+{
+    "metadata": {
+        "filename": "MYP_02154",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.4,
+        "format": "MP4",
+        "date": "2021-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 아무튼 정상적으로 계약했으니 앞으로 잘 부탁하네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람들은 나더러 무리뉴 보다 못한 감독을 데려왔다며 불만 섞인 반응을 보이고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.380,
+                "end": 7.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "폰감독 자네 내 선택이 옳았다는 걸 증명할 수 있겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.694,
+                "end": 11.088
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.098,
+                "end": 11.911
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나겔스만이나 콘테만큼은 아니어도 최소한 무리뉴 보다는 잘 할 자신 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.921,
+                "end": 15.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래 내 듣기로 자네는 상당히 공격적인 전술을 구사한다며?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.814,
+                "end": 19.733
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 아무래도 답답한 수비 축구보다는 화끈한 공격 축구가 낫지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.743,
+                "end": 23.734
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토트넘에 뛰어난 공격 자원도 많으니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.744,
+                "end": 25.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 새로 부임한 단장이 그새를 못 참고 흥민이나 케인을 팔아버렸다면?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.625,
+                "end": 30.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.194,
+                "end": 30.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 진짜입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.827,
+                "end": 31.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새로 온 단장 이름이 파라티치이지 않나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.786,
+                "end": 34.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 알아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.295,
+                "end": 35.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 이러고 있는 동안",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.094,
+                "end": 36.400
+            }
+        ]
+    },
+    "summary": "화자1은 화자2에게 정상적으로 계약했으니 앞으로 잘 부탁한다고 말하며 사람들이 무리뉴 보다 못한 감독을 데려왔다며 불만 섞인 반응을 보이는데는 자신의 생각이 옳았다는 걸 증명할 수 있겠냐고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02154_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

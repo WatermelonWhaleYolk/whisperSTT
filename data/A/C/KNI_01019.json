@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01019",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.83,
+        "format": "MP4",
+        "date": "2022-01-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에이스 최민정은 탐색전에 돌입한 중국 대표팀을 경계하면서도 자신만의 레이스를 펼치겠다고 다짐했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.613
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김선태 감독님의 도움을 굉장히 많이 받았어서 항상 이렇게 항상 감사한 마음이 있었는데 일단은 지금은 그 각자 자리가 이제 국적이 다르기 때문에 저도 제 위치에서 최선을 다해야 될 것 같고 뭐 좋은 경쟁을 할 수 있었으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.623,
+                "end": 22.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 작년 베이징 1차 월드컵 대회에 출전했던 선수들은 빙질 적응에도 큰 문제가 없다며 자신감을 나타냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.434,
+                "end": 30.830
+            }
+        ]
+    },
+    "summary": "이미 작년 베이징 1차 월드컵 대회에 출전했던 선수들은 빙질 적응에도 큰 문제가 없다며 자신감을 나타냈습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01019_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

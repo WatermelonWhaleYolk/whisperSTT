@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00491",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2023-05-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 전시의 가장 큰 특징은 뛰어난 장식 미술가였던 뒤피의 면모를 볼 수 있다는 점 지금까지도 패션 디자이너들에게 영감을 주는 현대적 감각이 놀랍습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미술관이 아닌 개인으로는 세계 최고 수준을 자랑하는 애드 몽 헬라드 컬렉션을 비롯해 180여 점이 한국에 왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.580,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "이 전시의 가장 큰 특징은 뛰어난 장식 미술가였던 뒤피의 면모를 볼 수 있다는 점과 지금까지도 패션 디자이너들에게 영감을 주는 현대적 감각이 놀랍습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00491_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 19,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

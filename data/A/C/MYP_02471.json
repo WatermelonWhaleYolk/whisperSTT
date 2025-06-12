@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYP_02471",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.5,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 뭐 어느 정도 마음에 들게 그려진 것 같아 상당히 뿌듯합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 아시는 분은 알고 계시겠지만 요리스 선수가 뛰어난 활약을 펼칠 때면 특제 영양식을 먹고 있다는 것 알고 계신가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.999,
+                "end": 11.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 오늘 특별히 다가오는 리버풀전에 좋은 활약하라고 준비했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.623,
+                "end": 15.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 요리스 선수의 먹방 보시면서 여기까지 요리스 그리기였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.762,
+                "end": 20.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.060,
+                "end": 25.500
+            }
+        ]
+    },
+    "summary": "다가오는 리버풀전에서 요리스 선수의 뛰어난 활약을 위해 특제 영양식을 준비했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02471_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

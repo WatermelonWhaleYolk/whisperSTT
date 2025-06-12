@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_02005",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.666,
+        "format": "MP4",
+        "date": "2021-08-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 아무리 토트넘의 경기력이 살아났다 해도 덜컥 재계약했다간 또다시 무관의 길을 걷는 거 아냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.219
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 시즌은 일단 컨퍼런스부터 우승한 다음 리그 성적도 챔스 진출권으로 마치는 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.229,
+                "end": 10.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 다음 시즌엔 리그와 챔스 우승에 다시 한번 도전하고 거고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.560,
+                "end": 13.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 토트넘이 전성기 시절에도 리그 2위와 챔스 준우승이 최대였는데 그게 가능하겠냐고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.755,
+                "end": 19.666
+            }
+        ]
+    },
+    "summary": "케인은 토트넘의 경기 실력이 살아났다 해도 덜컥 재계약했다가 무관의 길을 걷는 건 아닌지 걱정하고 손흥민은 일단 컨퍼런스 우승한 다음 다음 시즌 리그와 챔스 우승에 도전하면 된다고 하자 케인은 토트넘 전성기 시절에도 리그 2위와 챔스 준우승이 최대였는데 그게 가능하냐 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00134",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.658,
+        "format": "MP4",
+        "date": "2022-04-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2위 박혜정과의 격차는 5킬로그램으로 벌어집니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 박혜정은 용상에서 극적인 역전 드라마를 완성했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.664,
+                "end": 8.970
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힘차게 발을 구른 뒤 바벨을 잡은 박혜정은 용상 2차 시기에서 162킬로그램을 들어 합계 280킬로그램으로 우승을 차지했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.980,
+                "end": 18.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박혜정은 이미 작년 고2 때 장미란의 고등학생 기록을 뛰어넘으며 역도계를 발칵 뒤집어 놨습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.220,
+                "end": 25.658
+            }
+        ]
+    },
+    "summary": "박혜정은 1위와 5킬로그램 차이가 있었지만 용상 2차 시기에서 162킬로그램을 들어 합계 280킬로그램으로 우승을 차지했는데 그는 이미 고2 때 장미란의 고등학생 기록을 뛰어넘으며 역도계를 뒤집어 놨었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00134_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

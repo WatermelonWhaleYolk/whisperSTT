@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01091",
+        "category": "스포츠뉴스",
+        "sub_category": 24,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.37,
+        "format": "MP4",
+        "date": "2022-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도쿄 올림픽에서 금메달을 기록했던 남자 사브르 대표팀이 위풍당당하게 결승전에 나섭니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 주자로 나선 김준호가 일본 선수를 몰아붙이며 기선 제압에 성공하는데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.348,
+                "end": 13.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인전 챔피언 구본길에 이어 막내 오상욱까지 우승을 확정짓는 절묘한 찌르기 공격을 성공시키고 포효합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.023,
+                "end": 22.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "45대 33 네 선수 사브르 단체전 금메달을 합작했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.329,
+                "end": 27.360
+            }
+        ]
+    },
+    "summary": "도쿄 올림픽에서 금메달을 기록했던 남자 사브르 대표팀이 결승전에 나서 사브르 단체전 금메달을 땄다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01091_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

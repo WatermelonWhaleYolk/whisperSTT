@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_00885",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.09,
+        "format": "MP4",
+        "date": "2023-02-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여자 대표팀의 에이스 지소연 역시 설렘과 기대가 가득합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.333
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정말 월드컵이 다가왔다는 게 느껴지고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.343,
+                "end": 7.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보는 것만이 아니라 손으로도 꼭 한번 만져봤으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.670,
+                "end": 12.322
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "콜롬비아랑 이길 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.332,
+                "end": 13.816
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 모로코도 이길 수 있을 것 같습니다. 독일은 그 2승 하고 1무 해도 올라가지 않나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.826,
+                "end": 21.711
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 뭐 비길 수도 있지 않을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.721,
+                "end": 24.090
+            }
+        ]
+    },
+    "summary": "여자 대표팀의 지소연 선수는 월드컵이 다가왔다는 게 느껴진다며 보는 것만이 아니라 손으로도 꼭 한번 만져봤으면 좋겠다고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00885_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

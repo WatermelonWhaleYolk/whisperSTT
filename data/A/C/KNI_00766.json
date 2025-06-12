@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00766",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.017,
+        "format": "MP4",
+        "date": "2023-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "의료진의 신고를 받은 경찰은 A 군 부모를 아동 학대 치사 혐의로 긴급 체포했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부검 결과 A 군에게선 다발성 손상이 확인됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.796,
+                "end": 10.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰 조사에서 두 사람은 아이 훈육을 위해 때린 적이 있다며 혐의를 일부 인정한 걸로 전해졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.105,
+                "end": 17.017
+            }
+        ]
+    },
+    "summary": "A군 부모는 경찰 조사에서 아이 훈육을 위해 때린 적이 있다며 혐의를 일부 인정한 걸로 전해졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00766_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

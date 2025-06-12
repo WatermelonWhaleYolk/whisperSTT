@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "KNI_02438",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.573,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이제 우리가 그 포환 던지기라고 하는데 저 포환 포환이 여자 선수들이 4킬로그램이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 4키로를 이렇게 주먹으로 쥐어서 던지는 건 아니잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.069,
+                "end": 11.427
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇습니다 일단 미는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.437,
+                "end": 13.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.120,
+                "end": 13.625
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "던지면 파울이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.635,
+                "end": 15.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇기 때문에 목에 붙여서 민다고 볼 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.290,
+                "end": 19.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 밀려면 그 근력이 아주 강해야 되겠습니다 미는 힘이",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.337,
+                "end": 25.392
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그렇습니다 이 요즘같은 그 선수들의 기술 그리고 던지는 모습을 봤을 때는 사실상 포환 던지기 밀기가 아니라 포환을 쏜다고 표현을 하 하는 게 맞다고 보 보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.402,
+                "end": 38.154
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.164,
+                "end": 39.572
+            }
+        ]
+    },
+    "summary": "여자 포환 종목은 4킬로그램의 공을 사용하여 이 공을 던지는 것이 아니라 목에 붙여 밀어서 멀리 보내는 경기이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02438_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "filename": "MYP_01162",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 52.433,
+        "format": "MP4",
+        "date": "2022-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "36경기 체제로 바뀐 뒤로 살라의 32골이 한 시즌 최다 골이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.984
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "니가 아무리 괴물 공격수라 해도 매 경기 2골씩 넣는 건 있을 수 없는 일이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.994,
+                "end": 9.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그치만 형들의 패스만 있다면 한 경기당 한 경기당 한 골은 넣지 않겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.090,
+                "end": 12.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도안이 형도 저번 경기 패스 지렸었잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.178,
+                "end": 14.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하긴 우리의 패스와 너의 마무리라면 정말 40골 경지에 오를지도 모르겠군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.671,
+                "end": 19.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 프리미어리그에 입성한 이래 가장 충격적인 데뷔전이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.062,
+                "end": 22.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "직접 얻어낸 PK를 왼발로 깔끔하게 마무리하며 데뷔골 덕배의 패스를 왼발로 낮게 깔아 차며 멀티골 거기다가 아쉽게 빗나갔지만 거의 골에 가까웠던 헤딩까지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.768,
+                "end": 33.205
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "양발과 머리 모두를 사용하며 쉴 새 없이 몰아붙였지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.215,
+                "end": 35.959
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "해트트릭을 놓친 건 좀 아쉽지만 이 정도면 프리미어리그 검증은 충분히 마친 것 같은데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.969,
+                "end": 40.299
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "해트트릭 그거 일부러 안 한 건데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.309,
+                "end": 42.305
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그게 무슨 소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.315,
+                "end": 43.499
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첫날부터 다 보여주면 팬들이 금방 질릴 수도 있잖아. 그래서 지난 경기엔 내가 가진 능력의 한 70프로 아니 솔직히 50프로만 보여준 거야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 43.509,
+                "end": 52.433
+            }
+        ]
+    },
+    "summary": "선수들이 홀란드 선수의 데뷔전이 성공적이었다고 하며 득점왕은 물론 40골의 경지도 가능하겠다고 하자 홀란드 선수가 처음부터 다 보여주면 팬들이 금방 질릴 수도 있어서 가진 능력의 50프로만 보여줬다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01162_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

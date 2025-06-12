@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYP_03650",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.065,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "허세의 계절",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.501,
+                "end": 13.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.992,
+                "end": 16.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엑설런트",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.178,
+                "end": 17.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람이라면 누구나 가끔은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.519,
+                "end": 19.792
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이고 왕 언니 오늘 만땅 하셨네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.802,
+                "end": 24.785
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "세면대 앞에 웬 똥이 한가득 퍼질러져 있으야 호호호호",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.795,
+                "end": 29.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허세를 부리고 싶을 때가 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.384,
+                "end": 32.065
+            }
+        ]
+    },
+    "summary": "발화자는 세면대 앞에 똥이 한가득 차 있고 사람은 가끔씩 허세를 부리고 싶을 때가 있을 거라고 설명 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03650_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

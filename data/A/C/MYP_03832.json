@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYP_03832",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.217,
+        "format": "MP4",
+        "date": "2021-03-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 버릇들을 관찰해 보면",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.677
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 술버릇 나쁜 사람들은 다 정신력 탓이라 생각해요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.687,
+                "end": 5.740
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.740,
+                "end": 6.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평소의 생활방식이나 성향을 유추할 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.537,
+                "end": 9.369
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 술 취하면 그냥 얌전히 자거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.379,
+                "end": 13.629
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아하 그건 술버릇도 아니죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.639,
+                "end": 17.217
+            }
+        ]
+    },
+    "summary": "맞은 편에 앉은 남성이 자기는 술 취하면 얌전히 자고 평소에 술버릇 나쁜 사람들은 정신력 탓이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03832_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

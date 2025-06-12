@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00231",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.15,
+        "format": "MP4",
+        "date": "2022-06-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀은 월드컵 본선 진출에 실패한 피파 랭킹 50위 파라과이에 고전하며 조직력 강화의 과제를 재확인했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "벤투호는 오는 14일 서울 월드컵 경기장에서 이집트와 6월 마지막 평가전을 치릅니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.691,
+                "end": 15.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 김기범입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.151,
+                "end": 17.150
+            }
+        ]
+    },
+    "summary": "대표팀은 피파 랭킹 50위 파라과이와의 경기에서 조직력 강화 과제를 재확인했으며 14일 이집트와 6월 마지막 평가전을 치른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00231_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

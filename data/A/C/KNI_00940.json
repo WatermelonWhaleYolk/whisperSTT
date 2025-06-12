@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "KNI_00940",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 55.055,
+        "format": "MP4",
+        "date": "2122-12-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수들의 몸 상태랑 안전이 제일 중요하다고 생각하기 때문에 승패를 떠나서 나라를 걸고 열심히 하는 마음을 보여주셨으면 감사하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.145
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 광화문 광장에는 경찰 추산 만 5000명이 모일 것으로 예상됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.155,
+                "end": 15.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많은 인파가 몰리는 만큼 무엇보다 중요한 건 안전입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.280,
+                "end": 19.405
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰은 사고에 대비해 경찰관 150명과 기동대 11개 부대 특공대 20명을 배치했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.415,
+                "end": 26.303
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울시는 추위에 대비해 난방기구를 설치한 쉼터 텐트 네 개 동도 운영하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.313,
+                "end": 32.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응원전 나오시는 분들 반드시 방한에 신경 쓰시길 바라겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 32.800,
+                "end": 37.723
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 경기가 끝나면 시간이 많이 늦어지는 만큼 지하철도 연장 운행됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 37.733,
+                "end": 44.096
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지하철 2 3 5호선이 경기가 끝나는 시점부터 내일 새벽 3시까지 특별 운행하니 참고하시기 바랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.106,
+                "end": 52.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금까지 서울 광화문 광장에서 전해드렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.237,
+                "end": 55.055
+            }
+        ]
+    },
+    "summary": "응원전에 많은 인파가 모일 것으로 예상되어 안전과 추위에 대비한 인력과 시설이 배치되었고 지하철이 연장 운행된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00940_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

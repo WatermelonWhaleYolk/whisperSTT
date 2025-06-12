@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01554",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.426,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흥국생명 선수들끼리 호흡이 맞지 않아 김연경이 공격 시도조차 못합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 주전 센터로 활약했던 이원정의 부상 공백이 유난히 커 보였는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.569,
+                "end": 9.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3 세트 도중 점수차가 크게 벌어지자 뒤지고 있던 흥국생명 아본단자 감독이 김연경을 벤치로 불러들이는 보기 드문 장면까지 나왔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.370,
+                "end": 18.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 도로공사는 43살 센터 정대영이 몸을 날리며 공을 살려냈고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.882,
+                "end": 24.424
+            }
+        ]
+    },
+    "summary": "흥국생명 선수들끼리 호흡이 맞지 않아 김연경이 공격 시도조차 못하고 점수차가 크게 벌어지자 뒤지고 있던 흥국생명 아본단자 감독이 김연경을 벤치로 불러들이는 보기 드문 장면까지 나왔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01554_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_03380",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.896,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유일한 2학년인 류재벽 고교 최고의 뱃 컨트롤로 감각이 진짜 천재적이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "작년에 모든 대회 삼진 아웃이 단 한차례도 없었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.812,
+                "end": 11.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 녀석은 아시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.250,
+                "end": 13.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "언론에서도 미래의 슈퍼스타로 조명 받고 있는 녀석이니까 3학년 최필 내년 프로 진출 결정을 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.974,
+                "end": 21.888
+            }
+        ]
+    },
+    "summary": "2학년인 류재벽은 고교 최고의 뱃 컨트롤로 감각이 진짜 천재이고 3학년 최필은 내년 프로 진출 결정을 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03380_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

@@ -1,17 +1,3 @@
-1. 2022년 9월에 출시됨
-
-2. tiny, base, small, medium, large, turbo 총 6가지의 모델을 제공
-
-3. 영어 전용이고 다국어 버전도 지원
-
-4. 성별과 나이 등을 추론하는 용도로는 적절하지 않음
-
-5. 의사결정 기반 시스템에는 부적절
-
-6. 68만 시간의 데이터를 웹에서 수집했음
-
-7. 98개 언어 포함
-
 <ul>
 <li>pip install -r</li>
 <li>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))</li>
@@ -25,4 +11,12 @@
 <ol>1에서 6.py 순서대로 실행 (경로 이상하면 학습하는 척만 할 수 있으니 root.py로 경로 확인)</ol>
 <ol>save_model.py로 학습한 것들을 모델로 만듬</ol>
 <ol>whisper-finetuned-final 폴더 생성</ol>
+</ul>
+
+<ul>
+<li>path.py -> 만들어진 csv파일의 내용 중 경로가 올바른지 검증</li>
+<li>find.py -> 받아온 mp4파일과 json파일이 서로 대응되는지 확인</li>
+<li>time.py -> B폴더에 생성된 wav파일들의 총 시간의 합 계산</li>
+<li></li>
+<li></li>
 </ul>

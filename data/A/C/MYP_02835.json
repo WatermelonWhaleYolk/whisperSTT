@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_02835",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.866,
+        "format": "MP4",
+        "date": "2020-05-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 예 뭐 알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.278
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "5252 행님덜 우리 왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.288,
+                "end": 5.142
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오 몇타치 돌아왔구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.152,
+                "end": 7.232
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "인사해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.242,
+                "end": 7.915
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 친구가 새로 입단한 공격수 타랍박이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.925,
+                "end": 10.247
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 이거 새로 오신 행님 와꾸가 완전 씨상타치인 거 인정",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.257,
+                "end": 14.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예 반갑습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.012,
+                "end": 15.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그게 무슨 말씀이신지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.137,
+                "end": 16.537
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 자네가 잘 생겼다 이 말이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.547,
+                "end": 18.282
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나같은 노인네도 알아 듣는데 타랍박 자네 혹시 문찐인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.292,
+                "end": 22.866
+            }
+        ]
+    },
+    "summary": "감독이 새로운 선수를 소개하고 다른 선수가 잘생겼다고 칭찬한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02835_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

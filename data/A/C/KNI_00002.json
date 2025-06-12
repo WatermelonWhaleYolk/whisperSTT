@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_00002",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.522,
+        "format": "MP4",
+        "date": "2022-01-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "태극 전사들이 한자리에 모였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대회가 코앞으로 다가왔지만 선수들의 표정엔 부담감보단 설렘이 가득한 모습입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.329,
+                "end": 8.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음 달 4일부터 17일간 열릴 이번 베이징 동계 올림픽에서 6개 종목 63명의 우리 선수들은 뜨거운 땀방울을 베이징에서 후회 없이 모두 쏟겠다는 각오입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.421,
+                "end": 20.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 여섯 번째 올림픽에 나서는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.076,
+                "end": 22.522
+            }
+        ]
+    },
+    "summary": "태극 전사들이 베이징 올림픽을 위해 한자리에 모였으며 설렘이 가득한 모습이라고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 46
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00002_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

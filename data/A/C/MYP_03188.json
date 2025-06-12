@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_03188",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.195,
+        "format": "MP4",
+        "date": "2023-05-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거 뭐야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.793
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이거 분필요 분필. 오늘 발표를 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.803,
+                "end": 7.692
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "바로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.702,
+                "end": 8.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흔치 않은 초록 분필로 발표 수업을 주장하시겠다?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.411,
+                "end": 17.541
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "당구장.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.551,
+                "end": 18.391
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 손가락의 이 굳은 살은 큐를 잊지 못하고 있구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.401,
+                "end": 23.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 손가락을 그렇게 잡으면 안 되지. 당구 친 걸 패륜으로 엮으세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.110,
+                "end": 29.195
+            }
+        ]
+    },
+    "summary": "그는 당구장에 다녀온 것을 숨기고 싶었으나 손의 굳은 살과 분필색을 보고 상대방은 알아차렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03188_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

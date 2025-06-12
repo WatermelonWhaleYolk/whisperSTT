@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_02034",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.333,
+        "format": "MP4",
+        "date": "2019-06-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 마지막 경기가 남았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할 수 있는 만큼 최선을 다해서 좋은 모습 보이도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 2.191,
+                "end": 5.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아시아의 자존심을 지킨 역사적인 승리였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.812,
+                "end": 9.200
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대표 팀은 이제 나흘 뒤 열리는 대망의 결승전에서 아시아 팀 최초의 우승이라는 대역사에 도전합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.210,
+                "end": 15.046
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "루블린에서 KBS 뉴스 하무림입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.056,
+                "end": 18.333
+            }
+        ]
+    },
+    "summary": "마지막 경기를 앞두고 정정용 감독이 각오를 남겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02034_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

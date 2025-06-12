@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01053",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.252,
+        "format": "MP4",
+        "date": "2022-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 코치나 동료 선수들의 괴롭힘이 있었는지 확인하기 위해 고인의 휴대폰에 대한 통신 영장을 신청해 놓은 상황입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문체부 산하 스포츠 윤리 센터도 K리그 소속 유소속 클럽에서 발생한 이번 사건의 엄중함을 인식하고 진상 조사에 들어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.378,
+                "end": 17.242
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.252,
+                "end": 19.252
+            }
+        ]
+    },
+    "summary": "경찰은 고인의 휴대폰에 대한 통신 영장을 신청했고 문체부 산하 스포츠 윤리 센터도 진상 조사에 들어갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01053_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

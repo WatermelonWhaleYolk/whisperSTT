@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_03824",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.896,
+        "format": "MP4",
+        "date": "2021-04-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "니꺼야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우와 귀엽당.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.786,
+                "end": 4.110
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "덤 앤 더머 주인공 이름을 따서 로이드와 해리라는 이름을 지어 주었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.120,
+                "end": 9.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너는 이제 로이드와 해리다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.752,
+                "end": 12.187
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "니들이 못났으면 자식은 좀 안 그러길 바래야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.197,
+                "end": 15.777
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "처음 며칠간은 적응기간인지 둘 다 조용하고 얌전했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.787,
+                "end": 21.888
+            }
+        ]
+    },
+    "summary": "두 거북이에게 덤 앤 더머 속에 나오는 주인공들 이름인 로이드와 해리라는 이름을 지어 주었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03824_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

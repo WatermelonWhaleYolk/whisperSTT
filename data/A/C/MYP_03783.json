@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYP_03783",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.966,
+        "format": "MP4",
+        "date": "2021-05-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "홈런이군.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.065
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홈팀이고 약 2,3점 정도",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 2.075,
+                "end": 5.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다행이다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.735,
+                "end": 6.249
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재능을 악용한 머리가 없어서 정말 다행이야",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.259,
+                "end": 9.180
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "보지 않고도 경기를 읽어낼 정도였다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.190,
+                "end": 13.393
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 그는 이 정도에도 만족하지 못했는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.403,
+                "end": 17.541
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘의 이야기는 날 보러 와요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.551,
+                "end": 21.955
+            }
+        ]
+    },
+    "summary": "형은 보고 않고도 경기를 읽어냈으나 그 정도에 만족하지 못한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03783_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

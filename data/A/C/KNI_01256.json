@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01256",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.864,
+        "format": "MP4",
+        "date": "2022-11-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.398
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손흥민은 부상 일주일 만에 출전 의지를 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.408,
+                "end": 10.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "월드컵 직전 소속팀 마지막 홈경기에는 뿔테 안경을 낀 채로 나타나 기대감도 높였습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.316,
+                "end": 17.261
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결전지 도하에 입성한 손흥민은 마치 배트맨을 연상시키는 검정 마스크를 쓰고 훈련을 시작했고 부상 20 일 만에 깜짝 헤더를 시도할 정도로 컨디션을 되찾았습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.271,
+                "end": 28.862
+            }
+        ]
+    },
+    "summary": "손흥민은 부상 일주일 만에 출전 의지를 밝혔고 도하에 입성한 손흥민은 마치 배트맨을 연상시키는 검정 마스크를 쓰고 훈련을 시작했으며 부상 20 일 만에 깜짝 헤더를 시도할 정도로 컨디션을 되찾았다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01256_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

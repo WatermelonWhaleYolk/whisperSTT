@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_02451",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.372,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 선수 뭔가 아쉬운 듯한 이런 표정인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.125
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 이 선수들의 기술을 봤을 때 너무 또 정면으로 끌어도 문제가 생기거든요 약간 사선으로 빠지면서 몸의 공간을 열어줘야지 좋은 기록을 낼 수가 있는데 이 선수같은 경우에 너무 일자로 그 기술 글라이더를 끌고 들어가기 때문에 공간이 없기 때문에 힘을 전달할 수 있는 그런 시간이 줄어든다고 볼 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.135,
+                "end": 26.211
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "본인이 그걸 알아서 일부러 그 밟았어요 턱을 그러면서 어 파울이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.221,
+                "end": 33.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름2 선수 마지막 6차 시기 도전입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.169,
+                "end": 36.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서귀포 시청의 @이름2",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.430,
+                "end": 39.372
+            }
+        ]
+    },
+    "summary": "포환 종목의 @이름1 선수는 너무 일자로 기술을 끌고 들어가는 바람에 파울이 됐고 다음으로 서귀포시청의 @이름2 선수가 6차 시기를 준비하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "KNI_01970",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 47.414,
+        "format": "MP4",
+        "date": "2020-05-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개막전에서 만날 잠실 라이벌 LG도 포부를 숨기지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.497
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "작년에 아쉽게 4위로 마쳤지만 올해는 잘 준비했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.507,
+                "end": 9.295
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼭 한국 시리즈 올라가가지고 좋은 모습 보이도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.305,
+                "end": 13.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 겨울 야구가 된 포스트 시즌 진출에 열망도 드러냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.093,
+                "end": 18.098
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "매경기 열정을 가지고 자존심을 기필코 회복하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.108,
+                "end": 22.223
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "한 경기 한 경기 최선을 다하다 보면 겨울까지 야구를 할 수 있다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.233,
+                "end": 27.834
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "각 팀에 개막전 선발 투수도 공개된 가운데 LG는 차우찬 삼성은 백종현 기아는 양현종을 예고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.844,
+                "end": 36.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "롯데만 결정을 못했는데 만약 토종 선발내면 4년 만에 국내 투수 4명이 개막전 선발로 나서게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.500,
+                "end": 45.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.210,
+                "end": 47.414
+            }
+        ]
+    },
+    "summary": "겨울 야구가 된 포스트 시즌 진출에 열망도 드러냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01970_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_02137",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.7,
+        "format": "MP4",
+        "date": "2021-06-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민 프로듀서 여러분 안녕하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토트넘의 감독 프로듀스 101 진행을 맡은 해리 케인입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.924,
+                "end": 5.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무리뉴 감독 경질 이후 새로운 감독을 찾아 떠나는 기나긴 여정",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.676,
+                "end": 9.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 대망의 무대가 지금 시작됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.474,
+                "end": 11.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.997,
+                "end": 12.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감독 프로듀스 101의 심사를 맡은 다니엘 레비입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.832,
+                "end": 16.700
+            }
+        ]
+    },
+    "summary": "화자1은 자신을 프로듀스 101 진행을 맡은 해리 케인이라고 소개하고 화자2는 자신을 프로듀스 101 심사를 맡은 다니엘 레비라고 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02137_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

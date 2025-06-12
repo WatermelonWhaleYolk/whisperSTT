@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "filename": "MYP_03790",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.256,
+        "format": "MP4",
+        "date": "2021-05-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 중계카메라를 향한 구애 시작",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.759
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "져도 된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.769,
+                "end": 3.639
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 이겨도 되고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.649,
+                "end": 5.213
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "기이한 팬심이로다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.223,
+                "end": 6.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 5회 정도 되었을까",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.850,
+                "end": 9.872
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "이보게 자네도 느끼고 있나?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.882,
+                "end": 13.066
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "음 자네도 역시 그랬군.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.076,
+                "end": 16.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 뒷자리의 아저씨들도 깨닫기 시작했다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.375,
+                "end": 21.128
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "사람들의 시선",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.138,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "우리가 중계카메라를 향한 구애를 하자 5회 정도 되었을 때 사람들의 시선이 느껴진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03790_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_02506",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.7,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그곳엔 늘 변함 없는 운동장과 맑은 얼굴로 찾아오는 아이들이 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빛나는 트로피들은 축구를 잘하는 선수들로만 일군 결과가 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.653,
+                "end": 15.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학교에 정을 못 붙이는 아이 관심이 필요한 아이에게 다가가 먼저 손을 내밀었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 15.702,
+                "end": 26.700
+            }
+        ]
+    },
+    "summary": "아이들의 빛나는 트로피는 축구를 잘하는 선수들로만 일군 결과가 아니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02506_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 64,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

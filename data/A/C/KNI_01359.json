@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNI_01359",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.597,
+        "format": "MP4",
+        "date": "2023-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예상성적은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.264
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 미국은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.274,
+                "end": 3.113
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "한국시리즈 끝내기 홈런의 사나이 나지완도 KBS N 해설 위원으로 변신해 WBC 대표팀에 힘을 실었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.123,
+                "end": 11.294
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "사명감과 책임감을 갖고 대한민국이라는 나라를 대표해서 나가는 분들이라 충분히 잘해주실 거라 믿고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.304,
+                "end": 20.256
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "꾀돌이로 불렸던 명 유격수 출신 감독과 우타 거포의 끝내주는 사나이가 이젠 마이크를 잡고 야구팬을 찾아옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.266,
+                "end": 28.741
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.751,
+                "end": 30.597
+            }
+        ]
+    },
+    "summary": "꾀돌이 유격수 출신 감독과 우타 거포 나지완이 WBC 해설로 국민들을 찾아간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01359_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

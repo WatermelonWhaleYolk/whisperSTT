@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNI_01181",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.818,
+        "format": "MP4",
+        "date": "2022-10-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 2월 과거 학폭 문제로 V리그 무대에서 사라졌던 이재영.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리스 리그에도 도전했지만 무릎 부상으로 조기 귀국했고 약 1년 동안 재활에 집중해 온 이재영에게 최근 페퍼저축은행이 접촉해 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.521,
+                "end": 15.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "페퍼저축은행 구단과 이재영 측은 두 차례 면담을 하고 입단에 대해 의견을 나눈 것으로 확인됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.070,
+                "end": 22.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 시즌 얇은 선수층의 한계로 최하위에 머문 페퍼저축은행은 최근 하혜진마저 대표팀 차출에 따른 부상으로 시즌 아웃돼 전력 보강이 절실한 상황입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.723,
+                "end": 34.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 때문에 이재영의 영입을 고려했다는 게 구단의 설명입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.727,
+                "end": 39.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 논란이 된 선수인 만큼 구단은 이재영과의 계약은 현재로선 논의 단계일 뿐이고 입단이 확정된다고 해도 피해자와 팬들에 대한 사과가 전제가 되어야 한다고 덧붙였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.043,
+                "end": 51.818
+            }
+        ]
+    },
+    "summary": "과거 학폭 문제로 사라졌던 이재영이 페퍼저축은행과 입단에 대하여 논의했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01181_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01181_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

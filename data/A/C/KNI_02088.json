@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_02088",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.3,
+        "format": "MP4",
+        "date": "2018-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이와 함께 통일의 염원과 한민족 정서를 담은 우리의 소원은 통일, 아리랑 등도 포함됐고 공연 마지막 부분은 이선희의 석별의 정을 준비한 것으로 알려졌습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한예술단이 남한에서 공연하는 것은 2002년 8월 서울에서 열린 8.15 민족통일대회 이후 16년 만입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.965,
+                "end": 22.300
+            }
+        ]
+    },
+    "summary": "북한예술단은 남한에서 2002년 8월 8.15 민족통일대회 이후 16년 만에 공연을 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02088_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_02088_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 14,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

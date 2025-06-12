@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01322",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.498,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아마노는 홍 감독의 비난은 오해에서 비롯된 것이라며 오히려 울산 구단이 적극적이지 않았다고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.839
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.849,
+                "end": 21.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러다가 전북으로 막상 떠나려 하니 울산이 뒤늦게 관심을 보였다는 게 아마노의 주장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.475,
+                "end": 27.494
+            }
+        ]
+    },
+    "summary": "아마노는 홍 감독의 비난은 오해에서 비롯된 것이며 울산 구단이 적극적이지 않았고 전북으로 떠나려 하니 관심을 보였다는 게 아마노의 주장이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01322_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

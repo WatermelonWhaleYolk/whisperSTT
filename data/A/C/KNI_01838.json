@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_01838",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.254,
+        "format": "MP4",
+        "date": "2022-10-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수영 황선우는 자유형 100미터에서 박태환이 세웠던 대회 신기록을 뛰어넘는 47초 78의 성적으로 전국 체전 4번째 금메달을 따냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일 혼계영 400미터에서 5관왕에 도전하는 황선우는 2년 연속 전국 체전 MVP가 유력해졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.040,
+                "end": 19.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.100,
+                "end": 21.254
+            }
+        ]
+    },
+    "summary": "자유형 100미터에서 대회 신기록을 뛰어넘는 47초 78의 성적으로 전국 체전 4번째 금메달을 따낸 황선우는 내일 혼계영 400미터에서 5관왕에 도전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01838_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00718",
+        "category": "스포츠뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.557,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4인 가구의 월평균 사용량을 기준으로 오름폭을 계산해 봤더니 이번 달에 받게 될 전기 요금 고지서는 5만 7300원 1년 전보다 만 1000원가량 오를 것으로 추산됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근엔 가스 요금 부담 때문에 전열 난방기를 든 가정이 많아 실제 전기 요금은 이보다 더 많이 나올 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.219,
+                "end": 18.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1월 하순 혹한으로 전기장판 온풍기 히터 등 계절 가전 판매가 이미 크게 늘었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.426,
+                "end": 24.557
+            }
+        ]
+    },
+    "summary": "4인 가구의 월평균 사용량을 기준으로 오름폭을 계산해 봤더니 이번 달에 받게 될 전기 요금 고지서는 5만 7300원 1년 전보다 만 1000원가량 오를 것으로 추산됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00718_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 40,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

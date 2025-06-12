@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00781",
+        "category": "스포츠뉴스",
+        "sub_category": 38,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무죄 판결 이유는 크게 2가지입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나 은행의 컨소시엄 ②탈을 막기 위해 곽 전 위원이 힘을 써줬다는 게 검찰 논리였는데 법원은 증거가 부족하다며 받아들이지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.516,
+                "end": 12.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 50억 원이 과다해 뇌물로 의심은 되지만 독립된 경제생활을 하는 아들이 받은 돈을 아버지의 뇌물로 볼 수 없다 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.324,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "법원이 무죄 판결을 내린 이유 첫 번째는 곽 전 위원이 힘을 써줬다는 거에 대한 증거가 부족하고 두 번째는 독립된 경제생활을 하는 아들이 받은 돈을 아버지의 뇌물로 볼 수 없기 때문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00781_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

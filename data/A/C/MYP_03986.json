@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03986",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.254,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나에겐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.372
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 난 제작자 겸 조연이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.382,
+                "end": 3.586
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나는 나는?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.596,
+                "end": 4.397
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 너는.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.407,
+                "end": 5.631
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연출, 각본, 촬영, 조명, 음향, 더빙, 편집, 코디, 홍보, 투자, 배급, 요리, 청소, 공과금 납부 정도만 하면 되겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.641,
+                "end": 15.930
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "음 역시 쩌리.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.940,
+                "end": 17.645
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내가 꼭 노조 만들어서 복수한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.655,
+                "end": 21.254
+            }
+        ]
+    },
+    "summary": "공모전을 위해 역할을 나누는데 주인공이 불공평하게 많은 일을 분담하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03986_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

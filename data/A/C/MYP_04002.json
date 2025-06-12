@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYP_04002",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.727,
+        "format": "MP4",
+        "date": "2020-11-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "참고로 그날 만났던 도전자들은 모두 공통점이 있었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 뺨을 때리자마자 부끄러움에 줄행랑을 쳤다는 점이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.876,
+                "end": 9.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에잇.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.021,
+                "end": 9.443
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 간지러.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.453,
+                "end": 10.429
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떡해 진짜 때렸어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.439,
+                "end": 11.534
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이 귀여워.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.544,
+                "end": 13.966
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그녀도 마찬가지였지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.976,
+                "end": 16.282
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "이얍.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.292,
+                "end": 27.727
+            }
+        ]
+    },
+    "summary": "뺨 때리기 이벤트에 도전했던 학생들은 모두 때리고 부끄러워 줄행랑을 쳤다는 공통점이 있었다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 26
+                }
+            ]
+        }
+    ]
+}

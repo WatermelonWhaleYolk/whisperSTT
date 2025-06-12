@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03274",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.923,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "입구에서 회원 카드를 만든 뒤 입장 대기 줄에 섰다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이걸로 안에 자판기에서 음료도 마실 수 있대.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.391,
+                "end": 7.495
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옹.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.505,
+                "end": 8.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 우리가 모르던 사실이 하나 있었는데 옹 싸우나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.559,
+                "end": 14.432
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 못 들어가게 막지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.442,
+                "end": 16.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 복장 점검이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.671,
+                "end": 20.647
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "돈츠 씨레스 리를 풋앤버 아릭티셔츠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.657,
+                "end": 23.923
+            }
+        ]
+    },
+    "summary": "더빙하는 사람들이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03274_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

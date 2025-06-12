@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNI_00959",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.899,
+        "format": "MP4",
+        "date": "2022-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1쿼터 김낙현의 외곽포가 연이어 불을 뿜습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김낙현의 전매특허죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.752,
+                "end": 5.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스텝 백 석 점까지 림에 적중합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.395,
+                "end": 8.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단독 선두 KT의 가드 허훈도 석 점 프로 반격에 나서는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.438,
+                "end": 13.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왼손 드리블 그리고 리버 슬레이업으로 상대 골밑을 뚫어 버립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.636,
+                "end": 19.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4쿼터 두 가드의 대결 김낙현이 허훈의 수비를 이겨내고 득점 성공 두경민의 쐐기 득점까지 더한 가스공사가 4연패를 끊었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.146,
+                "end": 28.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팀 최다 22 득점을 올린 김낙현이 허훈에게 판정승을 거둡니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.162,
+                "end": 32.899
+            }
+        ]
+    },
+    "summary": "팀 최다 22 득점을 올린 김낙현이 허훈에게 판정승을 거둡니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00959_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

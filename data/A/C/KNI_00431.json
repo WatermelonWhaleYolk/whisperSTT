@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_00431",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.922,
+        "format": "MP4",
+        "date": "2023-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한일 양국은 내일 서울에서 국장급 협의를 열어 오염수 시찰단의 활동 범위 등을 논의할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 일본은 설명은 하되 해양 방류를 올여름 계획대로 시작하겠다는 입장을 거듭 밝히고 있어서 주변국들의 우려는 높아지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.973,
+                "end": 17.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.012,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "일본의 오염수 방류를 앞두고 우리나라 시찰단의 활동 범위를 논의할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00431_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

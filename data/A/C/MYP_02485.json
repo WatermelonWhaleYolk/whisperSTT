@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYP_02485",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.133,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 실제로 살라 선수가 그러진 않겠지만 이렇게 수비수 입장을 생각해보면 내 이름은 모하메드 살라 너를 돌파하겠다 이러면서 돌파를 해버리면 얼마나 열 받겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 물론 실제로 살라가 그렇다는 건 아니지만 충분히 그럴 만한 실력을 갖췄다 이런 얘기 정도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.552,
+                "end": 16.133
+            }
+        ]
+    },
+    "summary": "살라가 돌파해 버리면 수비수 입장에서는 열 받을 만한 충분한 실력을 갖추었다는 얘기입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_01721",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.166,
+        "format": "MP4",
+        "date": "2018-03-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이스하키 대표팀과 컬링 대표팀도 은메달 이상을 목표로 마지막 담금질에 한창입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한 역시 동계 패럴림픽 사상 처음으로 선수단을 파견해 평화 올림픽의 감동을 이어갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.786,
+                "end": 12.081
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 여러 나라 이제 선수들과 친선의 정도 나누고 체육 기술과 겨뤄도 다 해나가도록 이런 데서 이제 좋은 중요한 계기가 된다고 이렇게 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.091,
+                "end": 24.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장애와 편견을 넘어 감동의 물결을 전하게 될 평창 동계 패럴림픽은 오늘부터 열흘 동안 펼쳐집니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.199,
+                "end": 31.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.357,
+                "end": 34.166
+            }
+        ]
+    },
+    "summary": "아이스하키 대표팀과 컬링 대표팀도 은메달 이상을 목표로 마지막 담금질에 한창이고 북한 역시 동계 패럴림픽 사상 처음으로 선수단을 파견했고 평창 동계 패럴림픽은 오늘부터 열흘 동안 펼쳐진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01721_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

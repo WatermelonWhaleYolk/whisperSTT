@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03360",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.753,
+        "format": "MP4",
+        "date": "2022-09-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성인 타입이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.064
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그대가 가스파드 공장에서의 힘든 시간들은 잘 치유되고 있니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.074,
+                "end": 7.342
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에헤헤헤헤헤헤",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.352,
+                "end": 8.843
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "성스러움 안돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.853,
+                "end": 10.348
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "헤헤헤헤헤",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.358,
+                "end": 11.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 인간이 알고 모셔왔구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.477,
+                "end": 14.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "로이드형의 소개로 알게 된 요셉형은 박애, 정의, 헌신 등",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.375,
+                "end": 19.753
+            }
+        ]
+    },
+    "summary": "요셉형은 내가 가장 어려워하는 타입 중 하나인 성인 타입이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03360_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

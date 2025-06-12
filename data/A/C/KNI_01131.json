@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_01131",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2022-08-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과감한 스파이크로 3연속 득점에 점수 차를 벌렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김수지와 김희진 베테랑들이 동시에 철벽을 세웠지만 막을 수 없었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.540,
+                "end": 10.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 시즌까지 미들 블로커로 뛰어온 @이름1는 기존의 레프트를 말하는 아웃사이드 히터로 변신해 가능성을 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.330,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "김수지와 김희진 베테랑들이 동시에 철벽을 세웠지만 @이름1의 과감한 스파이크는 막지 못했으며 @이름1은 지난 시즌까지 미들 블로커로 뛰었지만 아웃사이드 히터로 변신해 가능성을 보였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01131_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

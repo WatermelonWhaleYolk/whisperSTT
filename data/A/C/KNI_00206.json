@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00206",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.315,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 간절했던 바람과 달리 오세근의 하프라인 버저비터까지 터지는 등 경기의 흐름은 결국 인삼공사 쪽이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.503
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끝내 점수차를 좁히지 못했고 인삼공사가 3승 1패로 챔프전에 올라 SK와 맞붙게 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.513,
+                "end": 15.315
+            }
+        ]
+    },
+    "summary": "오세근의 하프라인 버저비터까지 터지는 등 인삼공사가 3승 1패로 챔프전에 올랐고 SK와 맞붙게 됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00206_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

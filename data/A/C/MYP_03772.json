@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_03772",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.825,
+        "format": "MP4",
+        "date": "2021-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "갑자기 왜왜 이러지 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.514
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금방 지울게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.524,
+                "end": 5.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하학생 괜찮아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.250,
+                "end": 7.298
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이고 몸이 안 좋아가보이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.308,
+                "end": 9.148
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "일단 정신을 차리고 청소를 시작했는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.158,
+                "end": 12.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 죄송합니다. 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.533,
+                "end": 14.836
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "괜찮아 속이 안 좋으면 그럴 수도 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.846,
+                "end": 17.481
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "학생 휴지 좀 줄까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.491,
+                "end": 19.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오오오오오옥",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.300,
+                "end": 22.822
+            }
+        ]
+    },
+    "summary": "구토를 하자 버스 안의 사람들이 걱정하고 형은 사과를 하며 청소를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03772_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 133
+                }
+            ]
+        }
+    ]
+}

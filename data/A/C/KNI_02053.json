@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNI_02053",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.2,
+        "format": "MP4",
+        "date": "2018-01-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 올림픽을 출전하게 됨으로써 이제 가서도 이제 제가 할 수 있는 것 다 보여드렸으면 좋겠고",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.625
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선두를 달리던 이준형은 불과 2.13점 차로 올림픽 티켓을 놓쳤습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.635,
+                "end": 15.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자 싱글에서는 최다빈이 태극 마크의 주인공이 됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 15.316,
+                "end": 22.200
+            }
+        ]
+    },
+    "summary": "남성은 올림픽에 출전해 할 수 있는 것을 다 보여드렸으면 좋겠다고 했고 이준형은 2.13점 차로 올림픽 티켓을 놓쳤지만 여자 싱글 최다빈은 태극 마크 주인공이 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02053_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

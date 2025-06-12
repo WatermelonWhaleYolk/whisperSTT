@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_04104",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.054,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 한때는 천국에서 알아주는 미친년이었다는 걸 들키면 쪽팔려 뒤질 것 같으니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.646
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "루시엘 신조차 모독하는 사상 최대의 천사 루시엘 등장",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.656,
+                "end": 12.345
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흥 오랜만이라 본 실력이 나오지 않았나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.355,
+                "end": 15.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대 천사장의 힘을 조금은 사용해 볼까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.300,
+                "end": 19.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흠흠 흥",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.291,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "내가 한때는 천국에서 알아주는 미친년이었다는 걸 들키면 쪽팔릴 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04104_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

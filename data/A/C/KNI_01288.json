@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_01288",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.598,
+        "format": "MP4",
+        "date": "2022-12-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 이후 비공개로 진행된 D리그는 팬들의 요청에 따라 올 시즌부터 관중석 일부를 개방했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 @이름1이 출전하는 상무 경기는 인터넷 예매 시작과 동시에 연일 매진입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.349,
+                "end": 12.108
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 지금 한파 속에서도 이 강추위를 뚫고 이천까지 와주셔 가지고 항상 감사드리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.118,
+                "end": 18.923
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 정말 팬분들께서 제가 뭐 어디서 시합을 하던 항상 진짜 멀리까지 항상 찾아와서 응원을 많이 해주시는데 그 감사함 잊지 않고",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.933,
+                "end": 26.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2년 연속 올스타 1위를 기록한 형 @이름2에 대한 축하도 잊지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.841,
+                "end": 31.598
+            }
+        ]
+    },
+    "summary": "코로나 이후 비공개로 진행된 D리그는 팬들의 요청에 따라 올 시즌부터 관중석 일부를 개방했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01288_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

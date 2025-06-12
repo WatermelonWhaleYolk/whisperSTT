@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNI_02143",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.41,
+        "format": "MP4",
+        "date": "2019-10-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "센티 차이 잡는 것도 제가 기술 들어가는데 엄청 차이 나요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금이라도 더 잡아야지 상대방을 나한테 붙여서 기술 들어가기도 쉽고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.450,
+                "end": 9.734
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기술을 걸어서 상대방 위에 얹히면 이기는 거잖아요. 그때 기분은 어 뭔지 모를 쾌감",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.744,
+                "end": 17.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.829,
+                "end": 18.566
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 성적 내서 이제 지도자까지 갔으면 하는 바람이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.576,
+                "end": 25.113
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수 생활 그만두시더라도 씨름장에 많이 놀러 오셔서 얼굴 많이 봤으면 좋겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.123,
+                "end": 32.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고마워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.052,
+                "end": 34.400
+            }
+        ]
+    },
+    "summary": "서로 좋은 성적 내서 지도자까지 갔으면 좋겠고 선수 생활 그만두더라도 씨름장에서 많이 봤으면 좋겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02143_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_01068",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.962,
+        "format": "MP4",
+        "date": "2022-05-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미국에서 훈련 중인 김연경이 서툰 솜씨로 김밥을 쌉니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특별한 손님을 초대하기 위해서인데 그 주인공은 바로 NBA에 도전 중인 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.870,
+                "end": 10.148
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본인을 위해서 우리 한 본인 한 4 줄에서 5 줄 정도 예상을 하고 우리가 준비를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.158,
+                "end": 14.809
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "4 줄에서 5 줄이요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.819,
+                "end": 15.892
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 내가 3 줄 정도 3 줄 반",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.902,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "미국에서 훈련 중인 김연경이 NBA에 도전 중인 이 선수를 초대하기 위해서 서툰 솜씨로 김밥을 쌌다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01068_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 51,
+                    "act": 7
+                }
+            ]
+        }
+    ]
+}

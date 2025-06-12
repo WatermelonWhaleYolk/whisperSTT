@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYP_00112",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.133,
+        "format": "MP4",
+        "date": "2023-07-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소속팀은 물론 대표팀에서도 뮐러가 같은 팀이라는 게 정말이지 다행이랄까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.360
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "솔직히 뮐러가 최고는 아니죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.370,
+                "end": 6.236
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "메시나 호날두 그리고 이번 발롱도르에서 최고의 스트라이커 상을 받은 저 레반도프스키가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.246,
+                "end": 10.738
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너나 호날두의 슈팅, 메시나 네이마르의 드리블도 물론 골키퍼로서 피하고 싶은 요소 중 하나지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.748,
+                "end": 16.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 뮐러는 너희가 갖지 못한 최고의 재능을 갖고 있단 말이지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.056,
+                "end": 21.133
+            }
+        ]
+    },
+    "summary": "한 남성이 뮐러가 최고의 공격수라고 칭찬하자 다른 남성이 반발하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00112_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

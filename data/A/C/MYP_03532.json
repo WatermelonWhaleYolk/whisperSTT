@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "filename": "MYP_03532",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.167,
+        "format": "MP4",
+        "date": "2022-05-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 그거 하나로 어쩌지 못하면 너는 다음 단계고 뭐고 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.630,
+                "end": 7.838
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "양 팀 탈모 상호 간 예의 잘 부탁드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.848,
+                "end": 15.135
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "빠다악",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.145,
+                "end": 16.021
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "직구 79미터 아리아리 야트 핏차",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.031,
+                "end": 19.221
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "으악",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.231,
+                "end": 19.639
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "낙차 큰 폭풍 직구에 뱃이 그대로 따라 나온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.649,
+                "end": 24.026
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "삼진 삼진 헛스윙 삼진 1회 초 삼자범퇴 공수 교대",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.036,
+                "end": 30.343
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "사이코즈 시원하게 한방 가보자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.353,
+                "end": 34.167
+            }
+        ]
+    },
+    "summary": "양 팀 탈모 상호 간 예의 잘 부탁드리고 낙차 큰 폭풍 직구에 뱃이 그대로 따라오고 삼진 헛스윙 삼진 1회 초 삼자범퇴로 공수교대한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03532_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

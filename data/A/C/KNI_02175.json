@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02175",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.6,
+        "format": "MP4",
+        "date": "2019-10-17",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국내 생중계와 취재진의 방북 무산에 세계 축구계 수장의 방문을 무색하게 한 자발적 무관중 경기",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.499
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "외신들도 놀랄 만큼 기이한 경기를 끝낸 대표팀은 다음 달 다시 소집돼 레바논 원정을 준비합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.509,
+                "end": 16.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.404,
+                "end": 20.600
+            }
+        ]
+    },
+    "summary": "외신들도 놀란 북한의 자발적 무관중 경기를 끝낸 대표팀은 레바논 원정으로 다시 소집된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02175_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

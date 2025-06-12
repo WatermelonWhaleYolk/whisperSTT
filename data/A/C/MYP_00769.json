@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "MYP_00769",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.6,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그게 뜨끈한 맥주는 좀 아닌 것 같다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몽숑숑 왕장장 뺙뺙뺙",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.650,
+                "end": 4.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 씨발 누가 이렇게 시끄럽게 굴어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.140,
+                "end": 8.151
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "웡송송 왕장장 웡송송 꺅꺅꺅",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.161,
+                "end": 10.560
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어? 비웨이잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.570,
+                "end": 12.117
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "비웨이 여기 여기.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.127,
+                "end": 13.770
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "쟤는 중국에서 온 비웨이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.780,
+                "end": 15.807
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 김치유나이티드의 왼쪽 날개지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.817,
+                "end": 18.352
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "웡송송 왕장장 웡송송 꺅꺅꺅",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.362,
+                "end": 20.600
+            }
+        ]
+    },
+    "summary": "뜨끈한 맥주는 아닌 것 같은데 누가 시끄럽게 굴어서 보니 중국에서 온 비웨이로 김치유나이티드의 왼쪽 날개이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00769_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

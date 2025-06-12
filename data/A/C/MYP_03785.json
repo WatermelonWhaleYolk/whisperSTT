@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYP_03785",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.133,
+        "format": "MP4",
+        "date": "2021-05-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어느 날 기회가 왔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.699
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 오늘이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.709,
+                "end": 4.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 당시 우리 팀은 이미 포스트 시즌 탈락이 확정되었고 남은 잔여 경기를 소진하는 시기였는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.119,
+                "end": 11.189
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘 봐 오늘 경기는 이기나 지나 무의미한 경기야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.199,
+                "end": 16.007
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그쳐 이미 탈락해 버렸으니",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.017,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "우리팀은 이미 시즌 탈락이 확정되어서 이기나 지나 무의미한 경기였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03785_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

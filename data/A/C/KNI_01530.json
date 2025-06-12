@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_01530",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.987,
+        "format": "MP4",
+        "date": "2023-04-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재미와 내용 전달력까지 3박자를 모두 갖춘 이영표 위원은 어린이날 서울과 전북의 K리그 경기를 시작으로 시청자들을 찾아갑니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.901
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS가 더 재미있게 보실 수 있도록 도와드리겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.911,
+                "end": 13.692
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 이영표와 함께 축구를 즐겨주시면 감사하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.702,
+                "end": 17.918
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.928,
+                "end": 18.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.003,
+                "end": 20.987
+            }
+        ]
+    },
+    "summary": "재미와 내용 전달력까지 3박자를 모두 갖춘 이영표 위원은 어린이날 서울과 전북의 K리그 경기를 시작으로 시청자들을 찾아간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

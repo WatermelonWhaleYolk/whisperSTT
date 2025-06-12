@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_01551",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.449,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선두 경쟁의 불씨를 이어가기 위한 현대건설 선수들의 의지가 대단했습니다 1세트 한미래가 몸을 날리는 디그로 공을 살려냅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이스 양효진의 집중력도 돋보였는데요 내려오는 타이밍에 공을 밀어 넣어서 상대 수비를 완전히 속였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.716,
+                "end": 16.449
+            }
+        ]
+    },
+    "summary": "선두 경쟁의 불씨를 이어가기 위한 현대건설 선수들의 의지가 대단했고 에이스 양효진의 집중력도 돋보였는데요 내려오는 타이밍에 공을 밀어 넣어서 상대 수비를 완전히 속였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01551_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

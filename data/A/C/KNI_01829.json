@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_01829",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.153,
+        "format": "MP4",
+        "date": "2021-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가해자로 지목된 A 선수는 학폭 사건이 있었다는 사실을 인정했지만 구체적인 답은 피했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 사실이 일단 있었던 것 맞 맞으신 건가요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.324,
+                "end": 9.443
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 바로 다시 전화 드릴게요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.453,
+                "end": 11.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실은 맞으세요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.623,
+                "end": 12.727
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전화 다시 드릴게요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.737,
+                "end": 13.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "B 선수는 아무런 답을 하지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.906,
+                "end": 17.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1 입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.154,
+                "end": 20.153
+            }
+        ]
+    },
+    "summary": "가해자로 지목된 A씨는 사실을 인정했지만 전화를 넘겼고 B 선수도 아무런 답이 없었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01829_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 49,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_01370",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2023-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김연경은 세리머니 왕에 뽑힌 이다현의 춤 실력을 시샘하며 웃음을 자아내기도 했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선심이 공을 대신 받아주고 부정 선수 김희진이 등장하는가 하면 강소휘는 마음대로 비디오 판독을 하는 등 올스타전만의 재미가 넘쳤습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.103,
+                "end": 17.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자부는 강스파이크가 오가는 실전같은 경기로 즐거움을 선사했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.011,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "여자 배구 선수들은 춤 실력과 더불어 여러가지 재미있는 상황을 연출했고 남자부는 실전같은 경기로 즐거움을 선사했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01370_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

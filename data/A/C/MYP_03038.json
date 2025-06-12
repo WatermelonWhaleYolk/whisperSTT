@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03038",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.133,
+        "format": "MP4",
+        "date": "2019-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에이 뭐 혼도 안 낼게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 특별히 사장님한테는 레시피부터 장사하는 법까지 아무런 조건 없이 다 알려드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.328,
+                "end": 6.994
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 정말요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.004,
+                "end": 7.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 그 고 고맙습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.000,
+                "end": 10.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대신 다른 사장님들한테 비밀이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.245,
+                "end": 12.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.648,
+                "end": 13.334
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아유 그럼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.344,
+                "end": 14.028
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아유 비밀로 해야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.024,
+                "end": 15.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 일단 이 서류에 서명만 하면 내가 다 해줄게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.070,
+                "end": 18.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 이게 뭔데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.590,
+                "end": 20.133
+            }
+        ]
+    },
+    "summary": "사장님한테 레시피부터 장사하는 법까지 아무런 조건 없이 다 알려줄 테니 다른 사장님들한테는 비밀로 하고 서류에 서명을 하라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03038_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

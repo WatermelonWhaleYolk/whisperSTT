@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03565",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.457,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물론 성적도 준수했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정확히 오른쪽이 조금 더 좋았었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.209,
+                "end": 6.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 거기까지였다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.434,
+                "end": 7.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대학에 진학하면서 현실적인 선택을 해야 했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.961,
+                "end": 12.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어느 쪽",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.674,
+                "end": 15.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프로는 잔재주를 필요하지 않았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.614,
+                "end": 19.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고민은 오래 가지 않았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.692,
+                "end": 22.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제구는 조금 떨어지지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.141,
+                "end": 24.457
+            }
+        ]
+    },
+    "summary": "성적도 준수했지만 대학에 들어가면서 현실적인 선택을 해야 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03565_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_00142",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 27.127,
+        "format": "MP4",
+        "date": "2023-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희도 뭐 배구할 때 확률적으로 연습하고 그렇게 하지만 아닐 때가 많잖아요 알고도 못 막을 때가 많고.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "배구가 그런 거라고 생각하기 때문에",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.731,
+                "end": 7.881
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "통상 두 번째 챔피언 자리에 오른 도로 공사 선수들은 마음껏 우승 뒤풀이를 즐겼습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.891,
+                "end": 14.038
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "기록에 남을 것이냐 사람들 기억 속에 남을 것이냐 감독 10년 하면서 야 진짜 이런 경기는 처음이었던 거 같고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.048,
+                "end": 27.127
+            }
+        ]
+    },
+    "summary": "두 번째 챔피언에 오르면서 되풀이를 즐겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00142_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

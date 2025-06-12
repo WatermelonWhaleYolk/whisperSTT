@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_00954",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.893,
+        "format": "MP4",
+        "date": "2022-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "베이징 동계 올림픽을 1달 앞두고 KBS의 금빛 드림팀이 떴습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자신의 다섯 번째 올림픽에서는 해설위원으로 변신한 빙상여제 이상화",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.635,
+                "end": 10.481
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첫 올림픽 출전과 많이 비슷한 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.491,
+                "end": 17.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많은 공부를 해서 대비를 잘해야 할 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.690,
+                "end": 21.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자신의 올림픽 금빛 기운이 선수들과 시청자 모두에게 전해지길 바랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.895,
+                "end": 26.893
+            }
+        ]
+    },
+    "summary": "베이징 동계 올림픽을 1달 앞두고 KBS의 금빛 드림팀이 떴는데 그중 빙상여제인 이상화가 해설위원을 맡게 되었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00954_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

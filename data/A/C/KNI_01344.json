@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_01344",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.335,
+        "format": "MP4",
+        "date": "2023-01-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "KT는 4쿼터 덩크 슛 2개를 터뜨린 하윤기를 앞세워 막판 추격전을 펼쳤습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 김선형이 마지막 공격권을 지켜내면서 SK가 3점 차 승리를 거뒀습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.594,
+                "end": 11.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "SK는 16득점 도움 6개를 기록한 김선형의 활약으로 후반기 첫 승을 신고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.318,
+                "end": 17.496
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올스타전 갔는데 애들이 이제 점프력이 많이 낮아졌다고 해가지고 아 한번 봐 봐라 예 36살도 할 수 있다 이렇게 오늘 마음먹고 했는데 찬스가 나오면 팬분들 위해서 이 한 몸 불사르겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.506,
+                "end": 32.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캐롯 전성현의 3점포가 연이어 림을 가릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.193,
+                "end": 35.335
+            }
+        ]
+    },
+    "summary": "KT는 막판 추격전을 펼쳤지만 김선형이 마지막 공격권을 지켜내면서 SK는 16득점 도움 6개를 기록한 김선영의 활약으로 후반기 첫 승을 거뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01344_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

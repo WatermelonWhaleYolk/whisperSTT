@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_00802",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.522,
+        "format": "MP4",
+        "date": "2023-02-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2쿼터 @이름1을 앞세운 BNK의 추격이 거세지자 @소속1 @이름2이 작전 타임을 부릅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너네가 뭐가 문제인지 알아야 게임을 할 거 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.692,
+                "end": 11.266
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대충 해 대충 하라니까 나가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.276,
+                "end": 15.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 감독의 불호령에 선수들의 움직임이 바빠졌고 곧바로 연속 득점을 올리며 승기를 잡습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 15.418,
+                "end": 22.522
+            }
+        ]
+    },
+    "summary": "감독의 불호령에 선수들은 연속 득점을 올리며 승기를 잡는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00802_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

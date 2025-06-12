@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01850",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2023-03-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "캐롯 구단은 마감 기한을 하루 앞두고 KBL 가입금의 잔여분 10억 원을 납부했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이로써 정규리그 5위인 캐롯은 다음 달 2일 현대모비스와 6강 플레이오프를 치르게 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.766,
+                "end": 11.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재정난으로 선수단 급여도 지급하지 못하고 있지만 봄 농구를 치르면서 팀 매각 작업을 병행하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.499,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "캐롯 구단은 마감 기한을 하루 앞두고 KBL 가입금 잔여분 10억 원을 납부했다고 밝혔고 재정난으로 선수단 급여도 지급하지 못했지만 봄 농구를 치르면서 팀 매각 작업을 병행하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01850_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

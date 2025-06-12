@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_04033",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우왕 땅파기 해야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "타고 놀아 이 땅그지놈 내 노력이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.924,
+                "end": 6.400
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "땅파기 놀이를 할 수 있기 때문이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.410,
+                "end": 8.909
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나의 땅파기에는 나름의 목표 의식이 있었는데 바로 언제 어떻게 묻혔는 모를 모래땅 속 물건들을 발굴하는 것이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.919,
+                "end": 19.525
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭘봐 썩을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.535,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "놀이터에 갔던 이유는 땅파기였고 언제 어떻게 묻였을지 모른 모래땅 속 물건들을 발굴하는 것이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04033_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

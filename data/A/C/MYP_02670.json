@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "filename": "MYP_02670",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 44.733,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "알리 대신 계십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 자네는 캐롤 아닌가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.422,
+                "end": 3.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 오랜만에 뵙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.224,
+                "end": 4.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알리 대신 어 짐을 챙기고 계십니까 어디로 떠나시는 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.479,
+                "end": 8.755
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무것도 아닐세 그냥 혹시 몰라 챙겨두는 거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.765,
+                "end": 11.200
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 무슨 일로 왔는가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.210,
+                "end": 12.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 실은 전하께서 토트남 선수들 중에 득점왕을 노리는 자를 색출해달라셔서",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.660,
+                "end": 17.399
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 그러고 보니 자네가 관상가로 활동하고 있지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.409,
+                "end": 19.996
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "득점왕이라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.006,
+                "end": 21.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전하를 제치고 득점왕을 차지할만한 자라면 역시 흥민대군이지 않겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.018,
+                "end": 24.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흥민대군이라면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.811,
+                "end": 25.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 사우스햄튼 원정에서 전하도 1골을 기록하셨으나 무려 4골을 넣은 자가 있다네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.949,
+                "end": 30.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 경기에 4골 말입니까 그 자는 지금 어디 있습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.718,
+                "end": 34.337
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아마 뒤뜰에서 남몰래 훈련을 하고 있을 게야 호랑이 같은 자이니 되도록 숨어서 살펴보게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.347,
+                "end": 39.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다 알리 대신 그럼 부디 이적 없이 기량 회복하시길",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.330,
+                "end": 44.733
+            }
+        ]
+    },
+    "summary": "알리 대신이 캐롤한테 지난 사우스햄튼 원정에서 전하도 1골을 기록하셨으나 무려 4골을 넣은 자가 있는데 흥민대군이라고 하면서 숨어서 살펴보라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02670_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

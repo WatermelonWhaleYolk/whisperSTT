@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_02434",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 46.446,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 이게 트랙이 길이 조금 더 있었으면 @이름1 선수한테 어떻게 됐을지 모르겠는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.230
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후반 싸움에서 아마 거의 뭐 비슷하게 들어갔거나 질 수도 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.240,
+                "end": 13.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "400미터 제일 힘든 구간이 어디입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.614,
+                "end": 16.854
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 일단은 3코너 바로 300미터 빠지는 지점이 굉장히 또 마의 구간이라고 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.864,
+                "end": 22.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아하",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.285,
+                "end": 22.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기서는 몸이 말을 듣지 않는다고 볼 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.683,
+                "end": 25.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1위 전남 체고의 @이름2 2위 포항이동고등학교 @이름1 3위 소래고등학교 @이름3 선수입니다 이렇게 해서 1, 2, 3위 여자 고등부 400미터 결승 경기까지 보셨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.698,
+                "end": 39.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제51회 KBS 전국 육상대회 함께하고 계십니다 여기는 경북 예천군의 예천 스타디움입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.964,
+                "end": 46.446
+            }
+        ]
+    },
+    "summary": "제 51회 KBS전국 육상대회 여자 고등부 400미터 결승전에서 1위는 전남 체고의 @이름2 선수가 차지했고 간발의 차이로 포항이동고등학교 @이름1 선수가 2위를 차지했으며 3위는 소래고등학교 @이름3 선수이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

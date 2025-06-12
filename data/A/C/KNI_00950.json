@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00950",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2122-12-28",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "종목별 프로 스포츠는 협회나 구단 차원의 긴급 조사에 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 구단 대상으로 해서 사례 조사하고 어 발견되는 사례가 있으면 연맹으로 바로 접수를 해달라 이렇게 요청을 해놓은 상황입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.842,
+                "end": 11.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 조만간 @이름1을 불러 조사할 예정이며 병역 회피 의심자가 더 없는지 수사를 확대할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.556,
+                "end": 18.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.728,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "검찰은 조만간 @이름1 불러 조사할 예정이며 병역 회피 의심자가 더 없는지 수사를 확대할 예정입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00950_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

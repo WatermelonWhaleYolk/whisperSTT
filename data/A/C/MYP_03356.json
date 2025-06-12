@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "MYP_03356",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.329,
+        "format": "MP4",
+        "date": "2022-10-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "파울 파울 몸쪽 직구 파울 파울 파울 파울 바깥쪽으로 떨어지는 볼을 절묘하게 커트",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "씨 어린 놈의 새끼가",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.750,
+                "end": 15.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첬다 유격 3루를 갈랐다 안타 안타 좌전 안타",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.236,
+                "end": 22.665
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허 허허허 허 허 아이 직구가 좀 몰리긴 했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.675,
+                "end": 29.329
+            }
+        ]
+    },
+    "summary": "타자가 파울과 커트를 거듭하며 수호에게 대응하다 안타를 친다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03356_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

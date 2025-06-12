@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "KNI_01949",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.459,
+        "format": "MP4",
+        "date": "2020-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 잘생겼고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그 방송 보면서 되게 열심히 하시는 모습이 멋있어서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.320,
+                "end": 7.626
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전도언 선수는 귀여운 외모를 가지고 있음에도 불구하고 잡채기도 잘해서 좋아요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 7.636,
+                "end": 13.623
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "설날 장사 대회를 준비하는 선수들 긴장감이 역력한데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.633,
+                "end": 18.055
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대학부 전관왕에 빛나는 노범수 선수입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.065,
+                "end": 21.575
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "준비 운동에 여념이 없는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.585,
+                "end": 26.459
+            }
+        ]
+    },
+    "summary": "설날 장사 대회를 준비하는 선수들에게 긴장감이 역력해 보이고 준비 운동에 여념이 없는 모습이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01949_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

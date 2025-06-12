@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_00523",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 38.438,
+        "format": "MP4",
+        "date": "2023-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "분양 계약을 시작한 둔촌 주공 재건축 단지 건설사들의 대출만기가 보름 정도 남은 가운데 당첨자들이 중도금 대출을 받을 수 없어 미계약이 나오는 것 아니냐는 우려가 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 12.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 정부의 규제 완화로 이런 우려가 낮아졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.433,
+                "end": 16.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양가 12억 원이 넘는 전용 면적 84제곱미터 이상도 중도금 대출을 받을 수 있게 됐기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.595,
+                "end": 24.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 분양가 상한제 지역에서의 실거주 의무도 사라집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.557,
+                "end": 28.839
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 입주는 못하더라도 자금이 좀 부족한 사람들은 전세 놓을 수 있는 길이 열리잖아요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.849,
+                "end": 34.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자기 입주 안 하고 그러다 보니까 오히려 제가 볼 땐 계약률이 더 높아진다고 봐요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 34.197,
+                "end": 38.438
+            }
+        ]
+    },
+    "summary": "정부의 규제 완화로 분양가 12억 원이 넘는 전용 면적 84제곱미터 이상도 중도금 대출을 받을 수 있게 됐으며 여기에 분양가 상한제 지역에서의 실거주 의무도 사라진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00523_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 47,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

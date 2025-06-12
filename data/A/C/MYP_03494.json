@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYP_03494",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.592,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "참 나 신경 안 쓰긴 뭘 안 쓰시나 요 몇 년 동안 얼굴이 화색이 돌면서 애처럼 좋아하던 게 누구시더라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼촌 아니었던가요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.243,
+                "end": 11.321
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요것 봐라 확 차이가 난다니까 속구를 던질 땐 다른 변화구와 차이가 없어",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.331,
+                "end": 18.695
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와다악",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.705,
+                "end": 19.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 꼭 미친놈을 던질 땐 팔이 내려가고 전체 투구 폼의 변화가 있다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.560,
+                "end": 25.592
+            }
+        ]
+    },
+    "summary": "속구를 던질 때 다른 변화구와 차이가 없지만 꼭 미친놈을 던질 땐 팔이 내려가고 전체 투구 폼의 변화가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03494_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 62
+                }
+            ]
+        }
+    ]
+}

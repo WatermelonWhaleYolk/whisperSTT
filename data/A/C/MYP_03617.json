@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYP_03617",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.384,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 그는 이 일에",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.084
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 끝이야 종말이 오고 있어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.094,
+                "end": 12.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소셜 네트워크까지 접목시켰다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.341,
+                "end": 17.384
+            }
+        ]
+    },
+    "summary": "심지어 여러 마리의 비둘기가 찾아왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03617_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

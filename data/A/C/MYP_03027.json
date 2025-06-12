@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_03027",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.433,
+        "format": "MP4",
+        "date": "2020-01-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "각시탈 무사히 돌아왔군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 다친 덴 없소?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.848,
+                "end": 3.826
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 저는 무사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.836,
+                "end": 4.949
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그보다 무사히 해냈군요 아담한 동지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.959,
+                "end": 6.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 별거 아니었소.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.633,
+                "end": 7.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우두머리에 대한 심문과 처단은 한국 사람인 당신에게 맞기겠소.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.585,
+                "end": 10.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고 고맙소.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.630,
+                "end": 11.477
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이봐 유니 클롭.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.487,
+                "end": 12.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도대체 왜 전범기를 내걸은 것이지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.865,
+                "end": 14.854
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당신들은 리그 1위답게 모범을 보여야 하는 거 아닌가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.864,
+                "end": 17.734
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나 나는 모른다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.744,
+                "end": 19.433
+            }
+        ]
+    },
+    "summary": "무사히 돌아온 아담한이 우두머리에 대한 심문과 처단은 한국 사람인 당신에게 맞기겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03027_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00656",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.851,
+        "format": "MP4",
+        "date": "2023-01-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "70킬로그램 이하급인 국화급 결승전.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구리군청의 @이름1이 어 빙그르르 돌다가 상대의 뒷덜미를 손으로 누르는 이 꼭 뒤집기 기술을 선보입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.133,
+                "end": 11.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다시 봐도 놀라운 순발력인데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.052,
+                "end": 13.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 번째 판이 시작되자마자 이번엔 잡채기로 @이름2를 넘어뜨렸습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.287,
+                "end": 17.851
+            }
+        ]
+    },
+    "summary": "구리군청의 @이름1이 놀라운 순발력으로 꼭 뒤집기 기술과 잡채기 기술을 선보였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00656_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 102
+                }
+            ]
+        }
+    ]
+}

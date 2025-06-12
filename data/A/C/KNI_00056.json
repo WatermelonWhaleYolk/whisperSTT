@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "KNI_00056",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.594,
+        "format": "MP4",
+        "date": "2022-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 0.348
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나중에 해도 될까요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.358,
+                "end": 2.719
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 아픔도 잠시.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.729,
+                "end": 4.705
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "선수들은 다시 빙판을 가르며 심기일전했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.715,
+                "end": 8.549
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "분위기 반전을 노리는 대표팀.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.559,
+                "end": 11.130
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에이스 최민정과 황대헌의 어깨는 더욱 무거워졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.140,
+                "end": 15.510
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "다른 팀원들한테도 많이 미안하고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.520,
+                "end": 18.004
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "남은 종목 있으니까 남은 종목 더 책임감 있게 잘할 수 있게 노력하겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.014,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "최민정과 황대헌을 비롯한 대표팀은 빙판에서 연습하며 다시 심기일전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00056_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

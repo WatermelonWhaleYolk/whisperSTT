@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYP_03478",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.028,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역시 쇳덩이 띄우기가 그냥 되는 게 아니구나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.735
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밤새 한숨도 못 자고 파김치가 되어 도착했다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.745,
+                "end": 8.892
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "왓츠 더 펄포즈 오브 유얼 비짓",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.902,
+                "end": 10.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "슬립",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.343,
+                "end": 14.352
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 이미 이곳에 성공적으로 자리 잡은 형들이 이끌어 줄 장밋빛 미래에 대한 기대감에",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.362,
+                "end": 21.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1형 나와 있는댔지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.905,
+                "end": 24.710
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "헤이",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.720,
+                "end": 25.793
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 형",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.803,
+                "end": 27.027
+            }
+        ]
+    },
+    "summary": "밤새 한숨도 못 자고 파김치가 되어 도착했지만 이미 이곳에 성공적으로 자리 잡은 형들이 이끌어 줄 장밋빛 미래에 대한 기대감이 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03478_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

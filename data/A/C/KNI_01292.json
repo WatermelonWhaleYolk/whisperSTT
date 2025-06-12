@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01292",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.056,
+        "format": "MP4",
+        "date": "2022-12-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1가 초반 벤치에서 대기하는 가운데 우리은행은 에이스 @이름2를 앞세워 기세를 올렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3쿼터 @이름2는 그야말로 펄펄 날았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.444,
+                "end": 8.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "폭발적인 순간 스피드를 살린 돌파에 이은 득점과 정확한 석 점포를 연이어 림에 꽂으며 경기를 지배했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 8.554,
+                "end": 17.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2가 20득점 리바운드 10개를 잡은 우리은행은 케이비를 물리치고 12연승을 달렸습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.017,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "우리은행 에이스인 김단비가 20득점 리바운드 10개를 잡아 12연승을 했다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01292_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

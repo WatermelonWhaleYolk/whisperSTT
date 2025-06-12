@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYP_01479",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.1,
+        "format": "MP4",
+        "date": "2022-03-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시청자 여러분 빡하.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.875
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프리미어리그 승부 예측 시간의 사회자 다니엘 내비입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.885,
+                "end": 5.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 끝까지 4위 경쟁을 이어가고 있는 두 팀이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.342,
+                "end": 8.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "웨스트햄과 토트넘의 경기에 앞서 승부 예측을 해보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.682,
+                "end": 12.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 토트넘의 해리 케인 선수 발언해 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.386,
+                "end": 14.991
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.001,
+                "end": 16.106
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토트넘의 상징이자 토트넘 그 자체 토전드 해리 케인입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.116,
+                "end": 19.926
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 맨유전에서 져버린 순간 전 챔스에 대한 희망을 버렸었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.936,
+                "end": 24.100
+            }
+        ]
+    },
+    "summary": "사회자가 4위 경쟁을 이어가고 있는 웨스트햄과 토트넘의 경기에 앞서 승부 예측을 하려고 하는데 먼저 토트넘의 케인 선수에게 발언 요청을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01479_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

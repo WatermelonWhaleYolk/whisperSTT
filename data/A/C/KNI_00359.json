@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00359",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.184,
+        "format": "MP4",
+        "date": "2022-12-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "추위를 피해 주점을 찾아 자리잡은 시민들의 응원 열기도 뜨거웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "날씨도 너무 춥고 그래서 사람도 너무 많은 것 같애가지고 저희 집 근처로 친구랑 퇴근하고 이제 왔어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.140,
+                "end": 13.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역전 골로 16강 진출이 확정되자 그야말로 잔칫집입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.100,
+                "end": 18.184
+            }
+        ]
+    },
+    "summary": "추위를 피해 주점을 찾은 시민들의 열기는 뜨거웠고, 역전 골로 16강 진출이 확정된 순간 그 열기는 절정에 다다랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00359_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

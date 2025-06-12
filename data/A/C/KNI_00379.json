@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNI_00379",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.965,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개인 운동을 넘어서 동호회 차원의 체육 활동도 확산될 필요가 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 팬데믹 상황에서 우리 국민들의 동호회 체육 가입 비율은 약 17퍼센트에 불과했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.357,
+                "end": 12.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 여파가 크게 감소하고 있는 만큼 지역과 직장 학교 단위 개념의 스포츠 클럽 문화가 되살아나야 합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.049,
+                "end": 20.485
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "달리기 일주일에 한 번씩 하는데 기분도 좋고 사람들이랑 친해지고 만날 계기가 돼서 너무 좋아요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.495,
+                "end": 27.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나로 주춤했던 생활 체육 선진국으로의 도약.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.108,
+                "end": 30.166
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다시 출발점에 섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 30.176,
+                "end": 31.965
+            }
+        ]
+    },
+    "summary": "코로나 기간 국민들의 동호회 체육 가입 비율은 매우 적었으며, 코로나가 많이 감소한 현재 다시 생활 체육 및 스포츠 클럽 문화가 되살아나기를 기다리고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00379_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

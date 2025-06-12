@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYP_03468",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.451,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그리고 자네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.089
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거의 호주인이 되어 있었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.099,
+                "end": 4.176
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "병장 쌤 아니 아니 로이드",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.186,
+                "end": 7.208
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "입대 때보다 뭔가 많이 변했군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.218,
+                "end": 9.113
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "군대리아 좀 싸줄까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.123,
+                "end": 11.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘은 이야기를 육체파 유학생 그렇게 야망에 찬 그는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.688,
+                "end": 18.451
+            }
+        ]
+    },
+    "summary": "병장 로이드는 입대 때 보다 뭔가 많이 변했고 거의 호주인이 되어있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03468_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

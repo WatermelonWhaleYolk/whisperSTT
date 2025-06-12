@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "filename": "MYP_00627",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 50.6,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모르겠다. 그냥 나도 승점 3점이나 받아가야지. 그래서 어떤 대결을 하면 됩니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 사용법은 아주 간단합니다. 여기 맹파고와 90초 동안 눈싸움 대결을 해서 더 많이 눈을 감은 쪽이 패배하는 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.018,
+                "end": 12.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래요? 아무튼 이기면 승점 3점 주신다는 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.350,
+                "end": 15.129
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 뭐 그렇긴 하다만 만약 이기시면 약팀중의 약팀으로 판별되시는 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.130,
+                "end": 19.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네 뭐 알겠습니다. 얼른 시작이나 해주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.470,
+                "end": 21.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 알겠습니다. 자 그럼 대결 시작",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.550,
+                "end": 24.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 띨띨해 보이는 로봇한테 네이마르랑 음바페가 졌다고? 구라 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.170,
+                "end": 28.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어때요 손님? 맹파고의 눈빛이 아주 매섭죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.500,
+                "end": 31.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강팀인지 약팀인지가 뭐가 중요해? 얼른 이 녀석을 이기고 승점 3점이나 받아가야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.159,
+                "end": 35.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 손님 그만 눈을 감으시고 강팀 딱지를 받아가시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.650,
+                "end": 39.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 거 조용히 좀 하시죠. 곧 끝날 것 같으니 승점 3점이나 미리 포장해놓으시라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.020,
+                "end": 43.440
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 새끼 이거 안 넘어오잖아? 자 얼른 눈을 감아보시지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.450,
+                "end": 46.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토트넘 놈들이 왔을땐 6번이나 감았다면서 왜 이렇게 안 감는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 46.892,
+                "end": 50.600
+            }
+        ]
+    },
+    "summary": "남성이 가게에서 로봇과 눈싸움 대결을 벌이려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00627_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

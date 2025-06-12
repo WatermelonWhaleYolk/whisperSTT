@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYP_00139",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.6,
+        "format": "MP4",
+        "date": "2023-07-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째 트로피를 차지하려면 일단 나 누누부터 넘어야 할 텐데 나의 수비 축구를 담당할 수 있겠누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 아무리 예전같지 않다고 해도 발롱도르 5번에 빛나는 역사상 최고의 아니 두 번째 아니 세 번 아니 네 번째쯤 되는 선수입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.000,
+                "end": 13.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사우디 슈퍼컵, 아시아 챔피언스리그 그 정도 대회쯤이야 득점왕에 MVP까지 거머쥐며 가볍게 우승해드리죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.430,
+                "end": 20.600
+            }
+        ]
+    },
+    "summary": "자신은 발롱도르 5번에 빛나는 역사상 네 번째쯤 되는 선수라며 사우디 슈퍼컵, 아시아 챔피언스리그 대회에서는 득점왕과 MVP를 거머쥐겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00139_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00139_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

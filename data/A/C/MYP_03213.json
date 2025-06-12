@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03213",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.631,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나약한 놈 이 정도 시련 따윈 얼마든지 넘어왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 깝샷",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.499,
+                "end": 4.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 출전을 위해 무리한 재활에 돌입하던 중",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.900,
+                "end": 8.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무빙 체어 화랑도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.992,
+                "end": 11.555
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 마취주사 좀 쏴 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.565,
+                "end": 12.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "코끼리도 한 방에 뻗는 걸로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.924,
+                "end": 15.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 페이스면 대회에 나가는 것도 불가능은 아니 아핫 죄송함다 특훈 중이라서요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.279,
+                "end": 22.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뒤늦게 사고 소식을 접한 엄",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.752,
+                "end": 27.627
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03213_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

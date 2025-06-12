@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_01353",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.871,
+        "format": "MP4",
+        "date": "2023-01-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실업 무대 데뷔전부터 결승에 오른 영암군 민속씨름단의 김민재 시작하자마자 잡채기로 첫째 판을 손쉽게 따냅니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팽팽한 신경전 끝에 시작된 2번째 판도 밀어치기로 오정민을 넘어뜨리는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.188,
+                "end": 15.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "접전이 이어진 3번째 판마저 가져온 김민재 3판을 연속으로 따내며 백두장사에 오릅니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.752,
+                "end": 24.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김기태 감독을 번쩍 들어 모래판에 넘어뜨리며 기쁨을 만끽하네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 24.744,
+                "end": 30.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 이만기 이후 처음으로 대학생 천하장사에 올랐던 김민재 2023년에도 괴물 본능은 계속되고 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 30.068,
+                "end": 37.871
+            }
+        ]
+    },
+    "summary": "씨름대회에서 김민재와 오정민이 겨뤄 김민재가 백두장사에 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01353_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 150
+                }
+            ]
+        }
+    ]
+}

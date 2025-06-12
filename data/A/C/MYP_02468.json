@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_02468",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.033,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 사실 요리스도 충분히 월드 클래스로 불려지고 있지만 기량에 비해 저평가받는 게 토트넘 수비진이 워낙에 실수가 많기 때문일 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요리스가 재계약을 거절하고 파리와 이적 링크까지 나오는 게 토트넘 팬들이 가장 두려워하는 것 아닐까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.789,
+                "end": 13.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 다니엘 레비의 요리스 반값 후려치기라든가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.806,
+                "end": 17.033
+            }
+        ]
+    },
+    "summary": "남자는 요리스가 월드 클래스지만 토트넘 수비진의 실수가 많아 저평가받고 있다는 말하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02468_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

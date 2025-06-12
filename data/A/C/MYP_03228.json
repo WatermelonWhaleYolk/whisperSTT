@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYP_03228",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.618,
+        "format": "MP4",
+        "date": "2023-03-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야생 1",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 이 동물원엔 왈라비를 길에 그냥 풀어놨대.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.854,
+                "end": 4.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 진짜요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.494,
+                "end": 5.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 깡총깡총 귀여운 왈라비를 풀어놨다고 역시 대자연의 나라 오늘은 걔들이랑 뛰어놀아야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.435,
+                "end": 18.618
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03228_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

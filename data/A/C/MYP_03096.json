@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYP_03096",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.485,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "낚시터 쓰레기를 뒤지는 수밖에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.204
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꺄아아아아악",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.214,
+                "end": 4.954
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "거기다 설상가상으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.964,
+                "end": 7.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그냥 가자구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.150,
+                "end": 8.342
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "식당에 팔잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.352,
+                "end": 9.618
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "이것 참 응?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.628,
+                "end": 12.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 돈으로 모든 걸 해결하려는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.305,
+                "end": 14.363
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "사장님 안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.373,
+                "end": 16.220
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "예예 아 정말요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.230,
+                "end": 18.485
+            }
+        ]
+    },
+    "summary": "로이드는 낚시터 쓰레기를 뒤져 낚시를 하려고 마음 먹었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03096_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 17
+                }
+            ]
+        }
+    ]
+}

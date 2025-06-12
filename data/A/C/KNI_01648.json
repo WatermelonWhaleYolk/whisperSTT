@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_01648",
+        "category": "스포츠뉴스",
+        "sub_category": 37,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.833,
+        "format": "MP4",
+        "date": "2019-04-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 선수가 지금 17전 16승 1무고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무패고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.630,
+                "end": 4.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 또 챔피언 해온 것도 11년 정도 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.690,
+                "end": 10.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 같은 실력에도 최 선수는 의무 방어전을 치르지 못해 타이틀 박탈 위기에 몰렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.216,
+                "end": 16.254
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "4월달 안으로 방어전을 못하면 예 자동 박탈 위기가 와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.264,
+                "end": 23.548
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래서 더블유비에이에서 지금 서류가 날아온 상태고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.558,
+                "end": 27.506
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래서 지금 빨리 시합을 해야 되는 상황이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.516,
+                "end": 31.833
+            }
+        ]
+    },
+    "summary": "최 선수는 의무 방어전을 하지 못해 타이틀 박탈 위기에 몰려 빨리 시합을 해야 되는 상황이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01648_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

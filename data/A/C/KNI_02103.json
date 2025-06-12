@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNI_02103",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.5,
+        "format": "MP4",
+        "date": "2018-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한일전이란 중압감이 패배의 원인이었던 만큼 선수들은 어제 상대를 잊고 훈련에만 열중했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.044
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 한일전이라고 해서 저희가 특별히 거기에 대해서 부담을 느낀다던지 그런 부분은 없고 선수들 컨디션도 평소와 처럼 평소처럼 유 유지를 하고 있고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.054,
+                "end": 15.500
+            }
+        ]
+    },
+    "summary": "컬링 대표팀은 한일전이란 중압감을 가지지 않으려고 했고 선수들 컨디션도 평소와 같이 유지를 하려고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

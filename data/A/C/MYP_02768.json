@@ -1,0 +1,538 @@
+{
+    "metadata": {
+        "filename": "MYP_02768",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 83.066,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어서 오세요 몇 분이시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.172
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 두 두 명입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.182,
+                "end": 2.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 두 분 창가 쪽으로 앉으시고 두 그릇 드리면 되죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.488,
+                "end": 4.996
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 뭐 메뉴 같은 거 없나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.006,
+                "end": 6.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저희 집은 텐텐 국밥이라고 단일 메뉴에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.636,
+                "end": 9.383
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 뭐 그럼 그걸로 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.393,
+                "end": 10.738
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 근데 닭으로 만들었으면 뭐 닭곰탕 같은 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.748,
+                "end": 13.501
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "근데 뭔 이름이 텐텐 국밥이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.511,
+                "end": 15.290
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "텐텐은 그 영양제 같은 거 아니냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.300,
+                "end": 16.901
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몰라 나도 자세히는 안 찾아봐서 아 뭐 삼계탕처럼 닭 다리 같은 거 들어 있던데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.911,
+                "end": 20.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "텐텐 국밥 두 그릇 나왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.824,
+                "end": 22.444
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 존나 빨라 거의 빤스 유튜브 업로드 속도 급인데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.454,
+                "end": 25.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "단골 각이고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.516,
+                "end": 26.587
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어디 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.597,
+                "end": 27.115
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 이거 국밥 맞아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.125,
+                "end": 28.253
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "닭 다리가 하나 둘 셋 넷 열 개나 들었는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.263,
+                "end": 31.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 가격이 8천 원?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.419,
+                "end": 32.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 나 앞으로 이거만 먹고 살란다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.731,
+                "end": 34.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "닭 날개 구이 나왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.663,
+                "end": 35.682
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 아 저희 이건 안 시켰는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.692,
+                "end": 37.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저희 가게 처음이시구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.571,
+                "end": 39.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "텐텐 국밥은 세트 메뉴에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.138,
+                "end": 40.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "닭 다리가 열 개 들어간 국밥과 닭 날개 구이 열 개 해서 1인분에 8천 원",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.682,
+                "end": 44.295
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 사장님 무슨 산타클로스세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.305,
+                "end": 46.033
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이래가지고 남는 게 있어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 46.043,
+                "end": 47.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많이 팔아서 남기는 거죠 뭐 하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 47.284,
+                "end": 48.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맛있게 드시고 자주 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.974,
+                "end": 50.463
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.473,
+                "end": 50.938
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사장님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.948,
+                "end": 51.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 제 건 닭 날개가 아홉 개밖에 없는데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 51.510,
+                "end": 53.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 잠시만요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 53.462,
+                "end": 54.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 오리에 너 또 닭 날개 하나 훔쳐 먹었어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 54.357,
+                "end": 56.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너 진짜 잘리고 싶니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 56.841,
+                "end": 57.759
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이 그게 어차피 손님들 다 못먹고 남기길래 딱 하나 빼 먹었는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 57.769,
+                "end": 61.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 진짜 손님 죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 61.786,
+                "end": 63.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼른 하나 더 갖다 드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 63.697,
+                "end": 64.930
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 뭐 됐어요 그냥 먹을게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 64.940,
+                "end": 66.455
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 66.465,
+                "end": 66.777
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "사장님 제 건 여덟 갠데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 66.787,
+                "end": 68.154
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 이거 단골 취소 각인가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 68.164,
+                "end": 69.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 오리에 너 또",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 69.935,
+                "end": 71.398
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이 그건 저 아니에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 71.408,
+                "end": 72.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 거짓말까지 저 진짜 해고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 72.646,
+                "end": 74.716
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 아니라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 74.726,
+                "end": 75.480
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "방금 옆에 손님이 두 개를 훔쳐가는 거 제가 봤어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 75.490,
+                "end": 77.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 77.931,
+                "end": 79.423
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "죄송합니다 배가 고파서 그만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 79.433,
+                "end": 83.066
+            }
+        ]
+    },
+    "summary": "두 남성이 텐텐 국밥 두 그릇을 시켰는데 음식이 빨리 나왔고 닭 다리 열 개와 닭 날개 구이 열 개가 세트 메뉴이고 닭 날개가 부족한 것은 오리에가 하나 먹었고 옆 테이블의 손님 훔쳐 갔기 때문입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02768_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01752",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.8,
+        "format": "MP4",
+        "date": "2021-11-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그때 가서도 득점하지 못한다면 짐 쌀 준비하고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.749
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 그래 놓고 안 보내실 거 다 압니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.759,
+                "end": 4.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 케인을 비롯한 팀의 핵심 선수마저 부진한 상황에서 내가 부임한다는 한들 뭐가 달라지겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.817,
+                "end": 10.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 겨울 이적시장에서 대대적인 보강이 있을 거라는 소식 들었지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.601,
+                "end": 14.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 일단은 썩은 가지들부터 쳐내야 하는 법이니까 보강에 밀려날 녀석들이라면 지금 당장 짐을 싸도 좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.371,
+                "end": 21.800
+            }
+        ]
+    },
+    "summary": "이번 겨울 이적시장에서 대대적인 보강이 있을 것이고 보강에 밀려날 녀석들이라면 지금 당장 짐을 싸도 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01752_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

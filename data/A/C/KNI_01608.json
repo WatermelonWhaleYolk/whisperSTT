@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_01608",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.698,
+        "format": "MP4",
+        "date": "2023-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "봄배구의 시작을 알린 장충체육관 팬들의 뜨거운 응원 열기로 가득 찼습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.019
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "플레이오프 진출이 걸린 단판 승부.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.029,
+                "end": 7.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양팀 거포들의 승부는 팽팽했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 7.577,
+                "end": 10.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리카드가 나경복의 날카로운 공격에 아가메즈의 서브 득점으로 분위기를 올리면.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.416,
+                "end": 16.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국전력은 타이스의 전매특허 오픈 공격과 서재덕의 날카로운 백어택으로 응수했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 16.277,
+                "end": 22.689
+            }
+        ]
+    },
+    "summary": "프로배구 우리카드와 한국전력이 플레이오프 진출을 놓고 승부를 벌이고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01608_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

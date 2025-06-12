@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_01529",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2023-04-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강원 FC 대표 이사 등 행정가로서 많은 경험을 쌓은 이영표 위원은 새로운 세대를 위한 재미있는 해설을 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연령대가 많이 낮아졌고 또 성별의 균형도 점점 이제 균형을 잡아가고 있기 때문에 새로운 세대들이 축구에 대한 관심이 높아지고 있구나라는 생각이 들어서 더 재미있는 축구를 좀 소개를 해야 되겠다라는 좀 생각도 했었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.735,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "강원 FC 대표 이사 등 행정가로서 많은 경험을 쌓은 이영표 위원은 새로운 세대를 위한 재미있는 해설을 약속했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01529_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

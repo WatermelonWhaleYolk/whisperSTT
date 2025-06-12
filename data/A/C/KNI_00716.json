@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_00716",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.594,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어려운 상황 속에서도 봉사 활동으로 선행을 베풀며 용기를 얻었지만 끝내 60세의 나이로 세상을 떠났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.431
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하늘나라에 가서는 정말 행복하게 잘 지냈으면 하는 게 어 선배로서 어 비는 마음이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.441,
+                "end": 18.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼭 행복하게 잘 지냈으면 좋겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.122,
+                "end": 23.317
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사랑해 영희야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.327,
+                "end": 27.594
+            }
+        ]
+    },
+    "summary": "어려운 상황 속에서도 봉사 활동으로 선행을 베풀며 용기를 얻었지만 끝내 60세의 나이로 세상을 떠났습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00716_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

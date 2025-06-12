@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_02492",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.766,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 다 엑스 어 오케이 오케이 오케이 오케이 어?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이 오케이 오케이",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.235,
+                "end": 6.831
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.841,
+                "end": 20.254
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "FC오산에 주전 멤버 핵심 전력 중 1명인 @이름1 감각도 스피드도 다 좋은데 골 결정력 부족이 번번이 발목을 잡습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.264,
+                "end": 31.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "됐어 됐어 됐어 그 아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.195,
+                "end": 40.766
+            }
+        ]
+    },
+    "summary": "FC오산의 @이름1은 축구 능력이 뛰어난 핵심 주전 멤버지만 골 결정력이 부족해 골대를 맞추기 일쑤이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02492_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 58,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

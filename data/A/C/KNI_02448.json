@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "KNI_02448",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 61.761,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이건 각도에서 봤을 때 @이름1 선수가 좋은 게 시선을 계속 이쪽으로 보고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.549
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.559,
+                "end": 6.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저렇게 되면 마지막에 꼬임을 더 크게 만들 수가 있다고 볼 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.832,
+                "end": 11.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 시선을 계속적으로 앞으로 남겨놓고 마지막에 풀어나가거든요 저렇게",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.786,
+                "end": 17.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그렇군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.363,
+                "end": 18.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저러면서 저 순간이 아마 더 강한 힘을 쓸 수 있는 순간이 바로 저때 나온다고 볼 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.250,
+                "end": 23.797
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 자 지금은 심판들이 측정하지 않는 것으로 봐서 어 실격이 된 파울이 된 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.807,
+                "end": 31.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들이 그 느낌을 알기 때문에 자기가 아니면 네 바로 이렇게 약간 매너죠 어떻게 보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.390,
+                "end": 38.258
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.268,
+                "end": 38.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "측정을 하면 시간이 걸리기 때문에 선수 그 심판들의 수고를 덜어주기 위해서 저렇게 매너 플레이를 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.814,
+                "end": 46.696
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "측정하지 않아도 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.706,
+                "end": 48.569
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "걸렸을 때는 느낌이 오거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.579,
+                "end": 50.687
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.697,
+                "end": 51.426
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 이어서 부천시청 @이름2 선수 6차 시기 마지막 6차 시기입니다 @이름2",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.436,
+                "end": 61.761
+            }
+        ]
+    },
+    "summary": "포환 종목의 @이름1 선수는 파울로 인해 기록이 측정되지 않았고 부천시청 @이름2 선수가 마지막 시기를 준비 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

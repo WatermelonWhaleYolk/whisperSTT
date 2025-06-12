@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_02808",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.0,
+        "format": "MP4",
+        "date": "2020-06-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 구너파놈들 챔피언십 리그에서 활동하나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.347
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 덕배 형님 제가 프랑스에 있을 때는 릴이라는 곳에서 킬러 수업을 받긴 했지만 아 영국 바닥은 정말 처음입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.357,
+                "end": 8.724
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조금 섭섭합니다 형님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.734,
+                "end": 10.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 TMI는 집어치우고 십스날은 과학이다 해봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.112,
+                "end": 13.289
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시 시 시 십 사스날은 과학이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.299,
+                "end": 15.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 사스날 너 이자식 개집에서 심어놓은 언더커버 같은 거냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.948,
+                "end": 19.756
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아뇨 형님 아이 그게 아니라 아스날한테 십스날은 과분하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.766,
+                "end": 23.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "십사스날이라는 겁니다 십사스날.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.120,
+                "end": 25.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흠 너 똑바로 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.560,
+                "end": 26.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 지켜보겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.915,
+                "end": 28.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 일단 출발하자고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.269,
+                "end": 31.000
+            }
+        ]
+    },
+    "summary": "남성이 새로 들어온 조직원을 테스트하고 출발하자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02808_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

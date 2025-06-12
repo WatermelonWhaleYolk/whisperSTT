@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00784",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2023-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중소 부품 업체가 밀집한 반월 시화 공단.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특성화고 졸업생들이 주로 취업하는 곳입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.371,
+                "end": 7.168
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "20대 최 모 씨도 그중 1명이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.178,
+                "end": 10.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화학 관련 자격증을 갖고 전자 부품 도금업체에 입사했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.277,
+                "end": 15.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 달 월급으로 통장에 찍힌 돈은 160여만 원.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.162,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "20대 최 모 씨는 화학 관련 자격증을 갖고 전자 부품 도금업체에 입사했는데 첫 달 월급은 160여만 원이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00784_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_00165",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.854,
+        "format": "MP4",
+        "date": "2022-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 비시즌 때 훈련 처음 시작했던 했을 때부터 생각나고 이렇게 막 주마등처럼 싹 지나가더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 감정이 너무 북받쳐 올라서 참을 수가 없었던 던 것 같고",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.339,
+                "end": 13.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올 시즌 프로 농구는 초보 사령탑 전희철 감독이 이끌어낸 SK의 통합 우승으로 막을 내렸습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 13.422,
+                "end": 20.854
+            }
+        ]
+    },
+    "summary": "MVP로 선정된 선수는 처음 시작했던 때부터가 주마등처럼 지나가서 감정이 북받쳐 올랐다고 했고 올 시즌 프로 농구는 SK의 통합 우승으로 막을 내렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

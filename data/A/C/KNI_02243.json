@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_02243",
+        "category": "스포츠뉴스",
+        "sub_category": 21,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 40.066,
+        "format": "MP4",
+        "date": "2017-09-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2024년과 2028년 하계 올림픽 개최 순번을 두고 치열한 경쟁을 펼쳤던 프랑스 파리와 미국 로스앤젤레스",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국제 올림픽 위원회 IOC는 페루 리마에서 총회를 열고 파리에서 먼저 2024년 올림픽을 개최하는 것으로 확정했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.318,
+                "end": 18.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1924년 하계 올림픽이 열렸던 파리는 꼭 100년 만에 올림픽을 치르게 됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 18.941,
+                "end": 25.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.638,
+                "end": 33.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 1992년 이후 3차례 유치에 나섰지만 번번이 좌절해 의미가 큽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.194,
+                "end": 40.066
+            }
+        ]
+    },
+    "summary": "페루 리마에서 총회를 연 국제 올림픽 위원회는 2024년 하계 올림픽을 프랑스 파리에서 개최하게 됐다고 밝혔고 프랑스는 1924년 이후 100년 만에 개최하게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02243_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

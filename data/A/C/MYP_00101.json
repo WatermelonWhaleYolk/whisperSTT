@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "filename": "MYP_00101",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.0,
+        "format": "MP4",
+        "date": "2023-07-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "레반도프스키 저기 네이마르가 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.375
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쉿 조용해 뮐러.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.385,
+                "end": 3.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 바로 원샷 원킬.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.792,
+                "end": 4.896
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "순식간에 처리한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.906,
+                "end": 5.937
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.947,
+                "end": 8.488
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 젠장.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.498,
+                "end": 9.182
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기둥이 살렸군 네이마르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.192,
+                "end": 10.381
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "레반도프스키?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.391,
+                "end": 11.393
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이게 감히 어디다 대고 총질이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.403,
+                "end": 13.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "레반도프츠키 얼른 쏴버려.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.525,
+                "end": 17.000
+            }
+        ]
+    },
+    "summary": "두 남성이 네이마르를 발견해 몰래 총을 쏘지만 네이마르를 맞지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00101_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

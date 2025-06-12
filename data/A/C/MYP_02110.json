@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_02110",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.8,
+        "format": "MP4",
+        "date": "2021-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무적함대 스펜인의 저력을 똑똑히 보여드리죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.368
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 두 분의 의견 잘 들었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.378,
+                "end": 4.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무려 프랑스를 꺾고 8강에 진출한 돌풍의 주인공 스위스냐 무적함대 2기의 부활을 꿈꾸는 유력한 우승 후보 스페인이냐 8강 첫 경기에서 승리해 준결승에 진출할 팀은 어디일까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.474,
+                "end": 16.355
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "구독자 여러분들의 선택은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.365,
+                "end": 21.800
+            }
+        ]
+    },
+    "summary": "사회자가 스위스와 스페인 8강 첫 경기에서 승리해 준결승에 진출할 팀이 어디일지 궁금해하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02110_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

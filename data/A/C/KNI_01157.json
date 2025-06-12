@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_01157",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.329,
+        "format": "MP4",
+        "date": "2022-10-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "친형 팀 DB와 맞붙게 된 #이름1의 각오도 남달랐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.552
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "통영까지 이렇게 먼 곳에 와주셔서 너무 감사하고 첫 경기가 DB인 만큼 열심히 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.562,
+                "end": 10.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 초반부터 @이름1의 외곽포가 링에 적중합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.224,
+                "end": 17.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수비를 따돌리는 절묘한 움직임도 돋보입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 17.150,
+                "end": 20.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1은 에페의 이적 동기생인 @이름2에게 멋진 도움을 찔러주며 공격을 이뤘습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.295,
+                "end": 29.329
+            }
+        ]
+    },
+    "summary": "친형 팀 DB와 맞붙게 된 동생은 통영까지 먼 곳에 와주셔서 감사하다며 첫 경기가 친형 팀인 만큼 열심히 하겠다고 각오를 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01157_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

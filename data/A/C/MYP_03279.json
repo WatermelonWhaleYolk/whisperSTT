@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03279",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그는 흔쾌히 통과시켜줬다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "플리즈 돈 웨어 잇 어겐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.619,
+                "end": 5.431
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "땡큐 땡큐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.441,
+                "end": 7.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쏘 쏘리",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.325,
+                "end": 8.557
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 두 촌놈은 드디어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.567,
+                "end": 10.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와아아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.908,
+                "end": 12.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "별천지에 발을 들일 수 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.319,
+                "end": 14.982
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여기서 오늘 내 빚은 멸종한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.992,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "그는 흔쾌히 통과시켜줬고 두 촌놈은 드디어 별천지에 발을 들일 수 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03279_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

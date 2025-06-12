@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00967",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "화려한 유로 스텝 등 발전한 기량 역시 농구 대통령으로 불리는 아버지 못지않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3 쿼터 동료들을 반대편에 두고 혼자 해결하는 장면이 압권이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.253,
+                "end": 12.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허웅은 20분만 뛰고도 2 자릿수 득점에 도움 네 개를 기록하며 DB의 완승을 이끌었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.099,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "허웅은 20분만 뛰고도 2 자릿수 득점에 도움 네 개를 기록하며 DB의 완승을 이끌었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00967_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

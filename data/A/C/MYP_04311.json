@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYP_04311",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.62,
+        "format": "MP4",
+        "date": "2020-01-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그것까지 배려해서 선물을 준비해왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.006
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 갈아입고 가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.016,
+                "end": 4.469
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "형들 이렇게 좋은 형들을 내가 또 오해를 할 뻔했구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.479,
+                "end": 10.516
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사이즈가 맞을란지 모르겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.526,
+                "end": 13.927
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에이 맞겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.937,
+                "end": 15.717
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "짓궂긴 했지만 역시 챙겨 주는 건 형들밖에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.727,
+                "end": 19.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.507,
+                "end": 20.620
+            }
+        ]
+    },
+    "summary": "선물로 옷을 사온 형들에게 감사한 마음이 들었었는데 그 선물도 페이크였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04311_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

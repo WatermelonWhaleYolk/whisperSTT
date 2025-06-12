@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_00005",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2022-01-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들의 따뜻한 겨울이 되실 수 있도록 저도 함께 응원하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.451
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리나라는 금메달 2개 등 종합 15위를 목표로 내건 가운데 대한민국 선수단 본진은 오는 31일 결전지 베이징으로 향합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.461,
+                "end": 15.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.375,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "응원를 받은 대한민국 선수단은 31일 베이징으로 향할 예정이고 우리나라는 종합 15위를 목표로 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

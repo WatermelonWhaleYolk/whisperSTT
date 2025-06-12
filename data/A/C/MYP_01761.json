@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_01761",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.933,
+        "format": "MP4",
+        "date": "2021-11-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "솔직히 램파드가 차려놓은 밥상을 이렇게 맛있게 먹어도 되나 미안할 지경이라니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하긴 저를 기용하지 않은 점만 빼면 나쁘지 않은 감독이었죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.492,
+                "end": 7.444
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공격의 샛별인 마운트를 키워냈고 수비의 샛별인 제임스 역시 주장의 후계자로 자라났으니 뭐 좋은 유산을 남기고 떠나셨네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.454,
+                "end": 13.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 거기다가 중원의 샛별인 조르지뉴 너와 편의점의 샛별인 실바 등등 베테랑까지 든든한 우리 팀 스쿼드는 그야말로 세계 최강.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.640,
+                "end": 21.641
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "후보의 샛별인 저까지 있잖습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.651,
+                "end": 23.370
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "솔직히 리버풀 스쿼드의 두께가 항정살이라면 맨시티는 삼겹살 그리고 우리 첼시는 제주 오겹살쯤 되는 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.380,
+                "end": 28.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간만에 바른 소릴 하는군. 마지막으로 감독의 샛별인 나까지 더해졌으니 누가 봐도 우승팀 아니겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.796,
+                "end": 35.933
+            }
+        ]
+    },
+    "summary": "샛별들이 많아서 첼시팀은 든든한 걸 넘어선 세계 최강팀이라 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01761_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

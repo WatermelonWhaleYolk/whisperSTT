@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_00751",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.7,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이것이 바로 내가 일하고 있는 훔바훔바 김치마을 머지사이드 지역에서는 가장 큰 김치 공장이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무래도 한국인의 면역력의 근원이 김치라는 소문 때문인지 요새 영국에서도 김치 수요량이 장난 아니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.006,
+                "end": 10.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헤이 헤이 @이름1 총각김치 다 됐으면 이리 와바라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.731,
+                "end": 14.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 사람은 미얀마에서 온 빵뚜아 이낫 고향에 있는 가족들을 부양하기 위해 영국에 온지 벌써 9년\n차 라던가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.402,
+                "end": 20.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 김치 맛에 푹 빠져서 일을 시작했다는데 빵뚜아 대리님 무슨 일이세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.653,
+                "end": 25.023
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너가 공 좀 찬 댔지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.033,
+                "end": 26.652
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아예 뭐 제가 한국에선 오지게 뛰어라 슈또리 1기 출신에 초중고 축구부를 거쳐 낙성대학교 융복합축구식품학과 출신입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.662,
+                "end": 33.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빵뚜아는 그런 어려운 말 모른다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.665,
+                "end": 35.700
+            }
+        ]
+    },
+    "summary": "나는 훔바훔바 김치마을 머지사이드 지역에서 가장 큰 김치 공장에서 일하는 데 빵뚜아 대리가 공 좀 차냐고 물었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 20,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

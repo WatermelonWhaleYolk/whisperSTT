@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "filename": "MYP_03558",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.824,
+        "format": "MP4",
+        "date": "2022-05-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 주문은 어떤 걸로 하시겠어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "낸 그런 거 안 묵어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.188,
+                "end": 4.522
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밀끼리를 묵으면 자꾸 방구가 나왔사서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.532,
+                "end": 7.906
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "커피 1잔 도 봐라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.916,
+                "end": 9.289
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인테리어가 노인정 같나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.299,
+                "end": 12.790
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "관광객도 몰리면서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.800,
+                "end": 15.602
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그로부터 3시간 후",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.612,
+                "end": 17.484
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "평소 매출에 3배를 넘기는 기염을 토하게 된다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.494,
+                "end": 21.727
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "것 봐라 할 수 있제.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.737,
+                "end": 24.824
+            }
+        ]
+    },
+    "summary": "여러 손님이 몰렸고 3시간 후 평소 매출에 3배를 달성하게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03558_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYP_02526",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.833,
+        "format": "MP4",
+        "date": "2020-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 직접 만나서 조금만 설득한다면 선수도 구단도 넘어올 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.355
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 슈크림을 노리고 있단 사실을 모르는 사람이 없을 정도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.365,
+                "end": 6.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 대놓고 사러 가는데 그것들 100퍼센트 바가지를 씌울 거라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.460,
+                "end": 9.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어허 무리뉴 내가 누군가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.872,
+                "end": 11.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반값 후려치기의 대명사 다니엘 레비 이적 시장의 네고왕인 나만 믿고 따라 오게나.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.872,
+                "end": 17.833
+            }
+        ]
+    },
+    "summary": "직접 만나서 슈크림이라는 선수를 영입 시도하겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02526_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

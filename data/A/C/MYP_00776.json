@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "MYP_00776",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.133,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보고 싶다~ 이런 내가 미워질 만큼~",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.118
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 저거 한국 노래 아니에요? 그보다 비웨이씨는 그냥 서 있는 역할이에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.128,
+                "end": 10.908
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "왜그렉은 한국에서 오디션 프로에 나간 적이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.918,
+                "end": 14.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미칠 듯 사랑했던 기억이~",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.572,
+                "end": 19.260
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우즈왁장?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.260,
+                "end": 20.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추억 들이~ 너를 찾고 있지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.040,
+                "end": 24.460
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우즈왁장?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.460,
+                "end": 25.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 이상 사랑이란 변명에 너를 가둘 순 없어~",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.720,
+                "end": 34.133
+            }
+        ]
+    },
+    "summary": "음악경연 프로그램을 개그화시켜 만든 유튜버 동영상 중 인물소개와 노래하는 장면이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00776_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_00780",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.6,
+        "format": "MP4",
+        "date": "2023-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 외모가 조금 부족한 것 같아서 배구로 따라잡을 수 있도록 해보겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 제가 성진이 얼굴이었으면 좋겠어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.775,
+                "end": 7.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "99년생 토끼띠라 등번호 99번을 단 김지한과 배우 김수현을 닮은 임성진 문성민과 김요한 이후 끊기다시피 한 스타 계보를 이을 재목으로 주목받고 있습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 7.780,
+                "end": 20.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나한테 한번 혼나고 난 뒤로 잘하고 있는 것 같아서 내 마음이 다 뿌듯하고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.000,
+                "end": 25.841
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너도 그렇고 나도 그렇고 올해 좀 잘됐으면 좋겠고 남은 시즌 부상 없이 잘 마무리했으면 좋겠다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 25.851,
+                "end": 33.600
+            }
+        ]
+    },
+    "summary": "김지한과 임성진은 배구 선수의 스타 계보를 이을 재목으로 주목받고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00780_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

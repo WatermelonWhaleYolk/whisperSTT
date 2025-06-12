@@ -1,0 +1,199 @@
+{
+    "metadata": {
+        "filename": "MYP_03135",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.836,
+        "format": "MP4",
+        "date": "2023-07-16",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잔병 치레를 하긴 하지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어우 요즘 어우 내내 속이 안 좋더라구요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.761,
+                "end": 4.896
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하 술을 좀 그만 먹어야겠죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.906,
+                "end": 7.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 매우 강인한 육신이 합쳐져",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.927,
+                "end": 11.099
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니요 뭐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.109,
+                "end": 12.881
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "술 뭐 괜찮아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.891,
+                "end": 15.240
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "드세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.250,
+                "end": 16.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오예",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.189,
+                "end": 17.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그는 망설임 없이 부조리와 싸워나갈 수 있는 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.534,
+                "end": 22.241
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "학생이 술을 먹어?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.251,
+                "end": 24.541
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "으아아아악 당신도 먹고 있잖아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.551,
+                "end": 26.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "난 임마 의사가 먹으랬어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.802,
+                "end": 29.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 이런 그의 능력들을 모두 무용지물로 만드는 강적이 있었으니 오늘의 이야기는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.473,
+                "end": 36.836
+            }
+        ]
+    },
+    "summary": "그는 잔병치레를 하긴 하지만 강인한 육신을 가지고 있어 의사에게 술을 마셔도 괜찮다는 말을 듣고 학생이 술을 마시면 제재를 가하는 등 세상의 부조리와 맞서 싸운다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

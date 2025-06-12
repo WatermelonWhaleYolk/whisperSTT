@@ -1,0 +1,203 @@
+{
+    "metadata": {
+        "filename": "MYP_02330",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 44.675,
+        "format": "MP4",
+        "date": "2021-03-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭔 소리예유?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.789
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 기름이 떨어진 걸 이제야 알았다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.799,
+                "end": 2.864
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 그게 어제 유로파 기름 떨어지지 않았습니까 아 전 당연히 매니저님이 사다 놓으실 줄 알았죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.874,
+                "end": 9.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 젠장 밖에 백 대표님까지 왔는데 이제 어떡할 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.025,
+                "end": 11.912
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "왜 저한테 뭐라 그러세요 아 아니면 모우라면 볶을 때 쓰는 카라바 오일이라도 써서 튀겨 볼까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.922,
+                "end": 18.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그걸로 튀겼다간 제 맛이 안 날 거 아냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.027,
+                "end": 20.112
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 그럼 저보고 어떡하란 겁니까 매니저님께서 신경 쓰셨어야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.122,
+                "end": 24.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 새끼가 가만 이거 이거 닭은 또 왜 이래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.250,
+                "end": 27.060
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 아 닭이 어때서요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.070,
+                "end": 28.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "염지해 놓은 흥라이드 치킨 닭다리 부분이 죄다 팅팅 부었잖아 이거 문제 생긴 거 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.690,
+                "end": 33.435
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "세상에 그럼 이제 어떡하죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.445,
+                "end": 35.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 매니저님 주방에 무슨 문제 있어유?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.398,
+                "end": 37.579
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 젠장 어쩔 수 없지 일단 튀겨봐 소스가 맛있으니까 아무리 백종원 대표라도 눈치 못 챌 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.589,
+                "end": 42.907
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "두둥 다음 편에 계속.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.917,
+                "end": 44.666
+            }
+        ]
+    },
+    "summary": "백 대표님이 왔지만 유로파 기름이 떨어진 걸 늦게 알아 백종원 대표가 눈치를 채지 못할 것이라며 모우라면 볶을 때 쓰는 카라바 오일로 튀기기로 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02330_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

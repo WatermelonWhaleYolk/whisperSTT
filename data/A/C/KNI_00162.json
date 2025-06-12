@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00162",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.418,
+        "format": "MP4",
+        "date": "2022-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정규리그 1위 SK가 팀 창단 처음으로 통합 우승까지 완성하는 순간입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2쿼터까지 끌려가던 SK는 특유의 속공을 앞세워 반격에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.078,
+                "end": 13.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돌격대장 김선영은 상대의 골 밑을 휘저으며 공격의 선봉에 섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.444,
+                "end": 18.418
+            }
+        ]
+    },
+    "summary": "2쿼터까지 끌려가던 SK는 특유의 속공을 앞세워 반격에 나섰고 돌격대장 김선영은 상대의 골 밑을 휘저으며 공격의 선봉에 섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00162_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 77
+                }
+            ]
+        }
+    ]
+}

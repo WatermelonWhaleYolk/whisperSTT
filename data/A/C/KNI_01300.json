@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_01300",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2022-12-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희 실수는 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.425,
+                "end": 1.342
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오히려 경기 지연을 이유로 감독에게 경고까지 주어졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.352,
+                "end": 6.806
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그거 하나 때문에 선수들이 진짜 울고 웃고 하는데 그걸 조금 더 신경 써주셔서 조금 더 정확하게 봐주셨으면 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.816,
+                "end": 13.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "논란이 거세지자 한국배구연맹은 오늘 오심을 인정하고 부심과 경기 위원에게 세 경기 배정 제외의 징계를 내렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.909,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "논란이 거세지자 한국배구연맹은 오늘 오심을 인정하고 부심과 경기 위원에게 세 경기 배정 제외의 징계를 내렸습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01300_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

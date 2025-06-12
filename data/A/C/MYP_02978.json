@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02978",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.266,
+        "format": "MP4",
+        "date": "2020-01-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.755
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이보게나 베일 거의 다 해치웠다고 조금만 더 힘을 내게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.765,
+                "end": 10.647
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "고생 많았소 벤제마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.657,
+                "end": 11.725
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 이제 함께 마무리를",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.735,
+                "end": 12.782
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "앗싸 막타 내가 막타쳤으니 이건 내 공이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.792,
+                "end": 15.876
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "알아들었지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.886,
+                "end": 16.725
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 장군 저희가 목숨 바쳐 쌓은 공로를 어찌 이렇게 가로채십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.735,
+                "end": 20.729
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "야 인마",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.739,
+                "end": 21.266
+            }
+        ]
+    },
+    "summary": "호날두는 다른 선수들이 쌓은 공을 본인이 마지막에 가로챈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02978_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

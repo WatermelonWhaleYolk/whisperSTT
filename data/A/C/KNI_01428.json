@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01428",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.784,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "징계 기간이 끝났기 때문에 규정상 문제는 없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 심각한 도덕적 문제를 일으킨 지도자가 다시 국가대표 선발전에 등장한 건 이해하기 힘듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.319,
+                "end": 9.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지도자는 실력만 있으면 된다는 빙상계의 도덕 불감증이 또 한 번 드러났다는 지적입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.962,
+                "end": 16.374
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제일 이해 안 되는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.384,
+                "end": 17.784
+            }
+        ]
+    },
+    "summary": "도덕적 문제를 일으킨 지도자가 국가대표 선발전에 등장한 건 이해하기 힘들다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01428_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

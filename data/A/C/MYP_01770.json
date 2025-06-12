@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_01770",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.933,
+        "format": "MP4",
+        "date": "2021-11-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자네가 생각해도 그 부분이 부족한 거 인정하지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.274
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 생각해 보니 그런 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.284,
+                "end": 4.044
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 월수금은 탈압박 훈련, 화목토는 패스 훈련을 실시 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.054,
+                "end": 7.901
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 일요일은요? 일요일엔 둘 중 한 가지 훈련을 하면 될까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.911,
+                "end": 11.219
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에이 일요일은 나랑 같이 밥도 먹으면서 휴식 시간을 가져야 하지 않겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.229,
+                "end": 15.860
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "일요일엔 네가 짜파게티 요리사인 기래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.880,
+                "end": 18.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조용히 안 해? 내가 이래 봬도 선수 시절 유벤투스의 핵심이었던 거 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.203,
+                "end": 22.343
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일요일엔 내가 직접 개인 교습을 해 주겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.353,
+                "end": 24.933
+            }
+        ]
+    },
+    "summary": "일요일에는 직접 개인 교습을 해 주겠다고 하는 감독님이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01770_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

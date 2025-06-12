@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00065",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.517,
+        "format": "MP4",
+        "date": "2022-02-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당당히 시상대에 올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "메달 딸 수 있게 되어서 너무 좋았고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.189,
+                "end": 5.980
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "눈물이 눈물이 이렇게 많이 나는지 모르겠는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.990,
+                "end": 9.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "준비하면서 너무 힘들었던 게 생각이 많이 나서 그런가",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.683,
+                "end": 17.517
+            }
+        ]
+    },
+    "summary": "한 선수가 메달을 딴 후 소감을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00065_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_01810",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.466,
+        "format": "MP4",
+        "date": "2016-09-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실제로 은퇴 체육인 가운데 37.1퍼센트가 무직이며 재취업에 성공해도 월 수입이 200만 원 이하인 경우가 40퍼센트 가까이 되는 것으로 나타났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.907
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이처럼 은퇴 후 어려움을 겪는 체육인을 돕기 위한 법안이 최근 발의됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.917,
+                "end": 16.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "생활이 어려우신 분들이 꽤 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.164,
+                "end": 18.342
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 분들 위해서 그 혜택을 드리고 특별히 우대하는 그런 정책도 해야 되지 않나",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.352,
+                "end": 25.186
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법이 통과되면 정부 차원의 체육인 복지 증진과 은퇴 체육인의 재취업 지원 정책이 체계화 될 수 있을 것으로 전망됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.196,
+                "end": 33.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 33.691,
+                "end": 36.466
+            }
+        ]
+    },
+    "summary": "은퇴 후 생활고를 겪는 체육인들을 돕기 위한 법안이 발의됐으며 법안이 통과되면 체육인들의 복지 증진과 재취업을 할 수 있는 지원이 체계화될 것이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01810_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYP_03956",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.825,
+        "format": "MP4",
+        "date": "2020-12-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 며칠 뒤 기차를 타기 위해 역을 다시 방문한 나는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.155,
+                "end": 5.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 노숙자와 함께 대합실 2층으로 향하는 에스컬레이터에 오르게 되었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.355,
+                "end": 11.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 낮에는 들어올 수 있구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.112,
+                "end": 15.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.458,
+                "end": 22.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올라오시면 안 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.989,
+                "end": 25.825
+            }
+        ]
+    },
+    "summary": "며칠 뒤 기차를 타기 위해 역에 방문한 주인공은 노숙자와 함께 에스컬레이터를 타게 된 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03956_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 36
+                }
+            ]
+        }
+    ]
+}

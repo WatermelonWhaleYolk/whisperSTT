@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "filename": "MYP_03967",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.796,
+        "format": "MP4",
+        "date": "2020-12-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3 점심시간.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 수리영역 내내 잠에 시달린 나는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.417,
+                "end": 5.943
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘 봤어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.953,
+                "end": 7.124
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으 몰라 간신히 다 풀었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.134,
+                "end": 9.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "점심시간을 통째로 잠 보충에 쓰기로 했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.626,
+                "end": 13.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밥 안 먹냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.449,
+                "end": 14.151
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 먹었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.161,
+                "end": 16.399
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "난 잘래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.409,
+                "end": 18.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 시험 시작과 동시에 일어났다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.736,
+                "end": 25.065
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "학생 시험 쳐야지 아직 포기하면 안 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.075,
+                "end": 29.796
+            }
+        ]
+    },
+    "summary": "주인공은 점심시간에 교실에서 잠을 자다가 시험시간이 다 되어서 일어나게 되는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03967_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01925",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2021-08-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어젯밤 인천공항을 통해 귀국했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "태극기를 들고 입국장에 모습을 드러낸 선수단은 국민들의 성원 덕분에 힘을 낼 수 있었다며 감사의 인사를 먼저 전했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.660,
+                "end": 11.016
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응원해주셨기 때문에 이렇게 좋은 어 또 4강이라는 좋은 결과를 얻게 된 거 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.026,
+                "end": 20.619
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진심으로 너무 어 감사하게 생각하고 있구요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.629,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "어젯밤 인천공항을 통해 귀국한 선수단은 국민들의 성원 덕분에 힘을 낼 수 있었다며 감사 인사를 전했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01925_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

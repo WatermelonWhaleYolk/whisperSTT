@@ -1,0 +1,343 @@
+{
+    "metadata": {
+        "filename": "MYP_00889",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 86.378,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시청자 여러분 안녕하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카타르 월드컵 16강에 올라있는 대한민국의 주장 손흥민",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.185,
+                "end": 4.141
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마찬가지로 16강에 올라있는 프랑스의 에이스 음바페 인사드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.151,
+                "end": 8.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 코너의 MC는 홀란드와 돈나룸마 아니었냐고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.115,
+                "end": 10.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 그렇긴 한데 월드컵부터 못 나오는 아들을 데려다가 부려먹다 보니 살짝 미안한 감이 없지 않아가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.910,
+                "end": 15.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 저와 음바페 선수가 특별 MC를 맡게 되었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.669,
+                "end": 18.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그나저나 음바페 씨?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.294,
+                "end": 19.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 월드컵에서 세계 최고를 넘어 역사상 최고의 선수가 탄생했다는 거 아십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.574,
+                "end": 23.230
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "알고 있고 말고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.240,
+                "end": 24.589
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "35살이라는 나이에도 불구하고 4경기 3골을 몰아치며 아르헨티나를 8강으로 견인한 리오넬 메시 선수를 말씀하시는 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.599,
+                "end": 31.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 소리예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.995,
+                "end": 32.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10프로도 되지 않을 가능성을 뚫고 한국을 16강에 진출시킨 선수",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.786,
+                "end": 35.781
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아아 알고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.791,
+                "end": 37.001
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결승골의 주인공 황희찬 아니 여진구 선수 말씀이시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.011,
+                "end": 40.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "황소 같은 드리블이 아주 보통이 아니던데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.596,
+                "end": 42.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니요 아니요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.953,
+                "end": 43.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그보다 훨씬 뛰어난 활약을 펼쳤던",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.699,
+                "end": 45.198
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설마 손흥민 선수 본인은 아닐 테고 아아 그 얼굴도 존잘에 실력까지 존잘인 조규성 선수 말씀이시군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.208,
+                "end": 51.137
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전방에서 보여주는 포스트 플레이가 정말이지 보통이 아니던데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 51.147,
+                "end": 54.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "규성이도 규성이지만 대한민국의 12번째 선수 한반두 선수 말이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 54.520,
+                "end": 57.870
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 내 정신 좀 봐라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 57.880,
+                "end": 59.281
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크리스티한우 투쁠두 선수를 깜박했지 뭡니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 59.291,
+                "end": 61.569
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히나 그 등으로 찔러준 어시가 아주 보통이 아니었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 61.579,
+                "end": 65.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 호날두의 도움으로 16강 진출에 성공했지만 이번 상대는 무려 2군까지 세계 정상급인 나라 세계 최강 브라질 선수들을 소개합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 65.272,
+                "end": 71.913
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "반갑습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 71.923,
+                "end": 72.442
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "소속팀은 비록 웃음 후보지만 대표팀만큼은 우승 후보 브라질의 넘버원 스트라이커 히샬리송입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 72.452,
+                "end": 77.481
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저 없이도 16강에 진출했는데 제가 돌아왔으니 우승은 당연히 브라질 아니겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 77.491,
+                "end": 82.021
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "브라질의 황제 네이마르 아니 네이마루입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 82.031,
+                "end": 86.366
+            }
+        ]
+    },
+    "summary": "손흥민 선수와 음바페 선수 모습의 캐릭터가 월드컵에서 세계 최고를 넘어 역사상 최고의 선수들을 함께 소개하며 브라질의 히샬리송, 네이마르 선수들을 차례로 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00889_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 43,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

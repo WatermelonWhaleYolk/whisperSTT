@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01694",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.4,
+        "format": "MP4",
+        "date": "2019-11-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특정 선수 밀어주기와 심지어 승패 조작도 있었다고 선수들은 증언했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회식을 강요받고 유치원 운동회 같은 감독의 사적 업무에 동원됐다고도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.298,
+                "end": 10.035
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 위계적 선후배 사이와 계약이 해지될지 모른다는 두려움은 신고를 꺼리게 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.045,
+                "end": 15.498
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직업적으로 운동을 하시는 분들이기 때문에 훨씬 성과에 대한 압박이나 또 이제 연령대가 초중고보다 훨씬 높다 보니까 과거에 폭력적인 문화를 그대로 답습하는 문화를 가지고 있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.508,
+                "end": 30.400
+            }
+        ]
+    },
+    "summary": "선수들은 특정 선수 밀어주기와 심지어 승패 조작도 있었고 회식을 강요받고 감독의 사적 업무에 동원됐지만 계약이 해지될지 모른다는 두려움에 신고를 꺼리게 됐다고 증언했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01694_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02336",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.4,
+        "format": "MP4",
+        "date": "2016-07-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평창 올림픽 코스와 똑같이 만들어진 97미터 길이의 훈련장에서 출발 연습을 반복합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한여름이지만 얼음 위 훈련이 가능해져 해외에 전지 훈련을 떠날 필요가 없어졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.656,
+                "end": 12.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "육상 트랙 위에서 바퀴가 달린 썰매를 타고 훈련했던 선수들에겐 감격적인 순간입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.577,
+                "end": 20.400
+            }
+        ]
+    },
+    "summary": "평창 올림픽 코스와 똑같은 97미터 훈련장이 생겨 육상 트랙에서 썰매를 타고 훈련했던 선수들은 해외 전지 훈련을 갈 필요가 없어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02336_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

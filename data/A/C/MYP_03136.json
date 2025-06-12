@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_03136",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.255,
+        "format": "MP4",
+        "date": "2023-07-16",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국지도발 몇 년 전의 한여름 군인이었던 산티아고는 휴가를 나와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.005
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 젠장 내가 미쳤지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.015,
+                "end": 11.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빨래를 하고 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.405,
+                "end": 14.311
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "휴가 나와서 대 빨래를 하다니 정신을 차렸을 땐 이미 장롱이 비었더군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.321,
+                "end": 22.255
+            }
+        ]
+    },
+    "summary": "몇 년 전 한여름에 군대에서 휴가를 나온 산티아고는 자신도 모르게 장롱을 비워 엄청난 빨래를 하고 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03136_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

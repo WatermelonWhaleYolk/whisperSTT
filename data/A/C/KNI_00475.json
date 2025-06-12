@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00475",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.79,
+        "format": "MP4",
+        "date": "2023-05-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근로 계약서엔 근무 장소와 업무 내용이 담겨 있고 계약에 없는 내용은 근로 기준법을 따른다고 적혀 있지만 이 씨가 퇴직하자 상황이 달라졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표는 이 씨가 근무 시간을 자유롭게 사용했다며 퇴직금을 줄 수 없다고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.996,
+                "end": 16.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같은 건물 미용실 머리 커팅하러 2번 손에 꼽아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.076,
+                "end": 21.638
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 지금 요거 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.648,
+                "end": 23.790
+            }
+        ]
+    },
+    "summary": "근로 계약서엔 근무 장소와 업무 내용이 담겨 있고 계약에 없는 내용은 근로 기준법을 따른다고 적혀 있지만 이 씨가 퇴직하자 대표는 퇴직금을 줄 수 없다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00475_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 16
+                }
+            ]
+        }
+    ]
+}

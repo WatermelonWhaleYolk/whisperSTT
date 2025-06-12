@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_02081",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.3,
+        "format": "MP4",
+        "date": "2018-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "30여분 늦게 오발 경기장에 나타난 고다이라는 이상화를 외면하며 짐을 풀었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "링크 위에서도 두 선수의 거리는 좀처럼 좁혀지지 않았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.649,
+                "end": 10.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "링크 밖에서 고다이라가 인사를 건넸다는 게 믿기지 않을 정도로 서로의 훈련에 집중했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.444,
+                "end": 16.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아...",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.888,
+                "end": 19.300
+            }
+        ]
+    },
+    "summary": "링크 위에서 두 선수는 각자의 훈련에만 집중했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02081_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 64,
+                    "act": 58
+                }
+            ]
+        }
+    ]
+}

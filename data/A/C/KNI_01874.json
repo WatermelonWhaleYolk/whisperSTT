@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_01874",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.858,
+        "format": "MP4",
+        "date": "2022-07-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 대상이 심판이 아니라 포수 마스크 쓰고 있는 장성호였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 퇴장을 면했고 공교롭게도 이후 두 선수의 성적은 달라졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.411,
+                "end": 9.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다른 팀 포수들 중에서도 제일 친한 사이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.632,
+                "end": 13.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 당시에는 저는 뭐 조금 볼이라고 판단을 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.113,
+                "end": 18.153
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "형이 내 입장이 되어봐라 거기에 선배님이 계신데 뭐 내가 뭐 볼이다 스트라이크다 내가 어떻게 얘기하냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.163,
+                "end": 24.858
+            }
+        ]
+    },
+    "summary": "대상이 심판이 아니라 포수 마스크 쓰고 있는 장성호에게 항의를 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01874_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

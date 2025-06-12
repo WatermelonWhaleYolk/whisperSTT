@@ -1,0 +1,188 @@
+{
+    "metadata": {
+        "filename": "MYP_02949",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.1,
+        "format": "MP4",
+        "date": "2020-02-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 안타깝게도 양 팀 모두 득점하지 못한 채 정규 시간이 종료되었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 2002 월드컵 이경규가 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.609,
+                "end": 7.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연장전까지 왔으니 뭔가 보여줘야 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.690,
+                "end": 10.019
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박지성 뭐 하고 있어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.029,
+                "end": 11.761
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저 이경규 씨 연장전까지 응원을 하다 보니 배가 너무 고파요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.771,
+                "end": 15.834
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.844,
+                "end": 16.768
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "배고프다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.778,
+                "end": 17.951
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 조형기 씨 지금 밥 먹을 때입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.961,
+                "end": 20.532
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 응원도 응원이지만 뭐 좀 먹으면서 해야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.542,
+                "end": 23.758
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에휴 하여간 자 여기",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.768,
+                "end": 25.668
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 이게 뭐죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.678,
+                "end": 26.616
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 간편하면서도 뜨끈하고 진한 닭 육수에 알싸한 고추향까지 첨가된 컵라면 중의 컵라면 꼬꼬면이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.626,
+                "end": 34.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연장전도 이대로 끝이 나는 것 같으니 얼른 먹고 승부차기를 응원합시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.455,
+                "end": 40.100
+            }
+        ]
+    },
+    "summary": "화자가 연장전까지 가니 배가 고프다는 조형기에게 꼬꼬면을 줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02949_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

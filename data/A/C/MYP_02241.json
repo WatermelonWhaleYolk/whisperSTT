@@ -1,0 +1,188 @@
+{
+    "metadata": {
+        "filename": "MYP_02241",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.9,
+        "format": "MP4",
+        "date": "2021-05-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어디 감독이시라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.414
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "프리미어리그 최고의 명문 레인저스 한 번쯤은 들어 봤겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.424,
+                "end": 4.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.925,
+                "end": 5.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 프리미어리그에 그런 팀이 있었어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.436,
+                "end": 7.251
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "스코틀랜드 프리미어리그를 말하는 거다 타랍박.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.261,
+                "end": 9.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 스코틀랜드라니 그럴 바엔 차라리 토트넘으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.559,
+                "end": 11.835
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당장 프리미어리그 빅 6인 토트넘으로 이적한다면 더 큰 무대에서 뛸 수 있겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.845,
+                "end": 16.415
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팀도 제법 강팀이고 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.425,
+                "end": 17.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 거길 간다면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.951,
+                "end": 19.333
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "거길 간다면?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.343,
+                "end": 20.202
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평생 무관일지도 모른다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.212,
+                "end": 22.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기 가서 다른 데로 이적하면 되지 않겠냐고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.025,
+                "end": 24.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "과연 빡빡이 양반이 쉽게 보내줄까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.396,
+                "end": 26.900
+            }
+        ]
+    },
+    "summary": "남자는 선수에게 토트넘으로 간다면 평생 무관일지도 모른다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02241_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

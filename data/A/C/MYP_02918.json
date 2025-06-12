@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYP_02918",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.377,
+        "format": "MP4",
+        "date": "2020-03-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 새끼는 무슨 시작도 하기 전에 부상으로 나가 떨어지는고만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.089
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팔계야. 괜찮느냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.099,
+                "end": 6.289
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러게 왜 까불어 쳐갖고 부상을 당하고 있느냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.299,
+                "end": 10.027
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "먹튀 먹튀 법사님 먹튀",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.037,
+                "end": 13.283
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잠시 쉬고 있거라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.293,
+                "end": 15.234
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 너의 복수를",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.244,
+                "end": 16.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난 아무 것도 안 했는데 복수는 무슨 복수냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.985,
+                "end": 19.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "닥쳐라. 건방진 문어 대가리.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.611,
+                "end": 21.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지단법사가 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.699,
+                "end": 26.366
+            }
+        ]
+    },
+    "summary": "지단법사는 저팔계를 걱정한 후 복수하러 나선다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02918_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

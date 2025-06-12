@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_00193",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.018,
+        "format": "MP4",
+        "date": "2023-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쉽지 않은 상황으로 인해 감독 부임 후 지금까지 승리를 맛보지 못했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주눅들 만도 하지만 강 감독의 주문은 단 하나 원팀입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.037,
+                "end": 9.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "책임감 있게 하란 말이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.855,
+                "end": 11.771
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서로서로 우리가 협동하고 다같이 이렇게 해야지 안 그래 한 번 해보자고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.781,
+                "end": 18.018
+            }
+        ]
+    },
+    "summary": "쉽지 않은 상황으로 인해 감독 부임 후 지금까지 승리를 맛보지 못했으며 주눅들 만도 하지만 강 감독의 주문은 단 하나 원팀입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00193_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

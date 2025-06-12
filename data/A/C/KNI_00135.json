@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00135",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.027,
+        "format": "MP4",
+        "date": "2023-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내일도 전국 대부분 지역에서 나쁨 수준을 보이겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 오전 한때 수도권 서부와 충남 호남은 매우 나쁨 수준까지 악화하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.507,
+                "end": 9.908
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "추가적인 국외 미세 먼지 유입이 있겠으며 오늘 레몽골 고원과 고비 사막에서 발원한 약한 황사가 내일 늦은 오후부터 서쪽 지역을 중심으로 영향을 줄 것으로 예상됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.918,
+                "end": 20.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대전과 충남 광주 전남 전북에서는 미세 먼지 비상 저감 조치도 시행됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.796,
+                "end": 27.027
+            }
+        ]
+    },
+    "summary": "오전 한때 수도권 서부와 충남 호남은 매우 나쁨 수준까지 악화하겠으며 대전과 충남 광주 전남 전북에서는 미세 먼지 비상 저감 조치도 시행됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

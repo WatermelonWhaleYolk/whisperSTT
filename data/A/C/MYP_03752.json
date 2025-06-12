@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYP_03752",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.894,
+        "format": "MP4",
+        "date": "2021-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "남자의 주문",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국 남자들은 참",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.370,
+                "end": 14.155
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손가락 맛세",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.165,
+                "end": 16.465
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "300이하 맛세이 금지야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.475,
+                "end": 18.104
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "피씨방, 술집 그리고 당구장 이 세 군데만 뺑뺑이 돌았더니 애들이 전부 미쳐가는 구만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.114,
+                "end": 27.894
+            }
+        ]
+    },
+    "summary": "남자들은 당구장에서 찍어치기 금지라고 외치며 피씨방, 술집, 당구장만 돌고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03752_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 13,
+                    "object": 39,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

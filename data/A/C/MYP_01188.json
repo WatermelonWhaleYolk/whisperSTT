@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_01188",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.233,
+        "format": "MP4",
+        "date": "2022-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어이 작은 티타늄 판 방금 아자르의 말이 사실인가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.043
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죄송하지만 이 녀석이 낯을 가려서 저하고 둘이 있을 때만 말을 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.053,
+                "end": 6.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "발목에 말하는 티타늄 판이 있으며 너의 드리블 능력을 돌려준다고 그랬다고 지금 그걸 나더러 믿으라는 거야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.766,
+                "end": 12.675
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 믿기 어려우시겠죠. 하지만 제가 직접 드리블을 보여드린다면요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.685,
+                "end": 17.010
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 자신 있으면 어디 한번 해봐 어중간한 드리블 갖고는 우릴 납득 시키기 어려울 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.020,
+                "end": 21.109
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걱정하지 마시죠 자 그럼 시작하겠습니다. 슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉슉",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.119,
+                "end": 31.233
+            }
+        ]
+    },
+    "summary": "아자르가 드리블 능력이 돌아왔는지 믿기 어려워해서 직접 하는 걸 보여주기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01188_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

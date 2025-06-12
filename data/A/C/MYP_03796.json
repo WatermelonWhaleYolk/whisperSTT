@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "filename": "MYP_03796",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.766,
+        "format": "MP4",
+        "date": "2021-05-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "취미로 장난감을 즐기는 어른들도 많아졌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 것 봐라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.761,
+                "end": 3.470
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저금통인데 동전을 넣으면 고양이가 가져간다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.480,
+                "end": 6.616
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "귀엽네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.626,
+                "end": 8.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 중엔 특히 @이름1가 장난감을 좋아하는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.028,
+                "end": 11.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.611,
+                "end": 13.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문제는 그의 복고적인 취향이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.479,
+                "end": 18.474
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어이구 알이 꽉 찼네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.484,
+                "end": 22.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돈에서 피 냄새가 나는 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.609,
+                "end": 24.315
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔 저금통으로 활어회를 떠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.325,
+                "end": 26.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 이야기는 얘들아 놀자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.432,
+                "end": 32.766
+            }
+        ]
+    },
+    "summary": "장난감을 즐기는 어른들도 많아졌고 @이름1가 특히 장난감을 좋아하는데 돼지 저금통을 칼로 무섭게 가른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03796_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 132
+                }
+            ]
+        }
+    ]
+}

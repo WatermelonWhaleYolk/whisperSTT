@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "KNI_00857",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2023-02-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최고 시속 148킬로미터의 삼진 2개 무실점 대표 팀이 @소속1에 완승을 거둔 가운데 이강철 감독은 곽빈을 MVP로 꼽았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.229
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 투수진에서는 오늘 MVP 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.239,
+                "end": 11.651
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 제가 생각했던 대로 구위도 뭐 제가 생각했던 만큼 올라와 있고 @소속이 연습을 많이 시켰나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.661,
+                "end": 18.696
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "팔 빠지게 던져라 네 나라를 위해 팔 빠지게 던져라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.706,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "최고 시속 148킬로미터의 삼진 2개 무실점 대표팀이 @소속1에 완승을 거둔 가운데 이강철 감독은 곽빈을 MVP로 꼽았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00857_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00857_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

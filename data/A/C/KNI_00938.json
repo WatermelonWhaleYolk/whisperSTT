@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00938",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2122-12-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이러한 생활하고 또 운동하는 데서 뭐 큰 지장은 없다고 생각하고 어 보이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 다음 경기도 출전할 수 있을 거라 기대하고 있기 때문에 또 어 전혀 큰 문제가 되지 않을 거라고 생각하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.800,
+                "end": 13.293
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허벅지 부상으로 일이 차전 모두 결장한 공격수 황희찬은 오늘도 정상적으로 훈련을 소화했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.303,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "허벅지 부상으로 일이 차전 모두 결장한 공격수 황희찬은 오늘도 정상적으로 훈련을 소화했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00938_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

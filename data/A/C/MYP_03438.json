@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03438",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.193,
+        "format": "MP4",
+        "date": "2022-07-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동네 교회에서 빌렸다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기스나면 지옥간다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.564,
+                "end": 3.164
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 막 살아라 그냥 자리를 잡아 놓긴 망한 묫자리를 잡겠네",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.174,
+                "end": 10.923
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나는 자립심을 완성했다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.933,
+                "end": 14.623
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘은 이야기는 우리의 새벽은 당신의 낮보다 빡쎄다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.633,
+                "end": 19.800
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "워킹 홀리데이를 오면 세 가지 목표 중 하나를 고르라는 말이 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.810,
+                "end": 25.191
+            }
+        ]
+    },
+    "summary": "형이 자리를 잡아 놓기는 무슨 막 살고 나는 자립심을 완성했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03438_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

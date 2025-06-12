@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_01004",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.875,
+        "format": "MP4",
+        "date": "2022-01-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첫 점프 실수 때문이었는지 약간의 아쉬움이 묻어 나왔지만 합계 273.2점으로 개인 최고 점수를 경신하고 우승하자 기쁨을 감추지 못했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국 남자 피겨 사상 첫 4대륙 선수권 금메달의 쾌거였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.916,
+                "end": 15.440
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.450,
+                "end": 31.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무엇보다 프리 스케이팅 곡인 투란도트에 완벽하게 몰입한 연기가 돋보였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.967,
+                "end": 37.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 트리플 플립 뒤 물 흐르듯 이어진 연기는 압권이었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.070,
+                "end": 41.875
+            }
+        ]
+    },
+    "summary": "차준환은 첫 점프 실수 때문이었는지 약간의 아쉬움이 묻어 나왔지만 합계 273.2점으로 개인 최고 점수를 경신하고 우승하자 기쁨을 감추지 못했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01004_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_01352",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.966,
+        "format": "MP4",
+        "date": "2022-05-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빨리빨리 안 오냐 말라이쿰",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 필드에 나간 지가 오래돼서인지 걷는 것도 많이 힘드네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.885,
+                "end": 4.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그럼 다시 토트넘으로 돌아가겠도르?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.037,
+                "end": 7.552
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 아이 그치만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.857,
+                "end": 8.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가기 싫다는 선수를 잡아가는 건 내 마음도 불편하다 말라이쿰",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.867,
+                "end": 12.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.407,
+                "end": 12.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고도르?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.227,
+                "end": 13.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "차라리 홀가분하네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.000,
+                "end": 14.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허구한 날 벤치만 달구다가 나왔다 하면 욕받이에 저도 지긋지긋했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.220,
+                "end": 18.897
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이왕 이렇게 된 거 뉴캐슬에서 새롭게 시작해 보죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.217,
+                "end": 24.966
+            }
+        ]
+    },
+    "summary": "토트넘에서 벤치만 지키고 필드에 나간 지 오래돼서 걷기도 힘들다며 출전하면 욕받이만 하던 선수가 지긋지긋했던 토트넘을 떠나 뉴캐슬에 영입되어 새롭게 시작해보겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01352_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

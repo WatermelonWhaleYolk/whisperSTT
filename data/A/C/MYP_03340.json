@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYP_03340",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.392,
+        "format": "MP4",
+        "date": "2022-11-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아오 쓰레기 완전 무더기로 버리고 갔음 어떡하지? 아휴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두려움에 떠밀려 열어 본 판도라의 상자는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.360,
+                "end": 9.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 에이 몰라 덤벼라 한 통, 두 통, 세 통, 네 통 어?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.020,
+                "end": 16.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매우 안정권이었다 아하하하하하 하하하하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.005,
+                "end": 23.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 우려했던 일이",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.720,
+                "end": 25.392
+            }
+        ]
+    },
+    "summary": "나는 두려워하며 분리수거 실에 들어갔는데 수거함 상태는 매우 안정권이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03340_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

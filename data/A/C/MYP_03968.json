@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYP_03968",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2020-12-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4 사탐 과탐 영역.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갑작스런 시작에 당황한 나는 글자가 눈에 들어오지 않았는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.585,
+                "end": 7.748
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크윽 아직도 몽롱해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.758,
+                "end": 9.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜인지 한참이 지나도록 정신을 차릴수가 없었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.891,
+                "end": 15.593
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 아는 건데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.603,
+                "end": 16.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐더라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.678,
+                "end": 18.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이것도 본 것 같은데 왜 기억이 안 나지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.483,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "주인공은 4교시 시험에서 갑자기 깨어난 상태로 정신을 차리지 못해 글자를 잘 보지 못하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03968_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_01193",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.797,
+        "format": "MP4",
+        "date": "2022-10-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 팀이 4점 차로 앞선 경기 종료 19초 전 허웅은 수비 리바운드를 잡고 득점까지 올려 승부에 쐐기를 박았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허웅과 @이름1가 38득점을 합작한 KCC는 연장 혈투 끝 짜릿한 승리를 거두고 연패에서 탈출했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.355,
+                "end": 15.861
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "힘든 경기를 했지만 이렇게 이겨서 너무 기분이 좋고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.871,
+                "end": 18.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로도 끝까지 하는 모습을 보일 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.943,
+                "end": 21.213
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희가 보답해야 될 게 승리밖에 없는 것 같아서 항상 승리로 보답하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.223,
+                "end": 26.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가스공사의 외국인 선수 @이름2가 환상적인 앨리웁 덩크를 꽂습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.510,
+                "end": 30.797
+            }
+        ]
+    },
+    "summary": "팀이 4점 차로 앞선 경기 종료 19초 전 허웅은 수비 리바운드를 잡고 득점까지 올려 승부에 쐐기를 박아 연장 혈투 끝 짜릿한 승리를 거두고 연패에서 탈출했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01193_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

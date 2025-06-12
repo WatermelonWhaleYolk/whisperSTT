@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_01545",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.033,
+        "format": "MP4",
+        "date": "2023-02-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평일에도 배구 여제를 보기 위해 많은 관중이 들어찬 가운데 김연경은 강력한 스파이크를 뽐내는 등 1세트에만 9점을 뽑아내며 기선제압에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인삼공사의 맹추격에 쫓기던 2세트 위기의 순간 김연경이 또 한 번 해결사로 나섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.368,
+                "end": 18.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "듀스 작전이 이어지던 상황 김연경은 상대 터치아웃을 유도하는 재치 있는 밀어 넣기로 중요한 득점을 가져왔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 18.135,
+                "end": 26.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 @이름1의 공격까지 막아내며 직접 세트를 끝낸 김연경은 펄쩍 뛰어오르며 포효했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.534,
+                "end": 33.033
+            }
+        ]
+    },
+    "summary": "김연경은 강력한 스파이크를 뽐내는 등 1세트에만 9점을 뽑아내며 기선제압에 나섰으며 인삼공사의 맹추격에 쫓기던 2세트 위기의 순간에도 또 한 번 해결사로 나섰고 듀스 작전이 이어지던 상황에 재치 있는 밀어 넣기로 중요한 득점을 가져왔으며 @이름1의 공격까지 막아내며 직접 세트를 끝냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01545_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00305",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.22,
+        "format": "MP4",
+        "date": "2022-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민은 마스크와 도하 현지 적응력을 높이며 확고한 출전 의지를 보여줬습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.185
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "생각보다 되게 편안해서 부기도 많이 빠지고 어느 날은 또 쪼금 더 부어있고 하다 보니까 계속해서 만지 이제 마스크를 만지는 이유가 또 제 얼굴의 형태에 맞추려고 하다 보니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.195,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "손흥민은 현지 적응력을 높이며 확고한 출전을 의지를 보여주었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00305_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

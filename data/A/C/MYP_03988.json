@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYP_03988",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 각본은",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.964
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 그러니까 너는 감자칩을 너무 좋아해서 끼니때마다 밥에 비벼 먹을 지경에 이른 사람인 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.974,
+                "end": 8.678
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.688,
+                "end": 9.872
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "촬영 시작하면 너는 항상 그래왔던 것처럼 아주 자연스럽게 밥그릇을 갖고 와서 감자칩을 비벼 먹는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.882,
+                "end": 17.152
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으음.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.162,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "주인공은 친구에게 밥그릇을 가져와 자연스럽게 감자칩을 비벼 먹으라고 각본을 읽어주는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03988_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

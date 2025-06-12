@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_03775",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.792,
+        "format": "MP4",
+        "date": "2021-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "점심 때 먹은 굴전이 상했음을 깨닫게 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.096
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하하 점심때 그 굴전 이군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.106,
+                "end": 8.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바다 내음인 줄 알았는데 상한 냄새였구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.141,
+                "end": 13.534
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하하하하 난 사실 니 근육이 싫었어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.544,
+                "end": 17.814
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 이놈",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.824,
+                "end": 19.367
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기다 집까지는 아직 한 시간도 더 남은 상황",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.377,
+                "end": 23.577
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 젠장",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.587,
+                "end": 25.792
+            }
+        ]
+    },
+    "summary": "점심 때 먹은 굴전이 상했음을 알게 되고 아직 한 시간도 더 버스를 타야 하는 상황이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03775_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 140
+                }
+            ]
+        }
+    ]
+}

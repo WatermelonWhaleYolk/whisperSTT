@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_01843",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.288,
+        "format": "MP4",
+        "date": "2023-03-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "롯데 구단은 많은 팬들의 응원을 받는 프로 야구 선수의 미성년자를 대상으로 한 범법 행위는 결코 용납할 수 없는 일이라면서 선수 관리 소홀을 인정하고 다시 한번 사과 드린다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서준원은 지난 2019년 경남고를 졸업할 당시 고교 최대호로 꼽히며 1차 지명으로 롯데에 입단했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.506,
+                "end": 20.286
+            }
+        ]
+    },
+    "summary": "롯데구단은 1차 지명으로 롯데에 입단한 서준원이 미성년자를 대상으로 한 범법행위에 대해서 선수관리 소홀을 인정하고 사과했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01843_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01843_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_03756",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.058,
+        "format": "MP4",
+        "date": "2021-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 그의 성향을 처음 깨닫게 된 것은 10여 년 전 첫 휴가 때였다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.245
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으음 사회의 매캐한 공기가 나는 좋아라.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.255,
+                "end": 9.821
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "워 저 똥 폼 잡는 똥 짬밥 봐라.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.831,
+                "end": 14.558
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하하하 주머니에 손도 못 넣는 놈이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.568,
+                "end": 18.247
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자네만 없으면 말이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.257,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "10여 년 전 첫 휴가 때 나를 보고 주머니에 손도 못 넣는 놈이 똥 폼 잡는 다고 말해서 그의 성향을 처음 알 수 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03756_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 26,
+                    "act": 22
+                }
+            ]
+        }
+    ]
+}

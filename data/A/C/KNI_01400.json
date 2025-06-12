@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_01400",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.058,
+        "format": "MP4",
+        "date": "2023-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세트 스코어 2 대 2 5세트에는 결정적인 순간에 운명이 갈렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "13 대 12로 도로공사가 1점 앞선 상황 박정아의 공격이 1차 비디오 판독 결과 아웃으로 판정됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.750,
+                "end": 12.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 도로공사 @이름1 감독이 블로커에 손을 맞고 나갔다며 2차 비디오 판독을 요청했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.477,
+                "end": 19.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 옐레나의 손가락을 스친 것으로 드러나 도로공사가 14 대 12를 만들었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 19.133,
+                "end": 25.058
+            }
+        ]
+    },
+    "summary": "박정아의 공격이 1차 비디오 판독 결과 아웃으로 판정됐지만 도로공사 @이름1 감독이 블로커에 손을 맞고 나갔다며 2차 비디오 판독을 요청했고 옐레나의 손가락을 스친 것으로 드러나 도로공사가 14 대 12를 만들었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

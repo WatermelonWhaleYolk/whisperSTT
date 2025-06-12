@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_03081",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.366,
+        "format": "MP4",
+        "date": "2019-11-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 대박 맛집 사장님으로 거듭난 이승우 선수 어떻게 축구는 이제 미련 없으신가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.584
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네 뭐 선택에 대한 후회는 없어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.594,
+                "end": 9.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 소속팀 동료들이 이렇게 재료도 공수해 주고 아잇 그 참 그런데 아 나두",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.130,
+                "end": 18.366
+            }
+        ]
+    },
+    "summary": "대박 맛집 사장님으로 거듭난 이승우 선수에게 축구에 미련은 없는지 물었더니 선택에 대한 후회는 없다고 대답했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03081_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 51
+                }
+            ]
+        }
+    ]
+}

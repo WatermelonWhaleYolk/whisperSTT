@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_02801",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.4,
+        "format": "MP4",
+        "date": "2020-06-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐가 맛있으려나 응 데스크 세트 총 4가지 맛을 즐길 수 있는데 전부 다 개 존맛이라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 사장님 그럼 잠시 편의점 갔다 들어갈 테니 데스크 세트로 부탁합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.746,
+                "end": 9.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그 그게 손님 데스크 세트는 몇 달 전부터 판매 종료되었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.490,
+                "end": 13.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.957,
+                "end": 14.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.571,
+                "end": 14.965
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그 그게 흥라이드 치킨과 볼케인오 치킨 델리오 알리오 치킨은 단품으로 가능하신데 에릭 센불 바베큐 치킨이 레시피를 잃어버리는 바람에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.975,
+                "end": 24.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 뭐야 그럼 그냥 갈비집으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.135,
+                "end": 25.733
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 아 잠시만요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.743,
+                "end": 26.794
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 이번에 새로 나온 시벨로마 세트가 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.804,
+                "end": 29.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐야 시 시벨 뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.348,
+                "end": 31.400
+            }
+        ]
+    },
+    "summary": "남성이 치킨 메뉴를 주문하자 그 메뉴는 없어졌다고 말하면서 다른 메뉴를 추천한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

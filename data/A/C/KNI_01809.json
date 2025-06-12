@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_01809",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.533,
+        "format": "MP4",
+        "date": "2016-09-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1984년 엘에이 올림픽에서 맹활약하며 은메달 획득의 쾌거를 이뤘습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 88올림픽 훈련 도중 갑자기 쓰러진 뒤 은퇴했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.645,
+                "end": 10.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이후 오랜 투병 생활을 하면서 월 75만 원의 메달 연금으로 어렵게 생계를 이어가고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.226,
+                "end": 17.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "키 크고 몸도 큰 선수를 이렇게 해갖고 이겨냈는데 이래서 메달 땄는데 끝나고 나면은 냉정합니다 너 언제 봤냐는 식으로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.052,
+                "end": 28.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 6월엔 1990년 베이징 아시안 게임 금메달 리스트인 역도 선수 @이름1 씨가 집에서 숨진 채 발견됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.642,
+                "end": 37.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불의의 교통사고로 역도계를 떠난 뒤 재취업을 하지 못해 생활고를 겪다 고독사 한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.091,
+                "end": 43.533
+            }
+        ]
+    },
+    "summary": "국가대표였던 선수들이 은퇴 후 생계의 어려움을 겪고 있는 경우가 많다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01809_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

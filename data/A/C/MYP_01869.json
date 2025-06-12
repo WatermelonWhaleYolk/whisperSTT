@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01869",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.566,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러지 말고 이만 재계약해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "태업도 그만뒀다 하니 나와 함께 팀 성적을 끌어올리는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.568,
+                "end": 5.106
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 소리",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.116,
+                "end": 5.894
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "난 아직 토트넘과의 신사 협정을 믿고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.904,
+                "end": 8.563
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 겨울까지 득점 1위로 올라선다면 토트넘 성적 역시 알아서 따라오겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.573,
+                "end": 12.946
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팀의 마지막으로 해 줄 수 있는 건 거기까지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.956,
+                "end": 15.566
+            }
+        ]
+    },
+    "summary": "손흥민이 재계약해서 자신과 함께 팀 성적을 끌어올리자고 하자 해리 케인은 토트넘과의 신사 협정을 믿고 있고 자신이 겨울까지 득점 1위로 올라선다면 토트넘 성적도 알아서 따라올 거라며 팀의 마지막으로 해 줄 수 있는 건 거기까지라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01869_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

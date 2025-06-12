@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_00318",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.855,
+        "format": "MP4",
+        "date": "2022-11-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 종로구는 안전 관리 대책이 미흡하다며 붉은 악마가 낸 안전 관리 계획서를 한 차례 반려했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.894
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붉은 악마는 주 무대를 세종대왕 동상 앞에서 육조 마당 쪽으로 옮기는 등 인파를 분산하고 안전 관리 인력도 150여 명에서 340명으로 늘리겠다는 계획서를 다시 제출했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.904,
+                "end": 21.855
+            }
+        ]
+    },
+    "summary": "종로구는 광화문 광장을 사용하기 위한 붉은 악마가 낸 안전 관리 계획서를 안전 관리 대책이 미흡하다며 한 차례 반려했지만 붉은 악마는 안전 관리 대책에 관해 수정한 뒤 계획서를 다시 제출했다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00318_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

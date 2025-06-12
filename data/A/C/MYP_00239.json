@@ -1,0 +1,197 @@
+{
+    "metadata": {
+        "filename": "MYP_00239",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.066,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이봐 무리뉴 아니 피고 무리뉴 방금 원고가 한 말이 사실입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼요. 명명백백한 사실입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.785,
+                "end": 5.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.679,
+                "end": 6.457
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "존경하는 회장님 저는 이렇듯 경질당할 수 있는 자리에서도 거짓말을 말하지 않듯 절대로 없는 얘기를 꾸며서 말하지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.467,
+                "end": 13.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안타깝게 탈락했던 유로파 리그 기억하시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.037,
+                "end": 15.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기억하고 말고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.451,
+                "end": 16.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그날 제가 구단주님께 얼마나 까였는지 알긴 하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.694,
+                "end": 19.773
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "디나모 자그레브와의 2차전을 앞두고 전 선수단 모두에게 오르시치를 주의하라고 전달했으며 오르시치의 득점 패턴에 대한 분석까지 전달했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.783,
+                "end": 26.945
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 경기 당일 오르시치에게 그 패턴 그대로 실점했죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.955,
+                "end": 30.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무려 3골이나 말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.027,
+                "end": 31.296
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이래도 선수 탓을 안 하게 생겼습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.306,
+                "end": 33.164
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그저 남 탓 남 탓 남 탓 감독인 당신이 제대로 된 전술을 구사하지 못했다고는 생각하지 않습니까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 33.174,
+                "end": 40.066
+            }
+        ]
+    },
+    "summary": "무리뉴는 전 선수단에게 오르시치의 득점 패턴에 대한 분석을 전달했으나 그 패턴 그대로 3골을 실점하여 선수 탓을 한 것이라고 하지만 다른 남성이 감독이 제대로 된 전술을 구사하지 못한 것이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00239_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 41,
+                    "act": 25
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00239_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

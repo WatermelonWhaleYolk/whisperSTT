@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "KNI_01898",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 41.141,
+        "format": "MP4",
+        "date": "2022-08-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "15년 만에 푸른색 유니폼을 입고 사령탑으로 데뷔하는 날 여느 때와 다른 기분에 김상우 감독이 좀처럼 코트 안으로 들어서지 못합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.307
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걱정 반 기대 반입니다 잘 할 거 같기도하고 굉장히 50대 50인 것 같아요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.317,
+                "end": 15.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "V리그 최대 승팀 삼성화재에 전성기를 누빈 뒤 LIG와 우리 카드 지휘 등 돌고 돌아 마침내 옛 소속팀 감독으로 돌아와 데뷔전을 준비합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 15.630,
+                "end": 27.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1등이 당연했던 과거와 달리 삼성화재는 지난 시즌 6위에 머물며 명가에 이름을 잃었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.093,
+                "end": 34.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "명가재건을 위해 경기 전부터 선수들에게 주문하는 건 자신감 회복",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.330,
+                "end": 39.509
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "준용이 얼마만에 뛰는 뛰는 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.519,
+                "end": 41.141
+            }
+        ]
+    },
+    "summary": "김상우 감독이 돌고돌아 마침내 옛 소속팀 감독으로 돌아와 데뷔전을 준비하였고 명가 재건을 위해 경기 전부터 선수들에게 자신감 회복을 주문하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01898_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 5,
+                    "act": 32
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01898_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

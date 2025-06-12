@@ -1,0 +1,223 @@
+{
+    "metadata": {
+        "filename": "MYP_02947",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.2,
+        "format": "MP4",
+        "date": "2020-02-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 스페인의 모리엔데스가 김태영 선수에게 뒤에서 태클을 들어왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.478
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 저거 퇴장시켜야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.488,
+                "end": 5.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 퇴장은 커녕 경고 한 장 나오지 않네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.301,
+                "end": 7.973
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 태영이 형 괜찮아요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.983,
+                "end": 9.816
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 이 새끼들이 진짜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.826,
+                "end": 11.340
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "나 난 괜찮아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.350,
+                "end": 12.475
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그보다 남일아 뒤에 조심해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.485,
+                "end": 14.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 스페인의 로메로 선수가 우리 김남일 선수의 발목을 밟아버렸습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.096,
+                "end": 18.947
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 저것들이 저건 진짜 퇴장시켜야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.957,
+                "end": 21.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니나 다를까 경고 한 장 나오지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.953,
+                "end": 23.984
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 된 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.994,
+                "end": 24.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 지금 심판이 어디 갔나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.962,
+                "end": 26.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "VAR 돌려봐야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.831,
+                "end": 28.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 차 위원님 지금 2002년입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.385,
+                "end": 30.677
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아아 그 그 그렇죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.687,
+                "end": 32.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 김남일 선수 발목을 부여잡고 일어나지 못한 채 이을용 선수와 교체됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.429,
+                "end": 38.200
+            }
+        ]
+    },
+    "summary": "스페인 선수가 우리나라 선수를 공격해도 경고 카드가 나오지 않고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02947_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYP_03462",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.32,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "낮에 한국 체육관 들어간 유니폼에 번호 오바로크 빠져서 다 반품 들어왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일 아침 경기라니 이따 새벽까지 다 넣어야 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.932,
+                "end": 8.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 뭐 뭐라고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.592,
+                "end": 11.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.504,
+                "end": 12.938
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자아 뭐하냐 어서 가자",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.948,
+                "end": 14.839
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 진짜 한참 물 올랐는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.849,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "한국 체육관 들어간 유니폼에 번호 오바로크 빠져서 다 반품 들어와서 새벽까지 다 넣어야 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03462_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

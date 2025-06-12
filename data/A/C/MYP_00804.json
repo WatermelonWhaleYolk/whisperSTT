@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_00804",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.633,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무려 1부 리그로의 영입 제안이니까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.064
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게까지 말한다는 건 제가 프리미어리그에 통할 재능이란 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.074,
+                "end": 5.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 아직 다듬을 곳이 많긴 하지만 드리블 하나는 역대급 재능인 것 같으니 내년 후반기쯤엔 1군에 올릴 수 있을 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.488,
+                "end": 12.411
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "근데 계약금 100만 원은 너무 작은 거 아니냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.421,
+                "end": 14.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 누구냐 오지게 못하는 은돔 뭐시기한테도 850억을 썼다는 거 다 들었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.920,
+                "end": 19.715
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "됐어요. 빵뚜아 대리님 저 같은 아마추어한테 계약금은 사치죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.725,
+                "end": 22.795
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이봐요. 회장님 그럼 제 주급은 얼마나 됩니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.805,
+                "end": 25.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 당신은 검증이 더 필요하기에 최저 시급 8500원으로 시작하고 계약 기간은 4년을 제안합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.425,
+                "end": 31.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 계약 기간 동안 주급 인상은 없고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.849,
+                "end": 34.437
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 우리 김치 공장도 시급이 만 원이 넘는다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.447,
+                "end": 37.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대신 토트넘이 리그 우승하면 보너스 10억 챔스 우승하면 20억 트레블을 달성하면 100억",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.302,
+                "end": 43.633
+            }
+        ]
+    },
+    "summary": "스카우터는 남자에게 계약금, 주급, 보너스 등 사세 조건을 제시하며 스카우트를 제안하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00804_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

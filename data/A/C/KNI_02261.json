@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_02261",
+        "category": "스포츠뉴스",
+        "sub_category": 21,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.6,
+        "format": "MP4",
+        "date": "2017-12-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이 시간이 세계인이 어우러지는 평창동계올림픽의 성공적인 개최에 큰 힘이 되기를 기원드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평창 동계올림픽 성화는 새해 첫날 지진피해를 입은 포항으로 봉송된 뒤 다음날 경주를 거쳐 경북지역 일정을 마무리합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.563,
+                "end": 21.976
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.986,
+                "end": 24.600
+            }
+        ]
+    },
+    "summary": "세계인이 어우러지는 평창동계올림픽의 성공적인 개최에 큰힘이 되기를 기원한다며 안동시장의 연설로 성화는 새해 첫날 지진피해를 입은 포항으로 봉송된 뒤 다음날 경주를 거쳐 경북지역 일정을 마무리하게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 11,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

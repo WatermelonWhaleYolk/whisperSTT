@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_01584",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.6,
+        "format": "MP4",
+        "date": "2022-01-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시청자 여러분 빤하 욕해줘 온 더 블럭의 큰 자기 해리 케인",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.841
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아기자기 델레 알리 인사드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.851,
+                "end": 6.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 아기자기 씨 지난 며칠간 말도 안 되는 일이 일어난 거 아십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.074,
+                "end": 10.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 에릭센 선수가 심장마비를 극복하고 곧 프리미어리그에 돌아온다는 것 말입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.399,
+                "end": 15.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니요 아니요 몇 년간 바르셀로나에서 주급 도둑질을 하던 쿠티뉴 선수가 지난 욕해줘 3화에서 욕을 먹고 난 뒤 아스톤빌라 데뷔전에서 1골 1도움을 올리며 귀신같은 부활을 알렸잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.240,
+                "end": 26.079
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뿐만 아니라 지난 욕해줘 2화에서 욕을 먹었던 아자르 선수 역시 레알 마르디르를 구해내는 극적인 역전골을 넣으며 부활의 신호탄을 터뜨렸죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.089,
+                "end": 34.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이쯤 되면 미신을 넘어 하나의 과학",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.209,
+                "end": 36.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빤스의 욕은 단순한 비난이 아닌 보약이나 다름 없는 기지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.593,
+                "end": 40.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 오늘도 부활을 꿈꾸는 선수들에게 욕 한사발 아니 보약 한사발 전해드려 볼까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.131,
+                "end": 45.398
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째 게스 들어와 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.408,
+                "end": 48.600
+            }
+        ]
+    },
+    "summary": "욕해줘에 나왔던 선수들이 귀신같이 부활의 신호탄을 터뜨렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01584_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

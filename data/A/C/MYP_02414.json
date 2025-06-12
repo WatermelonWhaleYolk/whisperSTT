@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_02414",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.833,
+        "format": "MP4",
+        "date": "2021-02-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 여러분.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "축구 선수 그리기 세 번째 선수는 맨유의 카바니입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.839,
+                "end": 6.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분이 가장 좋아하시는 중앙 공격수는 누군가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.253,
+                "end": 9.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시라도 아직 정하지 못하셨다면 카바니를 추천드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.332,
+                "end": 13.047
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 물론 저는 레반도프스키를 가장 좋아합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.057,
+                "end": 15.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 카바니 역시 세 손가락 안에 들 만큼 좋아합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.636,
+                "end": 19.833
+            }
+        ]
+    },
+    "summary": "남자는 축구 선수 중에 카바니를 좋아한다며 추천하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02414_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

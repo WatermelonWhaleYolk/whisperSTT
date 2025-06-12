@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYP_02474",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.933,
+        "format": "MP4",
+        "date": "2021-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 형씨 뭐 뭐 축구선수?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 UFC 챔피언 트레이너 출신이거든?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.163,
+                "end": 4.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 한번 해봐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.963,
+                "end": 6.243
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 손흥민이 경호원이라도 되나 본데 내가 오늘은 이렇게 물러가지만 경기장에서 가만 안 둘 테니 그렇게 아셔.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.253,
+                "end": 13.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 개새끼가 어디서 협박이야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.285,
+                "end": 15.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 보디가드가 아니라 아트박스 사장이래도",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.399,
+                "end": 18.387
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아트박스 사장이 몸이 뭐가 이래 좋아?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.397,
+                "end": 20.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 새끼 말 못 알아듣네 무거운 거 들려거든 이 정도는 돼야 하거든?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.663,
+                "end": 24.933
+            }
+        ]
+    },
+    "summary": "아트박스 사장과 아킨펜와는 계속해서 말싸움을 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02474_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

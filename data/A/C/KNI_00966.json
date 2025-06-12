@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00966",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.23,
+        "format": "MP4",
+        "date": "2022-01-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "돌연 추격에 찬물을 끼얹으며 종횡무진 15 득점 활약 경기가 끝난 뒤에 가만히 있을 최준용이 아니죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인터뷰 중인 동료 최보경에게 시원한 물세례를 하며 기쁨을 나누는 최준용 역시 흥이 넘치는 선수입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.912,
+                "end": 12.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가로채기를 한 양홍석의 기가 막힌 앉아서 패스 그리고 덩크 라건아보다 먼저 도착한 KT의 새내기 하윤기 이미 부서져라 슬램 덩크를 보여줍니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.397,
+                "end": 24.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KCC를 8연패에 빠뜨린 KT 그 중심엔 하윤기가 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.599,
+                "end": 30.230
+            }
+        ]
+    },
+    "summary": "KCC를 8연패에 빠뜨린 KT 그 중심엔 하윤기가 있었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00966_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

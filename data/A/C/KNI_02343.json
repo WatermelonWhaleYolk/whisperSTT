@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNI_02343",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 55.033,
+        "format": "MP4",
+        "date": "2016-07-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "카스의 결정 내용이 올림픽 출전 가능으로 통보될 경우 대한 체육회는 수영 연맹과 함께 신속하게 추후 절차를 진행할 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.189
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "체육회는 오늘이 국제 수영 연맹 예비 엔트리 마감일인 만큼 만약 자정까지 카스의 결정이 나오지 않을 경우에는 일단 박태환을 올림픽 명단에 포함시키기로 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.199,
+                "end": 23.967
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 카스에서 박태환의 올림픽 출전을 불허할 경우 국내 법원에 판결과는 상관없이 국가 대표로 발탁하지 않기로 해 추가 논란이 예상됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.977,
+                "end": 35.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박태환 측은 국가 대표 자격을 인정한 법원의 결정을 무조건 따라야 한다는 입장이지만 체육회는 카스의 결정이 나오기 전까지 임시적인 효력만 있다고 맞서고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 35.692,
+                "end": 48.467
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "리우 올림픽에 출전시키지 않아도 된다라는 취지의 결정이 나오면",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 48.477,
+                "end": 55.033
+            }
+        ]
+    },
+    "summary": "체육회는 카스의 결정이 나오지 않을 경우 박태환을 올림픽 명단에 포함시키겠지만 임시적인 효력이며 카스의 결정이 불허할 경우 법원 판결과는 상관없이 국가 대표로 발탁하지 않는다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02343_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

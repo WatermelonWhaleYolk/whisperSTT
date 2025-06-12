@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYP_00409",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.733,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 뭔 놈의 일정이 어떻게 된 게 토트넘이랑 경기한지 얼마나 지났다고 또트넘에 아스널이랑 경기한 게 엊그제 같은데 한 2주 있으면 또스널이야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하여간 지긋지긋한 북런던 놈들 같으니라고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.928,
+                "end": 9.253
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토트넘이야 순연 경기 때문에 이렇게 된 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.263,
+                "end": 11.318
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아스널은 FA컵 때문에 이렇게 된거지 뭐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.328,
+                "end": 13.453
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무엇보다 앞선 두 경기를 이겼으니 남은 두 경기도 어지간해선 이기지 않겠어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.463,
+                "end": 16.733
+            }
+        ]
+    },
+    "summary": "맨시티는 토트넘와 아스널팀 모두와 경기한 지 얼마 되지 않아 다시 경기를 치를 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00409_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

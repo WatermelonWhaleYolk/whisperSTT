@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_04109",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.987,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게나 촌스러운 동네에 온 것도 다 인연이고 기회 아니겠나.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.657
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최신 게임의 최선봉에 서 있던 내가",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.667,
+                "end": 9.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "촌것들한테 엘리트는 어떻게 일하는지 한 수 가르쳐 주드라고잉.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.607,
+                "end": 15.461
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 소꿉놀이도 못 되는 저질 게임이나 만지게 되다니.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.471,
+                "end": 20.987
+            }
+        ]
+    },
+    "summary": "남자는 최신 게임만 하던 자신이 소꿉놀이 같은 게임을 하게 되어 한심하다고 생각했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04109_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

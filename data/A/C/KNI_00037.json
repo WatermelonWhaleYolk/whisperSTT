@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_00037",
+        "category": "스포츠뉴스",
+        "sub_category": 41,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.583,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2회 연속 메달을 향을 한 발 더 다가섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일 준결승에선 조별리그에서 대표팀에 6대 0 패배를 안겼던 캐나다와 다시 만납니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.346,
+                "end": 11.082
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 올림픽 와서 첫 승을 한 거라 너무 기쁘구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.092,
+                "end": 14.424
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 다음에",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.434,
+                "end": 16.583
+            }
+        ]
+    },
+    "summary": "내일 준결승에선 조별리그에서 대표팀에게 6대 0 패배를 안겨줬던 캐나다와 다시 만나게 되었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00037_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

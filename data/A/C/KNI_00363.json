@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_00363",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2022-12-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "짧은 경기 간격소.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3차전에서 주전 선수를 대거 뺀 브라질보다 체력적으로 불리하지만 선수들의 승부욕만큼은 살아 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.450,
+                "end": 9.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 경기 한 경기 그다음에 경기장에서 뛰는 1분 10분 더 나아가서 90분 45분 90분이 저한테는 지금 너무나 간절한 상황이 맞다고 저는 말씀을 드리고 싶고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.148,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "브라질과의 3차전을 앞두고 한국 대표팀은 체력적으로 불리하지만 김민재의 인터뷰에서 알 수 있듯이 시합을 준비하는 선수들의 강한 승부욕을 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00363_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00363_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

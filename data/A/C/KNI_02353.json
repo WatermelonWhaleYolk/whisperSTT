@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_02353",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.933,
+        "format": "MP4",
+        "date": "2016-08-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전체 출전 선수 204명 가운데 지금까지 140명이 리우에 도착해 우리 선수단의 훈련 열기도 점점 더 뜨거워지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1을 비롯한 탁구 대표팀도 본 경기장에서 첫 훈련에 나서는 등 우리 선수단은 종목별 경기 일정에 따라 속속 리우에 도착해 대회를 준비할 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.156,
+                "end": 21.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리우데자네이루에서 KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.192,
+                "end": 25.933
+            }
+        ]
+    },
+    "summary": "전체 선수 204명 가운데 탁구 대표팀 등 선수단은 일정에 따라 속속 도착해 훈련을 하며 올림픽 대회를 준비하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02353_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

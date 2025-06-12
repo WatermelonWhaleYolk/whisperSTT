@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00465",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중앙대 52연승 신화를 합작했던 오세근과 김선영의 호흡을 다시 볼 수 있게 됐습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오세근은 SK와 계약 기간 3년에 첫 해 보수 총액 7억 5000만 원의 조건으로 전격 이적했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.203,
+                "end": 13.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "챔프전 대결 이후 한 자리에서 만난 두 선수는 계약 이전부터 내심 같은 팀에서 뛰고 싶다는 기대감을 드러냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.626,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "대학 시절 중앙대 52연승 신화를 함께 한 오세근과 김선영 선수가 한 팀에서 뛰는 것에 대한 기대감을 드러냈다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

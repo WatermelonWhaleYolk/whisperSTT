@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_02700",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.233,
+        "format": "MP4",
+        "date": "2020-09-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 마지막 지원자 들어와주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.414
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반갑습니다 유벤투스의 공격수 자타공인 세계 최고의 축구선수 크리스티아누 호날두입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.424,
+                "end": 10.201
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 이것들 왜 말이 없어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.211,
+                "end": 12.602
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기요 뭐 질문 같은 거 안 하나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.612,
+                "end": 16.380
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 뭐하자는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.390,
+                "end": 17.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이봐요 면접이라면 뭐 질문 같은 걸 해야 될 거 아니에요 하다못해 노쇼에 대한 질문이라도 좋으니 뭐 말이라도 좀",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.790,
+                "end": 23.731
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야이 띨빵 새끼야 넌 그냥 탈락이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.741,
+                "end": 27.233
+            }
+        ]
+    },
+    "summary": "호날두가 유벤투스의 공격수 자타공인 세계 최고의 축구선수라고 소개하는데 너는 그냥 탈락이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02700_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

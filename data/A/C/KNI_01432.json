@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNI_01432",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.631,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 꿈도 안 꿔봤고 제가 설 수 없는 자리라고 생각을 했고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동료들까지 빙 둘러앉아 눈물 바다가 된 @이름1의 인생 인터뷰는 팬들에게도 큰 감동을 선사하며 엄청난 화제를 모았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.467,
+                "end": 14.765
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "울지 마 울지 마",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.775,
+                "end": 18.913
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 저는 인제 @이름1 선수가 마음 고생한 걸 알아서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.923,
+                "end": 23.933
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "제가 그때 하소연을 좀 했는데 센터로서 힘들다고 언니한테 얘기를 좀 했는데 언니가 제가 마음에 걸렸나 봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.943,
+                "end": 31.631
+            }
+        ]
+    },
+    "summary": "눈물 바다가 된 김유리의 인생 인터뷰는 팬들에게도 감동을 선사하며 화제를 모았다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01432_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

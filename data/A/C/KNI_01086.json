@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_01086",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.463,
+        "format": "MP4",
+        "date": "2022-06-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현재 세계 최강의 기사로 꼽히는 신진서 구단이 6개월 동안 펼쳐진 바둑 리그 최고의 기사로 선정됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.337
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신진서는 정규 리그부터 챔피언 결정전까지 27번의 대국을 모두 승리로 장식했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.347,
+                "end": 15.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소속팀인 셀트리온은 수려한 합천에 이어 준우승했지만 전승 신화를 앞세운 신진서는 기자단과 팬 투표에서 56퍼센트의 지지율을 얻으며 MVP를 차지했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.817,
+                "end": 30.463
+            }
+        ]
+    },
+    "summary": "현재 세계 최강의 기사로 꼽히는 신진서 구단이 6개월 동안 펼쳐진 바둑 리그 최고의 기사로 선정됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01086_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

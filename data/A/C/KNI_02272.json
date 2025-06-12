@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_02272",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.933,
+        "format": "MP4",
+        "date": "2016-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역도연맹은 선수 위원회를 열어 일곱 명의 참석인원 만장일치로 사재혁에게 선수 자격 정지 십 년 징계를 결정했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 주 안에 이의 제기가 없으면 징계는 확정됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.391,
+                "end": 12.724
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나의 잘못이라고 어떤 징계가 나오든 달게 받겠다고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.734,
+                "end": 16.933
+            }
+        ]
+    },
+    "summary": "역도 연맹은 선수 위원회를 열어 만장일치로 사재혁에게 선수 자격 정지 십 년의 징계를 내렸고 어떤 징계든 달게 받겠다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 41,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

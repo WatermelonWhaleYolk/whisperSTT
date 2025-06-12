@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00793",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.218,
+        "format": "MP4",
+        "date": "2023-02-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "캐치볼 상대인 1년 선배 문동주가 김서현에게 조언하는 모습도 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김서현은 예정에 없던 불펜투구를 자청하며 다시 훈련을 시작했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.726,
+                "end": 11.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신인 드래프트 1라운드 전체 1순위로 @소속1에 입단한 대형 유망주인 만큼 기대가 큽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.203,
+                "end": 18.218
+            }
+        ]
+    },
+    "summary": "신인 드래프트 1라운드 전체 1순위로 @소속1에 입단한 김서현은 다시 훈련을 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00793_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 61,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

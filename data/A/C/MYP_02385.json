@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_02385",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.8,
+        "format": "MP4",
+        "date": "2021-02-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하하하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.966
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 백쫑원 대표 드시자마자 웃음을 터뜨리시는데요 보통 이런 경우는 아주 맛있거나 도저히 못 먹을 맛이거나 둘 중 하나거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.976,
+                "end": 7.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아따 맛있다 이게 뭐 맛이지 이거는요 이거는 천재가 아니고서야 만들 수가 없습니다 보조아 씨 보조아 씨 보고 계시쥬?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.919,
+                "end": 15.769
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 저 내려가나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.779,
+                "end": 16.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보조아 씨 절대로 내려오지 마유 내가 다 먹을 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.984,
+                "end": 19.758
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 그게 무슨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.768,
+                "end": 20.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 이거 진짜 제 인생 버거입니다 야채에 고기, 소스며 빵까지 그야말로 천상의 맛이 따로 없어유",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.621,
+                "end": 26.246
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "백 대표님께서 극찬을 하시는데요 기분 좋으시겠습니다 사장님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.256,
+                "end": 29.710
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 나도 먹고 싶은데 대표님 저 내려가면 안 되나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.720,
+                "end": 32.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보조아 씨는 그대로 있고 사장님 사장님 내려와 봐유",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.564,
+                "end": 36.800
+            }
+        ]
+    },
+    "summary": "백쫑원은 아자르가 만든 햄버거를 먹고서 인생 버거라며 야채와 고기, 소스, 빵까지 천상의 맛이라고 극찬합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02385_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_00614",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.62,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 겨울인데도 검게 그을린 얼굴.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 예전과 달리 홀쭉해진 모습.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.235,
+                "end": 7.113
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예전에 우리가 알던 @이름1가 아니었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.123,
+                "end": 11.041
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원래 제가 세 자리를 나갔었는데 지금 두 자리로 내려왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.051,
+                "end": 16.342
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다들 많이 빠졌다고 하더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.352,
+                "end": 18.692
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "트레이너한테도 칭찬 받고 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.702,
+                "end": 20.620
+            }
+        ]
+    },
+    "summary": "살이 빠진 모습이 예전에 우리가 알던 @이름1가 아니었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00614_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

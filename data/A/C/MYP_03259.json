@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYP_03259",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.622,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "약 1년 6개월 전쯤부터 활동하다가 휴식 기간을 가진 후에 다시 돌아왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.557
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "19살 때 시작했던 활동인데 지금은 벌써 21살이네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.567,
+                "end": 10.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시간 참 빠른 거 같애요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.617,
+                "end": 12.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 신년 잘 보내고 계신가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.760,
+                "end": 15.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추운 날씨 건강 관리 조심하시고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.608,
+                "end": 18.618
+            }
+        ]
+    },
+    "summary": "더빙하는 팀의 사람들이 자기소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03259_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

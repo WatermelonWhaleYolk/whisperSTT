@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNI_02354",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.2,
+        "format": "MP4",
+        "date": "2016-08-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 해 금지 약물 양성 반응으로 대한 체육회와 국제 소송전 끝에 출전 자격을 얻은 박태환 그동안의 마음 고생이 적지 않았고 정상적인 훈련을 소화하기 어려웠지만 오히려 박태환은 성적에 대한 부담을 덜 수 있다며 최고의 레이스를 자신했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 16.749
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4년 전과는 상황이 뭐 많이 다른 것도 있지만 저는 이제 마음 편히 먹으려고 생각하고 있고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.759,
+                "end": 25.200
+            }
+        ]
+    },
+    "summary": "지난 해 금지 약물 양성 반응으로 소송 중이던 박태환은 소송전 끝에 올림픽 출전 자격을 얻었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02354_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

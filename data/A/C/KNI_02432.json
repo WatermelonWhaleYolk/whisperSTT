@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "KNI_02432",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 49.282,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현재까지는 순조로운 출발 400미터는 이 페이스에 안배가 아주 중요합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒷 부분에 가서 지칠 수가 있기 때문에",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.461,
+                "end": 8.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 지금 선수들이 아웃 코스에 있는 선수들은 사실 경기를 운영하기가 약간 어렵거든요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.695,
+                "end": 14.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.790,
+                "end": 14.975
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인코스에 있는 선수들은 아웃 코스의 선수를 보면서 리듬을 맞춰갈 수 있는 반면에 아웃 코스 선수들은 앞에 아무도 없기 때문에 굉장히 힘든 힘든 레이스를 할 수밖에 없습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.985,
+                "end": 25.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 다시 곡선 지점입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.973,
+                "end": 27.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3레인의 @이름1, 4레인에 @이름2 자 여기서 마지막 스퍼트에서 싸움이 판가름이 날듯한 모습을 보여주고 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.749,
+                "end": 37.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 곡선 지점 빠져나오며 자 윤곽이 나올텐데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 37.462,
+                "end": 42.211
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 선수가 약간 지쳤습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 42.221,
+                "end": 44.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 3레인의 @이름1, 4레인의 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 44.200,
+                "end": 47.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 5레인의 @이름3",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 47.131,
+                "end": 49.282
+            }
+        ]
+    },
+    "summary": "400미터는 아웃 코스 선수들이 페이스 맞추기가 힘들어 경기 운영이 어렵다고 말하며 3, 4레인의 선수들을 언급하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02432_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_01622",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.7,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네이마르님 부상이 벌써 나으신 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.373
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 안 나았지 새끼야 발목 부상이 무슨 감기인 줄 알아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.383,
+                "end": 6.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재활하다가 심심해서 들러봤더만 이거 분위기가 왜 이래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.148,
+                "end": 9.898
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그게 아무래도 선수들의 연이은 부상은 물론 성적 부진까지 이어지고 있으니 좋을 수가 있겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.908,
+                "end": 15.579
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.589,
+                "end": 16.258
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 분위기 반전으로는 파티만 한 게 없지 내가 재활하는 동안 포커로 돈 좀 벌었겠다 오늘은 내가 쏠 테니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.268,
+                "end": 23.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분위기 반전을 위해 필요한 건 파티가 아니라 승리입니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.433,
+                "end": 26.700
+            }
+        ]
+    },
+    "summary": "연이은 선수들의 부상과 성적 부진으로 분위기가 좋지 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01622_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

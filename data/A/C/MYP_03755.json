@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_03755",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.702,
+        "format": "MP4",
+        "date": "2021-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역시 아직 우리에겐 어렵다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허나 여기 이분",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.523,
+                "end": 4.927
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오우 웬일이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.937,
+                "end": 6.237
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "걍 뭐 좀 먹을까 싶어서 타",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.247,
+                "end": 9.232
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.242,
+                "end": 11.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세상 어떤 가게도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.819,
+                "end": 14.707
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "나랑 조각 케이크 먹을래 죽을래? 딸기맛",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.717,
+                "end": 19.325
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죽을래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.335,
+                "end": 19.929
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도착하기 전에 꼭 죽을래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.939,
+                "end": 22.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미안하다. 쪽 팔린다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.792,
+                "end": 25.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 분에게 수치심을 줄 수 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.396,
+                "end": 29.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 이야기는 어디서 나 당당하게 먹기",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.167,
+                "end": 35.702
+            }
+        ]
+    },
+    "summary": "친구가 뭐 좀 먹으러 가자고 함께 차를 타고 가는데 조각 케익을 먹자고 해서 차라리 죽겠다고 마음 먹는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03755_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

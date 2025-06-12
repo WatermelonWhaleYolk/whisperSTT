@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00837",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2023-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선진 야구를 많이 배운 거 경험들을 아마 국가대표팀 속에서 많이 전달할 수 있는 중간 둘째 같은 그런 역할을 잘해서 이 한국 팀이 좋은 성적으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 도쿄 올림픽에 이어 다시 한번 해설을 하게 된 무대가 WBC라는 점도 남다릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.593,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "박찬호는 한국 팀이 좋은 성적으로 도쿄 올림픽에 이어 다시 한번 해설을 하게 되어 남다르다고 소감을 밝히고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00837_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 45,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

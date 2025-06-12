@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00252",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.048,
+        "format": "MP4",
+        "date": "2022-06-22",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김연경이 다시 한번 국내 팬들과 만납니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흥국 생명은 어제 김연경과 총액 7억 원에 1년 계약했다고 발표했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.587,
+                "end": 12.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올 시즌 여자부 최고 금액입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.360,
+                "end": 15.048
+            }
+        ]
+    },
+    "summary": "흥국 생명은 어제 김연경과 총액 7억 원에 1년 계약했다고 발표했으며 올 시즌 여자부 최고 금액입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00252_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

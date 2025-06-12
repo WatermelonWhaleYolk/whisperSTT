@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "MYP_03459",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.317,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여튼 실업 야구 결승전 9회 말 2 사 3루였지 아마?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "승부는 1점 0으로 완봉이 바로 코앞에 풀 카운트 마지막 공을 던졌어",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.938,
+                "end": 14.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너클볼을 던졌지",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.266,
+                "end": 17.317
+            }
+        ]
+    },
+    "summary": "승부는 1점 0으로 완봉이 바로 코앞에 풀 카운트 마지막 너클볼을 던졌어요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03459_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

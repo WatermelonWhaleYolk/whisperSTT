@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "filename": "KNI_02012",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 83.566,
+        "format": "MP4",
+        "date": "2019-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역사의 한 획을 그은 거에 대해서 정말 영광이고 기쁘게 생각하고 진짜 잊을 수 없을 것 같아요 그 장면을. 진짜 엄청난 제가 인생에 들어본 제일 큰 환호였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시합에 나오는데 목표는 진짜 1골이었습니다 1골. 40일 동안 운동한 것이 머릿속에 필름이 딱 흘러가는 거예요. 눈물도 나고 얘네들이 고생한 거 참고 이긴 거 그런 것들이 진짜 펑펑 울었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.622,
+                "end": 26.106
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이번에 출전한 여자 수구팀은 우리나라에서 최초로 결성된 국가대표 팀입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.116,
+                "end": 31.951
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 광주 세계 수영 선수권 대회를 앞두고 개최국 자격으로 출전할 수 있게 되면서 5월 말에야 꾸려졌는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.961,
+                "end": 40.279
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대회를 불과 40일 남겨둔 시점 13명 선수 가운데 11명은 중고등학생들이었습",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.289,
+                "end": 47.691
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "처음에 보니까 얘들이 어리잖아요. 이 사람들이 어떻게 수구를 할 수 있을까 그런 생각부터 들었죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 47.701,
+                "end": 54.495
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그동안 기록을 다투는 경영만 하던 선수들이다 보니 공을 다루는 법부터 팀워크까지 모두 처음부터 배워야 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 54.505,
+                "end": 63.490
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대부분이 학생들이라 매일 새벽 4시 반에 일어나 연습한 뒤에 등교하고 오후에 다시 연습하는 식으로 하루에 8시간씩 연습에 매달렸다고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 63.500,
+                "end": 74.474
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 쓰는 근육을 쓰니까 어깨도 아프고 다리도 아프고 그런 그런 것들이 많이 힘들었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 74.484,
+                "end": 80.275
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몸싸움을 하게 되니까 아프게 되거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 80.285,
+                "end": 83.566
+            }
+        ]
+    },
+    "summary": "이번에 출전한 여자 수구팀은 우리나라에서 최초로 결성된 국가대표 팀이며 광주 세계 수영 선수권 대회를 앞두고 개최국 자격으로 출전할 수 있게 되면서 5월 말에야 꾸려졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02012_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

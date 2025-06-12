@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_04075",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.22,
+        "format": "MP4",
+        "date": "2020-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "204명에서 수만의 표를 넣은 경우도 있었고 1명이서 수천 개의 표를 주고서 자랑스럽게 이야기하는 사람도 있었지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.874
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무리 1인 1표로 제안 한다는 얘기가 없었다고 하지만 분명히 민주주의 원칙에는 어긋나는 것이 맞습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.884,
+                "end": 15.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 그렇다고 해서 손바닥으로 하늘이 가려집니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.346,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "선거 때는 1인 1표로 제안 한다는 얘기가 없었지만 분명히 민주주의 원칙에는 어긋나는 것이 맞다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04075_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

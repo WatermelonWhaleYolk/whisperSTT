@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03505",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.153,
+        "format": "MP4",
+        "date": "2022-06-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋아 와랏.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.705
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오오오오 재미지다 재미져.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.715,
+                "end": 6.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어찌 될까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.236,
+                "end": 8.479
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 투수가 저번 주와 완전 다른 모습이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.489,
+                "end": 12.562
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이 그래도 쉽지 않을 껄 박 원장 리그 선출들 제치고 타율 홈런 선두야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.572,
+                "end": 19.106
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.116,
+                "end": 20.153
+            }
+        ]
+    },
+    "summary": "투수가 저번 주와 완전 다른 모습지만 그래도 쉽지 않은 게 박 원장 리그 선출들 제치고 타율 홈런 선두이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

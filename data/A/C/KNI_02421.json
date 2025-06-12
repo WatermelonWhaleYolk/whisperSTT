@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "KNI_02421",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.828,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 마지막에 서울 체고가 2위로 올라섰습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.678
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "덕계 고등학교를 따라 잡았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.688,
+                "end": 4.528
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 저렇게 팀을 위해서 한 발짝 한 발짝 뛰어준다는 선수들의 저런 의지들이 정말 관중석을 뜨겁게 만들고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.538,
+                "end": 11.398
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 어 용인 고등학교의 @이름1 선수가 추월 이후에 아주 잘 뛰었고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.408,
+                "end": 17.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 결승선을 통과합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.707,
+                "end": 20.666
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 마지막까지 저렇게 최선을 다하는 선수들 모습이 참 보기 좋습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.676,
+                "end": 24.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.569,
+                "end": 25.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끝까지 최선을 다했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.815,
+                "end": 28.828
+            }
+        ]
+    },
+    "summary": "용인 고등학교 @이름1 선수 추월 후 잘 뛰어 1위를 했고 덕계 고등학교를 따라잡아 서울 체고가 2위에 올라섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02421_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

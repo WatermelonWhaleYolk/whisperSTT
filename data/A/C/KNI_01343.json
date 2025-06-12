@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_01343",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.097,
+        "format": "MP4",
+        "date": "2023-01-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난주 올스타전에서 덩크 슛을 놓친 뒤 머쓱한 웃음을 지었던 김선형 후반기 첫 경기인 KT 전에서 보란 듯이 화끈한 원핸드 덩크 슛을 터뜨린 뒤 카메라를 향해 번개 세리머니를 펼칩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.088
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 김선형 쇼타임",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.098,
+                "end": 16.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이를 악물고 덩크 슛을 꽂은 김선형의 활약은 거침이 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.553,
+                "end": 22.143
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 박자 빠른 묘기 같은 플로터 슛은 물론 재치 있는 속임 동작으로 멋진 슛을 넣는 등 SK의 돌격 대장 역할을 톡톡히 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.153,
+                "end": 31.097
+            }
+        ]
+    },
+    "summary": "지난주 올스타전에서 덩크 슛을 놓쳤던 김선형은 후반기 첫 경기인 KT 전에서 원핸드 덩크 슛을 터뜨린 뒤 번개 세리머니를 펼쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01343_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

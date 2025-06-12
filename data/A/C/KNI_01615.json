@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01615",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.625,
+        "format": "MP4",
+        "date": "2023-03-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경북 경주 시내에 42.195 킬로미터를 6 구간으로 나눠 뛰는 코오롱 구간마라톤 4 구간부터 선두로 나선 배문고가 서울고를 제치고 역대 열한 번째 우승을 기록했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기록은 2 시간 18 분 23 초였습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.661,
+                "end": 15.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여고부에서는 신정고가 1 구간부터 줄곧 선두를 지켰는데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 15.589,
+                "end": 20.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 2 시간 43 분 50 초로 골인해 창단 첫 우승 기쁨을 맛봤습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 20.315,
+                "end": 25.625
+            }
+        ]
+    },
+    "summary": "경북 경주 시내에 42.195 킬로미터를 6 구간으로 나눠 뛰는 코오롱 구간마라톤에서 배문고가 열한 번째 우승을 기록했고 여고부에서는 신정고가 창단 첫 우승 기쁨을 맛봤다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01615_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

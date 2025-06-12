@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_03212",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.183,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 생각하면 안 되지만 그래도 솔찌 약간은 억울한 다행히 수술은 잘 끝났지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그러니까 그는 안주하지 않았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.672,
+                "end": 9.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다리로 무슨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.119,
+                "end": 11.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당시 푹 빠져있던 취미인 양궁의 아마추어 대회가 코 앞에 와 있기 때문이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.162,
+                "end": 17.183
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03212_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

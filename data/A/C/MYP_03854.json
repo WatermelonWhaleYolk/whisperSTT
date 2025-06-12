@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_03854",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.287,
+        "format": "MP4",
+        "date": "2021-03-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 오늘 여기에서 시원하게 스트레스 풀고 내일부터 다시 열심히 일하자.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래. 형들도 바쁠 텐데 그래도 내 생각해서 시간 내 준 거구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.828,
+                "end": 9.746
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "물론",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.756,
+                "end": 11.970
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아 형들. 화내서 죄송해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.980,
+                "end": 15.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "형들은 그래도 제 생각해서 그런 건데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.777,
+                "end": 20.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.083,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "20대 유튜버가 자기를 위해서 시간을 내 준 형들이라고 생각하고 고마워하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03854_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYP_03960",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.475,
+        "format": "MP4",
+        "date": "2020-12-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "해산.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세상은 대 수능 시대를 맞는다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.133,
+                "end": 8.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 이야기는 플랜 B.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.590,
+                "end": 12.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선생님의 가르침을 명심한 나는 수능날 아침 평소보다 한 시간 일찍 일어났고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.945,
+                "end": 19.296
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뇌는 기상 후 3시간 정도 지나야 완전히 깨어난다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.306,
+                "end": 23.456
+            }
+        ]
+    },
+    "summary": "대 수능 시대를 맞이한 주인공은 선생님의 가르침대로 수능날 평소보다 한 시간 일찍 일어나는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03960_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 84
+                }
+            ]
+        }
+    ]
+}

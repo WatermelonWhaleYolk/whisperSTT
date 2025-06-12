@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01275",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.066,
+        "format": "MP4",
+        "date": "2022-12-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전 125억 원에 이번 152억 원을 더해 FA 총액 227억 원을 기록하며 김현수와 최정 등을 제치고 1위에 오른 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.531
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내년 3월 WBC 대표팀 안방마님이 유력한 양의지에게 축구 대표팀의 선전은 큰 감동으로 다가왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.541,
+                "end": 14.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "태극 마크 달고 뛰면서 그런 압박감이 심했을 텐데 정말 정말 잘해 가지고 정말 TV 보면서 저도 박수를 많이 쳤거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.360,
+                "end": 22.213
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 선수들처럼 정말 열심히 뛰어 보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.223,
+                "end": 25.058
+            }
+        ]
+    },
+    "summary": "FA 총액 227억 원을 기록하며 김현수와 최정 등을 제치고 양의지가 1위에 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01275_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

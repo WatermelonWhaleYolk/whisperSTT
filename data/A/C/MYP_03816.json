@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "MYP_03816",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2021-05-02",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윽 아아아악",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.764
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "계단에서 구르고 만다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.774,
+                "end": 4.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이쿠 떨어뜨린 동전이 어디 갔을까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.251,
+                "end": 8.808
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안돼. 하지마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.818,
+                "end": 10.258
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "내가 부끄러워. 하지마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.268,
+                "end": 12.854
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 손목까지 다쳐버린 그는 지난달의 불운이 떠올랐지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.864,
+                "end": 18.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으윽",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.680,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "20대 남성이 급하게 밖으로 나가려다가 계단에서 구르고 만다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03816_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00229",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.222,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "되게 멋있다고 생각했고 본받고 싶다고 생각을 했어가지고 이번에 같이 입촌을 하게 됐으니까 언니랑 언니 많이 보면서 배워보면서 이제 좋은 결과 가지고 올게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자 대표팀 막내 자리를 임시현에게 내준 도쿄 올림픽 3관왕 안산은 2위에 올라 항저우 행에 탑승했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.311,
+                "end": 22.222
+            }
+        ]
+    },
+    "summary": "도쿄 올림픽 3관왕 안산은 국가대표 선발전 2위에 올라 항저우 행에 탑승했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00229_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

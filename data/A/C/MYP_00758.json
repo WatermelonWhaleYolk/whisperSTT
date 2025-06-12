@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "filename": "MYP_00758",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 48.666,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기가 바로 우리 김치 유나이티드의 훈련장이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "준비는 충분히 하고 왔겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.240,
+                "end": 5.373
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아예 뭐 준비 할 것도 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.383,
+                "end": 7.316
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐야 이거 생각보다 훈련장이 괜찮은데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.326,
+                "end": 9.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 드리블 하나는 자신있댔지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.666,
+                "end": 12.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자네의 입단 테스트는 우리 팀 중앙 수비수 둘을 드리블로 제끼는 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.931,
+                "end": 17.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 빵뚜아 가서 빈이랑 드웨인 그리고 칸구 좀 불러오거라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.561,
+                "end": 22.328
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "알겠다 감독. 쪼끔만 기다려라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.338,
+                "end": 25.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자네가 입단 테스트를 통과하길 바라는 마음으로 팁을 하나 주자면 우리 센터백들과 골키퍼의 사이가 아주 안 좋아 이점을 잘 활용해 보게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.168,
+                "end": 35.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아예 뭐 알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.236,
+                "end": 36.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이딴 팀 수비수가 안 봐도 뻔하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.646,
+                "end": 38.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1부 리그 선수를 꿈꾸는 나한테 꼴에 조언이라고 해주고 있나 참나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.688,
+                "end": 42.703
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "감독 애들 델꼬왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.713,
+                "end": 45.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 일단 테스트를 시작하지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 45.028,
+                "end": 48.666
+            }
+        ]
+    },
+    "summary": "김치 유나이티드의 훈련장은 생각보다 괜찮고 드리블에 자신 있는 타랍 박의 입단 테스트는 우리 팀 중앙 수비수 둘을 드리블로 제끼는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00758_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

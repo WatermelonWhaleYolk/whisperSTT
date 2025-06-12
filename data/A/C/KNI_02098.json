@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "filename": "KNI_02098",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 50.733,
+        "format": "MP4",
+        "date": "2018-02-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어느 정도 익히려고 했던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.621
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스케이팅 훈련도 특별했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.631,
+                "end": 4.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최민정은 남자 선수들 뒤에서 스피드를 최고조로 끌어 올렸습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.965,
+                "end": 9.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "출발이 다소 늦더라도 막판 스퍼트로 따라잡기 위한 맞춤 특훈입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.728,
+                "end": 15.641
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지금 최민정 선수가 컨디션이 지금 굉장히 좋은 상태이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.651,
+                "end": 19.661
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "멀리서 보면 남자인지 여자인지 구분이 안될 정도로 스피드가 지금 굉장히 많이 올라온 상태라서",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.671,
+                "end": 25.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미리 결승을 경험한 황대헌이 경기를 앞둔 최민정을 격려하고 팀 전체가 파이팅을 외칠 정도로 분위기도 좋습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.590,
+                "end": 34.488
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세계 최강의 자리에 있으면서도 역대 단 한번도 정상에 서지 못했던 여자 500미터.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 34.498,
+                "end": 40.387
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "절정의 기량에 특별 맞춤 훈련까지 더해지면서 최민정에게 쏠리는 기대감이 더욱 고조되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.397,
+                "end": 47.710
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.720,
+                "end": 50.733
+            }
+        ]
+    },
+    "summary": "쇼트트랙 국가 대표 최민정이 맞춤 특별 훈련을 하며 여자 500미터 결승전을 준비하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02098_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03571",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.693,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "젊음은 진리야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 새끼야 노련함, 베테랑 그건 일류만 가능한 거고 넌 택도 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.649,
+                "end": 8.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 니가 젊음을 이길 방법은 몇 배는 존나게 뛰는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.938,
+                "end": 14.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "훈련도 과하면 부상 당하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.323,
+                "end": 17.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 끝날 수 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.159,
+                "end": 19.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 니가 그 무대를 밟기를 원한다면 무조건 과해야 된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.458,
+                "end": 25.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.498,
+                "end": 26.693
+            }
+        ]
+    },
+    "summary": "젊음을 이기려면 몇 배 열심히 훈련해야 되고 과하게 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03571_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

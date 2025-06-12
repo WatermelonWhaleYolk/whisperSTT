@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_00541",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.2,
+        "format": "MP4",
+        "date": "2023-03-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 누가 감히 쌍민재를 넘어설 수 있겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10명 모두가 에이스로 구성된 한국 대표팀이라면 FIFA 랭킹 1위 월드컵 우승 당연히 가능하다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.308,
+                "end": 8.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 그래도 우승까진 어렵다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.817,
+                "end": 10.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저와 민재가 대표팀의 에이스라곤 하지만 저희가 잘하는 게 있으면 다른 선수 역시 잘하는 게 있는 법 10명 모두를 저희로 채우는 것보단 강인이와 희찬이 등 모든 선수가 지금보다 성장하는 것 그게 다음 월드컵에서 대표팀이 가장 좋은 성적을 얻을 수 있는 방법이라고 생각합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.731,
+                "end": 23.368
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 자 두 분의 의견 잘 들었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.378,
+                "end": 25.152
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "비록 현실 가능성은 0퍼센트라 할 수 있지만 상상만으로도 손뽕과 민뽕이 차오르는 주제였다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.162,
+                "end": 29.914
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "구독자 여러분께선 어떻게 생각하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.924,
+                "end": 32.107
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "만약 대한민국 축구 대표팀이 손흥민 5명과 김민재 5명으로 꾸려진다면 2026 북중미 월드컵 우승 가능하다고 생각하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.117,
+                "end": 40.200
+            }
+        ]
+    },
+    "summary": "화자3이 상상만 해도 벅찬 주제였다며 구독자들에게도 의견을 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00541_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": 43,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

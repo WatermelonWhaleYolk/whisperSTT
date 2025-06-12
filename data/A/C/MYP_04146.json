@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_04146",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 46.179,
+        "format": "MP4",
+        "date": "2020-05-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "적당히 값 좀 올려주면서 꼬셔야 애들이 넘어오지 어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "니들 장사 원투 데이 해?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.700,
+                "end": 8.065
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 무파니 자네 말이 좀 심한데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.075,
+                "end": 13.089
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "밤톨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.099,
+                "end": 15.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 네 무 장사가 누구 덕분에 잘되는 건데 다 우리가 인간들 데려와서 그런 거 아냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.923,
+                "end": 25.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얌전히 이 마을에서 장사하고 싶으면 가만히 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.193,
+                "end": 30.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 이거 승질이 너구리랑 아주 똑같아 어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.010,
+                "end": 34.573
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이제 이제 그만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.583,
+                "end": 39.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어서 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.538,
+                "end": 46.179
+            }
+        ]
+    },
+    "summary": "무파니가 장사 하루 이틀 하냐며 뭐라고 하자 밤톨이가 무 장사가 누구 덕분에 잘됐냐면서 이 마을에서 장사하고 싶으면 얌전히 있으라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04146_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

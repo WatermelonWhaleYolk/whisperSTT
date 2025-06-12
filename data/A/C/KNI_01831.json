@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_01831",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.155,
+        "format": "MP4",
+        "date": "2021-02-25",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진정성 있는 사과를 요구했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가해자의 A 선수는 수도권 명문 구단에 입단한 국가 대표 출신의 스타 사건 시점이 2000년 상반기로 특정되면서 기성용이 지목됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.872,
+                "end": 14.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "축구 팬들을 충격에 빠뜨린 폭로 그러나 기성용의 소속사는 선수에게 직접 확인한 결과",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.600,
+                "end": 22.155
+            }
+        ]
+    },
+    "summary": "가해자 A 선수는 수도권 명문 구단에 입단한 국가 대표 출신의 스타이고 사건 시점이 2000년 상반기로 특정되면서 기성용이 지목되어 축구 팬들을 충격에 빠뜨렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01831_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

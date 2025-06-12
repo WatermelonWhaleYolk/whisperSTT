@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_01844",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 34.267,
+        "format": "MP4",
+        "date": "2023-03-30",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조율이 됐다고는 말씀 못 드리겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.065
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이야기는 좀 나누고 있었는데 네 이 정도만 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.065,
+                "end": 7.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.383,
+                "end": 9.090
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "파문이 일자 김민재는 SNS를 통해 정신적으로 무너졌다는 말의 의미가 잘못 전달됐다며 해명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.090,
+                "end": 18.065
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대표팀 은퇴 논란을 빚은 발언에 대해서도 팬들에게 사과했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.075,
+                "end": 23.357
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다음 달 유럽으로 떠나 해외파들을 점검할 클린스만 감독으로서는 김민재 다독이기가 최우선 과제가 됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 23.367,
+                "end": 31.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.975,
+                "end": 34.267
+            }
+        ]
+    },
+    "summary": "김민재는 이야기는 나누고 있었는데 조율이 됐다고는 말씀 못 드리겠다 했지만 파문이 일자 SNS를 통해 정신적으로 무너졌다는 의미가 잘못 전달되었다며 대표팀 은퇴 논란 발언에 대해서 팬들에게 사과했고 클린스만 감독에게는 다음 달 유럽으로 떠나 김민재 다독이기가 최우선 과제가 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01844_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

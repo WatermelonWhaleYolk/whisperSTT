@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01818",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.233,
+        "format": "MP4",
+        "date": "2021-10-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부르노와 포그바 말고는 정상급 활약을 하지 못하고 있단 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.722
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그래도 수비는 든든하지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.732,
+                "end": 5.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수비가 든든하다니 우리가 리그에서 10골을 믹힐 동안 선두 첼시와 3위 맨시티는 고작 3골만을 허용했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.797,
+                "end": 11.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2위인 리버풀의 경우 6골을 먹였으나 무려 22골을 넣었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.698,
+                "end": 15.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이래 가지고 우승은커녕 챔스 티켓도 간당간당하다는 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.191,
+                "end": 20.233
+            }
+        ]
+    },
+    "summary": "남성 화자가 그래도 수비는 든든하지 않냐는 팀원의 말에 우리가 10골을 먹힐 동안 첼시와 맨시티는 고작 3골만을 허용했다며 우승은커녕 티켓도 간당간당하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01818_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

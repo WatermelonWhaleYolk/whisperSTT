@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_00765",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.033,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 자네 진작에 빵뚜아에게 패스했다면 골을 넣을 수도 있었을 텐데 왜 그러지 않았지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.587
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아뇨 그것보다 먼저 그 형씨들이 저한테 파울을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.597,
+                "end": 8.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "축구는 팀플레이라네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.091,
+                "end": 9.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동료를 활용할 줄 알아야 프로 선수가 될 수 있을 텐데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.425,
+                "end": 12.704
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그게 사실은 제가 패스를 끊었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.714,
+                "end": 15.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐? 패스를 끊었다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.444,
+                "end": 17.126
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 그게 그 감독 @이름1도 말",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.136,
+                "end": 20.033
+            }
+        ]
+    },
+    "summary": "진작에 빵뚜아에게 패스했다면 골을 넣을 수도 있었을 텐데 왜 그러지 않았냐고 묻자 @이름1은 패스를 끊었다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

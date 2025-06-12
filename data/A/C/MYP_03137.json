@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYP_03137",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.955,
+        "format": "MP4",
+        "date": "2023-07-16",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "의도치 않게 너무 많은 양의 빨래를 해버린 탓에 더 이상 빨래를 널 곳이 없었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.423
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으아 빨랫대가 모자라게 생겼네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.433,
+                "end": 8.978
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무데나 널면 습기 차는데 음 아 참 직사광선 영접할 시간이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 8.988,
+                "end": 18.525
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마침 단독 주택이었던 집의 장점을 살려",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.535,
+                "end": 21.955
+            }
+        ]
+    },
+    "summary": "그는 의도치 않게 너무 많은 양의 빨래를 한 탓에 빨랫대가 모자르게 되자 단독 주택이었던 집의 장점을 살려 보기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03137_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 62
+                }
+            ]
+        }
+    ]
+}

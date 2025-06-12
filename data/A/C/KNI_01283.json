@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_01283",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.46,
+        "format": "MP4",
+        "date": "2022-12-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코어 운동",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.217
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김예림과 이해인 등 쟁쟁한 선배들을 제치고 국가 대표 1차 선발전 우승을 차지한 신지아는 이제 2차 선발전까지 노립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.227,
+                "end": 10.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1월에 종합 선수권 대회가 있어서 열심히 준비해서 좋은 성과 내도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.350,
+                "end": 18.665
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동메달을 따내며 함께 귀국한 김채연까지 피겨 샛별들이 자신들의 시대 준비 중입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.675,
+                "end": 25.095
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.105,
+                "end": 27.460
+            }
+        ]
+    },
+    "summary": "쟁쟁한 선배들을 제치고 국가 대표 선발전 우승을 차지한 신지아는 2차 선발전까지 노리고 있으며 동메달을 따고 함께 귀국한 김채연까지 피겨 샛별들이 자신들의 시대를 준비 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01283_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

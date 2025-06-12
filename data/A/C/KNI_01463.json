@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01463",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2022-12-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 기업 은행 김희진의 공격이 꽂히자 관중들이 열광을 하고요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흥국 생명 김연경은 기막힌 연승 공격으로 시선을 사로잡습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.466,
+                "end": 11.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올스타 1위 김연경과 2위 김희진의 맞대결은 김연경의 승리였습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 11.050,
+                "end": 16.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김연경은 서브 에이스에",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 16.815,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "올스타 1위 김연경과 2위 김희진의 맞대결은 김연경의 승리였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01463_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

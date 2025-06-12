@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02156",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 18.2,
+        "format": "MP4",
+        "date": "2017-07-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이틀이 멀다 하고 비가 내리면서 강원 지역에서는 추가 피해도 우려되는 상황입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제로 지난 1일부터 나흘 동안 강원도 홍천 등지에는 400밀리미터에 가까운 폭우가 내렸고요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.849,
+                "end": 10.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 주말에도 인제와 철원 등에 200밀리미터 안팎의 집중 호우가 내리면서 고립과 농경지 침수 등의 피해가 났습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.878,
+                "end": 18.200
+            }
+        ]
+    },
+    "summary": "지난 1일부터 나흘간 강원도 홍천 등지에서 400밀리미터에 가까운 폭우가 내렸고 지난 주말에는 인제와 철원에서 집중 호우로 인한 고립과 농경지 침수 피해가 났으며 현재 강원 지역에 많은 비가 내리고 있어 추가 피해가 우려되는 상황입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02156_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

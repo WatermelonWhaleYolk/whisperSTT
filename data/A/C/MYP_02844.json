@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_02844",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.1,
+        "format": "MP4",
+        "date": "2020-05-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어이 총각 한국 사람이면 그 양반들 알제?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저번주에 그 박재상이하고 정지훈이하고 둘이 와갖고 20인분을 먹고 갔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.083,
+                "end": 8.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바 박재상 설마 월드스타 싸이 정지훈은 누구지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.654,
+                "end": 11.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설마 까 깡",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.900,
+                "end": 13.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 정지훈이가 다녀간 뒤로는 1일 3깡은 기본으로 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.372,
+                "end": 17.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 영국김치 말고 한국김치 맛 그리웠제?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.750,
+                "end": 21.139
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아줌마가 맛있게 구워줄게 재상이 김치 이거 음청 묵고 간데이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.149,
+                "end": 26.172
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 뭐 알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.182,
+                "end": 29.100
+            }
+        ]
+    },
+    "summary": "여성이 본인의 가게에 유명한 사람들이 왔었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02844_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

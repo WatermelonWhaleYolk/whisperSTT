@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "KNI_01251",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 48.748,
+        "format": "MP4",
+        "date": "2022-11-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 염원인 대한민국 16강 8강 4강 우승할 수 있도록 온 교민이 힘을 모아 열심히 응원하겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 파이팅.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.369,
+                "end": 9.942
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인천 국제공항에서 출발한 붉은악마 본진도 카타르 현지에 도착했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.952,
+                "end": 16.127
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "7000킬로미터를 날아왔지만 지친 기색 하나 없이 당장 태극전사 응원에 나설 태세입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.137,
+                "end": 23.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 부상 중인 에이스 손흥민 선수의 회복에 조금이라도 도움이 되고자 하는 마음입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.243,
+                "end": 29.682
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저희들도 마침 걱정을 하고 있는데 손흥민 선수는 의지력이 있고 또 대한민국 모든 선수들이 팀이라는 이름으로 열심히 해서 승리를 꼭 할 거라고 믿어 의심치 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.692,
+                "end": 40.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우루과이와 첫 경기가 열리는 에듀케이션시티 스타디움에서 합동 응원에 나설 예정인 우리 교민과 붉은악마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.819,
+                "end": 48.748
+            }
+        ]
+    },
+    "summary": "도하에서 우리나라 교민들과 붉은악마가 월드컵 응원 준비를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01251_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_01661",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.733,
+        "format": "MP4",
+        "date": "2021-12-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내래 이름은 델레 알리 토트넘과 잉글랜드의 중앙 발재간 동무다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내래 한때는 북조선 리그 아니 프리미어 리그의 슈퍼 탤런트였지만 지금은 그저 주급만 축내는 슈퍼 퇴물이 되어버렸다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.632,
+                "end": 12.608
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 이대로 잊혀질 수는 없기에 새로운 보금자리를 찾고자 겨울 이적 시장에 왔다기래",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.618,
+                "end": 18.733
+            }
+        ]
+    },
+    "summary": "델레 알리는 토트넘과 잉글랜드의 중앙 발재간 동무이며 한때는 프리미어 리그에서 슈퍼 탤런트였지만 지금은 그저 주급만 축내는 슈퍼 퇴물이 되어버렸는데 이대로 잊혀질 수는 없기에 새로운 보금자리를 찾고자 겨울 이적 시장에 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01661_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

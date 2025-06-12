@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01671",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.624,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "치열한 3점 슛 대결 속 2쿼터 한 때 접전이 벌어지기도 했지만 우리은행의 신구조화가 더 완벽했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김정은과 김단비가 착실하게 득점을 올렸고 박지현은 패기 넘치는 플레이로 상대를 압도했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.846,
+                "end": 15.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 우리은행이 끝까지 우위를 유지했고 3연승으로 BNK를 꺾고 통산 11번째 우승을 차지했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.251,
+                "end": 24.624
+            }
+        ]
+    },
+    "summary": "여자 프로농구에서 우리은행이 BNK를 꺾고 통산 11번째 우승을 차지하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01671_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_04119",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.823,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 매뉴얼만 익히고 나면 전부 씹어 먹어 줄 줄",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.058
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미안한데 매뉴얼 놈 말이 안 통한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.068,
+                "end": 13.876
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 완벽주의에 대한 욕심 때문이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.886,
+                "end": 17.189
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "매뉴얼대로밖에 못 하니까 돼지도 그 지경 된 거 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.199,
+                "end": 23.823
+            }
+        ]
+    },
+    "summary": "매뉴얼을 읽다 보니 자신이 예전 부서에서 들었던 말들이 생각났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04119_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

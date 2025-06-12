@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00148",
+        "category": "스포츠뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.693,
+        "format": "MP4",
+        "date": "2023-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다른 유명한 그런 이제 보조약 같은 건 줄 알고 받았던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.333
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 실태를 노린 흔적은 적발된 음료에 붙어 있는 제품명에도 엿보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.343,
+                "end": 10.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주의력 결핍 장애 ADHD 치료제는 메틸페니데이트 성분이 있어서 일종의 각성 효과를 내는데 덕분에 이미 수년 전부터 학원가를 중심으로 ADHD 치료제는 공부 알약 집중력 약 등으로 불려 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.322,
+                "end": 26.693
+            }
+        ]
+    },
+    "summary": "주의력 결핍 장애 ADHD 치료제는 메틸페니데이트 성분이 있어서 일종의 각성 효과를 내는데 덕분에 이미 수년 전부터 학원가를 중심으로 ADHD 치료제는 공부 알약 집중력 약 등으로 불려 왔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00148_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

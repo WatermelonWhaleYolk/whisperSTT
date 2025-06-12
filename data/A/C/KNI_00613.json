@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00613",
+        "category": "스포츠뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.998,
+        "format": "MP4",
+        "date": "2023-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "덕수고 시절 미국 스카우트들 앞에서 시속 160킬로미터에 가까운 빠른 공을 던졌던 바로 이 투수 @이름1인데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당시 스카우트들이 괜히 지켜본 게 아니었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.448,
+                "end": 12.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국 매체 디 에슬레틱이 @이름1의 피츠버그 행 가능성이 커지고 있다고 보도하며 미국 행이 임박했음을 알렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.824,
+                "end": 20.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 @이름1을 엠엘비닷컴 선정 유망주 랭킹 10위라고 높게 평가했는데 피츠버그 행이 성사되면 타자 @이름2과 한솥밥을 먹게 됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.657,
+                "end": 31.998
+            }
+        ]
+    },
+    "summary": "또 @이름1을 엠엘비닷컴 선정 유망주 랭킹 10위라고 높게 평가했는데 피츠버그 행이 성사되면 타자 @이름2과 한솥밥을 먹게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00613_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

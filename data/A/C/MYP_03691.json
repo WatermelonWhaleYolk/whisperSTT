@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03691",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.192,
+        "format": "MP4",
+        "date": "2021-11-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래 자부심 자부심을 채워주면 되는 거야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세상 만물은 인간이 중심이에요 모든 게 인간을 위한 것이며 인간이 가장 중요하죠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.613,
+                "end": 10.614
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 인간이 존재할 수 있는 이유가 바로 조상이며 그러므로 제사를 지내야 해요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.624,
+                "end": 15.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굿 샷",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.156,
+                "end": 15.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야심 차게 날린 그녀의 마지막 초 필살기가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.721,
+                "end": 19.606
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "씁 인간이 중심이라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.616,
+                "end": 26.192
+            }
+        ]
+    },
+    "summary": "자부심을 채워주려 인간이 가장 중요하고 그 인간이 존재할 수 있는 이유가 바로 조상이니 제사를 해야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03691_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "metadata": {
+        "filename": "MYP_00426",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.433,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 배변 훈련도 안 돼 있는 시츄였을 줄이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너 설마 지금 똥 쌌어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.852,
+                "end": 3.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 미쳤습니까 배변 훈련은 제가 받는 게 아니라 제가 키우는 진짜 반려견이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.279,
+                "end": 7.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 지금 나는 이 냄새는 무슨 냄새야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.330,
+                "end": 9.245
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러고 보니 고약하면서도 어딘가 익숙한 냄새가 나는 것 같기도 하고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.255,
+                "end": 13.448
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "미안해 형들 내가 방금 화장실에 다녀왔는데 나오자마자 한 방 더 뀌어버렸지 뭐람.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.458,
+                "end": 17.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쩐지 익숙하다 했더니만 홀란드 네 방귀 냄새였구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.400,
+                "end": 19.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 경기에서도 이런 냄새를 맡았었는데 너 혹시 경기장에서 방귀를 끼는 건 아니겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.858,
+                "end": 24.174
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자연스러운 생리 현상을 내가 어찌 막을 수 있겠어 득점은 한 경기당 1골을 넣고 있다면 방귀는 한 경기당 최소 20뿡 정도 끼고 있다만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.184,
+                "end": 30.852
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "20뿡이라면 90분 동안 20번이나 뀌었다는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.862,
+                "end": 33.396
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 무슨 방귀대장 홀뿡이도 아니고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.406,
+                "end": 35.381
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 실은 내가 장이 좀 좋지 못하거든.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.391,
+                "end": 37.236
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나조차도 내 방귀 냄새를 견디기가 어려울 정도라 내가 경기 도중 갑자기 뛰어가는 건 내 방귀 냄새를 피해 도망가는 거였다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.246,
+                "end": 44.433
+            }
+        ]
+    },
+    "summary": "홀란드가 경기 도중에 20뿡을 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00426_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

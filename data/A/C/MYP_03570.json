@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYP_03570",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.019,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 알아서 잘 하고 있구만",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 이 새끼 몸풀기 하나라도 빼 먹는 순간 여기서 바로 짐 싸서 나가는 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.547,
+                "end": 7.045
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대충하면 젊은 몸을 가진 놈들을 이겨낼 것 같아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.055,
+                "end": 11.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "니 몸둥아리는 아주 쓰잘데기 없는 쓰레기 그 자체야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.730,
+                "end": 15.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 자긴 강 건너기 일보 직전이면서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.790,
+                "end": 19.019
+            }
+        ]
+    },
+    "summary": "대충하면 젊은 사람들을 이길 수 몸풀기를 열심히 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03570_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

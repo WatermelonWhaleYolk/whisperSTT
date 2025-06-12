@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYP_04312",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.096,
+        "format": "MP4",
+        "date": "2020-01-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그것마저 페이크.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 딱 맞네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.475,
+                "end": 5.066
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "없어 이런 악마들은 어딜가도 없을 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.076,
+                "end": 12.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그대로 귀가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.508,
+                "end": 15.750
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "말 걸리는 죽인다 제일 먼저 말 거는 놈 죽일 거야.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.760,
+                "end": 24.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 통한의 생일 폭격을 받은 나는 얼마 전 형들의 생일 날.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.416,
+                "end": 30.096
+            }
+        ]
+    },
+    "summary": "받은 옷을 입고 귀가한 그렇게 통한의 생일 폭격을 받은 나는 얼마 전에형들의 생일 날이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04312_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

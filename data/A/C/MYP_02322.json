@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYP_02322",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.333,
+        "format": "MP4",
+        "date": "2021-04-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 쉽게 나라를 저버려서야 되겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.741
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 흥민 언제 돌아온 것이오 부상은 다 나은 것이오?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.751,
+                "end": 6.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그까짓 부상쯤이야 진즉 털고 일어났지요 그래 마침 관상가 양반도 와 있었구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.161,
+                "end": 11.891
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 오랜만에 뵙습니다 흥민대군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.901,
+                "end": 13.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자네 혹시 저번에 나에게 했던 말 기억하나 내가 왕이 될 상이라고 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.814,
+                "end": 18.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.388,
+                "end": 19.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 걱정 마시죠 주상.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.093,
+                "end": 21.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주상이 17골, 내가 13골",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.235,
+                "end": 24.333
+            }
+        ]
+    },
+    "summary": "흥민대군은 주상에게 쉽게 나라를 저버려서야 되겠냐며 물으며 관상가에게 저번에 흥민대군이 왕이 될 상이라고 했던 말을 기억하는지 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02322_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

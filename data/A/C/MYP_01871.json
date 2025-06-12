@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_01871",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.299,
+        "format": "MP4",
+        "date": "2021-10-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시청자 여러분 빡 하 프리미어 리그 승부 예측 시간의 사회자 다니엘 내비입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 4승 1무 1패로 4위에 올라 있는 맨유와 승점은 동일하나 단 2점의 득실 차로 5위에 위치한 에버튼의 경기에 앞서 승부 예측을 해 보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.818,
+                "end": 15.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 맨유의 호날두 선수 발언해 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.627,
+                "end": 18.376
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.386,
+                "end": 19.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맨유로 돌아온 에이스 자타 공인 축구의 신 크리스티아누 호날두입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.164,
+                "end": 23.099
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 팀을 떠난 뒤로도 맨유는 2차례의 리그 우승을 거두었지만 현재 맨유는 거의 10년 가까이 리그 우승컵을 들어 올리지 못했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.109,
+                "end": 30.419
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 이유는 말 안 해도 아시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.429,
+                "end": 32.299
+            }
+        ]
+    },
+    "summary": "사회자 다니엘 내비가 프리미어 리그 승부 예측을 해 보겠다며 호날두 선수 발언해 달라고 하자 호날두는 자신이 팀을 떠난 뒤로도 맨유는 2차례의 리그 우승을 거두었지만 현재 맨유는 10년 가까이 리그 우승컵을 들어 올리지 못했다며 그 이유는 말 안 해도 아실 거라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01871_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_03889",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.258,
+        "format": "MP4",
+        "date": "2021-02-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문제는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.651
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어이쿠 크 오늘은 사람이 많네. 응 자리가 있으려나?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.661,
+                "end": 6.813
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나보다 늦게 들어온 사람이",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.823,
+                "end": 9.016
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 어 아유 다행히 자리가 있구만.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.026,
+                "end": 13.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "날 처음 보았을 때다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.500,
+                "end": 16.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 경우 당사자는 호기심과 불안감이 뒤섞여",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.631,
+                "end": 21.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어? 어어 여자인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.593,
+                "end": 25.258
+            }
+        ]
+    },
+    "summary": "장발 남자가 남탕에서 여자로 오해 받는 에피소드에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03889_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

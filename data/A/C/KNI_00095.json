@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "KNI_00095",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.589,
+        "format": "MP4",
+        "date": "2022-03-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 30년 동안 변함없이 사랑해준 그 팬 여러분께 진심으로 감사드리고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.453
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허재 선수입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.463,
+                "end": 6.967
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 뛰어난 기술을 가지고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.977,
+                "end": 8.549
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.559,
+                "end": 9.264
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "앞으로 아마 상당한 발전이 있을 겁니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 9.274,
+                "end": 12.103
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "기아 기아 사면 했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 12.113,
+                "end": 13.789
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "허재 나가서 드리블 허재 드리블 골 냈죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 13.799,
+                "end": 17.372
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "맞춰서 득점을 올리고 있는 허재",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 17.382,
+                "end": 19.587
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "역시 허재였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.597,
+                "end": 22.589
+            }
+        ]
+    },
+    "summary": "농구선수 허재는 30년 동안 사랑해 준 팬들에게 감사하고 있으며 과거 그는 뛰어난 기술과 상당한 발전 가능성을 가진 선수였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00095_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00095_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYP_00785",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.308,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전화를 안 받아서 내가 직접 데려왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.923
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 이거 나만 빼고 삼겹살 파티하고 있던거야? 살짝 서운해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.933,
+                "end": 7.023
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "인사해라 타랍박 이 친구가 우리팀 원톱 준라탄이다.준라탄도 아버지가 스웨덴 사람이지만 어머니가 한국인이니 어느 정도 한국말을 할 수 있어 친하게 지내도록 해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.033,
+                "end": 17.089
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 예 반갑습니다 새로 입단한 타랍박이라고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.099,
+                "end": 19.243
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 그래 반가워 인사는 나중에 하고 고기부터 먹자고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.253,
+                "end": 23.308
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아니 근데 이 사람 준라탄 아니지 신현준? 아니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.318,
+                "end": 26.300
+            }
+        ]
+    },
+    "summary": "새로운 멤버인 준라탄이 등장하여 인사하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00785_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_02257",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.266,
+        "format": "MP4",
+        "date": "2017-12-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방한 대책에 비상이 걸린 조직위는 난방 쉼터 22곳과 관람객용 히터 40대를 설치할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 바람을 막아줄 높이 3.5미터 총 길이 350미터의 아크릴 방풍막을 설치하고 관람객 3만 5천 명에게 핫팩과 우의 등 방한용품 5종 세트를 지급합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.074,
+                "end": 19.023
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "출발하실 때부터 따뜻하게 입고 오시고 또 여기서 관람을 하시는 중에 혹한에 도움이 될 수 있는 그런 율동을",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.033,
+                "end": 29.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "폭설이나 폭우 가능성도 배제할 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.228,
+                "end": 32.266
+            }
+        ]
+    },
+    "summary": "방한 대책으로 조직위는 난방 쉼터 22곳과 관람객용 히터 40대를 설치하고 바람을 막아줄 아크릴 방풍막과 관람객에게 나눠줄 핫팩과 우의 방한용품 5종 세트를 지급한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02257_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

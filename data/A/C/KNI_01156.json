@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "KNI_01156",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 38.071,
+        "format": "MP4",
+        "date": "2022-10-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경남 통영에서 열린 컵 대회 개막전 삼성 @이름1의 화끈한 덩크 슛으로 기선 제압에 나섭니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 캐럿 에이스 @이름2의 외곽 슛이 불을 뿜었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.447,
+                "end": 10.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스크린을 이용한 영미한 3점 슛은 물론이고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.703,
+                "end": 14.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 허를 찌르는 패스로 @이름3의 멋진 골밑 슛을 이끌어냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.743,
+                "end": 20.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2이 18득점으로 활약한 캐롯은 삼성을 꺾고 공식전 첫 승을 올렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.561,
+                "end": 27.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군에 입대한 @이름4도 상무 유니폼을 입고 첫 공식전에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.025,
+                "end": 31.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름4은 22득점을 올리며 활약했지만 상무는 LG에 큰 점수차로 졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 31.960,
+                "end": 38.071
+            }
+        ]
+    },
+    "summary": "@이름2이 18득점으로 활약한 캐롯은 삼성을 꺾고 공식전 첫 승을 올렸으며 @이름4은 22득점을 올리며 활약했지만 상무는 LG에 큰 점수차로 졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01156_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

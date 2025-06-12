@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNI_00185",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 27.794,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "캐롯이 체력적인 부담이 있기 때문에 저희는 또 6강을 쉬어서 어 체력적인 분 체력적인 우위가 있다고 생각해서 저희가 시작부터 밀어붙였던 게 좀 잘 풀렸던 것 같습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.647
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "점수 차가 컸다고는 해도 종료 20초 가량이 남은 상황에서 2팀 선수들과 감독들이 경기가 이미 끝났다는 듯 악수한 장면은 4강 플레이오프 답지 못했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.657,
+                "end": 21.361
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4강 플레이오프에서 1차전 승리 팀의 챔피언 결정전 진출 확률은 78퍼센트에 달합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.371,
+                "end": 27.794
+            }
+        ]
+    },
+    "summary": "점수 차가 컸다고는 해도 종료 20초 가량이 남은 상황에서 2팀 선수들과 감독들이 경기가 이미 끝났다는 듯 악수한 장면은 4강 플레이오프 답지 못했으며 4강 플레이오프에서 1차전 승리 팀의 챔피언 결정전 진출 확률은 78퍼센트에 달합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00185_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00185_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_03333",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.798,
+        "format": "MP4",
+        "date": "2022-11-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코너 속의 작은 TV 요셉형과 함께 하는 견학해 봅시다 아파트 쓰레기는 모두 어디로 가나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.699
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 여기가 분리수거실이야 힘들지만 제일 중요한 거야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.709,
+                "end": 16.168
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.178,
+                "end": 16.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매 층마다 자율적인 분리수거",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.792,
+                "end": 19.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기 나눠진 대로 사람들이 갖다 놓는 거예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.498,
+                "end": 22.719
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응 층마다 이렇게 되어 있어 시간 날 때 마다 한번씩 수거하면 돼 그런데 다른 게 있다면 일반 쓰레기야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.729,
+                "end": 30.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.569,
+                "end": 31.798
+            }
+        ]
+    },
+    "summary": "요셉과 함께 아파트 쓰레기는 모두 어디로 가는지 알아봅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03333_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

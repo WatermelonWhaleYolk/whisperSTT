@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01897",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.762,
+        "format": "MP4",
+        "date": "2022-08-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "떨리고 그래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응원해 주시는 주변분들 다 너무 감사하다고 전해드리고 싶어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.020,
+                "end": 7.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김연경의 복귀로 평일 경기에도 연일 매진 사례가 이어진 흥행 속에 문지윤은 물론 권민주와 김세인 등 샛별 등장으로 화제를 모은 컵대회는 내일부터 남자부 경기로 열기를 이어갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.410,
+                "end": 21.155
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.165,
+                "end": 22.756
+            }
+        ]
+    },
+    "summary": "김연경의 복귀로 평일 경기도 연일 매진이 이어진 흥행 속에 샛별들의 등장으로 화제를 모은 컵대회는 내일부터 남자부 경기로 열기를 이어간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01897_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

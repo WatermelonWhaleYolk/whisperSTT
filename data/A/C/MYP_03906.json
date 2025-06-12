@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYP_03906",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.754,
+        "format": "MP4",
+        "date": "2021-01-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 속도가 질투났던 나는 몇번이고 따라해 보았지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.746
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크아악 질수 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.756,
+                "end": 5.184
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하하하 참새가 모이를 쪼는 듯 하구나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.194,
+                "end": 12.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음용이 아니라 증발 수준이군. 피부에 양보하나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.941,
+                "end": 17.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도저히 따라잡을 수 없었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.476,
+                "end": 20.754
+            }
+        ]
+    },
+    "summary": "20대 남성이 자신의 지인이 음료를 빨리 마시는 것을 보고 자기도 따라하려고 해 보았지만 쉽게 되지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03906_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

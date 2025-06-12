@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_00032",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2022-02-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더 성장할 수 있는 어 게 많다고 느껴서 더 노력하고 다음 대회 그리고 다음 올림픽에서도 더 좋은 모습 보여 드리도록 노력하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유영에 앞서 경기를 마친 김혜림도 안정적인 연기로 최종 9 위를 기록하면서 유영과 함께 올림픽 데뷔 무대에서 나란히 톱 텐에 이름을 올렸습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.114,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "유영은 더 노력해서 다음 대회 그리고 올림픽에서도 더 좋은 모습 보여 드리도록 노력하겠다고 인터뷰했고 유영과 함께 김혜림도 안정적인 연기로 최종 9 위를 기록하면서 올림픽 데뷔 무대에서 나란히 톱 텐에 이름을 올렸다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00032_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00032_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

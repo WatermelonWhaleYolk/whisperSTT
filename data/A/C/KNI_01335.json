@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01335",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.428,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "큰 구슬 모양의 남극점 표식 옆에서 환호한 @이름1 한국인 최초로 무보급 단독 남극점 도달이라는 쾌거를 이뤄냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 개인 SNS를 통해 남극점에 섰지만 내일이면 과거에 불과하다. 50여 일의 긴 여정이 하룻밤 꿈 이야기 같다고 소감을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.489,
+                "end": 20.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거 @이름2와 @이름3이 각각 팀을 꾸려 무보급으로 남극점에 도달한 적은 있지만 @이름1는 오롯이 혼자였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.162,
+                "end": 28.428
+            }
+        ]
+    },
+    "summary": "김 씨는 한국인 최초로 무보급 단독 남극점 도달이라는 쾌거를 이뤄냈고 50여 일의 긴 여정이 하룻밤 꿈 이야기 같다고 소감을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01335_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYP_04012",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.618,
+        "format": "MP4",
+        "date": "2020-10-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어음 난 못 할 거 같",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.265
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 다섯 잔이라 내가 도전하겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.275,
+                "end": 6.893
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아우 첫 도전.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.903,
+                "end": 7.923
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "찰리형",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.933,
+                "end": 8.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당당히 도전장을 내민 찰리형 참고로 그는 빅맥 5개를 한번에 먹어 치운 기록을 갖고 있는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.905,
+                "end": 18.618
+            }
+        ]
+    },
+    "summary": "빅맥 다섯 개를 먹은 기록을 갖고 있는 찰리형이 요구르트 5잔을 도전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04012_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": 25,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

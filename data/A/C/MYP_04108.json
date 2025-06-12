@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_04108",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 바닥에서는 최신 트렌드란 말이여.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "X세대 판타지 모르삼.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.151,
+                "end": 8.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "술집에서 홧김에 큰소리 쳐놓긴 했다만 아 참",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.287,
+                "end": 13.043
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 요즘 같은 때 도대체 그딴 구식 게임에 찾아오는 이유가 뭐야?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.053,
+                "end": 17.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 난 고스톱 쳐도 쳐도 안 질리던데",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.828,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "남자는 요즘 같은 때에 그런 구식 게임을 하는지 이해할 수 없었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04108_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

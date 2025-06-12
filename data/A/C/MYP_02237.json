@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYP_02237",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.1,
+        "format": "MP4",
+        "date": "2021-05-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "금방 올 줄 알았어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새 감독 누구든 허나 며칠이 지나도 아무 소식조차 없어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.472,
+                "end": 24.100
+            }
+        ]
+    },
+    "summary": "새로운 감독이 금방 올 줄 알았지만 소식이 없다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02237_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

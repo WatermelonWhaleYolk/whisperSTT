@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_02595",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.666,
+        "format": "MP4",
+        "date": "2020-11-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새로운 도전을 위해 이탈리아로 넘어왔더니만 이거 완전 돈 버는 기계 신세잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에휴 잠이나 자야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.156,
+                "end": 5.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 퓨 모먼츠 레이뜨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.633,
+                "end": 7.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 며칠 연달아 경기 뛰느라 피곤해 죽겠는데 잠은 또 왜 이렇게 안 오는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.550,
+                "end": 11.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가만 이렇게 무리해서 경기하면 부상이라도 당하는 거 아냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.970,
+                "end": 14.948
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 퓨 모먼츠 레이뜨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.958,
+                "end": 16.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시바 메시 새끼는 지금쯤 속편히 잠이나 자고 있겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.957,
+                "end": 20.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 부상 걱정에 발롱도르 걱정까지 도저히 잠이 안 온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.049,
+                "end": 22.834
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딱 유튜브 1편만 보고 자야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.844,
+                "end": 24.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.668,
+                "end": 25.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국에도 축구 유튜버가 있나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.181,
+                "end": 26.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 빤스 이거나 1편 보다 보면 잠이 오겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.656,
+                "end": 32.666
+            }
+        ]
+    },
+    "summary": "축구선수가 피곤해도 잠이 오지 않자 불평을 하면서 한국 축구 유튜버를 검색하다 빤스를 발견하고 보려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02595_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

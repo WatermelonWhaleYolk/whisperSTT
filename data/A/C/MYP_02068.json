@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02068",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.048,
+        "format": "MP4",
+        "date": "2021-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 임대를 떠나 우승한 녀석들도 한 둘이 아니지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그게 사실입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.523,
+                "end": 3.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 입증된 사례는 워낙 많아서 일일이 나열하기 어려울 정도다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.931,
+                "end": 7.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부분 이적한 다음 해에 발동되기로 유명하지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.723,
+                "end": 10.491
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 그렇다는 건 설마",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.501,
+                "end": 12.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.094,
+                "end": 12.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올 시즌 나 포체티노의 우승 DNA가 발동한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.573,
+                "end": 15.652
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기다가 1조에 가까운 드림 스쿼드라면 보통이 아니지 않겠나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.662,
+                "end": 19.357
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음 시즌 유럽 정상에 오르는 건 무조건 우리 파리가 될 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.367,
+                "end": 29.033
+            }
+        ]
+    },
+    "summary": "파리 축구팀의 세 사람이 우승에 관해 이야기하며 포체티노 감독이 다음 시즌 유럽 정상에 무조건 오를 거라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02068_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

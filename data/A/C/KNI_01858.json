@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNI_01858",
+        "category": "스포츠뉴스",
+        "sub_category": 33,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 22.689,
+        "format": "MP4",
+        "date": "2021-07-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "리우에 이어 또다시 전 종목 석권을 노리는 한국 양궁.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중요한 변수는 바닷가에 자리 잡은 경기장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.643,
+                "end": 7.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유메노시마 양궁장은 이처럼 도쿄 만 바로 옆에 위치해 있어 바닷바람과 높은 습도를 이겨내는 것이 과제로 떠올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.474,
+                "end": 16.324
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 대비해 대표팀은 경기 날짜에 맞춰 1년 전 미리 양궁장을 찾아",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.334,
+                "end": 22.689
+            }
+        ]
+    },
+    "summary": "한국 양궁 대표팀은 리우에 이어 또다시 전 종목 석권을 노리고 있는데 중요한 변수는 바닷가에 자리 잡은 양궁장의 바닷바람과 높은 습도이고 이에 대표팀은 경기 날짜에 맞춰 1년 전 미리 양궁장을 찾아 훈련을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01858_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_01003",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.424,
+        "format": "MP4",
+        "date": "2022-01-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 19일 인천에서 음주운전을 한 혐의로 입건된 천기범은 오늘 재정위원회에 출석하면서 죄송하다 다른 할 말이 없다며 고개를 숙였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBL 재정위는 천기범에게 54경기의 출전 정지와 제재금 1000만 원 등 중징계를 내렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.869,
+                "end": 15.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 4월 김진영에 이어 또 소속 선수의 음주운전 사건이 일어난 삼성 구단도 제재금 1000만 원과 경고를 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.939,
+                "end": 24.424
+            }
+        ]
+    },
+    "summary": "지난 19일 인천에서 음주운전을 한 혐의로 입건된 천기범은 오늘 재정위원회에 출석하면서 죄송하다 다른 할 말이 없다며 고개를 숙였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

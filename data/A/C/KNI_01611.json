@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "KNI_01611",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2023-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "같이 포즈만 잡아도 웃음이 나올 정도로 사이가 좋은 상무 동기들.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 따라해.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.112,
+                "end": 5.672
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "같이 하라며.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.682,
+                "end": 7.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 대회 키 플레이어를 꼽는 질문에도 재치있는 답변이 나옵니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.713,
+                "end": 13.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다른 선수들은 다 자기 제 몫을 하려고 하 노력도 많이 하고 있고 또 가능성이 높은데 이제 저만 잘하면은 이 팀이 좀 더.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.112,
+                "end": 22.400
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이거 편집이요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.410,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "국가대표 농구 상무 대표팀이 인터뷰하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01611_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,355 @@
+{
+    "metadata": {
+        "filename": "MYP_01309",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 99.066,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이야 에버랜드 여기 장난 아니구먼 남산의 에버랜드에 클럽까지 다녀왔으니 이제 오션 월드만 들렀다 가면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 선배 이제 그만 한국이랑 경기하고 일본으로 가셔야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.097,
+                "end": 10.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "언제까지 놀려고 그러세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.480,
+                "end": 11.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 한국에 놀 거리가 이렇게 많을 줄은 몰랐다고 어제 내가 사줬던 추로스 어땠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.935,
+                "end": 16.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유럽에서 먹던 것보다 맛있었지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.355,
+                "end": 18.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 그렇긴 했지만 이제 그만 경기 준비도 하셔야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.005,
+                "end": 21.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이러다가 한국한테 지기라도 하면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.857,
+                "end": 23.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠다고 새끼야 어디 보자 마지막으로 딱 하나만 더 타고 가고 싶은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.605,
+                "end": 28.195
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 앞에 있는 안내 근무자의 안내를 받아 한 자리에 두 분씩 한 보트에 열 분이서 머리 젖습니다 옷도 젖습니다 신발 젖습니다 양말까지 젖습니다 옷, 머리, 신발, 양말, 다 다 젖습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.640,
+                "end": 41.917
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "물에 젖고 물만 맞는 여기는 아마존 아 마 아 존조로존조로존",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.227,
+                "end": 47.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마존은 브라질에 있는 거 아니었어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 47.560,
+                "end": 49.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하긴 뭐 워낙에 큰 강이니까 한국까지 이어져 있던 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.917,
+                "end": 52.872
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 말도 안 되는 저건 그냥 놀이 기구죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 53.155,
+                "end": 55.197
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 알아 자식아 난 뭐 농담도 못해?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 55.475,
+                "end": 57.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 저거만 타고 돌아갈 테니까 너도 같이 타",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 58.212,
+                "end": 60.645
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아이 전 젖는 건 딱 질색이라서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 61.080,
+                "end": 63.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 자리에 두 분이라잖아 좋은 말로 할 때 안 타?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 63.397,
+                "end": 65.937
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이보쇼 안 탈 거면 좀 나오시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 66.295,
+                "end": 67.877
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뒤에 사람들 기다리고 있는 거 안 보여요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 68.317,
+                "end": 70.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠깐만 기다려봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 70.252,
+                "end": 71.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 히샬리송 나 혼자 타기 좀 그러니까 한 번만 같이 타자 어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 71.717,
+                "end": 75.522
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 싫다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 75.767,
+                "end": 76.372
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 파리에 돌아가셔서 절 영입하겠다고 약속해 주신다면 모를까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 76.702,
+                "end": 79.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파리는 이미 음 사장이 먹은 거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 79.762,
+                "end": 81.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 일단 부탁은 해 볼 테니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 82.210,
+                "end": 83.362
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 참 안 탈 거면 비키라니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 83.747,
+                "end": 85.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 좀 기다리라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 86.032,
+                "end": 87.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "황소같이 생긴 양반이 거 더럽게 뭐라 하네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 87.562,
+                "end": 90.160
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "울버햄튼의 황소 황희찬 AKA 여진구 지금 상당히 아마존이 마려운 상태니까 안 탈 거면 나오라고 새끼들아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 90.420,
+                "end": 99.066
+            }
+        ]
+    },
+    "summary": "히샬리송과 그의 선배가 에버랜드에 왔는데 선배가 마지막으로 아마존이라는 놀이기구를 타자고 하자 히샬리송은 옷이 젖는 것도 싫고 이제 그만 한국과의 경기 준비도 하고 한국과 경기 후 일본에도 가야 한다고 하며 파리에 돌아가서 자신을 영입해 준다고 약속하면 같이 타 주겠다고 실랑이를 하는데 울버햄튼의 황소 황희찬이 나타나서 안 탈거면 어서 비키라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

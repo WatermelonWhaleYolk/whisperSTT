@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYP_03706",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.025,
+        "format": "MP4",
+        "date": "2021-10-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재료를 남발한 로이드 형 때문이었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.551
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일 아침에 먹을 것도 없잖아요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.561,
+                "end": 4.821
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아직 날 모르는군",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.831,
+                "end": 8.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그는 사실 우리 몰래 이미 비책을 마련해 놓았었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.047,
+                "end": 12.718
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너희는 몰랐겠지만 사실 고모가 우릴 위해 놔두신 씨 없는 꿀수박을 낮에 몰래 강가에 식혀뒀지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.728,
+                "end": 20.302
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "오호라? 씨 없는 수박",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.312,
+                "end": 22.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 진작 말씀하시지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.577,
+                "end": 25.025
+            }
+        ]
+    },
+    "summary": "재료를 남발한 로이드형이 몰래 계곡에 고모가 준 씨 없는 수박을 계곡에 식혀놨다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03706_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_01294",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.6,
+        "format": "MP4",
+        "date": "2022-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다시 되뇌이고 되뇌어도 내가 돌아가지 않을 걸 알잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너희들에겐 미안하지만 난 이번 월드컵이 내 커리어의 마지막 도전이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.250,
+                "end": 10.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몸 상태도 예전 같지않고 팀에 100프로 집중할 수도 없는 상태로 돌아가는 건 토트넘에도 못할 짓이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.942,
+                "end": 16.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부디 나보다 좀 더 젊고 좀 더 가능성 있고 좀 더 성실한 동료를 구해서 나 가레스 베일도 이루지 못했던 토트넘에서의 리그나 챔스 우승을 이루기 바란다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.227,
+                "end": 27.600
+            }
+        ]
+    },
+    "summary": "본인은 현재 몸 상태가 예전같지 않다며 더 젊고 성실한 선수를 영입하라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01294_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

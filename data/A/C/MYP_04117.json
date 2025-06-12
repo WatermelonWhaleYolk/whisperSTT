@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "MYP_04117",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.526,
+        "format": "MP4",
+        "date": "2020-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이왕 수호대가 온 것 배우는 마음으로 최신 기술들을 전수받으면 좋을 것을",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 청소에 정리 이 촌영감이 날 뭘로 보고 나는 패치란 말이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.182,
+                "end": 17.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 여기 와 있는 것도 감사하게 여겨야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.537,
+                "end": 20.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밖이었으면 계약서 1장에 벌벌 떨 을병정이 감히",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.645,
+                "end": 26.526
+            }
+        ]
+    },
+    "summary": "패치는 이왕 수호대가 왔으면 배우는 마음으로 최신 기술을 전수받야야지 촌장이 청소와 정리를 하라고 했다고 화를 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04117_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

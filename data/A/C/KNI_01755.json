@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_01755",
+        "category": "스포츠뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.466,
+        "format": "MP4",
+        "date": "2018-06-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실내에서 야구를 즐길 수 있는 스크린 야구장의 안전사고 위험이 큰 것으로 조사됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국 소비자원은 전국 스크린 야구장 30곳의 안전 실태 등을 조사한 결과 이용자의 7.8퍼센트가 안전사고를 당한 것으로 나타났다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.482,
+                "end": 15.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안전사고 피해자 가운데 절반 정도는 음주 상태에서 야구를 하다가 사고를 당했고 사고 당시 보호 장비를 착용하지 않은 경우도 40퍼센트를 넘었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.445,
+                "end": 25.466
+            }
+        ]
+    },
+    "summary": "한국 소비자원이 전국 스크린 야구장 30곳의 안전 실태 등을 조사한 결과 이용자의 7.8퍼센트가 안전사고를 당했다고 밝혔으며 안전사고 피해자 중 절반은 음주 상태에서 야구를 하다가 다쳤고 사고 당시 보호 장비를 착용하지 않은 경우는 40퍼센트를 넘었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01755_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

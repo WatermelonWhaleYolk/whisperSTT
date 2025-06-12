@@ -1,0 +1,208 @@
+{
+    "metadata": {
+        "filename": "MYP_02593",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.066,
+        "format": "MP4",
+        "date": "2020-11-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 여기서 내려야 되니까 좀 비켜주실래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.043
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아 저도 여기서 내립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.053,
+                "end": 3.403
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아뇨 아뇨 제가 먼저 내릴 거니까 좀 나오라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.413,
+                "end": 6.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 저도 내린다니까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.290,
+                "end": 7.194
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 앞에 좀 나오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.204,
+                "end": 8.384
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저 여기서 내려야 하거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.394,
+                "end": 9.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당신은 또 뭔데 끼어들어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.452,
+                "end": 10.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 먼저 내린다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.949,
+                "end": 12.006
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 양반이 언제 봤다고 반말이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.016,
+                "end": 13.662
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나 누군지 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.672,
+                "end": 14.481
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내가 먼저 내린다니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.491,
+                "end": 15.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 먼저 내리고 내리면 되잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.303,
+                "end": 17.135
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "처음 보는 얼굴인데 득점왕 역에 내리겠다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.145,
+                "end": 19.026
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 동네가 뭐 아무나 내리는 데 인줄 알아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.036,
+                "end": 20.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 참 싸우지들 마시고 저 먼저 내릴테니까 어디 따라올 수 있으면 따라와 보시던가요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.578,
+                "end": 25.066
+            }
+        ]
+    },
+    "summary": "지하철 득점왕 역에서 손흥민을 비롯한 3명이 서로 먼저 내리겠다고 말다툼을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02593_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

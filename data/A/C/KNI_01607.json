@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_01607",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.393,
+        "format": "MP4",
+        "date": "2023-03-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다른 팀 감독도 김연경을 막을 방법은 도발뿐이라고 농담할 정도입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 여 연경이 건드리기 싫은데 활달하고 뭐 또 욱하는 성격이 있어요 좀 열을 받게 해야 되지 않겠나 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.297,
+                "end": 16.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 시즌 6위였던 팀을 1위로 올려놓은 압도적인 김연경 효과는 봄 배구에도 발휘될지 관심은 더 뜨거워지고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.108,
+                "end": 26.393
+            }
+        ]
+    },
+    "summary": "다른 팀 감독도 김연경을 막을 방법은 도발뿐이라고 농담할 정도이며 지난 시즌 6위였던 팀을 1위로 올려놓은 김연경 효과는 봄 배구에도 발휘될지 관심이 뜨거워지고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01607_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

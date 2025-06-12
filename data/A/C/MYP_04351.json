@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_04351",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.372,
+        "format": "MP4",
+        "date": "2019-10-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "헉 헉 별빛이 내린다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.808
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 오 야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.818,
+                "end": 10.646
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나 남자 맞다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.656,
+                "end": 13.453
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "긴 머리 남자라는 포지션은 아직 존재하지 않는 것 같다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.463,
+                "end": 19.218
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "확 다 벗고 다닐라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.228,
+                "end": 26.757
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "얼마 전 어떤 할머니께서 길을 물으시며 아가씨라고 부르는 걸 보니 잘하면 곧 여탕에도 들어갈 수 있을 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.767,
+                "end": 39.372
+            }
+        ]
+    },
+    "summary": "한 캐릭터가 장발로 인해 겪는 고충에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04351_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

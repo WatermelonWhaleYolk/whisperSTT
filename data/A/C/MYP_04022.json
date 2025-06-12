@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "filename": "MYP_04022",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.133,
+        "format": "MP4",
+        "date": "2020-10-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "옛날 옛날 놀이동산 군 제대 후 매일 무료했던 세 남자는 모여도 놀 거리가 없었고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 16.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.888,
+                "end": 18.241
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "엇",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.251,
+                "end": 18.610
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "둘 다 따라와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.620,
+                "end": 19.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화끈한 추억을 위해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.799,
+                "end": 22.490
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어디 재미있는 데 가는 거예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.500,
+                "end": 24.823
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어딘데 어디?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.833,
+                "end": 26.421
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "뭘로 드릴까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.431,
+                "end": 30.632
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.642,
+                "end": 33.133
+            }
+        ]
+    },
+    "summary": "군 제대한 세 남자가 차를 타고 이동을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04022_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

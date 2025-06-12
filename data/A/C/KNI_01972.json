@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01972",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.82,
+        "format": "MP4",
+        "date": "2020-05-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19 통합 방역 매뉴얼을 메뉴얼이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 메뉴얼이 제대로 작동될 수 있는지 그래서 현장 점검을 왔고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.104,
+                "end": 8.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국내 프로 야구 10개 구단 중 3개 구단의 연고지인 서울 서울시는 이에 따라 KBO와 안전한 스포츠관람을 위한 업무협약을 체결하고 사전 현장점검을 벌였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.575,
+                "end": 20.820
+            }
+        ]
+    },
+    "summary": "국내 프로 야구 10개 구단 중 3개 구단의 연고지인 서울 서울시는 이에 따라 KBO와 안전한 스포츠관람을 위한 업무협약을 체결하고 사전 현장점검을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01972_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYP_00612",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.6,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 하긴, 포장 보다는 홀이 비싼게 맞지. 근데 잠깐, 한 마리 가격에 두 마리 준다고 써 놓고서 2만3천원? 지금 나랑 장난합니까? 그럼 한 마리는 얼만데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그 그게 한 마리만 하시면 만육천원입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.942,
+                "end": 11.774
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 사기꾼을 봤나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.784,
+                "end": 12.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그래도 원래 두 마리 시키면 3만2천원이지만 2만3천원이면 엄청 싼거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.888,
+                "end": 17.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 뭐 시간도 늦었고 하니 속는 셈 치죠. 대신 세 마리 같은 두 마리로 부탁합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.903,
+                "end": 22.633
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 예 손님, 이쪽으로 들어오시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.643,
+                "end": 24.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 잠시만요. 인서타 검색 좀 해보고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.257,
+                "end": 26.600
+            }
+        ]
+    },
+    "summary": "젊은 남성과 식당 사장이 흥정 관련하여 실랑이를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00612_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_00612_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_01924",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.253,
+        "format": "MP4",
+        "date": "2021-08-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "브라질은 이번 올림픽에서 6연승을 달리고 있는 강팀입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 우리 대표팀도 5세트에선 불패죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.241,
+                "end": 5.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄청난 집중력으로 점점 강해지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.848,
+                "end": 8.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 충분히 잘해 온 우리 선수들입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.933,
+                "end": 11.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후회없이 경기할 수 있기를 응원하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.228,
+                "end": 15.212
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하루만 사 사는 계획으로 임하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.222,
+                "end": 20.253
+            }
+        ]
+    },
+    "summary": "브라질은 이번 올림픽에서 6연승을 달리고 있는 강팀지만 우리 대표팀도 엄청난 집중력으로 강해지고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01924_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

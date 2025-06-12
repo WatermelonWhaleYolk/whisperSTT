@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_00568",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.738,
+        "format": "MP4",
+        "date": "2023-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 솔직히 정신이 없어서 어 갑자기 이렇게 된 거라 또 선수들이 잘한 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "프로 농구 사상 첫 1000블록 기록.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.396,
+                "end": 7.965
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "챔프전 3회 우승 등 KBL 최고 레전드 중에 1명인 김 대행은 팀을 빨리 재정비하겠다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 7.975,
+                "end": 15.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 어 그 올스타전 브레이크가 남아있는데 좀 더 좋은 플레이로 보답하고 싶습니다. 예.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.384,
+                "end": 22.433
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "임금 지급 지연 사태를 일으킨 캐롯은 LG를 꺾고 연승을 기록했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.443,
+                "end": 27.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.654,
+                "end": 29.729
+            }
+        ]
+    },
+    "summary": "프로 농구 사상 첫 1000블록 기록 및 챔프전 3회 우승 등 KBL 최고 레전드 중에 1명인 김 대행은 팀을 빨리 재정비하겠다고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00568_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

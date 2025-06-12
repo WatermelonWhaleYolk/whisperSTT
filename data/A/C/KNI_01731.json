@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_01731",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.3,
+        "format": "MP4",
+        "date": "2018-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그야말로 손에 땀을 쥐게 하는 명승부였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 대표팀은 후공 기회를 잡은 5엔드에서 오히려 영국에 점수를 내주며 4대 2로 뒤져 위기를 맞았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.728,
+                "end": 9.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 우리 대표팀은 포기 하지 않고 경기 후반 더 힘을 냈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.799,
+                "end": 15.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6엔드에서 1점을 따라붙은 뒤",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.549,
+                "end": 18.300
+            }
+        ]
+    },
+    "summary": "컬링 우리 대표팀은 영국과의 승부에서 5엔드에서 영국에 4대 2로 뒤지며 위기를 맞았으나 경기 후반 뒷심을 발휘했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01731_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

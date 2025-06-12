@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_02831",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.166,
+        "format": "MP4",
+        "date": "2020-06-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사람은 기억 속에서 잊혀졌을 때 죽는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "받아라 필살 메시 슛",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.916,
+                "end": 5.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "골 메시 선수의 패널티킥이 들어갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.410,
+                "end": 8.173
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 어떻게 된 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.183,
+                "end": 9.634
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "갑자기 날파고 001이 작동을 멈춘 것 같아 보였는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.644,
+                "end": 12.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 메시 선수가 흘린 땀이 공을 타고 날아가 날파고의 틈새로 들어갔네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.835,
+                "end": 16.517
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 저거 반칙 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.527,
+                "end": 18.014
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 글쎄요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.024,
+                "end": 19.068
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "로봇들이 경기를 대체한 뒤로 이런 적이 처음이라 아무튼 리오넬 메시 선수의 결승골과 함께 바르셀로나가 승리를 가져갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.078,
+                "end": 27.166
+            }
+        ]
+    },
+    "summary": "노인 선수가 골을 넣고 남성 2명이 로봇에 땀이 들어가서 고장이 나서 막지 못 했다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02831_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

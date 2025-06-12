@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01492",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.394,
+        "format": "MP4",
+        "date": "2023-01-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뮤지컬 아이다 선율에 맞춰 @이름1가 트리플 악셀을 가볍게 해냅니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2에 이어 한국 여자 피겨 사상 두 번째로 트리플 악셀 랜딩에 성공한 @이름1는 이제 고작 13살.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.796,
+                "end": 11.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자 싱글 동갑내기 @이름3도 국내 최연소로 트리플 악셀과 4회전 점프에 성공할 만큼 엄청난 재능을 자랑합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.585,
+                "end": 20.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "점점 더 고난도 기술을 요구하는 피겨 흐름을 맞춰 어린 나이부터 치열하게 기술을 연마하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.287,
+                "end": 27.394
+            }
+        ]
+    },
+    "summary": "@이름1가 트리플 악셀을 가볍게 해내고 @이름3도 국내 최연소로 트리플 악셀과 4회전 점프에 성공했는데 점점 더 고난도 기술을 요구하는 피겨 흐름에 맞춰 어린 나이부터 치열하게 기술을 연마하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01492_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": 38,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

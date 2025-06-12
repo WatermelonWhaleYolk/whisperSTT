@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNI_00166",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.266,
+        "format": "MP4",
+        "date": "2023-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강원도 원주의 주택가에서 강남 학원가에 배포된 마약 음료를 직접 제조한 길 모 씨가 법원 구속 영장 심사에 출석했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검거된 지 사흘 만입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.237,
+                "end": 10.520
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "관련 혐의 인정하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.530,
+                "end": 12.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중국 보이스 피싱 조직의 협박 전화를 변조해준 김 모 씨도 함께 출석했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.940,
+                "end": 18.826
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "압수물 분석 결과 김 씨는 이미 보이스 피싱 범죄 14건에 연루된 것으로 파악됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.836,
+                "end": 25.184
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "혐의 소명을 어떻게 하실 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.194,
+                "end": 28.261
+            }
+        ]
+    },
+    "summary": "강남 학원가에 배포된 마약 음료를 직접 제조한 길 모 씨가 법원 구속 영장 심사에 출석했으며 압수물 분석 결과 김 씨는 이미 보이스 피싱 범죄 14건에 연루된 것으로 파악됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00166_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

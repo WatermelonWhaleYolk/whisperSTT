@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00249",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2023-04-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김은중 감독은 열두 시간의 시차가 있는 아르헨티나의 낯선 환경에 적응하는 게 첫번째 과제라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.573
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많은 양을 짧은 시간에 해야 되는 그런 부분이 어려움인 거 같은 데 모든 나라가 준비를 해야지 되기 때문에 충실히 뭐 면밀하게 체크를 잘하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.583,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "김은중 감독은 열두 시간의 시차가 있는 아르헨티나의 낯선 환경에 적응하는 게 첫번째 과제라고 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00249_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

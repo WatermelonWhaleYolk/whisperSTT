@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNI_02328",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.2,
+        "format": "MP4",
+        "date": "2015-08-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 못 차면 안 된다는 생각에 좀 집중을 더 많이 했고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.959
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "캐나다 월드컵 준우승 팀인 일본을 꺾은 여자 팀에 이어 남자 대표 팀도 한일전 승전보를 올릴 준비를 하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.969,
+                "end": 11.560
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.570,
+                "end": 23.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일본이 후반 막판 체력 저하를 노출한 것도 우리가 공략해야 할 부분입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.065,
+                "end": 28.182
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우한에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.192,
+                "end": 31.200
+            }
+        ]
+    },
+    "summary": "일본을 꺾은 여자 팀에 이어 남자 대표 팀도 한일전 승리를 준비 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02328_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

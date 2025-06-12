@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03547",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.623,
+        "format": "MP4",
+        "date": "2022-05-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고객도 다 나와 똑같은 사람이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.779
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.789,
+                "end": 3.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 네, 어서오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.081,
+                "end": 4.566
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요즘 스마트폰인지 뭔지가 좋다는데 나는 이거 뭐 잘 모르지만 여튼 사기 치면 죽어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.576,
+                "end": 14.798
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.808,
+                "end": 15.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "판 건 없지만 환불해 드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.294,
+                "end": 17.655
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "도무지 패턴화 되지 않는 고객들의 자유 분방함에 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.665,
+                "end": 23.623
+            }
+        ]
+    },
+    "summary": "고객들은 패턴화 되지 않고 여러 손님들이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03547_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

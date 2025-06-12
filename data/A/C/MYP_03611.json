@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "filename": "MYP_03611",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.454,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유리창 너머로 울려오는 굉장한 소리의 정체는 바로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.721,
+                "end": 5.259
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리집 꽤 높은데 창문 닦나 아님 도둑인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.269,
+                "end": 9.846
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누 누구야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.856,
+                "end": 13.862
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.872,
+                "end": 15.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그만 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.883,
+                "end": 16.935
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부동산에서 왔나?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.945,
+                "end": 18.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 비둘기였다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.240,
+                "end": 21.454
+            }
+        ]
+    },
+    "summary": "유리창 너머에 들려오는 소리는 비둘기였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03611_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

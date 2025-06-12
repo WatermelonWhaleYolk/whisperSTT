@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYP_04165",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.214,
+        "format": "MP4",
+        "date": "2020-05-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기야 어이 여기야 거기야 어이야 얘야 아 야야 대리야",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 25.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 대리 소리에 환장하는 거 봐라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.810,
+                "end": 31.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흐윽이란다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.170,
+                "end": 38.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 뭐야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.464,
+                "end": 43.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 대리",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.491,
+                "end": 45.387
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피는 또 왜.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.397,
+                "end": 48.214
+            }
+        ]
+    },
+    "summary": "패치가 대리라는 말에 깜짝 놀라서 잠에서 깼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 138
+                }
+            ]
+        }
+    ]
+}

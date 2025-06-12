@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "filename": "KNI_01756",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 85.568,
+        "format": "MP4",
+        "date": "2018-07-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수단 50명을 포함한 통일 농구 방북단 101명이 오늘 오전 군 수송기를 타고 서울 공항을 출발했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 평양 통일농구대회가 한반도 평화를 더 진전시키는 그런 계기가 되었으면 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.219,
+                "end": 15.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군 수송기는 서해 직항로를 타고 이동해 1시간여 만에 평양 순안공항에 도착했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.168,
+                "end": 21.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마중을 나온 원길우 북한 체육성 부상은 체육이 남북 화해협력과 평화번영의 대통로를 열어나가는 데 긍지를 느낀다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.342,
+                "end": 30.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일부터 열리는 통일 농구 경기는 남북 선수가 서로 섞여서 경기를 펼치는 혼합경기와 남북 선수 간 대결인 친선경기 등으로 4차례에 걸쳐 진행됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.279,
+                "end": 41.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 대회 기간 동안 조 장관이 리선권 조국평화통일위원장은 물론 김정은 국무위원장과과 만날 가능성도 제기되고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 41.281,
+                "end": 50.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 따라 체육 교류 뿐만 아니라 남북 관계 전반에 대한 폭넓은 의견 교환이 이뤄질 것으로 기대됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 50.333,
+                "end": 57.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "8월 20일부터 금강산에서 열릴 이산가족 상봉 행사 준비작업도 속도를 내고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 57.229,
+                "end": 63.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한적십자사는 상봉 의사와 건강 상태를 확인한 뒤 상봉 후보자를 500명에서 250명으로 압축했으며 오늘 판문점에서 북측과 생사확인 의뢰서를 교환했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 63.342,
+                "end": 75.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이를 바탕으로 남북은 오는 25일 답변서를 교환해 다음 달 4일에는 남북 각각 최종 대상자 100명을 선정하게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 75.361,
+                "end": 83.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 83.483,
+                "end": 85.566
+            }
+        ]
+    },
+    "summary": "오늘 오전 평양 순안공항에 도착한 통일 농구 방북단 101명은 혼합 경기와 친선경기 등 4차례의 경기를 치를 예정이며 대회 기간 동안 조 장관이 김정은 국무위원장을 만날 가능성도 제기되는 가운데 남북은 금강산 이산가족 상봉행사를 위한 생사확인 의뢰서도 서로 교환했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01756_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

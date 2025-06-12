@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_02713",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.433,
+        "format": "MP4",
+        "date": "2020-09-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리울 거야 메시포터.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.199
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 피르미온느 너도 잘 지내고 다른 곳에서 자리잡게 되면 연락할게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.209,
+                "end": 6.910
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 떠나고 싶다 말했더니 기껏 날아온 답장이 평생 여기 남아달라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.920,
+                "end": 10.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 되겠어 내가 직접 회장을 만나 단판을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.678,
+                "end": 12.947
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "진짜요 거기 가면 사람 물어도 된다고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.957,
+                "end": 15.262
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 수아레즐리잖아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.272,
+                "end": 16.821
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아니 당연히 무는 건 안 되지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.831,
+                "end": 19.433
+            }
+        ]
+    },
+    "summary": "피르미온느가 메시포터한테 그리울 거라고 하니까 메시포터가 너도 잘 지내고 다른 곳에서 자리잡게 되면 연락한다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02713_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

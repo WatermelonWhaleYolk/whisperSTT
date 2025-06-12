@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_00495",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2023-05-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이에 KBO는 조사 위원회를 통해 필요하면 일본 현지 조사까지 진행하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBO는 각 구단이 제출한 사실 확인서에 3명을 제외한 추가 선수의 일탈 행위는 없다고 밝혔지만 유사 사례가 있을 수도 있다며 명확하게 진상 조사를 하겠다고 덧붙였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.608,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "KBO는 일본 현지 조사까지 진행하겠다고 밝힌 가운데 구단이 제출한 확인서에 3명을 제외한 추가 선수의 일탈 행위는 없다고 했지만 명확한 진상 조사에 착수하겠다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00495_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 44
+                }
+            ]
+        }
+    ]
+}

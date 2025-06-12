@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_00218",
+        "category": "스포츠뉴스",
+        "sub_category": 41,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.163,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코웨이 오동석이 한참을 몰고 가더니 기막힌 노룩 패스를 하고 김호영의 슛 성공.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코웨이는 경기 내내 앞서 나갔는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.843,
+                "end": 9.069
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 종료 5초 전 조승연에게 극적인 동점 석점골을 허용했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.079,
+                "end": 14.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 더 극적인 드라마는 종료 직전 나왔는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.032,
+                "end": 16.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후패스를 받은 곽준성.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.879,
+                "end": 18.827
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거의 버저비터와 같은 결승 득점.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.837,
+                "end": 21.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다시 돌려봐도 환상적인 패스에 이은 멋진 골이죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.639,
+                "end": 25.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해결사 곽준성을 앞세운 코웨이가 이번 대회 정상에 올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.422,
+                "end": 30.163
+            }
+        ]
+    },
+    "summary": "코웨이가 경기 내내 앞서 나갔으며 버저비터와 같은 결승 득점으로 이번 대회 정상에 올랐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00218_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

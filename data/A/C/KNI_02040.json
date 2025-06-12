@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_02040",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.008,
+        "format": "MP4",
+        "date": "2019-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 9일밤 경남 창녕에서 열린 제24회 무학기 전국 고등 축구대회 용인 태성FC와 청주 대성고의 8강전 경기에서 나온 62번의 승부차기 장면 입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직도 멘붕이 와 가지고 지금 우리 다음주부터 인제 도내체전 예선전 시합이 있거든요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.096,
+                "end": 19.000
+            }
+        ]
+    },
+    "summary": "용인 태성FC와 청주대성고는 8강에서 62번의 승부차기를 하였고 대성고는 다음주부터 도내체전 예선전 시합이 있다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02040_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 32
+                }
+            ]
+        }
+    ]
+}

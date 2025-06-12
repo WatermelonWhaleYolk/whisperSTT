@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_02230",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.672,
+        "format": "MP4",
+        "date": "2016-03-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 상황이 벌어지다 보니까 아무래도 처음에는 많이 당황했었는데 팀의 언니들이나 그리고 관중들분께서 많이 응원해 주신 덕분에 다시 침착하게 경기를 할 수 있어서 잘 끝낼 수 있었던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최민정은 계주에서도 금메달을 합작했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.816,
+                "end": 20.666
+            }
+        ]
+    },
+    "summary": "최민정 선수는 처음에 걸려 넘어져 당황했지만 많은 응원에 침착하게 우승을 할 수 있었고 계주에서도 금메달을 획득했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02230_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

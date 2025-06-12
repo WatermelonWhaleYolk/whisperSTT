@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_02718",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.5,
+        "format": "MP4",
+        "date": "2020-08-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "포체티노 때는 1명도 안 사줬는데 챔스 결승까지 올라갔어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.514
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그래도 지금 맨시티며 첼시 폭풍 영입을 하고 있는데 이거 너무한 거 아니냐고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.524,
+                "end": 8.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무하다니 내가 듣기론 자네가 부임한 지 2년차에는 항상 우승을 해왔다면서? 올해 자네를 데려온 지 두 번째 시즌이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.417,
+                "end": 15.572
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 어느 정도 제 입맛대로 팀만 꾸려달라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.582,
+                "end": 18.500
+            }
+        ]
+    },
+    "summary": "회장님이 내가 듣기론 자네가 부임한 지 2년차에는 항상 우승을 해왔다고 올해 자네를 데려온 지 두 번째 시즌이라고 얘기하니 무리뉴가 어느 정도 제 입맛대로 팀만 꾸려달라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02718_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

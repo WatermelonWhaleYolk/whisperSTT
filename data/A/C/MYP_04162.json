@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_04162",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2020-05-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "덕분에 해야 될 일이 뭔지 깨달았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남이 무너져야 올라오는 무능력한 새끼들이 잠깐 득세 좀 해 보겠다고 꿈에 부풀었어 응.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.341,
+                "end": 14.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 고전 게임 부서의 패치다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.449,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "패치는 덕분에 해야 될 일이 무엇인지 깨달았다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04162_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 2
+                }
+            ]
+        }
+    ]
+}

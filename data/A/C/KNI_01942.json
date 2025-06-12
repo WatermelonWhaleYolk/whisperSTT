@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01942",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.458,
+        "format": "MP4",
+        "date": "2021-12-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배구인들이나 뭐 팬분들에게 너무 죄송하게 생각하고 또 뭐 어느 정도는 제가 책임이 있다고 생각하기 때문에 오늘 경기를 잘 마치고 네 이 자리에서 물러나도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 14.132
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 기업 은행 구단의 그 유일한 영구 결번이기도 했던 팀의 레전드 김사니는 이제 감독 대행에 선임된 지 3경기 만에 조금은 불명예스럽게 팀을 떠나게 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.142,
+                "end": 24.511
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그러네요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.521,
+                "end": 25.458
+            }
+        ]
+    },
+    "summary": "김사니는 기업 은행 구단의 유일한 영구 결번이기도 했던 팀의 레전드였는데 배구인들이나 팬분들에게 죄송하다고 했고 어느 정도 책임이 있으니 오늘 경기를 잘 마치고 물러나겠다면서 감독 대행에 선임된 지 3경기 만에 불명예스럽게 팀을 떠나게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01942_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

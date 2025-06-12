@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "KNI_02411",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 47.514,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 8번 레인의 @이름1 선수가 조금 빨랐던 것으로 보여지는데 모르겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 지켜봐야 될 것으로 보여집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.109,
+                "end": 8.489
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 8레인이 맞네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 8.499,
+                "end": 10.548
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 부산 사대 부설 고등학교 @이름1 선수가 부정 출발로 인한 실격이 됐습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.558,
+                "end": 18.286
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이게 단 한 번의 부정 출발만으로도 뛰지를 못하니까 선수들에게는 어쩌면 좀 가혹한 일일 수도 있겠습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 18.296,
+                "end": 27.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 남은 선수들도 지금 집중을 해줘야될 것으로 예상이 됩니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 27.623,
+                "end": 31.248
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 31.258,
+                "end": 31.875
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 이렇게 부정 출발이 나왔을 때 실격당한 선수가 느낄 뭐 상실감이야 이루 말할 수 없겠습니다만 다른 선수들에게도 근육의 부하가 가죠.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 31.885,
+                "end": 43.845
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 긴장감이 더 높아진다고 볼 수가 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 43.855,
+                "end": 47.514
+            }
+        ]
+    },
+    "summary": "@이름1 선수가 부정 출발로 실격이 됐고 실격당한 일로 인해 다른 선수들에게는 긴장감이 더 높아진다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02411_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

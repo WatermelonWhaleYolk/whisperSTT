@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYP_02381",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.9,
+        "format": "MP4",
+        "date": "2021-02-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 아무튼 오늘 저희가 찾아 볼 집은 아자르 버거라는 수제 버거집입니다 화면으로 만나보시죠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 여러분 저는 지금 아자르 버거 앞에 나와 있습니다 아니 이거 이거 간판부터가 잘못됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.633,
+                "end": 12.235
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아자르 버거라면서 왜 해저드 버거라고 써 놓은겨 일단 들어가 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.245,
+                "end": 16.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 간판 표기가 잘못돼 있나 봅니다. 아자르와 해저드는 큰 차이가 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.525,
+                "end": 20.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사장님 계십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.735,
+                "end": 22.900
+            }
+        ]
+    },
+    "summary": "백쫑원이 골목식당 촬영을 위해 아자르 버거라는 수제 버거집에 갔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02381_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

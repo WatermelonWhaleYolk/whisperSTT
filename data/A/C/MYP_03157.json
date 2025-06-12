@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03157",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 25.025,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부디 자비를",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 이 자식들아. 내가 당한 것만 생각하면 그냥 니들 모가지를 전부",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.083,
+                "end": 6.430
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "용사님?0",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.440,
+                "end": 7.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쳐내면 불쌍하니 앞으로 착하게 살거라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.050,
+                "end": 9.163
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예이",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.173,
+                "end": 10.308
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "살았다. 이 멍청한 년 덕분에 초반 리타이어는 면했구나.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.318,
+                "end": 14.524
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인간놈들이 이렇게 경계심이 많을 줄이야. 힘을 키우기 전까진 정체를 들키지 않게 조심해야 겠어.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.534,
+                "end": 21.430
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "용사님의 넓으신 아량에 감동했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.440,
+                "end": 25.025
+            }
+        ]
+    },
+    "summary": "용사님은 노인을 죽이고 싶었으나 다른 여성의 눈치를 보고 포기하고 힘을 키울 때까지 조심하려 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03157_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

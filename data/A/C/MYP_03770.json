@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_03770",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.798,
+        "format": "MP4",
+        "date": "2021-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "굴전이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.556
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 그런 게 다 있어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.566,
+                "end": 2.999
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 당시만 해도 굴은 귀한 음식이었기 때문에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.009,
+                "end": 7.168
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얌마 굴이 남자한테 완전 좋은 음식이래",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.178,
+                "end": 12.063
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아엉?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.073,
+                "end": 12.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흐흐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.700,
+                "end": 13.346
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남자는 근육",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.356,
+                "end": 16.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 좋게 말고 오후엔 저 근육이 피부를 찢고 나오겠군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.025,
+                "end": 20.111
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "순식간에 싹 비워버렸댄다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.121,
+                "end": 24.791
+            }
+        ]
+    },
+    "summary": "친구는 굴이 남자한테 좋은 음식이라고 하자 형은 굴전을 싹 비워버린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03770_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

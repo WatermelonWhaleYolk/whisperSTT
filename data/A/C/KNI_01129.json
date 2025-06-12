@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01129",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.165,
+        "format": "MP4",
+        "date": "2022-08-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 전 5명의 동료와 한꺼번에 코로나에 확진된 상황 속에서도 김연경은 마스크를 쓴 채 복귀전 18 득점으로 제 몫을 톡톡히 해냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김연경의 활약 속에 흥국생명은 김희진이 분전한 기업은행을 3 대 1로 물리쳤습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.082,
+                "end": 16.456
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이길 수 있어서 너무 기쁘고 이렇게 오랜만에 많은 분들 앞에서 이렇게 경기를 하게 돼서 너무 재밌게 어 경기했던 거 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.466,
+                "end": 25.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맏언니 김연경의 투지에 후배 공격수 @이름1은 22점을 터트리며 승리를 함께 이끌었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 25.518,
+                "end": 32.165
+            }
+        ]
+    },
+    "summary": "김연경은 마스크를 쓴 채 복귀전 18 득점으로 제 몫을 해냈고 흥국생명은 기업은행을 3 대 1로 물리쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01129_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

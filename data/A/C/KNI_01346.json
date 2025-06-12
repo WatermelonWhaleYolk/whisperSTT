@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_01346",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.403,
+        "format": "MP4",
+        "date": "2023-01-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인삼 공사 오세근의 실수에 이은 속공 기회에서 나온 에어볼은 힘이 빠지게 만들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대 수비가 없는 상태에서 이동엽이 슛을 허공에 날렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.775,
+                "end": 11.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 내내 슛을 던지라고 외쳤던 은희석 감독은 프로답지 못한 경기력에 결국 작전 타임을 불렀습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.581,
+                "end": 19.406
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 무슨 농구야 무서워? 던질 수 있어야지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.416,
+                "end": 24.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼성이 에어볼을 남발하는 사이 오세근의 3점포와 스펠맨의 덩크를 앞세운 선두 인삼 공사는 25점 차로 쉽게 승리했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.667,
+                "end": 33.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼성은 11연패 수렁에 빠졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.466,
+                "end": 36.403
+            }
+        ]
+    },
+    "summary": "경기 내내 슛을 던지라고 외쳤던 감독은 프로답지 못한 경기력에 결국 작전 타임을 불렀지만 인삼 공사는 25점 차로 쉽게 승리했고 삼성은 11연패 수렁에 빠졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01346_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

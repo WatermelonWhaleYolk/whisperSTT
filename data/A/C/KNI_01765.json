@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNI_01765",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.1,
+        "format": "MP4",
+        "date": "2018-09-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "베트남의 히딩크 박항서 감독이 등장하자 함성과 박수가 쏟아집니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이른 새벽부터 수십 명의 취재진이 몰려든 열기에 쑥스러운 미소를 감추지 못했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.300,
+                "end": 12.014
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 특별하게 뭐 한 것도 없는데 반갑게 맞아 주시고 국민들께서 많은 우리 베트남 축구에 성원 보내주신 것에 대해서도 진심으로 감사 말씀 드립니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.024,
+                "end": 24.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "권위를 버리고 선수들에게 친근하게 다가서는 박항서 특유의 아버지 리더십은 4강 기적의 원동력이 됐습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 24.846,
+                "end": 33.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아시안게임 대회 도중 선수의 발을 직접 마사지해주는 모습이 이를 잘 보여줍니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 33.202,
+                "end": 39.100
+            }
+        ]
+    },
+    "summary": "베트남의 히딩크 박항서 감독은 아시안게임에서 특유의 아버지 리더십을 보여주며 4강 기적의 원동력이 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

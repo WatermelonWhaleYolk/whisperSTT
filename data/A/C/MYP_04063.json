@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYP_04063",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2020-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 단검이 나중에 봉인을 풀면 최종보스를 무찌를 수 있는 유일한 무기란 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.455,
+                "end": 6.034
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용사님의 첫 임무가 바로 그 단검을 사오는 거라고 매뉴얼에도 다 적혀있는 하 너 안 읽어 봤구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.044,
+                "end": 16.997
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 별명도 매뉴얼이면서 어떻게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.007,
+                "end": 19.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호들갑 떨지마 연락해서 중단시키면 돼.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.735,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "단검이 나중에 봉인을 풀면 최종보스를 무찌를 수 있는 유일한 무기란이고 용사님의 첫 임무가 바로 그 단검을 사오는 거라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04063_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

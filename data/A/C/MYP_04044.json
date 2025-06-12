@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_04044",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.563,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마침내 구제에 성공했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.005
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다 됐 석유가 되거라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.015,
+                "end": 12.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그녀는 이미 이 세상의 것이 아니었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.069,
+                "end": 15.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 그 뒤로 몇 년간 사람 인형을 정면으로 쳐다보지 못했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.016,
+                "end": 21.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3 돼지목에 진주",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.068,
+                "end": 26.559
+            }
+        ]
+    },
+    "summary": "가스파더는 인형을 구제했지만 인형은 이미 세상의 것이 아니라 다시 땅에 묻었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04044_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

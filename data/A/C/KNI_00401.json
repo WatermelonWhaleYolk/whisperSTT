@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_00401",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.263,
+        "format": "MP4",
+        "date": "2023-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쏟아진 비판에 당 지도부는 다시 한번 고개를 숙여 국민들에게 사과했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.748
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 두 의원의 탈당으로 이번 사건이 끝났다거나 어려움을 넘겼다거나 생각하지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.758,
+                "end": 17.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈 봉투 사건 이후 쇄신의 첫 발은 뗐지만 대의원제 개편 등 쇄신 방향을 두고도 계파 간 이견이 여전해 최종안 마련까지 진통이 예상됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.557,
+                "end": 27.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.570,
+                "end": 30.263
+            }
+        ]
+    },
+    "summary": "당 지도부는 두 의원의 탈당으로 사건이 끝났다고 생각하지 않는다며 국민들에게 사과했고 쇄신 방향을 두고 계파 간 이견이 여전해 최종안 마련까지 진통이 예상된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00401_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00401_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

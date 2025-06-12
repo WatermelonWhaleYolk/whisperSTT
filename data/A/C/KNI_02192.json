@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_02192",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.6,
+        "format": "MP4",
+        "date": "2017-11-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민 가수 전인권은 대한민국의 또 한 번의 기적을 염원합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.794
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 촛불 집회로 세계에 세계를 놀라게 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.804,
+                "end": 10.031
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 바로 이제 평창 올림픽이 시작이 됐는데는 어 이번에도 세계가 놀랄 수 있는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.041,
+                "end": 16.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "극지를 탐험하며 극한의 도전을 이어온 맨발의 사나이 @이름1씨 공연 내내 살을 에는 얼음 위에서 오래 견디기에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.825,
+                "end": 31.600
+            }
+        ]
+    },
+    "summary": "전인권은 대한민국이 세계를 놀라게 하기를 염원하고 맨발의 사나이는 공연 내내 얼음 위에서 응원 열기를 보여주었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02192_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

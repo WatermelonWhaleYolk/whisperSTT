@@ -1,0 +1,458 @@
+{
+    "metadata": {
+        "filename": "MYP_03048",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 63.088,
+        "format": "MP4",
+        "date": "2019-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 돌아가시면 어떡해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.541
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘해드리지도 못했는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.551,
+                "end": 3.804
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 곳으로 가셨을 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.814,
+                "end": 5.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 슬퍼하지 마세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.518,
+                "end": 7.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좆두 형님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.012,
+                "end": 8.215
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나 날강두 사장님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.225,
+                "end": 11.346
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭬 뭬야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.356,
+                "end": 12.319
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내가 죽은 게야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.329,
+                "end": 13.957
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그럼 누구겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.967,
+                "end": 15.644
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.654,
+                "end": 16.480
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "살려다오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.490,
+                "end": 17.440
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나는 예전의 호크루지가 아니라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.450,
+                "end": 19.868
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너희들 덕분에 새 사람이 됐어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.878,
+                "end": 22.083
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "제발 나를 불쌍히 여겨 다시 한 번 기회를 달라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.093,
+                "end": 26.040
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "제발.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.050,
+                "end": 26.992
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "제발 살려다오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.002,
+                "end": 28.466
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "제발 살려다오 제발.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.476,
+                "end": 31.339
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아니 형님 무슨 일이세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.349,
+                "end": 32.885
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.895,
+                "end": 33.349
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 이보게 내가 살아있나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.359,
+                "end": 35.402
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "예?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.412,
+                "end": 35.831
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아 그럼요 살아계시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.841,
+                "end": 37.389
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저 정말이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.399,
+                "end": 38.357
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저 정말이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.367,
+                "end": 39.797
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내가 살아있네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.807,
+                "end": 40.911
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "살았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.921,
+                "end": 41.723
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "살았어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.733,
+                "end": 42.564
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "형님 무슨 일 있으셨어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.574,
+                "end": 44.170
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에 무슨 일이 있었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.180,
+                "end": 45.912
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "참 크리스마스 파티에 매시도 오는가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.922,
+                "end": 49.211
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아 예 아마 오실 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.221,
+                "end": 50.456
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "씨발.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.466,
+                "end": 51.069
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "예?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 51.079,
+                "end": 51.545
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 아닐세.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 51.555,
+                "end": 52.514
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나도 갈 테니 내 자리 좀 맡아주게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 52.524,
+                "end": 55.014
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자네 옆자리로 말일세.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 55.024,
+                "end": 56.762
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "예 형님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 56.772,
+                "end": 57.380
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그럼 조금 있다 뵙겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 57.376,
+                "end": 58.538
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "조심히 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 58.548,
+                "end": 63.088
+            }
+        ]
+    },
+    "summary": "자신이 죽은 걸 본 호크루지가 유령들 덕분에 새 사람이 됐으니 자기를 불쌍히 여겨 기회를 달라고 하다가 잠에서 깬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03048_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

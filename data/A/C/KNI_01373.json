@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_01373",
+        "category": "스포츠뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.022,
+        "format": "MP4",
+        "date": "2023-01-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "6회 연속 올스타 팬 투표 1위도 차지했던 김단비지만 자신의 손으로 우승을 일궈보고 싶다는 욕심이 우리은행으로 이적한 계기가 됐습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그때는 주전의 막내로서 게임을 한 거고 나이가 들고 좀 누군가 이끌면서 우승을 한 적은 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.922,
+                "end": 16.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 은퇴가 얼마 안 남았기 때문에 우승도 욕심이 많이 났어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.320,
+                "end": 22.022
+            }
+        ]
+    },
+    "summary": "은퇴을 앞둔 우리은행 김단비는 자신의 손으로 우승을 일궈보고 싶다고 포부를 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01373_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

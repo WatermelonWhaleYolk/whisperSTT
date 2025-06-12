@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_02349",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.066,
+        "format": "MP4",
+        "date": "2016-07-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1은 지난 해 1이닝 볼4 등 다양한 조건의 승부 조작 제안을 4차례 받고 2번 성공했지만 더 이상 돈은 받지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 같은 사실이 알려지자 NC 구단은 KBO에 이태양의 실격 처리를 요청했지만 사과문 외에는 입장 표명을 거부하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 8.481,
+                "end": 17.581
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사과문 발표하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.591,
+                "end": 20.066
+            }
+        ]
+    },
+    "summary": "야구 선수 @이름1의 4차례 승부 조작 제안 사실이 알려져 이에 대해 구단 측은 KBO에 실격 처리 요청했지만 사과문 외엔 입장 표명을 거부하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02349_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 91
+                }
+            ]
+        }
+    ]
+}

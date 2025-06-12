@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_02304",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.0,
+        "format": "MP4",
+        "date": "2015-03-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "만약 명예 회복의 기회가 우여곡절 끝에 주어 진다 해도 자격 정지 기간에는 대회에 참가할 수 없는 상황입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실전 경험을 쌓을 수 없는 박태환이 개인 훈련만으로 경기력을 유지할 수 있을지는 미지수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.905,
+                "end": 15.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최악의 시나리오를 피해 올림픽에 도전할 수 있는 희망이 생겼지만 여전히 박태환이 풀어야 할 숙제는 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.674,
+                "end": 24.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.341,
+                "end": 28.000
+            }
+        ]
+    },
+    "summary": "올림픽에 도전할 수 있는 희망이 생겼지만 올림픽 준비 기간 동안에 다른 대회에 참가할 수 없어 실전 경험을 쌓을 수 없게 됐는데 개인 훈련만으로 경기력을 유지할 수 있을지 미지수이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02304_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 59
+                }
+            ]
+        }
+    ]
+}

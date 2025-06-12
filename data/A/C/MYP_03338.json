@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYP_03338",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2022-11-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "손으로 뽑는 기계 냉면 뭐 그런 건가",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그리고 꼭대기 층 집 말이야 네가 일하는 주 금요일에 이사 간대.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.830,
+                "end": 8.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그럼 쓰레기 많이 나오려 나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.462,
+                "end": 11.741
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아마도 하하하하하하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.751,
+                "end": 15.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후련해 보입니다 그런 캐릭터 아니었잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.979,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "내가 일하는 주 금요일에 꼭대기 층 집이 이사 간다는 이야기를 해주는 요셉형이 왠지 후련해 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03338_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02093",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.766,
+        "format": "MP4",
+        "date": "2018-02-08",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오노의 예상처럼 이곳 강릉 아이스 아레나를 가득 메울 1만 2000 명의 함성은 분명 우리 편입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 함성에 부담을 갖지 않고 얼마나 즐길 수 있느냐가 우리 대표팀의 성적을 좌우할 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.562,
+                "end": 13.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.578,
+                "end": 16.766
+            }
+        ]
+    },
+    "summary": "한국 쇼트트랙 대표팀은 강릉 아이스 아레나에서 경기를 치를 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02093_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNI_00756",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.568,
+        "format": "MP4",
+        "date": "2023-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성남시 백현동 한국식품연구원이 있던 이 부지는 원래는 자연녹지라 아파트를 지을 수 없었지만 용도가 준 주거지로 바뀐 뒤 개발에 속도가 붙었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 번에 네 단계나 뛰어 오른 이례적인 용도 변경.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.131,
+                "end": 13.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 당시 이재명 시장의 측근으로 분류됐던 @이름1 전 한국하우징기술 대표가 사업에 합류하면서 힘을 쓴 걸로 의심합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.612,
+                "end": 22.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 전 대표는 그러나 KBS 취재진을 만나 자신의 영향력을 부인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.163,
+                "end": 26.892
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 용도 변경할 자신이 없다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.902,
+                "end": 29.235
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너희들이 해 주면은 우리가 사겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.245,
+                "end": 32.094
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용도 변경이 안 되면은 210억을 돌려주는 조건으로",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.104,
+                "end": 35.568
+            }
+        ]
+    },
+    "summary": "백현동 부지의 한 번에 네 단계나 뛰어 오른 이례적인 용도 변경은 @이름1 전 한국하우징기술 대표가 사업에 합류하면서 힘을 쓴 걸로 의심된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00756_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

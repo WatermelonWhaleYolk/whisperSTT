@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00088",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.063,
+        "format": "MP4",
+        "date": "2023-04-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대피 시설에는 여러 요양 시설에서 한꺼번에 대피한 수십여 명이 빽빽하게 자리를 채웠고 휠체어를 탄 환자들과 입소자들이 줄을 이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불이 난 건 오늘 낮 12시 10분쯤 충남 금산군 지량리 야산에서 시작된 불이 강한 바람을 타고 번지면서 대전시 산직동과 흑석동 일대까지 순식간에 확산됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.272,
+                "end": 21.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도심과 인접한 데다 휴양림을 끼고 있는 산으로 각종 요양 시설과 병원이 최적지로 꼽혔지만 산불이 나면서 사정이 달라졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.158,
+                "end": 30.063
+            }
+        ]
+    },
+    "summary": "요양 시설과 병원의 최적지로 꼽힌 곳이 산불이 나면서 대피 시설에 사람들이 몰렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00088_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

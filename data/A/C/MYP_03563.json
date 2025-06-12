@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03563",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.06,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "참 재밌는 재능이지만 조심스러웠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "녀석도 좋아하지만 그런 결정은 내가 함부로 밀어붙일 사안이 아니었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.247,
+                "end": 9.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아버지는 뭐 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.678,
+                "end": 11.467
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공부를 드럽게 못하면 삶은 여러 가지 해 봐야 된다 믿는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.477,
+                "end": 17.164
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그러면 돈도 2배로 벌겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.174,
+                "end": 18.986
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "난 찬성",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.996,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "좋은 재능을 가졌지만 내가 밀어붙일 사안은 아니었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03563_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

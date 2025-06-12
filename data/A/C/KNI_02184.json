@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02184",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.166,
+        "format": "MP4",
+        "date": "2017-08-16",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "30년 전 서울 올림픽 자원 봉사자였던 @이름1 씨는 요즘 두 딸과 함께 교육을 받고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창 올림픽 자원 봉사에 지원해 동시에 합격했기 때문입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.555,
+                "end": 11.047
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 올림픽을 경험해본 @이름1 씨는 딸들에게 꼼꼼한 조언을 아끼지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.057,
+                "end": 17.166
+            }
+        ]
+    },
+    "summary": "30년 전 서울 올림픽 자원 봉사자였던 @이름1 씨는 두 딸과 함께 평창 올림픽 자원 봉사에 지원해 동시에 합격해 요즘 교육을 받고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02184_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 64,
+                    "act": 152
+                }
+            ]
+        }
+    ]
+}

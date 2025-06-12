@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "KNI_02326",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.666,
+        "format": "MP4",
+        "date": "2015-07-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성취감",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "6년째를 맞고 있는 이 강습회는 윤성빈과 원윤종 등 국가 대표를 배출한 산실입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.855,
+                "end": 7.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올해는 특히 47명이나 참가하고 2억 원이 넘는 국가 대표 전용 봅슬레이가 이용되는 등 규모도 커졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.282,
+                "end": 16.270
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저 같은 경우에도 이제 3번 도전 끝에 발탁이 됐기 때문에 절대 포기하지 말고 계속할 수 있다는 생각을 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.280,
+                "end": 23.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "썰매 선수로 전향한 참가자들은 오는 26일 국가 대표 선발전에 출전해 태극 마크의 꿈을 키워갑니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.810,
+                "end": 31.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.324,
+                "end": 34.666
+            }
+        ]
+    },
+    "summary": "이 강습회는 윤성빈, 원윤종 등 국가대표를 배출했고 올해에는 규모도 커졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02326_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

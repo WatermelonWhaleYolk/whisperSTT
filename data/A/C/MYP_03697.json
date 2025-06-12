@@ -1,0 +1,188 @@
+{
+    "metadata": {
+        "filename": "MYP_03697",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.232,
+        "format": "MP4",
+        "date": "2021-10-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 우리는",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.944
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 준비하시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.954,
+                "end": 4.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오랜 사투 끝에",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.629,
+                "end": 5.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돌격",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.750,
+                "end": 7.441
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우오오오",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.451,
+                "end": 9.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방수와 유흥에 무릉도원에 도착할 수 있었다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 9.613,
+                "end": 13.545
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와 비 안 샌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.555,
+                "end": 15.316
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이야 뒤는 멋진 리버뷰",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.326,
+                "end": 17.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기선 폭우조차 한낱 BGM이지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.533,
+                "end": 20.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그곳엔 무려 조명시스템까지 구비되어 있었는데",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 20.458,
+                "end": 24.644
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "허? 불도 들어와요?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 24.654,
+                "end": 26.637
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크흐 역시 고모님 센스",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.647,
+                "end": 32.232
+            }
+        ]
+    },
+    "summary": "비가 안 새고 뒤는 멋진 리버뷰에 조명시스템까지 구비가 되어있어 역시 고모님 센스가 좋다고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03697_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

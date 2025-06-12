@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "filename": "MYP_03473",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.265,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "졸업하기 전에 한번 질러야지 와하하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.587
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사람은 끝을 앞두면 그냥 뭐든 막 하는구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.597,
+                "end": 6.605
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "군대도 잘 설득하면 다시 가겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.615,
+                "end": 9.303
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "학기가 끝나자마자 휴학을 신청했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.313,
+                "end": 12.504
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "조교 누나 우리 이제 호주 가요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.514,
+                "end": 16.177
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "성공하면 다시 못 볼지도 몰라요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.187,
+                "end": 18.198
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "응 내일봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.208,
+                "end": 19.716
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 아니 못 본다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.726,
+                "end": 21.032
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "응 모레 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.042,
+                "end": 22.815
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그리고 출국을 위한 준비가 일차천리로 진행되었지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.825,
+                "end": 27.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마이 비자 오케이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.218,
+                "end": 28.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마이 패스포트 오케이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.932,
+                "end": 30.406
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "마이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.416,
+                "end": 32.265
+            }
+        ]
+    },
+    "summary": "그는 학기가 끝나자마자 휴학을 신청했고 출국을 위한 준비가 일사천리로 진행됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03473_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

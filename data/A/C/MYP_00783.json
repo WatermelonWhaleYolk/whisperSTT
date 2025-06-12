@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYP_00783",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.266,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "깡?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.037
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나도 정지훈이가 다녀간 뒤로는 1일 3깡은 기본으로 한다 아무튼 영국김치 말고 한국김치 맛 그리웠제? 아줌마가 맛있게 구워줄게 재상이 김치 이거 음청 묵고 간데이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.047,
+                "end": 13.765
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 뭐 알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.775,
+                "end": 16.266
+            }
+        ]
+    },
+    "summary": "정지훈과 박제상이 많이 먹고 갔다고 자랑하는 아주머니의 말을 듣고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00783_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

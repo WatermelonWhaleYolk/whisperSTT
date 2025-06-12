@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_03639",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.504,
+        "format": "MP4",
+        "date": "2021-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거기 너",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나중에 학생지도실로 와라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.061,
+                "end": 4.813
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "변명이라도 해보지 그래?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.823,
+                "end": 8.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "교칙을 지켜라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.833,
+                "end": 10.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.190,
+                "end": 15.052
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기까지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.062,
+                "end": 16.211
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할 수 밖에 없어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.221,
+                "end": 24.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋다. 확실하게 지도해 주지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.772,
+                "end": 29.251
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기 너",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.261,
+                "end": 32.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나중에 학생지도실로 와라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.507,
+                "end": 37.504
+            }
+        ]
+    },
+    "summary": "나중에 학생지도실로 오라 하면서 때리고 승부가 결정이 난다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03639_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

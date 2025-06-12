@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00497",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.983,
+        "format": "MP4",
+        "date": "2023-05-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국가 대표로서 명예와 품위를 지키지 못한 일탈에 팬들도 실망했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.260
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나라를 대표해서 간 자리인데 일단은 술을 먹었다는 것 자체가 이런 문제를 일으켰다는 것에 대해서 조금 매우 부정적으로 생각하는 바입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.270,
+                "end": 16.983
+            }
+        ]
+    },
+    "summary": "명예와 품위를 지켜야 할 국가 대표의 일탈에 대해 팬들도 실망하며 이와 같은 행위에 대해 부정적인 입장을 드러냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00497_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

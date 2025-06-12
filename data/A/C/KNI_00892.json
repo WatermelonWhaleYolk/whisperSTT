@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00892",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-02-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "알겠습니다. 선배님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.161
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최정상급 왼손 거포였던 @이름1는 이제 단 한 점을 잡기 위해 투입되는 원포인트 블로커도 마다하지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.171,
+                "end": 12.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헌신이다 뭐 팀을 위해서 희생이다라고 하는데 저는 저 그렇게 생각하지 않고 저에 대한 새로운 기회고 도전이라고 생각하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.757,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "@이름1는 새로운 기회고 도전이라고 생각하고 있다며 이제 단 한 점을 잡기 위해 투입되는 원포인트 블로커도 마다하지 않습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00892_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

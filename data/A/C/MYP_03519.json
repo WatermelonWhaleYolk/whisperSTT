@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYP_03519",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2022-05-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 남은 것은 회장직이었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 그럼 회장도 있어야지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.855,
+                "end": 6.621
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오호 그래 회장님",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.631,
+                "end": 9.459
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "오 누가 제일 어울리냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.469,
+                "end": 11.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멘탈 밸런스가 매우 편파적이었던 우리 중에서는 그닥 적임자가 없었으나 @이름1의 매사에 나서진 않지만",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.799,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "마지막으로 남은 것은 회장직이었는데 멘탈 밸런스가 매우 편파적이었던 우리 중에서는 그닥 적임자가 없었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03519_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_00640",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.497,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코트에 들어갈 수 있는 거 자체가 선수한테는 되게 좋은 일이잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "포기하지 않길 잘했다는 생각도 들어요 지금.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.833,
+                "end": 8.095
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신인 시절엔 별명이 마음에 들지 않았던 황연주지만 이제는 영원한 꽃사슴으로 남고 싶다고 말합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.105,
+                "end": 15.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사슴이라는 게 되게 강해 보이지가 않잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.596,
+                "end": 18.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 강해 보이는 별명을 다시 지어주셨으면 좋겠어요. 예전에는 아 무슨 꽃사슴이야 이랬는데 일단 예뻐요 그러면 고맙습니다 감사합니다 예전엔 아 아니에요 이랬는데 끝날 때까지 꽃사슴으로 불리면 좋죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.620,
+                "end": 30.497
+            }
+        ]
+    },
+    "summary": "신인 시절엔 꽃사슴이란 별명을 마음에 들지 않아 했던 황연주는 영원한 꽃사슴으로 남고 싶다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00640_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

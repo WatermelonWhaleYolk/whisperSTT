@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_03032",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.666,
+        "format": "MP4",
+        "date": "2019-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 지켜봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼마나 막 나가는지 알아야 솔루션을 하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.968,
+                "end": 3.263
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 사장님 여기 피자가 덜 익었는데 좀 더 익혀주실 수.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.273,
+                "end": 6.294
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이씨 먹어도 안 뒤지니까 그냥 먹어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.304,
+                "end": 8.839
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저기 사장님 피자가 나오긴 하는 건가요 지금 89분째 기다리고 있는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.849,
+                "end": 12.498
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아오 피곤해 뒤지겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.508,
+                "end": 13.845
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 부폰아 나와서 주문 좀 받아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.855,
+                "end": 15.734
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아 요리사님이 나오면 피자는 누가 굽나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.744,
+                "end": 18.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "90분이 넘어서도 피자가 안 나오면 뭐 환불 처리 해야죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.210,
+                "end": 21.849
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "저 새끼가 잘도 환불을 해주겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.859,
+                "end": 23.666
+            }
+        ]
+    },
+    "summary": "피자가 89분째 안 나오니 90분이 넘으면 환불처리 해야 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03032_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

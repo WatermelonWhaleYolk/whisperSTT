@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_01979",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.5,
+        "format": "MP4",
+        "date": "2021-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "헌데 콘테 님 정말 강을 등에 지고 하는 훈련이 효과가 있는 것입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.698
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "외질 너도 아직 한참 멀었구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.708,
+                "end": 6.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 훈련이 효과가 있을 리가 있나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.825,
+                "end": 9.124
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강에 빠져 죽지나 않으면 다행인 거고 강등이나 안되면 다행인 게지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.134,
+                "end": 13.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그럼 어째서 조언이라고 속이신 건지 아스날을 위하시는 게 아니셨습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.372,
+                "end": 18.594
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "백수로 살다 보니 조금 무료하더구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.604,
+                "end": 21.045
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아스날 정도면 강등만 당하지 않더라도 명장이란 소리를 들을 테고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.055,
+                "end": 25.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세세상에 설마",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.194,
+                "end": 26.762
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자네가 보기엔 어떤가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.772,
+                "end": 28.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나 안토니오 콘테 정도라면 아스날의 새로운 족장으로 부족함이 없지 않겠나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.114,
+                "end": 36.500
+            }
+        ]
+    },
+    "summary": "콘테는 그런 훈련은 사실 효과가 없다며 백수로 살다 보니 조금 무료한데 아스날 정도면 강등만 당하지 않으면 명장이란 소리를 들을테고 콘테 정도라면 아스날의 새로운 족장으로 부족함이 없지 않겠냐고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01979_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

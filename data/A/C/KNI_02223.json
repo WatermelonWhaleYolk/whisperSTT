@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_02223",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.933,
+        "format": "MP4",
+        "date": "2017-08-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2018년 평창동계올림픽 기념지폐 2천 원권과 기념주화 2차분이 다음 달 1일 공개됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평창올림픽 조직위원회는 다음 달 1일 국내 처음으로 발행되는 기념지폐 2천 원권과 기념주화 2차분에 대한 실물 공개 행사를 열고 다음 달 11일부터 선착순 예약 신청을 받는다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.012,
+                "end": 22.933
+            }
+        ]
+    },
+    "summary": "평창올림픽 조직위원회는 다음 달 1일 국내 처음으로 발행되는 기념지폐 2천 원권과 기념주화 2차분에 대한 실물 공개 행사를 열고 다음 달 11일부터 선착순 예약 신청을 받는다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02223_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

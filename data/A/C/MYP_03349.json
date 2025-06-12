@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_03349",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.089,
+        "format": "MP4",
+        "date": "2022-10-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저도 몸 한번 풀어본 거라 다시 처음부터 시작을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 이놈 새끼 야구를 뭘로 보는 거야 연습은 실전처럼 실전은 그냥 실전이야 여긴 전장이란 말이야 어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.080,
+                "end": 15.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아아아아으",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.240,
+                "end": 16.472
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야구가 취미냐 너는 내게 야구는 살육이 판을 치는 아비규환 지옥이란 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.482,
+                "end": 23.089
+            }
+        ]
+    },
+    "summary": "타자가 몸 한번 풀어본 거라고 하자 야구는 살육이 판을 치는 아비규환 지옥이라고 수호가 화를 낸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03349_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

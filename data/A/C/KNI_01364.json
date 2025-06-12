@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "KNI_01364",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.644,
+        "format": "MP4",
+        "date": "2023-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번엔 상대 수비가 지친 틈을 이용해 단독 돌파로 또 한번 득점에 성공합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.472
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 김선형은 계속 달립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.482,
+                "end": 9.070
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "47득점 김선형의 야 득점이 어디까지 갈지 야 본인도 지금 소리를 지르고 있어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.080,
+                "end": 15.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가스공사도 이대성이 30점으로 분전했지만 무려 47점을 퍼부으며 한 수위의 기량을 자랑한 김선형의 SK가 3차 연장 접전 끝에 3연승을 달렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.002,
+                "end": 28.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조상현 감독 부임 이후 완벽히 달라진 2위 LG는 이관희의 13득점 활약 속에 인삼공사를 꺾었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 28.534,
+                "end": 37.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "LG는 선두 인삼공사를 2경기 차로 맹추격했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 37.361,
+                "end": 42.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 42.464,
+                "end": 44.644
+            }
+        ]
+    },
+    "summary": "지치지 않는 체력으로 47점 괴력을 선보인 김선형이 SK에 3연승을 안겼고 LG는 인상공사을 꺾었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01364_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

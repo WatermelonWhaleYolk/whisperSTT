@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_02688",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.833,
+        "format": "MP4",
+        "date": "2020-09-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그래도 내가 토트넘에 해준 게 있는데 왜 자꾸 선발 명단에서 빼시는 거지? 뭔 말도 안 되는 이적설까지 돌아다니고 참나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 감독님은 도대체 어딜 가신 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.766,
+                "end": 8.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.555,
+                "end": 9.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 가 가레스 베일?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.155,
+                "end": 10.822
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 토트넘 선수지? 아니 무리뉴 감독님 좀 만나려는데 혹시 어디 계신지 알아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.832,
+                "end": 14.892
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 지금 감독님 찾는 중이긴 한데 아이 몇 시간째 찾아도 보이지를 않으셔서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.902,
+                "end": 18.791
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오 베일 도착했구만 이리 오게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.801,
+                "end": 20.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감독님 어디 계셨던 겁니까 한참을 찾았다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.953,
+                "end": 23.589
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 알리 왜 니들이 같이 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.599,
+                "end": 25.886
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저기 베일 미안하지만 내가 급한 일이 생겨서 조금 이따 전화할 테니 내 방으로 오게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.896,
+                "end": 30.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 감독님 왜 자꾸 저를 피하시는 건데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.501,
+                "end": 32.596
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이봐 이름이 알리랬나 어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.606,
+                "end": 34.833
+            }
+        ]
+    },
+    "summary": "알리가 무리뉴 감독님을 몇 시간째 찾아도 보이지를 않는다고 하는데 감독님이 자꾸 피한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02688_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01446",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.095,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한국어가 유창하고 한국 문화에 대한 이해도 높아 프로 적응도 순조로울 거란 기대를 받고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구슬에 운이 좀 따라줘서 앞에 우리 인제 뽑을 수 있다면 어 같이 하고 싶은 마음도 있고 또 @이름1선수도 굉장히 좀 마음의 안정을 찾을 거 같고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.141,
+                "end": 16.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 잘 돼 가지고 뽑히면 어차피 같은 팀에 갈 수 없으니깐 다시 대학교 때처럼 그 라이벌로 만날 것 같아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.287,
+                "end": 24.503
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 기대 아 긴장 좀 하고 있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.513,
+                "end": 29.095
+            }
+        ]
+    },
+    "summary": "한국어가 유창하고 한국 문화에 대한 이해도 높아 프로 적응도 순조로울 거란 기대를 받고 있다며 감독도 같이 하고 싶은 마음을 내비쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01446_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

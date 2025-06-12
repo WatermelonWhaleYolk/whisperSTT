@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_01267",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.983,
+        "format": "MP4",
+        "date": "2022-12-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국을 대표해서 뛴다는 게 너무 어 자랑스러웠던 그런 순간이었는데 그걸 또 저희가 좋은 결과로 또 어 제가 그런 골을 넣을 수 있어서 너무 기쁘고 너무 자랑스러웠던 순간이었던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.825,
+                "end": 16.983
+            }
+        ]
+    },
+    "summary": "한국을 대표해서 뛴다는 게 너무 자랑스러웠던 순간이었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01267_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

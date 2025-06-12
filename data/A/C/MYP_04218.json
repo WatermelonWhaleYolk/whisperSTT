@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_04218",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.604,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이래도 아직 네가 실수 없는 사람이라고 자부할 수 있나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남 탓 그만하고 순순히 인정해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.676,
+                "end": 6.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.311,
+                "end": 9.283
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 이건 에이전시의 모델 관리 소홀 및 의료 지원금이 투명하게 사용되고 있는지 조사가 필요합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.293,
+                "end": 18.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.289,
+                "end": 18.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이건 절대 단순한 사고가 아니야 그리고 도전장 쪽지의 회수 및 지문 채취를 해 주십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.682,
+                "end": 25.086
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이건 분명 누군가 절 함정에 빠뜨린 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.096,
+                "end": 28.092
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사고가 생길리 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.102,
+                "end": 29.849
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남아 있어야 무슨 얼어디질 함정이니 개입이니 도대체 누가 그런 짓을 한단 말이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.859,
+                "end": 36.345
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아마",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.345,
+                "end": 37.602
+            }
+        ]
+    },
+    "summary": "이건 에이전시의 모델 관리 소홀 및 의료 지원금이 투명하게 사용되고 있는지 조사가 필요하고 도전장 쪽지의 회수 및 지문 채취를 해 주시길 바라고 이건 분명히 누군가 절 함정에 빠뜨린 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04218_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

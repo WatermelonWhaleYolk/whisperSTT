@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01140",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.459,
+        "format": "MP4",
+        "date": "2022-09-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 걸어온 길을 뒤따르고 있는 @이름2는 최근 고양시청에 입단하기로 마음먹고 가계약까지 마쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계약 기간은 2년이고 계약금과 연봉은 4억 원 수준인 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.919,
+                "end": 11.978
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고양시청이 이제 또 장미란 체육관으로 유명하고 그 실업팀 중에서 가장 그 환경이 가장 좋은 곳으로 생각도 많이 했었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.988,
+                "end": 21.796
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많은 곳에서 콜이 들어왔지만 여자 팀도 창설한다 하셔서 고양시청을 선택",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.806,
+                "end": 26.459
+            }
+        ]
+    },
+    "summary": "@이름1이 걸어온 길을 뒤따르고 있는 @이름2는 최근 고양시청에 입단하기로 마음먹고 가계약까지 마쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01140_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

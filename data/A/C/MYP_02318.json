@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_02318",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.4,
+        "format": "MP4",
+        "date": "2021-04-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우승 한번 못해보고 은퇴할 상이냐 말일세.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 그게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.189,
+                "end": 2.851
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전하께서 무관을 탈출하실 방법은 딱 한 가지 뿐이옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.861,
+                "end": 5.938
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 당신은 환관부의 상선 내시스 베일이 아니요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.948,
+                "end": 8.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 정말인가 내가 이 지긋지긋한 무관을 탈출할 수 있다는 건가 당장 말해보게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.912,
+                "end": 13.630
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 서두르실 것 없습니다 올해는 이미 힘드실 테고 내년에 확실히 무관에서 탈출시켜 드릴 비법이 있사옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.640,
+                "end": 19.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무관에서 탈출할 수만 있다면 뭐든 좋으니 얼른 말해보게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.768,
+                "end": 24.400
+            }
+        ]
+    },
+    "summary": "무관을 탈출할 수 있냐는 물음에 환관부의 상선 내시스 베일은 올해는 힘들 테고 내년에 확실히 무관에서 탈출시킬 수 있는 방법이 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02318_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

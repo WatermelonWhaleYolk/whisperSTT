@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_03197",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.894,
+        "format": "MP4",
+        "date": "2023-05-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "7",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4명이면 끝장 낼 수 있을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.793
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 엔딩 본다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.803,
+                "end": 3.068
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여유롭게 가 볼까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.078,
+                "end": 4.699
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "오예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.709,
+                "end": 5.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마침 게임도 매번 도전했지만 끝을 못 봤던 그 게임이었던지라 나는 과감히 몸을 실었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.854,
+                "end": 13.930
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "죽었네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.940,
+                "end": 17.045
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "안해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.055,
+                "end": 19.779
+            },
+            {
+                "speaker_id": "7",
+                "transcription": "어려워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.789,
+                "end": 22.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 열심히 하다보니 어느새 나 혼자 남은 상태로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.826,
+                "end": 27.894
+            }
+        ]
+    },
+    "summary": "그는 매번 엔딩을 보지 못했던 게임에 도전하여 다른 사람들이 게임을 하다 가고 혼나 남았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03197_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

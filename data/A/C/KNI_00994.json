@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "KNI_00994",
+        "category": "스포츠뉴스",
+        "sub_category": 11,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.114,
+        "format": "MP4",
+        "date": "2022-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한라산이 보이는 제주도의 유소년 야구 캠프입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마스크 너머로 보이는 반가운 얼굴은 둘이 합쳐 무려 966 홈런인 이승엽과 장종훈",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.374,
+                "end": 11.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예전에 신인 때 이렇게 막",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.230,
+                "end": 16.936
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "한국 야구 미래 파이팅",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.946,
+                "end": 18.116
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "무지막지하게 깼죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.126,
+                "end": 20.268
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "무지막하게 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.278,
+                "end": 24.216
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.226,
+                "end": 25.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진지한 과외 선생님으로 변신한 모습이 눈길을 끌었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.396,
+                "end": 30.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "류현진이 던진다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.083,
+                "end": 31.764
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "류현진이 던지는 궤적을 생각하면서 치는 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.774,
+                "end": 35.101
+            }
+        ]
+    },
+    "summary": "한라산이 보이는 제주도의 유소년 야구 캠프에 이승엽과 장종훈의 진지한 과외 선생님으로 변신한 모습이 눈길을 끌었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00994_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

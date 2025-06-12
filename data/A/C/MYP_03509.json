@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "filename": "MYP_03509",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.831,
+        "format": "MP4",
+        "date": "2022-06-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어서 와랏 뭐 뭐가 이렇게 느려어 우아악",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "낙차 큰 폭풍 직구에 헛스윙 삼진 삼진 공수 교대",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.965,
+                "end": 16.743
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "허 영감 이거 변화구 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.753,
+                "end": 18.932
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아리랑 직구도 엄연한 직구죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.942,
+                "end": 20.893
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "@이름1씨 나이스 피칭",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.903,
+                "end": 22.907
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "저 얍삽한 쉐끼",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.917,
+                "end": 24.470
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "우리가 드디어 사이코즈에게 첫 승을 올리나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.480,
+                "end": 27.967
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오케이 좋아 불안스 한번 가보자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.977,
+                "end": 31.831
+            }
+        ]
+    },
+    "summary": "낙차 큰 폭풍 직구에 헛스윙 삼진 공수 교대를 하고 드디어 사이코즈에게 첫 승을 올릴 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03509_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

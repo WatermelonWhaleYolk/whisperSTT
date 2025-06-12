@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYP_02751",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.2,
+        "format": "MP4",
+        "date": "2020-07-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 이름은 임가도 대한민국의 평범한 고등학생이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.961
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 알다시피 한국 고딩들 사이에서 가장 인기 있는 것 중 하나는 축구 게임이나 아이돌 등등 다양한 취미가 많지만 인싸 피라미드에서 가장 최상위권을 차지하는 건 바로 축덕 그중에서도 새벽에 축구를 심지어 유로파리그 조별 예선까지 챙겨보는 축잘알이 그중에 으뜸이라 할 수 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.971,
+                "end": 19.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 내가 제일 좋아하는 맨유의 경기가 있는 날이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.628,
+                "end": 22.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국 시간으로 새벽 4시 15분에 시작되는 경기를 보려고 난 야자까지 째면서 잠을 자두러 집에 가는 길이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.502,
+                "end": 30.200
+            }
+        ]
+    },
+    "summary": "임가도는 대한민국의 평범한 고등학생이고 한국 시간으로 새벽 4시 15분에 시작하는 축구 경기를 보려고 집에 가는 길입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

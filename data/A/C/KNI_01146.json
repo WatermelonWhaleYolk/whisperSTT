@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01146",
+        "category": "스포츠뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.83,
+        "format": "MP4",
+        "date": "2022-09-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "절친한 동료이자 라이벌 나달은 페더러의 은퇴를 아쉬워했고 테니스는 물론 축구 스타 메시와 펠레도 위대한 테니스 전설의 퇴장을 기렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.566
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.576,
+                "end": 21.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "페더러는 다음 주 유럽과 미국의 대륙 간 대항전인 레이버컵을 끝으로 정든 테니스 코트와 작별합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 21.738,
+                "end": 28.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.872,
+                "end": 30.830
+            }
+        ]
+    },
+    "summary": "페더러는 다음 주 유럽과 미국의 대륙 간 대항전을 끝으로 테니스 코트와 작별한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01146_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

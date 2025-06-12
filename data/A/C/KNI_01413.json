@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01413",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.324,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김승기 감독은 인삼 공사에서 두 차례 우승을 이끌었지만 구단과 갈등을 빚은 후 캐롯으로 떠났고 이후 친정팀을 만날 때마다 유달리 강한 승부욕을 보여줬습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흥행이 될 수 있는 그런 매치가 돼서 저도 되게 고맙게 생각을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.120,
+                "end": 14.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팬분들이 좋아하시는 농구 재밌는 농구를 좀 보고 가셨으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.898,
+                "end": 17.976
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 김승기 더비가 된 경기에서 정규 리그 1위 인삼 공사는 캐롯을 그야말로 압도했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.986,
+                "end": 24.324
+            }
+        ]
+    },
+    "summary": "김승기 더비가 된 경기에서 정규 리그 1위 인삼 공사는 캐롯을 그야말로 압도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01413_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

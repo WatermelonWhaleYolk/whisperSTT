@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "filename": "MYP_01046",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 57.167,
+        "format": "MP4",
+        "date": "2022-10-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "애들이 눈치를 챈 것 같다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.749
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇습니다. 대뜸 위장술이 아니냐고 물어보던데 이거 정보가 샌 거 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.759,
+                "end": 5.753
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감독님 주변에 프락치가 있는 거 아니냐고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.763,
+                "end": 8.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 한국에 온 뒤로 친구 한 명 없는 개똥벌레인데 프락치가 어디 있겠나? 아무튼 이거 하마터면 큰일 날 뻔했구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.181,
+                "end": 14.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당장에 스페인으로 돌아가서 리그에만 집중하게나 애들 전화는 당연히 차단해 두었겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.620,
+                "end": 19.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전화는 물론 카톡과 디엠까지 차단해 두었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.590,
+                "end": 21.903
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 설마 설마 해서 여쭤보는 건데 이래 놓고 저를 안 데려가시는 거 아니죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.913,
+                "end": 25.594
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 녀석이 날 뭐로 보고 내가 페이크를 2번이나 칠 만큼 머리가 좋은 감독으로 보여?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.604,
+                "end": 30.345
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 뭐 그건 아니지만 저도 팀의 일원으로서 호흡을 맞추며 준비할 시간이 필요한데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.355,
+                "end": 34.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자네 패스가 곧 전술이고 자네 드리블이 곧 전략인데 호흡 같은 게 뭐가 필요하겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.433,
+                "end": 39.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선대 감독인 @이름1의 트릭은 실패로 돌아갔지만 나 벤투의 트릭은 반드시 성공할 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.454,
+                "end": 45.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자넨 그저 스페인에서 부상만 조심하고 감각만 유지하고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.062,
+                "end": 48.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 자넬 대표 팀의 깜짝 선발은 물론 카타르 월드컵의 깜짝 스타로 만들어 줄 테니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.946,
+                "end": 57.166
+            }
+        ]
+    },
+    "summary": "감독이 대표팀의 깜짝 선물과 월드컵의 스타로 만들어 줄 테니 기다리라고 선수에게 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01046_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

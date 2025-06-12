@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_00736",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.766,
+        "format": "MP4",
+        "date": "2023-01-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우승이 많은 건 말이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 해야 할 일이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.789,
+                "end": 4.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나에겐 FA가 지금 일 순위야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.215,
+                "end": 8.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토트넘 선수라는 이유로 10년 넘게 놓치고 있지만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.499,
+                "end": 17.766
+            }
+        ]
+    },
+    "summary": "토트넘 선수가 FA컵 우승을 위한 각오를 노래로 부른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00736_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

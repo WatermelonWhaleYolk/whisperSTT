@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_02061",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.233,
+        "format": "MP4",
+        "date": "2018-02-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 개막식 리허설은 IOC의 철저한 보안 속에 단 30초 영상만 언론에 공개됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행사에 초대된 2만 관중들은 비밀 엄수 서약을 해 자세한 내용은 말할 수 없지만 웅장하고 반복적인 멋이 가득한 개막식이 될 것이라고 기대했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.014,
+                "end": 18.425
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "날씨는 너무 춥지만 개막식이 너무 화려하고 충분히 그만큼 볼만한 가치가 있다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.435,
+                "end": 26.233
+            }
+        ]
+    },
+    "summary": "개막식 리허설은 IOC의 철저한 보안 속에 이뤄지고 행사에 초대된 관중들은 비밀 엄수 서약으로 말할 순 없지만 웅장하고 반복적인 멋이 가득한 개막식이 될 것이라고 기대했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02061_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_02061_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "MYP_00778",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.133,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "감독~ 우리 왔다 타랍박 옷이랑 등번호 고를 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.039
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음~ 옷을 맞춰야 되구나 음, 어디 보자 지금 비어 있는 등번호가 1분부터 10번까지는 꽉 찼고, 아 그 녀석이 고향으로 돌아갔었지 그럼 7번이 공석이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.049,
+                "end": 14.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빵뚜아가 7번 달거다. 줘라 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.989,
+                "end": 17.852
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빵뚜아, 너는 14번이 찰떡이지 않느냐 타랍박, 지금 주요 등번호는 7번하고 11번이 비어 있는데 어떤 걸로 할 거지? 아님 뭐 특별히 원하는 번호라도 있나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.862,
+                "end": 29.204
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 아무래도 에이스니까 7번 으로,",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 29.214,
+                "end": 33.835
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고? 48번?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.845,
+                "end": 35.806
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아뇨 에이스의 상징인 7번으로, 누가 재수없게 울고 지랄이야?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 35.816,
+                "end": 43.210
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&사운드소리&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 43.220,
+                "end": 44.133
+            }
+        ]
+    },
+    "summary": "감독님께 유니폼 번호에 대해 이야기 나누는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00778_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

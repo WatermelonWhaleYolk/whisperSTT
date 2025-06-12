@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_02272",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.966,
+        "format": "MP4",
+        "date": "2021-04-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그럼 파리의 에이스 음바페 그리고 바로 나 맨시티의 에이스 김덕배 이거 이거 이번 준결승은 음덕대전인 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.326
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음덕대전 이라니 네이마르와 나 귄도안의 네귄대전인 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.336,
+                "end": 9.472
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "녀석들이 무슨 소릴 하는 거야 나와 포체티노의 치열한 전술 대결일 텐데 당연히 펩포대전이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.482,
+                "end": 14.191
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "다들 무슨 소릴 하는 거냐도르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.201,
+                "end": 15.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 만수르님?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.914,
+                "end": 16.921
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이번 챔스 준결승은 아랍에미리트와 카타르의 대결이다도르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.931,
+                "end": 20.564
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어느 쪽 기름이 더 미끄러운지를 가리는 대결.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.574,
+                "end": 22.966
+            }
+        ]
+    },
+    "summary": "축구 선수 2명과 감독 그리고 구단주가 이번 축구 준결승 경기가 무슨 대결인 지를 각자 주장을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

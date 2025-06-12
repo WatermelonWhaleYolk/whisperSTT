@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_03355",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.725,
+        "format": "MP4",
+        "date": "2022-10-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 부드럽네 물 흐르듯 유연하고 때릴 땐 힘이 있어 싹수가 보이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하하 그렇죠 타격에 쓸데없는 힘을 안 씁니다 간결하죠 적응이 빠르고 상황 파악이 아주 좋아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.143,
+                "end": 15.989
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "후",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.999,
+                "end": 17.135
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "예 요놈 봐라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.145,
+                "end": 19.837
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "투수 1구 파울 파울 제2구",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.847,
+                "end": 25.725
+            }
+        ]
+    },
+    "summary": "감독은 재벽에 대해 타격에 쓸데없는 힘을 안 쓰고 간결하며 적응이 빠르고 상황 파악이 아주 좋다고 평가한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03355_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

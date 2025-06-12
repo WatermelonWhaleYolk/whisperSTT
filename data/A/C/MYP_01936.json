@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_01936",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.766,
+        "format": "MP4",
+        "date": "2021-09-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어이 카네 경기는 잘 다녀왔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.562
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형 아이 그게 팰리스 정도는 나도 형처럼 할 수 있을 줄 알았는데 득점은커녕 슈팅 한 번 못 때렸어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.572,
+                "end": 8.114
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘했다 아주 잘했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.124,
+                "end": 9.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고 아니 평점도 개판이었는데 무슨 소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.802,
+                "end": 12.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로도 계속 너가 나 대신 출전하도록 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.581,
+                "end": 15.143
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이대로만 간다면 회장님도 날 안 팔고는 못 배기시겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.153,
+                "end": 18.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다가오는 겨울 이적 시장에서 맨시티로 가는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.862,
+                "end": 21.625
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그래도 1인분은 해줘야 맨시티도 데려가겠다 하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.635,
+                "end": 24.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저번 경기 보니까 수비는 물론 중원까지 먹혀버려서 내가 뛰었더라도 철저하게 고립되었을 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.576,
+                "end": 30.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뿐만 아니라 벤 데이비스를 비롯해 다른 녀석들이 똥을 한 바가지 싸줬으니까 아 케인 오늘따라 조금 아쉽네 정도로 잘 마무리된 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.323,
+                "end": 38.766
+            }
+        ]
+    },
+    "summary": "카네는 형 대신 경기에 출전해서 득점은커녕 슈팅 한 번도 못 때렸다고 하자 잘했다며 앞으로도 계속 대신 출전하면 회장님이 안 팔고는 못 배길 것이라며 다가오는 겨울에 이적 시장에서 맨시티로 가자고 했고 저번 경기에서 수비는 물론 중원까지 먹혀버려서 자신이 뛰었어도 철저하게 고립되었을 거라며 오늘따라 조금 아쉬울 정도로 잘 마무리된 것이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_01936_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

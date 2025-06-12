@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "filename": "KNI_01757",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 71.466,
+        "format": "MP4",
+        "date": "2018-07-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 시작된 여자팀 경기 남북 선수들이 한 팀에 섞여 있는 혼합 경기지만 어느새 팀워크를 발휘합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기를 중계한 남측 아나운서는 관중들을 위해 북측 언어로 경기를 중계했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.127,
+                "end": 14.574
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "개별 선수 반칙",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.584,
+                "end": 17.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역전 재역전을 반복한 명승부 끝에 103대 102 번영팀이 1점 차 승리를 거뒀습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.689,
+                "end": 25.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여자팀은 다음 달 열릴 아시안게임에 남북 단일팀으로 출전할 예정이어서 선수들이 서로 기량과 호흡을 확인해 볼 수 있는 자리이기도 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 25.480,
+                "end": 35.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재는 남자팀 혼합 경기가 벌어지고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 35.636,
+                "end": 39.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기장에는 북측에서 최휘 노동당 부위원장과 리선권 조국평화통일위원장 김일국 체육상 등이 남측에선 조명균 통일부 장관과 @이름1 문체부 2차관 등이 참석했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 39.264,
+                "end": 52.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관심을 모았던 김정은 국무위원장은 오늘 혼합 경기에는 모습을 드러내지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 52.232,
+                "end": 58.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 농구광으로 알려진 김 위원장의 제안으로 이번 대회가 신속하게 성사된 만큼 내일 열릴 친선 경기에 참석할 가능성은 여전히 남아 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 58.393,
+                "end": 69.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 69.088,
+                "end": 71.466
+            }
+        ]
+    },
+    "summary": "오늘 열린 남북 혼합 농구 경기에서는 양팀이 명승부를 보여주며 번영팀이 1점 차 승리를 거뒀고 김정은 위원장은 참석하지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01757_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

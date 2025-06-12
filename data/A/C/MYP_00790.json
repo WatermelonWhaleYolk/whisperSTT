@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYP_00790",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.9,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 인석아 타랍 박이 탈압박을 할 수 있게끔 공간을 열어주고 타랍 박이 탈압박을 실패하면 세컨 볼을 따낸 뒤 다시 @이름1이 탈압박을 할 수 있게 패스한다. 그 다음 @이름1이 탈압박에 성공하면 공을 받아주러 들어가고 알겠느냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.618
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔 소리인지 하나도 모르겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.628,
+                "end": 14.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빵뚜아 @이름1 싫다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.414,
+                "end": 16.165
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "됐어요 감독님. 저런 바보 새끼한테 떠들 시간에 얼른 이동하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.175,
+                "end": 19.276
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 경기 저 혼자서 끝장냅니다",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.286,
+                "end": 22.900
+            }
+        ]
+    },
+    "summary": "빵뚜아는 감독님이 볼을 따낸 뒤 다시 @이름1이 탈압박을 할 수 있게 패스하고 탈압박에 성공하면 공을 받아주러 들어가라고 하는 데 뭔 소리인지 모르겠고 @이름1도 싫다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00790_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

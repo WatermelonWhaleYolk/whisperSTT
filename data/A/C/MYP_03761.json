@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_03761",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.893,
+        "format": "MP4",
+        "date": "2021-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "금남구역 탐방을 제안했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약 상대방이 당시의 나였다면 트라우마로 단칼에 거절했겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.711,
+                "end": 7.754
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 칼질 함 당해볼래?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.764,
+                "end": 10.224
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문제는 이 @이름1이란 친구도",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.234,
+                "end": 13.465
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아화",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.475,
+                "end": 15.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 예전에 치욕세포가 퇴화했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.708,
+                "end": 19.394
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "서걱서걱 미디움 레어 꺄하하하하하",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.404,
+                "end": 23.890
+            }
+        ]
+    },
+    "summary": "@이름1이란 친구도 이미 예전에 치욕세포가 퇴화해서 금남구역도 함께 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03761_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "filename": "MYP_03808",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.766,
+        "format": "MP4",
+        "date": "2021-05-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 이야기는 님은 먼 곳에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.061
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 큰 편견 없이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.071,
+                "end": 5.693
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하 음악 듣고 싶은데 아 너 MP3 있냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.703,
+                "end": 9.427
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응 이 걸로 들어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.437,
+                "end": 10.586
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "폴더별로 나눠 놨으니까 골라서 들어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.596,
+                "end": 14.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원룸이야 화장실도 없을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.646,
+                "end": 16.959
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부분의 아이돌을 좋아하는 편이지만 특히",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.969,
+                "end": 21.146
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오 나온다 나온다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.156,
+                "end": 22.708
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.718,
+                "end": 23.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어느 한 아이돌 그룹 멤버의 열렬한 팬이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.404,
+                "end": 26.942
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.952,
+                "end": 27.773
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "얼마 전부터 이 맛집 프로그램에 고정 MC로 나오고 있거덩",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.783,
+                "end": 30.491
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 좋겠네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.501,
+                "end": 32.766
+            }
+        ]
+    },
+    "summary": "@이름1는 어느 아이돌 그룹 여성 멤버를 좋아하는데 음악도 그 그룹이고 맛집 프로그램에 고정 MC로 나오고 있는 여성 멤버를 TV로 찾아본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03808_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 44,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

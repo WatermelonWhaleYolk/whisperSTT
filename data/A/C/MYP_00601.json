@@ -1,0 +1,197 @@
+{
+    "metadata": {
+        "filename": "MYP_00601",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.633,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 손님들 코스 요리는 끝났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 입맛에는 맞으셨는지요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.895,
+                "end": 5.035
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 뭐 확실히 고급 레스토랑이라 그런지 양은 적어도 맛은 확실하네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.032,
+                "end": 9.390
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 아까 무슨 특별 요리를 준비해 주신다고 하지 않으셨어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.400,
+                "end": 12.788
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오래 기다리셨습니다 손님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.798,
+                "end": 14.183
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "스폐셜 요리 나왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.193,
+                "end": 15.651
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.661,
+                "end": 16.262
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "근데 이 요리는 뭐예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.272,
+                "end": 17.525
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 혹시 손님들 빠에야라고 들어보셨는지요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.535,
+                "end": 20.359
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "빠에야 빠에야라면 지중해식 볶음밥 요리 아니에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.369,
+                "end": 23.190
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "스페인에 있을 때 많이 먹었었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.190,
+                "end": 24.954
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오 역시 알고 계셨군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.964,
+                "end": 26.512
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 이 빠에야는 최고급 재료를 포르투갈식으로 볶아낸 최상급 빠에야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.522,
+                "end": 30.633
+            }
+        ]
+    },
+    "summary": "화자 3은 특별 요리로 최고급 재료를 포르투갈식으로 볶아낸 지중해식 볶음밥 파에야라고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00601_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

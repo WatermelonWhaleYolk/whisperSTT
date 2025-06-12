@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01927",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.02,
+        "format": "MP4",
+        "date": "2021-08-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그는 최근 태국 국적 취득을 위한 신청서를 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 한국을 버리는 게 아니라 한국을 품고 앞으로 태권도를 여기서 더 많이 보급을 하고 태권도를 더 많이 세계화할 수 있을 그런 사명감에 무거운 마음으로 귀화를 결정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.922,
+                "end": 15.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 사람은 다음 파리 올림픽 2연패와 함께",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.919,
+                "end": 20.020
+            }
+        ]
+    },
+    "summary": "그는 태국에서 태권도를 더 많이 세계화할 수 있을 사명감으로 귀화를 결정했고 파리 올림픽에 참가합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01927_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

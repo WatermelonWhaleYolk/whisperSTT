@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_02046",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.966,
+        "format": "MP4",
+        "date": "2019-06-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이에 수치심을 느낀 B 선수는 공식적으로 성희롱이라며 문제 삼았고 진천 선수촌은 진상 조사를 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 진천 선수촌장은 쇼트트랙 선수들의 기강 해이가 도를 넘었다고 판단해 쇼트트랙 선수단 전체를 선수촌에서 퇴출하는 방안도 고려하고 있다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.470,
+                "end": 18.966
+            }
+        ]
+    },
+    "summary": "수치심을 느낀 B 선수는 공식적으로 성희롱이라며 문제 삼았고 진천 선수촌장은 쇼트트랙 선수들의 기강 해이가 도를 넘었다며 쇼트트랙 선수단 전체를 선수촌에서 퇴출하는 방안도 고려하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02046_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

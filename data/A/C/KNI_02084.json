@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_02084",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.633,
+        "format": "MP4",
+        "date": "2018-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 대표팀도 중국 등 경쟁국 훈련에 전력 분석관을 파견해 정보전에 총력을 기울이고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대 훈련 때마다 카메라를 설치하면 전술 노출에 대한 불안감 때문에 제한적인 훈련을 할 수밖에 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.063,
+                "end": 13.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비공개 훈련이 불가능한 원정팀들을 압박하는 심리전입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.393,
+                "end": 18.633
+            }
+        ]
+    },
+    "summary": "우리 대표팀도 경쟁국 훈련에 전력 분석관을 파견해 정보전에 총력을 기울이고 있고 심리전도 펼치고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02084_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

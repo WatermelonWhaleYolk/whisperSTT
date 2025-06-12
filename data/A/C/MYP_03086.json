@@ -1,0 +1,176 @@
+{
+    "metadata": {
+        "filename": "MYP_03086",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.428,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "로이드 형은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.237
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형 우리 밥 시킬 건데 뭐 드실래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.247,
+                "end": 14.281
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "난 요거.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.291,
+                "end": 14.855
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 아무거나 아무거나 랜덤 랜덤",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.865,
+                "end": 17.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 아주",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.832,
+                "end": 18.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 형 밥 왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.943,
+                "end": 20.402
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "알밥 시켰다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.412,
+                "end": 21.348
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "내가 아무거나 시키랬지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.358,
+                "end": 23.503
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "알밥 시키랬냐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.513,
+                "end": 24.813
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "봉인",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.823,
+                "end": 26.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호불호가 확실하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.605,
+                "end": 28.428
+            }
+        ]
+    },
+    "summary": "로이드 형은 메뉴를 고를 때 아무거나 시키라고 그러더니 호불호가 확실해서 그런지 알밥을 시켰다고 화를 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03086_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

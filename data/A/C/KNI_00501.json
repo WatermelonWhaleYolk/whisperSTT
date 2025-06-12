@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_00501",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.535,
+        "format": "MP4",
+        "date": "2021-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "프로 선수들의 과거 학교 폭력 파문이 이어지자 한국 배구 연맹과 배구 협회가 긴급 대책 회의를 가졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3시간 넘게 진행된 회의 결과 일단 해당 선수들에 대한 추가 징계는 내리지 않기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.629,
+                "end": 14.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 협회가 무기한 국가대표 자격 박탈 징계를 내렸고 프로 데뷔 이전 사건에 대한 마땅한 징계 규정이 없기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.546,
+                "end": 23.633
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이미 구단으로부터 무기한 출전 정지를 받았고요. 어 협회로부터도 대표 선수 자격 박탈 지도자의 길도 막힌 걸로 어 알고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.643,
+                "end": 35.535
+            }
+        ]
+    },
+    "summary": "프로 선수들의 과거 학교 폭력 파문으로 인해 한국 배구 연맹과 배구 협회가 긴급 대책 회의한 결과 이미 징계를 내렸고 선수 이전 사건에 대한 마땅한 규정이 없기 때문에 추가 징계는 내리지 않기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00501_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

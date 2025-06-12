@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_01708",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.1,
+        "format": "MP4",
+        "date": "2018-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수단은 남측에서 준비한 흥겨운 공연으로도 좀처럼 긴장을 풀지 못하는 모습이었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 북측 응원단의 연주가 이어지면서 선수단의 굳은 표정도 이내 환한 미소로 바뀌었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.340,
+                "end": 18.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행사 끝부분엔 북한 선수단과 우리 공연단이 한데 어우러져 강강수월래를 즐기기도 했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 18.639,
+                "end": 26.100
+            }
+        ]
+    },
+    "summary": "북한 선수단은 남측의 흥겨운 공연으로도 긴장을 풀지 못하는 모습이었다가 북측 응원단의 연주가 이어지면서 이내 환한 미소로 바뀌었으며 행사 끝부분엔 북한 선수단과 우리 공연단이 한데 어우러져 강강수월래를 즐기기도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01708_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": 50,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

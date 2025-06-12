@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_01480",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.5,
+        "format": "MP4",
+        "date": "2022-03-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 지난 목요일 브라이튼을 이기고 돌아오니까 글쎄 리버풀이 아스날을 잡아 놓은 게 아니겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다시 살아난 챔스 진출의 희망을 웨스트햄전의 승리로 확실하게 살려 놓겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.674,
+                "end": 10.328
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.338,
+                "end": 11.181
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "웨스트햄을 넘어 리그 최고의 미드필더 데클란 라이스입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.191,
+                "end": 14.562
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모두가 알다시피 우리 웨스트햄은 더 이상 중위권 클럽이 아닌 엄연한 강팀으로 자라났습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.572,
+                "end": 19.500
+            }
+        ]
+    },
+    "summary": "화자1 은 리버풀이 아스날을 잡아 놓았으니 다시 살아난 챔스 진출의 희망을 웨스트햄전의 승리로 확실하게 살리겠다고 했으며 화자2 는 웨스트햄은 더 이상 중위권 클럽이 아닌 이제 강팀으로 자라났다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01480_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

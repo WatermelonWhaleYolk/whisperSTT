@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "filename": "KNI_00706",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.366,
+        "format": "MP4",
+        "date": "2023-02-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "23세 이하 대표팀에 뽑힌 이후로 정태욱과 급속도로 친해진 조규성은 친구의 합류를 누구보다 반겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.117
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자기 왔어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.127,
+                "end": 8.164
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 자기야",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.174,
+                "end": 9.006
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왔어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.016,
+                "end": 9.491
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.501,
+                "end": 10.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왔어? 음 음 음",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.079,
+                "end": 14.679
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "웰컴 투 전북 진작에 왔어야지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.689,
+                "end": 17.986
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐야 둘이 둘이 사귀어? 적당히 좀 해",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.996,
+                "end": 20.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전훈 기간 생일을 맞은 조규성을 위해 케이크를 챙겨줄 만큼 절친인 정태욱 월드컵 스타 조규성과 장신 수비수 정태욱이 의기투합한 전북이 다시 정상을 향해 뛰기 시작했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 20.500,
+                "end": 33.366
+            }
+        ]
+    },
+    "summary": "23세 이하 대표팀에 뽑힌 후 친해진 조규성과 정태욱이 의기투합한 전북이 다시 정상을 향해 뛰기 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00706_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

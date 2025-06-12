@@ -1,0 +1,181 @@
+{
+    "metadata": {
+        "filename": "MYP_02524",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.4,
+        "format": "MP4",
+        "date": "2020-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이봐 무리뉴 다음 주면 드디어 겨울 이적 시장이 열린다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 당장 이탈리아로 넘어가 수비수를 영입하러 갈 거니까 따라 오게나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.216,
+                "end": 6.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 진짜 제가 알던 레비 회장님 맞으십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.793,
+                "end": 9.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 1년 만에 구두쇠에서 @이름1로 변하실 수 있으신 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.341,
+                "end": 12.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1가 뭔가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.302,
+                "end": 13.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 올해는 우리 토트넘이 우승할 수 있는 절호의 기회.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.330,
+                "end": 16.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "둘도 없을 이 찬스를 돈 좀 아끼려다 놓칠 수는 없지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.454,
+                "end": 19.167
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 뭐 영입 후보는 있으십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.177,
+                "end": 20.924
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설마 또 저번에 데려가셨던 이상한 이적 시장으로 가시는 건 아니시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.934,
+                "end": 24.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 거기서 리오넬 레시를 영입했어야 했는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.473,
+                "end": 26.925
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정신 차리십시오. 회장님 그 친구는 목 길이만 1미터였다고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.935,
+                "end": 30.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어찌 됐든 여름에 데려온 레길론이나 호이비에르 같은 친구들이 너무 잘해주고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.081,
+                "end": 34.394
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 중앙 수비수로 제대로 데려온다면 진짜 우승 각이라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.404,
+                "end": 37.854
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래 자네도 들어본 적 있을 거라네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.864,
+                "end": 40.400
+            }
+        ]
+    },
+    "summary": "무리뉴와 회장이 축구 선수 이적에 대해서 이야기를 나누고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02524_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

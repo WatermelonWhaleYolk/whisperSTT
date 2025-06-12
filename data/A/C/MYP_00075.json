@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "MYP_00075",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.366,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 토트넘 왕국의 왕으로서 아직까지 트로피 하나 없다는 게 참",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.474,
+                "end": 3.795
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설마 아직 하나도 못 얻으셨습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.805,
+                "end": 5.997
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 사실 아우디컵이란 게 있긴 하다만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.007,
+                "end": 7.947
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 아우디컵이라뇨?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.957,
+                "end": 9.144
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그걸 누가 우승컵으로 쳐준답니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.154,
+                "end": 10.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.928,
+                "end": 11.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하다못해 저도 리버풀에 있을 때 리그컵에서 우승해가 트로피 하나는 있는데 케인 전하께서 무관이실 줄이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.829,
+                "end": 18.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 그래서 내 자네에게 하나만 더 묻겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.449,
+                "end": 21.366
+            }
+        ]
+    },
+    "summary": "케인이 토트넘에 아직 트로피 하나 없다는 걸 안타까워 했고 다른 화자는 본인도 리버풀에 있을 때도 리그컵 우승해서 트로피 하나는 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00075_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

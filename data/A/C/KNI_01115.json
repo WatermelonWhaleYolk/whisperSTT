@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01115",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.746,
+        "format": "MP4",
+        "date": "2022-08-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "점프하지 않고도 무심코 때린 듯한 결과가 523 @이름1보다 체중이 약 10킬로그램 더 나가는 팀 동료 @이름2가 도전해 봤지만 거듭된 시도에도 최고 점수는 488에 그치며 @이름1를 넘지 못했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 15.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 선수와 같은 포지션으로 뛰어 출전 시간은 적지만 주어진 시간만큼 자신의 잠재력을 보여주겠단 @이름1 컵대회로 국내파 거포 에이스의 시작을 알린 @이름1이 V리그 출발만을 고대하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.817,
+                "end": 30.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.895,
+                "end": 32.732
+            }
+        ]
+    },
+    "summary": "출전 시간은 적지만 주어진 시간만큼 자신의 잠재력을 보여주겠다며 컵대회로 국내파 거포 에이스의 시작을 알린 @이름1이 V리그 출발만을 고대하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01115_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_03955",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2020-12-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가스파드님이 파티를 탈퇴하였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.444
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나는 그 순간 그들이 날 바라보던 눈빛을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.454,
+                "end": 7.022
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 방금 댐딜 좋았는데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.032,
+                "end": 9.260
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "먹튀 노노.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.270,
+                "end": 11.168
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "너님 신고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.178,
+                "end": 12.578
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "계정 삭제 시켜주세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.588,
+                "end": 14.259
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "계획대로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.269,
+                "end": 15.927
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사람 쫓아놓고 뭔 그런 표정을 지어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.937,
+                "end": 19.025
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잊을 수 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.035,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "주인공이 돌아가겠다고 하자 노숙자들과 역무원의 표정을 잊을 수 없었다고 말하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03955_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

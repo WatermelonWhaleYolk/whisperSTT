@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_02120",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.866,
+        "format": "MP4",
+        "date": "2019-09-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 이제 청소년 꿈나무 이런 감독을 이제 한국에서는 하고 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "88년 올림픽 잘할 수 있었던 것도 얼마나 많은 국민들의 그런 응원이 있었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.274,
+                "end": 9.875
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "탁구를 통해서 또 후배들이나 어린아이들을 제가 가르쳐 줄 수 있는 그런 어떤 그때의 어떤 보답이라 그럴까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.885,
+                "end": 19.830
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 조금이라도 보답할 수 있는 시간들로 지금 지내고 있어서 저로서도 감사해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.840,
+                "end": 27.866
+            }
+        ]
+    },
+    "summary": "양영자 감독은 청소년 꿈나무 감독을 하며 올림픽 때 국민들의 응원을 보답할 수 있는 시간들을 보내고 있다고 인터뷰하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 62,
+                    "act": 90
+                }
+            ]
+        }
+    ]
+}

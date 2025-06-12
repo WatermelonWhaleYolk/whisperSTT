@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNI_01681",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.095,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한국 유도는 지난 런던 올림픽을 끝으로 금맥이 끊겼습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조구함과 안창림 등 스타들도 은퇴하며 위기에 몰렸는데 이 두 선수가 위기를 기회로 만들 각오입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.785,
+                "end": 11.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "준비 잘 해서 관심 가져주신 만큼 보답할 수 있도록 열심히 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.455,
+                "end": 18.740
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아시아 게임 가서 금메달 따서",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.750,
+                "end": 20.981
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 영웅이 되자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.991,
+                "end": 22.503
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "금메달 따면 제가 스타가 되는 거기 때문에 히어로가 되겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.513,
+                "end": 26.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.515,
+                "end": 29.095
+            }
+        ]
+    },
+    "summary": "한국 유도는 지난 런던 올림픽을 끝으로 금맥이 끊겼는데 신예 선수들이 위기를 기회로 만들 각오로 국민들의 성원에 보답하겠다는 의지를 불태웠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01681_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

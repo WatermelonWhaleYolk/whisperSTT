@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "filename": "MYP_04219",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.395,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "7",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "8",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 혼자 공을 쌓아 가는 게 싫었던 분명히 분명히 누군가 있어 질투로 가득 찬 누군가이겠지요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.263
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 뭐야 그러니까 지금 지금 우리를 의심하는 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.273,
+                "end": 15.579
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "혼자만 잘났다 이거지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.589,
+                "end": 16.691
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "당신 밑에서 어떻게 일해 왔는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.701,
+                "end": 18.696
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그동안 우리 못 믿어 그렇게 혼자 다 해 쳐먹었냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.706,
+                "end": 21.182
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "장 달면 다 좋아해줄 줄 알았냐고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.192,
+                "end": 22.847
+            },
+            {
+                "speaker_id": "7",
+                "transcription": "너 때문에 저렇게 된 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.847,
+                "end": 24.533
+            },
+            {
+                "speaker_id": "8",
+                "transcription": "너 정말 자기 자신 말고 아무도 믿지 않는군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.543,
+                "end": 28.395
+            }
+        ]
+    },
+    "summary": "혼자 공을 쌓아 가는 게 싫었던 분명히 누군가 있어 질투로 가득 찬 누군가 있을 것이라고 하자 아래 직원들이 반발하며 나섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04219_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

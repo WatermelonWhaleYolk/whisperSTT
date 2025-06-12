@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "filename": "MYP_01504",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.766,
+        "format": "MP4",
+        "date": "2022-03-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시청자 여러분 안녕하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 토트넘 핫스퍼 스타디움 토트넘과 에버튼의 경기가 펼쳐지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.247,
+                "end": 5.023
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전반에만 3골을 넣은 토트넘이 에버튼을 압도하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.033,
+                "end": 8.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 FA컵에서 2부 리그한테 패배한 팀이 맞나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.660,
+                "end": 11.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갑자기 다른 팀이 된 것 같은데요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.923,
+                "end": 13.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리그만 놓고 보자면 지난 리즈 전에서의 4대 0 승리에 이어 다시 한 번 대승을 눈 앞에 두고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.974,
+                "end": 18.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유럽 대항전 진출을 위해 리그에만 집중했기 때문일까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.439,
+                "end": 21.214
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직 후전이 남아있으니 더 많은 득점이 나올 것으로 예상되며",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.224,
+                "end": 24.846
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이쯤에서 토트넘 선수들의 반응을 살펴 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.856,
+                "end": 27.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "라커룸 나와주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.391,
+                "end": 29.766
+            }
+        ]
+    },
+    "summary": "해설자가 토트넘과 에버튼의 경기를 해설하며 후반전의 점수를 예상해 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01504_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNI_00529",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.893,
+        "format": "MP4",
+        "date": "2023-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령의 대선 공약인 GTX D E F 노선은 올해 6월까지 노선을 확정합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "GTX 노선이 수도권 3기 신도시의 핵심 교통망인 만큼 개통 시기를 앞당기려 하고 있지만 서울 도심을 관통하는 과정에서 주민들의 반발은 변수로 남아있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.198,
+                "end": 18.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 수도권 비대화를 부추겨 균형발전을 저해한다는 지방 반발을 어떻게 해소할지도 과젭니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.350,
+                "end": 25.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 25.081,
+                "end": 26.893
+            }
+        ]
+    },
+    "summary": "GTX 노선이 수도권 3기 신도시의 핵심 교통망인 만큼 개통 시기를 앞당기려 하고 있지만 서울 도심을 관통하는 과정에서 주민들의 반발은 변수로 남아있고 수도권 비대화를 부추겨 균형발전을 저해한다는 지방 반발을 어떻게 해소할지도 과제다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00529_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

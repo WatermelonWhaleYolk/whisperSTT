@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNI_01732",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.333,
+        "format": "MP4",
+        "date": "2018-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "7엔드에서 차재관이 절묘한 샷으로 점수를 추가하며 4대 4로 경기의 균형을 맞췄습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양팀의 운명은 결국 8엔드에서 갈렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.664,
+                "end": 9.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 대표팀은 스톤을 하우스 중앙 가까이 밀어넣었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.427,
+                "end": 13.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 영국의 스톤은 어이없이 빗나갔고 우리나라는 5대 4로 극적인 역전승을 완성했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.641,
+                "end": 20.333
+            }
+        ]
+    },
+    "summary": "컬링 우리 대표팀은 영국과의 승부에서 7엔드에 4대 4을 만들고 8엔드에서 승리해 짜릿한 역전승을 거뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01732_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

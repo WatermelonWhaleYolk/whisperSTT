@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNI_02245",
+        "category": "스포츠뉴스",
+        "sub_category": 20,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.706,
+        "format": "MP4",
+        "date": "2017-09-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "IOC는 그동안의 총회에서 7년 뒤 열리는 올림픽 개최도시를 투표로 결정하던 관례를 벗어나 이번에는 2024년과 2028년 개최지를 동시 선정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재정상의 이유로 중도에 포기하는 도시가 늘자 위기감에서 나온 조처입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.047,
+                "end": 17.700
+            }
+        ]
+    },
+    "summary": "IOC는 총회에서 7년 뒤 열리는 올림픽 개최도시를 투표로 결정하던 관례를 벗어나 이번에는 재정상의 이유로 중도 포기하는 도시가 생겨날 것을 우려해 2024년과 2028년 개최지를 동시 선정했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02245_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 49,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

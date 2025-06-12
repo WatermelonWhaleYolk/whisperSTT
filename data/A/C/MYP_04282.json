@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_04282",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.15,
+        "format": "MP4",
+        "date": "2020-01-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "게임 내 모든 아이템 캐릭터들 저희가 책임 지고 발굴, 제작, 공급하면 올바른 스토리 라인으로의 유도도 모두 우리가 하지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 어떻게?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.254,
+                "end": 11.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 들키지 않는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.422,
+                "end": 17.150
+            }
+        ]
+    },
+    "summary": "게임 내 모든 아이템 캐릭터들 저희가 책임 지고 발굴, 제작, 공급하면 올바른 스토리 라인으로의 유도도 모두 우리가 들키지 않게 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04282_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

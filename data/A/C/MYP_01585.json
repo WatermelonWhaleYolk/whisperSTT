@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_01585",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.644,
+        "format": "MP4",
+        "date": "2022-01-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하십니까 프리미어리그 이적료 1위를 자랑하는 맨시티의 환타지 스타 잭 그릴리쉬입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.254
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "환타지 스타는 시발 환타 포도맛이겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.264,
+                "end": 7.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "죄송하지만 환타 포도맛은 1600원이고 저 그릴리쉬는 1600억입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.930,
+                "end": 12.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1600억짜리 선수가 환타지 스타가 아니면 누가 환타지 스타입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.810,
+                "end": 16.921
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이적료만 비싸면 뭐 합니까 리그 16경기에 나와 골랑 2골밖에 못 넣고 있는데 이 정도면 실패한 영입 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.931,
+                "end": 24.040
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "실패한 영입은 아닌기래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.050,
+                "end": 25.741
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 무슨 소리입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.751,
+                "end": 26.982
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그릴리쉬 선수가 들어온 뒤로 맨시티의 골칫덩어리였던 제주스와 스탈링이 부활했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.992,
+                "end": 32.016
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "스탈링이 7득점으로 팀 내 득점 선두",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.026,
+                "end": 34.633
+            }
+        ]
+    },
+    "summary": "그릴리쉬 선수가 들어온 뒤로 맨시티의 골칫덩어리였던 제주스와 스탈링이 부활했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01585_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

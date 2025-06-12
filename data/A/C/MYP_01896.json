@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_01896",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.801,
+        "format": "MP4",
+        "date": "2021-09-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시청자 여러분 빡하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프리미어 리그 승부 예측 시간의 사회자 다니엘 내비입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.736,
+                "end": 5.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 유력한 우승 후보 2팀이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.433,
+                "end": 7.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자그마치 4승 1무 승점 13점으로 선두를 달리고 있는 첼시와 토트넘과 사우스햄튼 등 약팀에게 발목을 잡히며 3승 1무 1패 승점 10점으로 아쉽게 5위에 머물러 있는 맨시티의 경기에 앞서 승부 예측을 해 보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.792,
+                "end": 22.800
+            }
+        ]
+    },
+    "summary": "사회자 다니엘 내비는 유력한 우승 후보 2팀인 선두를 달리고 있는 첼시와 5위에 머물러 있는 맨시티의 경기에 앞서 승부 예측을 해 보겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01896_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

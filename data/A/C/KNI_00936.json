@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00936",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.185,
+        "format": "MP4",
+        "date": "2122-11-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기가 시작되자 수만 개의 눈이 일제히 스크린으로 쏠립니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예상했던 1만 명보다 훨씬 많은 2만 5000여 명이 모였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.137,
+                "end": 9.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실점을 막아낸 선방뿐 아니라 득점을 빗겨낸 아쉬운 슈팅에도 붉은 악마들은 아낌없는 격려를 보냈습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 9.241,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "경기가 시작하자 스크린을 모두 쳐다보고 아낌없는 격려를 보냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00936_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

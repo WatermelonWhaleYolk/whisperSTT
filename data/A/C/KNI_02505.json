@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_02505",
+        "category": "스포츠뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.066,
+        "format": "MP4",
+        "date": "2015-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "몸에 익숙해져 있어요 그냥.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이 상황 모든 상황이 제 몸에 익숙해져 있어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.621,
+                "end": 5.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매일 우리가 호흡하고 숨 쉬듯이 그냥 그 정도 수준이에요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 5.529,
+                "end": 16.671
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어두운 새벽길을 마다 않고 달려오면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.681,
+                "end": 25.066
+            }
+        ]
+    },
+    "summary": "모든 상황이 몸에 익숙해져 있는 상황이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

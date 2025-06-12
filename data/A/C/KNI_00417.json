@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNI_00417",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.17,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거야 입법에 가로막혀 필요한 제도를 정비하기 어려웠던 점도 솔직히 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.214
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 정부에서 임명된 기관장의 물갈이를 주문하는 듯한 발언도 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.224,
+                "end": 12.530
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "새로운 국정 기조에 맞추지 않고 애매한 스탠스을 취한다면 과감하게 인사 조치를 하라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.540,
+                "end": 20.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국내 문제와는 달리 외교 안보에서는 큰 변화가 있었다고 자평했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.065,
+                "end": 25.159
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한미 동맹 재건과 가치 공유 국가들과의 연대 구축 투자 유치 등의 세일즈 외교를 구체적으로 거론했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.169,
+                "end": 32.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한미 확장 억제 강화를 담은 워싱턴 선언도 성과로 꼽았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.504,
+                "end": 37.170
+            }
+        ]
+    },
+    "summary": "국내 문제와는 달리 외교 안보에서는 큰 변화가 있었다고 자평하며 한미 동맹 재건과 가치 공유 국가들과의 연대 구축 투자 유치 등의 세일즈 외교를 구체적으로 거론했고 한미 확장 억제 강화를 담은 워싱턴 선언도 성과로 꼽았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00417_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

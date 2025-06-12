@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01936",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.351,
+        "format": "MP4",
+        "date": "2021-10-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 그걸 통해서 가해자에 가해 사실을 은폐하거나 물타기를 해서 왜곡 시키는 것 그것이 바로 2차 가해죠",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.563
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "폭로 과정의 불법성 여부도 논란입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.573,
+                "end": 11.631
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "성폭력을 입증하기 위해 제출한 @이름1의 휴대폰 정보가 @이름2측 변호인에 제공됐고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.641,
+                "end": 18.351
+            }
+        ]
+    },
+    "summary": "폭로 과정에서 피해자의 정보가 가해자 변호인에게 제공됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01936_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 49,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

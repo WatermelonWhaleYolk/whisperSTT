@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "KNI_00450",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.432,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무혐의로 끝났지만 한때 파렴치한 교사로 몰렸다는 자괴감에 수 년째 심리상담을 받고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잠을 못 자는 거는 다반사고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.076,
+                "end": 9.501
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아마 죽을 때까지는 갖고 가지 않겠어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.511,
+                "end": 11.988
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 어쩔 수 없는 것 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.998,
+                "end": 13.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제 운명인 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.000,
+                "end": 14.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전국교직원노동조합이 소속 교사 6000여 명에 대한 실태 조사를 실시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.614,
+                "end": 20.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응답자 10명 중 6명은 아동학대 신고를 당했거나 신고당한 동료 교사를 봤다고 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.617,
+                "end": 28.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유죄 확정 비율은 1.5%로 나타났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.636,
+                "end": 32.432
+            }
+        ]
+    },
+    "summary": "전국교직원노동조합이 소속 교사 6000여 명에 대한 실태 조사를 실시했는데 응답자 10명 중 6명은 아동학대 신고를 당했거나 신고당한 동료 교사를 봤다고 답했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00450_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

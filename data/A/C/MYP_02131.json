@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_02131",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.102,
+        "format": "MP4",
+        "date": "2021-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기 있는 케파나 지예흐도 이적료에 비하면 형편없는 모습을 보여주고 있고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.647
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 그래도 전 이적료도 저렴했고 간간이 좋은 모습을 보여주지 않았습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.657,
+                "end": 8.472
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "천 억 짜리 쓰레기 케파 보다는 훨씬 낫죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.482,
+                "end": 10.821
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.831,
+                "end": 11.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 과거 토레스부터 최근의 베르너까지 전대 감독들의 실패작들은 테스트가 부족했기 때문",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.675,
+                "end": 18.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 당장 입단 테스트를 시작하겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.039,
+                "end": 22.102
+            }
+        ]
+    },
+    "summary": "화자1은 과거 토레스부터 최근의 베르너까지 전대 감독들의 실패작들은 테스트가 부족했기 때문이라면서 지금 당장 입단 테스트를 시작하겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02131_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

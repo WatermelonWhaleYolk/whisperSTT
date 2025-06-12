@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYP_03950",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.786,
+        "format": "MP4",
+        "date": "2020-12-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나도 들어간다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인류는 평등하니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.695,
+                "end": 3.821
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "절대 반지가 이런 기분이었을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.831,
+                "end": 6.529
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "사우롬과 골룸 사이에 낀 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.539,
+                "end": 9.160
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 나는 단지 후문으로 나가는 게 목적이었기 때문에 혹시나 싶어 물어봤지만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.170,
+                "end": 16.767
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.777,
+                "end": 17.784
+            }
+        ]
+    },
+    "summary": "주인공이 들어가면 노숙자들도 같이 들어가려는 상황에서 후문으로 가기 위해 지나갈 수 있는지 물어보는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03950_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

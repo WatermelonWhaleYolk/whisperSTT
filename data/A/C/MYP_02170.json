@@ -1,0 +1,518 @@
+{
+    "metadata": {
+        "filename": "MYP_02170",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 89.9,
+        "format": "MP4",
+        "date": "2021-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀 다녀왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.124
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아들 잘 갔다 왔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.134,
+                "end": 2.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몇 골이나 넣었니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.638,
+                "end": 3.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 나 수술한 지 며칠이나 지났다고 골을 넣어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.603,
+                "end": 5.749
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 애들 하는 거 구경이나 하다 왔지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.759,
+                "end": 7.244
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 그래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.254,
+                "end": 8.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대표팀 친구들은 다들 잘 있고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.076,
+                "end": 9.744
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 이번 유로 우승할 수 있겠니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.754,
+                "end": 11.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 아자르 선배가 말썽이긴 하지만 그래도 황금세대 벨기에인데 당연히 우승이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.790,
+                "end": 15.719
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 우리 아들 이뻐 죽겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.729,
+                "end": 17.443
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼른 씻고 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.453,
+                "end": 18.249
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엄마가 와사비 듬뿍 넣은 김치찌개 해놨어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.259,
+                "end": 20.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 무슨 김치찌개에 와사비를 넣어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.595,
+                "end": 22.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제발 음식 가지고 실험 좀 그만하면 안 돼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.544,
+                "end": 24.556
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어머 얘 좀 봐 엄마 음식이 어때서.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.566,
+                "end": 26.489
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자꾸 반찬 투정하면 브루노네 엄마처럼 굶겨 버린다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.499,
+                "end": 29.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠어 먹으면 되잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.126,
+                "end": 30.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 엄마 나 공격수 좀 사주면 안 돼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.630,
+                "end": 32.714
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘가 또 그 얘기니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.724,
+                "end": 33.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스털링 있잖아 스털링.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.853,
+                "end": 35.049
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "포든도 있고 어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.059,
+                "end": 36.139
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 중앙 공격수 말이야 이제 아게로도 없고 제주스 가지고는 1등 하기 힘들다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.149,
+                "end": 40.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제주스가 어때서 그래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.021,
+                "end": 41.259
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걔도 한 때는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.269,
+                "end": 42.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 엄마가 리그에서 1등 하면 공격수 사준다면서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.060,
+                "end": 44.677
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 언제 그랬어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.687,
+                "end": 45.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "챔스에서도 1등 해야 사준 댔지 어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.738,
+                "end": 47.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "챔스는 엄마가 도시락을 이상하게 싸는 바람에 배탈 나서 망한 거잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 47.480,
+                "end": 50.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 김도 안 넣고 김밥을 싸는 사람이 어딨냐고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.747,
+                "end": 53.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김도 안 넣었다니 엄마가 아래쪽에 넣어 놓은 거 못 봤어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 53.197,
+                "end": 56.087
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 누드 김밥이라고 하는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 56.097,
+                "end": 57.324
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "애 그래서 공격수 사줄 거야 말 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 57.334,
+                "end": 59.164
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아빠 왔다 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 59.174,
+                "end": 60.457
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여보 오셨어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 60.467,
+                "end": 61.862
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 @이름1 이 녀석이 집에 오자마자 공격수를 사달라고 떼를 쓰지 뭐에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 61.872,
+                "end": 65.385
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어이 김@이름1 도르",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 65.395,
+                "end": 66.737
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "공격수가 갖고 싶냐 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 66.747,
+                "end": 68.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아버지 아이 그게 아무래도 아게로도 이제 없고 하니까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 68.437,
+                "end": 70.981
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래 그래 공격수 하나 사줄 때도 됐지 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 70.991,
+                "end": 73.726
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당신도 참",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 73.736,
+                "end": 74.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 사달라는 대로 다 사주면 애 버릇 나빠져요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 74.526,
+                "end": 77.067
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김@이름1도르",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 77.077,
+                "end": 77.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 아버지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 77.927,
+                "end": 78.441
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "공격수 사주면 챔스 우승할 수 있냐 도르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 78.451,
+                "end": 80.896
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "득점왕 도르, 도움왕 도르, 발롱도르 탈 수 있냔 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 80.906,
+                "end": 84.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼요 챔스 뿐만 아니라 리그랑 에프에이컵까지 1등 해서 트레블 성적표로 가져오겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 84.303,
+                "end": 89.900
+            }
+        ]
+    },
+    "summary": "화자1은 화자3이 공격수를 사주면 챔스 우승할 수 있냐고 묻자 챔스 뿐만 아니라 리그랑 에프에이컵까지 1등 해서 트레블 성적표를 가져오겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02170_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

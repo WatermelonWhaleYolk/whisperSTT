@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_01669",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.7,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "리버풀 잡고 승점 3점 챙겨서 상위권으로 도약하는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.474
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그치만 리버풀이라고요 리버풀.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.484,
+                "end": 5.395
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 토트넘은 리버풀을 상대로 무려 1515일째 승리가 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.405,
+                "end": 9.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4년을 넘어 5년이 다 되도록 이기지 못하고 있는데 무슨 수로 이기겠다는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.568,
+                "end": 14.459
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내가 돌아왔는데 무슨 걱정이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.469,
+                "end": 16.215
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 흥민이 너 다 나은 기래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.225,
+                "end": 18.241
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "당연하지 지금 몸 상태라면 풀타임도 가능하다고 감독님 오늘 리버풀 잡기 딱 좋은 날씨 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.251,
+                "end": 23.388
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "토트넘의 돌아온 에이스 저 손흥민이 리버풀에 끔찍한 밤을 선사해 주겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.398,
+                "end": 28.700
+            }
+        ]
+    },
+    "summary": "토트넘은 리버풀을 상대로 1515일째 승리가 없는 즉 4년을 넘어 5년이 지나도록 이기지 못하는데 무슨 수로 이길 지 걱정이 많은 선수 앞에 손흥민이 나타나 리버풀에게 끔찍한 밤을 선사해 주겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01669_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

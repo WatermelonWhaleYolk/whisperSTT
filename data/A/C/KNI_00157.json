@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00157",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.675,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보건 복지부가 이런 내용을 담은 영유아 보육법 시행 규칙 개정안을 내일부터 다음 달 22일까지 입법 예고한다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재 어린이집 입소는 순위 별로 해당하는 항목의 점수를 더해 총점이 높은 순서대로 우선권을 줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.426,
+                "end": 15.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1순위로 세 자녀 이상 또는 맞벌이면 각 200점 만 8살 또는 초등학교 2학년 이하인 자녀가 2명 이상인 가구에는 100점을 줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.697,
+                "end": 26.134
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 조건이 같다면 만 9살 자녀와 만 7살 자녀가 있는 맞벌이 가정은 총점 200점으로 만 8살 자녀와 만 7살 자녀를 키우는 맞벌이 가정보다 100점이 낮습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.144,
+                "end": 38.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫째가 1살 차이로 배점 기준에서 벗어나기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.761,
+                "end": 42.675
+            }
+        ]
+    },
+    "summary": "현재 어린이집 입소는 순위 별로 해당하는 항목의 점수를 더해 총점이 높은 순서대로 우선권을 주는데 보건 복지부가 이런 내용을 담은 영유아 보육법 시행 규칙 개정안을 내일부터 다음 달 22일까지 입법 예고한다고 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00157_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": 64,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

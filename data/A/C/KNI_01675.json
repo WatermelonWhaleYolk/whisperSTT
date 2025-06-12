@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "KNI_01675",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.801,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "같은 편에서 띄우면 내가 잡을 잡기 쉬울 것 같아?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수비가 하면 그때는 띄우는 거고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.556,
+                "end": 4.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초등학생 시절 야구 선수였던 @이름1 군은 골육종으로 인해 야구공 대신 하키 스틱을 잡게 됐지만 한 감독의 세심한 지도 속에 희망의 꿈을 키우고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.662,
+                "end": 14.986
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "꼭 국가대표가 돼서 한국의 아이스하키의 위상을 높이고 싶습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.996,
+                "end": 20.289
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름2 감독님을 뛰어넘겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.299,
+                "end": 22.992
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 키즈로 불리는 꿈나무 삼총사 한국 파라 아이스하키의 미래가 영글고 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.002,
+                "end": 29.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 파라 아이스하키 국가대표를 항해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.265,
+                "end": 32.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 32.430,
+                "end": 34.801
+            }
+        ]
+    },
+    "summary": "@이름2 감독의 지도 아래 3명의 파라 아이스하키 꿈나무들이 꿈을 키워나가고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01675_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

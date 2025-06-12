@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_01749",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 27.766,
+        "format": "MP4",
+        "date": "2018-05-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 한번 와보고 싶어가지고 언니 꼬셔가지고 왔는데 이렇게 우리 애기한테도 기억에 남을지 모르겠지만 이런 데 와가지고 너무 기분 좋고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첫 공개된 월드컵 공식 응원가 우리는 하나가 울려 퍼지며 분위기가 절정으로 치달은 가운데 이곳 서울광장에서는 오는 28일과 다음 달 1일 대표팀의 두 차례 국내 평가전 때 대규모 길거리 응원이 예정돼 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.423,
+                "end": 25.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.449,
+                "end": 27.766
+            }
+        ]
+    },
+    "summary": "서울광장에서는 대표팀의 두 차례 국내 평가전 때 대규모 길거리 응원이 예정되어 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01749_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

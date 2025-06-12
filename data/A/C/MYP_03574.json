@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "filename": "MYP_03574",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 39.427,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주세요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 0.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금일 4시합은 전날 매니악팀의 인원 미달 통보로 사이코즈의 몰수승입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.647,
+                "end": 7.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4시합은 친선 시합으로 사이코즈 대 불알스로 대체합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.146,
+                "end": 12.157
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보양식 한번 먹어 볼까나",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.167,
+                "end": 14.738
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "회로 처 먹을까?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.748,
+                "end": 16.152
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "교체",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.162,
+                "end": 17.045
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "자 테스트는 총 4관문 1번째 관문은 동네 야구 접수다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.055,
+                "end": 25.201
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "접수 요건은 5이닝, 무안타, 무실점이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.211,
+                "end": 30.705
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "미션 실패 시 야구 인생은 도전기는 여기서 끝이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.715,
+                "end": 38.032
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.042,
+                "end": 39.406
+            }
+        ]
+    },
+    "summary": "1번째 관문은 동네 야구를 접수하고 것이고 접수 요건은 5이닝, 무안타, 무실점이고 실패 시에 야구 도전기는 여기서 끝내는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03574_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

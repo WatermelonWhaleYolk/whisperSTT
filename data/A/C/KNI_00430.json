@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNI_00430",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.263,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김건희 여사 지인 업체의 대통령 관저 리모델링 비용은 계약을 무려 아홉 번이나 바꾸면서 당초 41억에서 122억까지 늘었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 12.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이에 감사원은 지난해 12월 감사에 착수했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.990,
+                "end": 16.451
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령실이나 관저 이전 공사에 직권 남용이나 부패 행위가 있었는지를 확인하기 위한 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.461,
+                "end": 23.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법이 정한 60일 안에 끝내는 게 원칙이지만 감사원은 반년째 결론을 못 내고 오늘도 감사 기간을 연장했습",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.150,
+                "end": 30.263
+            }
+        ]
+    },
+    "summary": "김건희 여사 지인 업체의 대통령 관저 이전, 리모델링 비용은 계약을 아홉 번이나 바꾸면서 41억에서 122억까지 늘어 감사원은 지난해 12월 직권 남용이나 부패 행위가 있었는지를 확인하기 위한 감사에 착수했고 법이 정한 60일 안에 끝내는 게 원칙이지만 감사원은 반년째 결론을 못 내고 감사 기간을 연장했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00430_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

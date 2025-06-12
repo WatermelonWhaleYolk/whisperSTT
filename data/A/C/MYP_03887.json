@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYP_03887",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.051,
+        "format": "MP4",
+        "date": "2021-02-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 잠시 감상 시간을 갖고 나면 다시 평화가 찾아온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특별히 외모가 이쁘장하지 않아도 남탕이라는 특수한 공간이 사람을 그렇게 만든다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.011,
+                "end": 10.522
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맨날 바지부터 벗는 변태 놈.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.532,
+                "end": 13.369
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "팬티까지 한번에 벗는 야한 놈.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.379,
+                "end": 15.595
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "니들이 내 삶을 알아?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.605,
+                "end": 18.051
+            }
+        ]
+    },
+    "summary": "장발 남자에게 남탕이라는 곳은 바지부터 벗게 하는 그런 곳이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03887_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

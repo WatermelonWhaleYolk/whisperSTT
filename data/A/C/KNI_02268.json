@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_02268",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.0,
+        "format": "MP4",
+        "date": "2018-05-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문선민, 이승우, 구자철 이런 선수들이 같이 투톱 형태를 만들 수 있고 그 부분은 크게 걱정 안 하셔도 될 것 같고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.387
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "월드컵 출전 가능성이 한뼘 높아진 이승우도 마음을 제대로 먹었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.397,
+                "end": 17.259
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "팀에 도움이 되고 싶고 당연히 다 이기고 싶고 쉽지 않는 경기이겠지만 나가서 좋은 결과가 있었으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.269,
+                "end": 28.000
+            }
+        ]
+    },
+    "summary": "신태용 감독은 문선민, 이승우, 구자철 선수들로 투톱 형태로 만들 수 있고 이승우 선수는 팀에 도움이 되어서 경기들이 쉽진 않겠지만 좋은 결과를 얻고 싶어 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02268_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "filename": "MYP_03952",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.963,
+        "format": "MP4",
+        "date": "2020-12-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그들은 잠시 주춤했지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.634
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크으윽.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.644,
+                "end": 2.233
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어쩌냐 난 이런 간단한 용건 조차 통과시키지 않는다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.243,
+                "end": 7.578
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠시 내 눈치를 살피더니",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.588,
+                "end": 10.293
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 그래도",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.303,
+                "end": 13.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가스파드님을 파티에 초대합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.271,
+                "end": 16.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 후문으로 나간다는데 잠깐 열어줘라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.076,
+                "end": 20.421
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그 정돈 괜찮잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.431,
+                "end": 21.783
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "해도 너무 하는구만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.793,
+                "end": 24.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 난 그 그정도까지는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.283,
+                "end": 29.963
+            }
+        ]
+    },
+    "summary": "잠시 주춤하던 노숙자들이 역무원에게 주인공을 지나가게 해달라고 말하는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03952_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

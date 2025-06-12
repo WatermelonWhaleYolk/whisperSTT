@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02317",
+        "category": "스포츠뉴스",
+        "sub_category": 29,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.266,
+        "format": "MP4",
+        "date": "2015-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스키 강사 대부분이 낙농업자이고 마을 전체가 수십 년 전의 목가적 정취를 그대로 간직하고 있다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사부아 지역의 작은 마을 고도 2300미터 높이의 스키장에선 인공 눈이나 큰 숙박업소를 찾아볼 수 없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.230,
+                "end": 19.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.710,
+                "end": 26.266
+            }
+        ]
+    },
+    "summary": "마을 전체가 목가적 정취를 간직하고 있으며 스키장에는 인공 눈이나 큰 숙박업소가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02317_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

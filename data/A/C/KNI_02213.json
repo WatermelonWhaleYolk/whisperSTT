@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "filename": "KNI_02213",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 73.333,
+        "format": "MP4",
+        "date": "2017-05-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대학 강의를 마친 미국인 케리 마허 교수 서둘러 옷을 갈아입고 어디론가 향합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.579
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.589,
+                "end": 9.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스쿠터를 타고 버스로 갈아타고 2시간이 걸려 도착한 곳은 프로야구 경기가 열리는 부산 사직 야구장",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.982,
+                "end": 17.709
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국말이 서툴러도 롯데 자이언츠의 응원가를 모두 따라 부릅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.719,
+                "end": 22.541
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 롯데의 144경기 중 120경기를 구장에서 관람했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.551,
+                "end": 27.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홈 경기 원정 경기 가리지 않고 최근 3년간 평균 125경기를 관람할 정도로 푹 빠졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.284,
+                "end": 34.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "열정적인 응원 문화가 그에게는 문화적 충격이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 34.190,
+                "end": 38.354
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 38.364,
+                "end": 49.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "롯데 산타, 롯데 할아버지 다른 팬들한테도 널리 알려진 스타가 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.608,
+                "end": 55.675
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "엄마도 야구 굉장한 광팬이신데 이렇게 자주 못 오시는데 외국인이신데 이렇게 롯데를 좋아해 주시는 게 정말 열정이 대단하신 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.685,
+                "end": 63.922
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "케리 화이팅",
+                "sound_type": [
+                    2
+                ],
+                "start": 63.932,
+                "end": 64.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해 그의 목표는 롯데의 경기를 한 경기 빼놓지 않고 모두 관람하는 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 64.907,
+                "end": 70.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 70.447,
+                "end": 73.333
+            }
+        ]
+    },
+    "summary": "대학 교수가 프로야구 경기를 홈, 원정 경기 가리지 않고 평균 125경기를 관람할 정도로 푹 빠져 롯데 자이언츠 응원가를 모두 따라 부르는 등 한국의 열정적인 응원 문화에 빠져 그는 롯데의 경기를 모든 경기를 관람하는 것이 목표이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02213_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

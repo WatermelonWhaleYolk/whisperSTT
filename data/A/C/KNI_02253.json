@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02253",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.506,
+        "format": "MP4",
+        "date": "2017-12-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세계적 선수들의 박진감 넘치는 경기만 기다리고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "설상 7개, 빙상 5개 등 올림픽 경기장 12곳이 모두 완공됐고 선수촌 등 대회시설도 단장을 끝냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.940,
+                "end": 13.481
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "12개 경기 시설은 100퍼센트 완료되어 올림픽을 기다리고 있고 임시 시설물 공사가 현재 60퍼센트 공정을 보이고 있으며",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.491,
+                "end": 22.500
+            }
+        ]
+    },
+    "summary": "세계적인 선수들의 열정 넘치는 경기를 기대하며 7개의 설상 및 5개의 빙상 경기장 등 총 12개의 올림픽 경기장이 모두 완공되었고 선수촌과 대회시설 등도 준비가 마무리되었다. 현재 12개 경기 시설은 100% 완료되어 올림픽을 기다리고 있으며 임시 시설물 공사는 현재 60%의 공정을 보이고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02253_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

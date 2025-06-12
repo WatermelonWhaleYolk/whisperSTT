@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_01382",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.563,
+        "format": "MP4",
+        "date": "2023-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불화설까지 제기된 가운데 김민재가 입장문을 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.832
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손흥민이 대표팀 소집이 끝나면 항상 그런 글을 올렸는데 자신을 향한 것이라고 오해해 상식 밖의 행동을 했다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.842,
+                "end": 12.531
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 손흥민에게 연락해 사과했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.541,
+                "end": 16.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 문제의 인터뷰에 대해선 스트레스 탓에 실언했다고 해명했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.454,
+                "end": 22.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김민재는 대표팀 내 96년생 선수들이 파벌을 만들고 있다는 말 역시 매우 당황스럽다며 선을 그었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.318,
+                "end": 30.563
+            }
+        ]
+    },
+    "summary": "김민재는 사과를 하고 96년생 선수 파벌도 당황스러운 이야기라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01382_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

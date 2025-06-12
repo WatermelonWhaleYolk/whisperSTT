@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00939",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.554,
+        "format": "MP4",
+        "date": "2122-12-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 시작까지는 5시간 정도 남았는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞선 일이 차전보다 2시간 늦게 열리다 보니 아직까지는 인파가 많지는 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.915,
+                "end": 8.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "16강 진출을 위한 최소한의 요건 무엇보다 오늘 경기의 승리인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.920,
+                "end": 14.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 승리하면 좋겠지만 승패보다는 경기 자체에 최선을 다해주길 바라는 시민들도 많았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.397,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "경기 시작까지 5시간 정도 남아 아직까지 인파가 많지는 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00939_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

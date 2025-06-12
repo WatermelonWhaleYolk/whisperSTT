@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00515",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2023-01-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "프로는 경험이 아니라 증명하는 무대기 때문에 아버지의 뒤를 따라 레전드 그리고 원맨클럽으로 가고 싶은",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.278
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@소속1의 푸른 피까지 물려받은 새내기 @이름1이 아버지의 뒤를 따라가기 위한 힘찬 날갯짓을 시작했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.288,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "@소속1의 푸른 피까지 물려받은 새내기 @이름1이 아버지의 뒤를 따라가기 위한 힘찬 날갯짓을 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

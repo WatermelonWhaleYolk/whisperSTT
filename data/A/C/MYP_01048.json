@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_01048",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.6,
+        "format": "MP4",
+        "date": "2022-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 모든 상승세의 주역은 결국 나 만수르도르",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.641
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 따지고 보면 결국 돈이 1등 공신이자 만수르 님의 기름이야말로 맨시티의 에이스 아니겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.651,
+                "end": 8.385
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어찌 됐든 그렇게 원하시던 빅이어를 안겨드리면 주급 인상해 주실 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.395,
+                "end": 12.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 많이 받고 있지 않냐 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.046,
+                "end": 14.063
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "8경기 8골도 아니고 8경기 14골입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.073,
+                "end": 17.148
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "솔직히 이 정도면 일주일에 20억도 모자라지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.158,
+                "end": 21.600
+            }
+        ]
+    },
+    "summary": "선수가 구단주에게 8경기 14골을 넣었고 빅이어를 안겨주면 주급을 인상해 달라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01048_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

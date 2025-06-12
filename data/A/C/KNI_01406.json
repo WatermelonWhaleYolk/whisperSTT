@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01406",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.738,
+        "format": "MP4",
+        "date": "2023-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가능성이 많이 열려 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 참 아이 단장님이 저를 째려 보고 계시는데 예 단장님 째려보지 마시고요 네 어 좀 덜 좀 힘들 수 있는 그런 팀을 잘 선택해서 결정을 잘할 수 있도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.372,
+                "end": 12.921
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김연경은 최고의 자리에서 선수 생활을 마무리하고 싶다며 새로운 팀의 기준도 제시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.931,
+                "end": 20.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우승 전략이 좀 가능한 팀을 내년에 우승하고 싶어서 예 우승 팀 우승을 할 수 있는 팀으로 잘 선택해 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.092,
+                "end": 29.729
+            }
+        ]
+    },
+    "summary": "김연경은 최고의 자리에서 선수 생활을 마무리하고 싶다며 새로운 팀의 기준도 제시했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_02119",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.566,
+        "format": "MP4",
+        "date": "2019-09-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양영자 감독은 전국의 초등학교를 돌며 어린 탁구 꿈나무들도 지도하고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재 국가대표 선수 대부분이 양영자 감독을 거쳐 갔다고 하는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.322,
+                "end": 10.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후배들을 키워내는 일 1988년 국민들이 보내주신 성원에 보답하는 길이라고 말합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.020,
+                "end": 17.566
+            }
+        ]
+    },
+    "summary": "양영자 감독은 전국의 초등학교를 돌며 선수들을 육성해내고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02119_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

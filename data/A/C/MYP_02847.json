@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYP_02847",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.633,
+        "format": "MP4",
+        "date": "2020-05-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 이거 나만 빼고 삼겹살 파티하고 있던 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "살짝 서운해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.689,
+                "end": 4.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인사해라 타랍박.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.113,
+                "end": 5.346
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 친구가 우리팀 원톱 줄라탄이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.356,
+                "end": 7.462
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "줄라탄도 아버지는 스웨덴 사람이지만 어머니가 한국인이니 어느 정도 한국말을 할 수 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.472,
+                "end": 12.556
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "친하게 지내도록 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.566,
+                "end": 14.062
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 예 반갑습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.072,
+                "end": 14.973
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "새로 입단한 타랍박이라고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.983,
+                "end": 16.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래 반가워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.393,
+                "end": 17.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인사는 나중에 하고 고기부터 먹자고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.563,
+                "end": 20.330
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 근데 이 사람 줄라탄 아니지 신현준 아니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.340,
+                "end": 23.633
+            }
+        ]
+    },
+    "summary": "감독이 본인 팀의 원톱인 선수를 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02847_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

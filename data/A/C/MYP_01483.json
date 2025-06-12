@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYP_01483",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.617,
+        "format": "MP4",
+        "date": "2022-03-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특급 스트라이커는 없지만 우린 모두가 수준급이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4위 경쟁팀 중 가장 불리한 조건이지만 마지막까지 도전하겠다는 웨스트햄이냐 이번 경기에서 승점 3점 아니 승점 6점을 가져갈 팀은 어디일까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.059,
+                "end": 13.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구독자 여러분의 선택은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.211,
+                "end": 21.603
+            }
+        ]
+    },
+    "summary": "화자1 이 4위 경쟁팀 중 가장 불리하지만 도전하는 웨스트햄이냐 모두가 수준급인 팀이냐 구독자 여러분의 선택을 물어봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01483_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

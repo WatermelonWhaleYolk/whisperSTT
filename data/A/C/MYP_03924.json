@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYP_03924",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2021-01-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 그토록 먹고 싶었던 돈까스를 먹으러 가서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.988
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "퇴원 하자마자 괜찮겠니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.998,
+                "end": 5.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "천천히 조심해서 먹을게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.333,
+                "end": 8.186
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오랜만에 외식을 마음껏 즐겼다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.196,
+                "end": 11.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먹는 즐거움이 이렇게나 소중한 것이라니 먹다 죽어도 좋아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.027,
+                "end": 17.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그날 밤.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.861,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "주인공이 퇴원 후 먹고 싶었던 음식을 먹는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03924_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

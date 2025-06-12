@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_01270",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.704,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "루카쿠 버리기 전에 제주스 알아서 오는 투헬팍팍 투헬팍 투헬팍 도사 맞아 어서 오게 제주스",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.292
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그럼 저는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.302,
+                "end": 11.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검증에 실패한 못생긴 흑인 공격수는 알아서 새 팀을 찾아봐야지 지금부터 귀여운 남미 공격수의 검증 시간이니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.538,
+                "end": 25.687
+            }
+        ]
+    },
+    "summary": "검증에 실패한 루카쿠를 버리기 전에 제주스가 알아서 찾아왔고 루카스는 새로운 팀을 알아보게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01270_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

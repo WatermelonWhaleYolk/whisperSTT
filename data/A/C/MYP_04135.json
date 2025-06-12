@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "filename": "MYP_04135",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2020-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다 배겼던데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.296
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "온 집안이 고양이 털이더만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.306,
+                "end": 5.301
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "클리닝 특수 부대를 조직했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.311,
+                "end": 7.638
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그러므로 출동이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.648,
+                "end": 9.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭘 그러므로야 그러므로는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.592,
+                "end": 11.773
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리는 뭔 기본 옵션이여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.783,
+                "end": 14.141
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "짜장면 사 줄게.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.151,
+                "end": 15.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "콜.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.616,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "그는 친구들과 클리닝 특수 부대를 조직해서 방을 청소하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

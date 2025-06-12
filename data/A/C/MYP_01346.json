@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_01346",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.166,
+        "format": "MP4",
+        "date": "2022-05-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 코너킥도 내가 차면서 흥민이 너의 득점을 전적으로 서포트해 주마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그래도 코너킥은 내가 차는 게 나을 것 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.050,
+                "end": 6.275
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무튼 간에 불가능에 가까웠던 목표를 심지어 2개나 이룰 수 있게 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.502,
+                "end": 10.447
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "노리치 역시 한방이 있는 팀이니까 가장 중요한 게 뭔지 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.067,
+                "end": 14.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무래도 선제골을 집어넣으며 분위기를 가져오는 거겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.827,
+                "end": 17.887
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래 우리 토트넘은 선제골을 넣었을 경우 대승으로 이어질 확률이 높은 거 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.200,
+                "end": 22.517
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "흥민이의 득점 왕을 위해서라도 선제골만큼은 반드시 가져와야 한다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.092,
+                "end": 28.166
+            }
+        ]
+    },
+    "summary": "불가능에 가까웠던 목표를 2개나 이룰 수 있게 된 토트넘은 선제골을 넣을 경우 대승으로 이어질 확률이 높으며 손흥민의 득점 왕을 위해서라도 한 방이 있는 팀인 노리치를 상대로 선제골만큼은 반드시 가져와야 하는 상황으로 손흥민의 득점을 다른 공격수가 코너킥을 차는 등 전적으로 서포트해주겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01346_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

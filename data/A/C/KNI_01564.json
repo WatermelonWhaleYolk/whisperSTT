@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_01564",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 36.6,
+        "format": "MP4",
+        "date": "2020-01-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새벽 6시 귀에 익숙한 국민체조 음악과 함께 선수들이 몸을 풉니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세밑 한파를 뚫고 7개월 앞으로 다가온 올림픽을 향한 다짐도 외쳐봅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.801,
+                "end": 10.271
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도쿄 올림픽 화이팅",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.281,
+                "end": 12.981
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도쿄 올림픽 으라차차",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.991,
+                "end": 16.282
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4년 전 리우에서 할 수 있다 신드롬을 일으킨 펜싱 박상영부터 96년 만에 처음 올림픽에 나가는 럭비 대표팀 그리고 18살 배드민턴의 새 희망 안세영까지 모두가 한마음입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 16.292,
+                "end": 29.633
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아직 올림픽 레이스 중이지만 그게 확정 나면은 그래도",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 29.643,
+                "end": 36.600
+            }
+        ]
+    },
+    "summary": "새벽 6시 국민체조 음악과 함께 몸을 푼 선수들은 세밑 한파를 뚫고 7개월 앞으로 다가온 올림픽을 향한 다짐도 외쳤으며 4년 전 리우에서 할 수 있다 신드롬을 일으킨 펜싱 박상영부터 96년 만에 처음 올림픽에 나가는 럭비 대표팀 그리고 18살 배드민턴의 새 희망 안세영까지 모두가 한마음이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01564_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

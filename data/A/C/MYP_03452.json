@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_03452",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 학생 아주 핵심을 잘 짚어 물어주셨어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "궁금하겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.863,
+                "end": 5.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 140킬로미터의 포수 눈 앞에서 홱 꺾이는 슬라이더는 잘 잡는데 그것보다 한참 느린 미친놈은 왜 못 잡느냐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.276,
+                "end": 15.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "티브이를 보면 포수 앞에서 뚝 떨어지는 변화구는 사실 중개 화면을 옆으로 둘려보면 그 뚝 떨어지는 \n비행 구간은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.341,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "학생이 한참 느린 미친놈은 왜 못 잡는지 아주 핵심을 잘 짚어 물어주었어요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03452_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

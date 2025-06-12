@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01033",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.767,
+        "format": "MP4",
+        "date": "2022-03-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개성 넘치는 헤어스타일과 패션 감각을 자랑하는 유희관 아직 방송국이 낯설지만 촬영이 시작되자 특유의 입담을 뽑냅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.916
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예전에 리즈 선수랑 제가 맞대결을 할 때가 있는데 5G대 2G의 맞대결 토끼와 거북이의 맞대결 SRT가 무궁화의 맞대결 이런 것들을 쓰셨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.926,
+                "end": 22.259
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동화처럼 거북이가 이겼다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.269,
+                "end": 24.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이처럼 느림의 미학으로 불렸지만 올 시즌 판도를 물어보자 빠르고 단호하게 대답합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.138,
+                "end": 30.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4강은 이제 KT 삼성",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.440,
+                "end": 33.767
+            }
+        ]
+    },
+    "summary": "개성 넘치는 헤어스타일과 패션 감각을 자랑하는 유희관 아직 방송국이 낯설지만 촬영이 시작되자 특유의 입담을 뽑냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01033_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

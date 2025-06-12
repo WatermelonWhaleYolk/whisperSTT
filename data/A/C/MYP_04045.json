@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_04045",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.698,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여느 때와 같이 땅 파기 놀이에 열중하고 있던 나는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘은 여기다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.143,
+                "end": 5.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의문의 검은 봉투를 발견했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.394,
+                "end": 8.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오잉 이게 뭐지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.688,
+                "end": 11.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것은",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.679,
+                "end": 16.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 내 인생 최초의 야동이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.066,
+                "end": 20.162
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 하지만 그 가치를 깨우치기엔 난 너무 어렸다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.172,
+                "end": 28.185
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐야 로보트도 안 나오고 놀러가야징.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.195,
+                "end": 31.698
+            }
+        ]
+    },
+    "summary": "땅 파기를 열중하고 있던 나는 검은 봉투를 하나 발견 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04045_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

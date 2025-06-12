@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYP_02124",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.434,
+        "format": "MP4",
+        "date": "2021-06-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가만 진짜로 내가 이적을 한 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아게로 녀석이 가만있지 않겠는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.899,
+                "end": 3.594
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바르셀로나에 남았다면 어디 국왕컵이나 몇 개 더 들고 은퇴했겠지만 우리 맨시티는 리그며 챔스며 우승 후보 0순위 은퇴하기 전 마지막으로 빅이어는 한 번 더 들어봐야하지 않겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.604,
+                "end": 12.574
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아게로는 그만 잊어버려.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.584,
+                "end": 15.434
+            }
+        ]
+    },
+    "summary": "화자2는 화자1에게 바르셀로나에 남았다면 국왕컵이나 몇 개 더 들고 은퇴했겠지만 맨시티에 있으면서 은퇴하기 전 마지막으로 빅이어는 한 번 더 들어봐야 하지 않았겠냐고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02124_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

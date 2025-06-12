@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01294",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.323,
+        "format": "MP4",
+        "date": "2022-12-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "팽팽한 접전은 3쿼터 외곽 골을 적중시킨 케이시시 쪽으로 기울기 시작했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올 시즌 탄탄한 수비로 5연승을 달린 엘지였지만 봇물 터진 케이시시 석 점 포에 속수무책이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.120,
+                "end": 13.268
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연승 행진의 주역 이관희도 침묵했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.278,
+                "end": 15.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4쿼터 후반 몸살 기운이 있었던 허웅이 쐐기 석 점 포를 적중시킨 뒤 교체를 요구하는 장면도 웃음을 자아냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.537,
+                "end": 23.323
+            }
+        ]
+    },
+    "summary": "5연승을 달린 엘지를 케이시시가 이겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01294_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

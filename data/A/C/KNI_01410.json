@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01410",
+        "category": "스포츠뉴스",
+        "sub_category": 38,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.69,
+        "format": "MP4",
+        "date": "2023-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이길 수 있는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.974
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "6살 때 나란히 배드민턴에 입문한 자매는 복식조를 이뤄 국내 고교 무대에서 단 1번도 진 적이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.984,
+                "end": 9.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주니어 국가 대표로는 아시아 선수권 복식 1위 지난달 네덜란드 주니어 오픈 여자 복식 3위 단식 일이 위를 차지하며 국제 경쟁력도 확인했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.330,
+                "end": 20.153
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "셔틀콕 쌍둥이는 이제 더 큰 꿈을 꾸고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.163,
+                "end": 23.690
+            }
+        ]
+    },
+    "summary": "주니어 국가 대표로는 아시아 선수권 복식 1위 지난달 네덜란드 주니어 오픈 여자 복식 3위 단식 일이 위를 차지하며 국제 경쟁력도 확인했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01410_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

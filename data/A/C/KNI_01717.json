@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_01717",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.733,
+        "format": "MP4",
+        "date": "2018-03-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "6개 전 종목에 걸쳐 역대 최대 규모로 출전하는 86명의 우리 선수단은 선전을 다짐했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.106
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 정말 잘하겠습니다 파이팅.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.116,
+                "end": 10.905
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리나라에서 하는 만큼 최대한 국민 여러분께 뭐 가뜩이나 국민 여러분들께 좀 웃게 해드리고 싶고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.905,
+                "end": 19.733
+            }
+        ]
+    },
+    "summary": "86명의 선수단은 패럴림픽에서 5개 전 종목에 걸쳐 역대 최대 규모로 출전하며 국민 여러분께 웃음을 주고 싶다며 선전을 다짐했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01717_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

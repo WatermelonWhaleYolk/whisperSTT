@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "filename": "MYP_03600",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.856,
+        "format": "MP4",
+        "date": "2022-04-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "7",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선출인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 우리 리그도 선출은 2이닝 가능하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.183,
+                "end": 5.135
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 어디서 본 얼굴인데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.145,
+                "end": 7.851
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가볍게 두 타자 가능하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.861,
+                "end": 9.881
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 애써 보겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.891,
+                "end": 13.723
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "피처 연습구 3개",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.733,
+                "end": 16.354
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "저 투수 어디서 본 것 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.364,
+                "end": 19.497
+            },
+            {
+                "speaker_id": "7",
+                "transcription": "에 여기 선출이 한둘이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.507,
+                "end": 22.856
+            }
+        ]
+    },
+    "summary": "저 투수가 어디서 본 것 같고 선출인 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03600_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

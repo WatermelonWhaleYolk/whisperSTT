@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00043",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.061,
+        "format": "MP4",
+        "date": "2023-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 다만 올들어 무역수지 적자 폭이 조금씩 줄고 있어 개선되는 모습이 보인다고 평가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.936
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "중국의 리오프닝 효과가 본격화되고 반도체 업황 개선이 기대되면 하반기부터는 수출이 점차 좋아질 것으로 그렇게 전망하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.946,
+                "end": 17.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 중국 경제가 식품과 화장품 등 소비 위주로 살아난다면 우리 수출이 크게 나아지지 않을 거란 전망도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.477,
+                "end": 25.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.968,
+                "end": 28.061
+            }
+        ]
+    },
+    "summary": "중국의 반도체 업황이 개선되면 좋아질 전망이지만 소비 위주로 살아난다면 비슷할 거란 전망이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00043_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 118
+                }
+            ]
+        }
+    ]
+}

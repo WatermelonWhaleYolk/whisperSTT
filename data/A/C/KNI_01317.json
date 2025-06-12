@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_01317",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "WBC 질문이 나오자 평소 수위 높은 표현을 하지 않던 양의지가 준비한 듯 당찬 각오를 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대표팀에서 좋은 성적을 못 냈기 때문에 정말 다시 뽑아주신 이강철 감독님께 정말 감사드리고 정말 이번에 명예 회복할 수 있도록 준비를 잘 해가지로 칼을 갈고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.243,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "WBC 질문이 나오자 양의지는 준비한 듯 당찬 각오를 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01317_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

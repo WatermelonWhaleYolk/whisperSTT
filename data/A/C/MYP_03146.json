@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03146",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.371,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 살면서 용사님의 성검을 탈취하려는 마물을 한번도 본 적 없을 줄 알았느냐 이 잡것아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 버릇없는 마물은 내가 친히 직접 하늘로 올려 보내 주겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.507,
+                "end": 10.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "애네 눈 돌아갔네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.563,
+                "end": 12.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 나 용사처럼 생겼잖아. 누가 봐도 용사처럼 생겼잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.649,
+                "end": 16.305
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너희 인간들이 날 믿어 줘야지 이러면 안 되는 거잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.315,
+                "end": 19.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "듣고 보니 맞는 말이군.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.378,
+                "end": 21.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면 여기서 신성력을 보여 봐라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.675,
+                "end": 24.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네가 진정 용사라면 아무리 육체 능력이 초기화된 지금 상태라도 신앙은 존재 할테지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.821,
+                "end": 31.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 작은 기적이라도 좋으니 신성력을 보인다면 믿어 의심치 않겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.922,
+                "end": 38.371
+            }
+        ]
+    },
+    "summary": "여성은 자신이 용사처럼 생겼으니 믿어 주길 바라고 있으며 이에 대해 노인은 작은 신성력이라도 보이면 믿어주겠다고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03146_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

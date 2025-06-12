@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYP_03609",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.718,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 휘핑 빼고 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.416
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아메리카노 휘핑 안 들어갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.426,
+                "end": 6.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 뭐 맛으로 먹어요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.126,
+                "end": 12.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 드셔보세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.194,
+                "end": 15.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쓴 맛 좀 봐라 이 워킹데드놈",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.380,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "아메리카노에 휘핑은 안 들어가고 쓴 맛을 보여줄 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03609_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00188",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.994,
+        "format": "MP4",
+        "date": "2023-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김연경은 고민 끝에 잔류로 기울어 소속팀 흥국생명과 곧 구체적인 협상을 시작할 계획인 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "적극적으로 영입 제의를 해온 현대건설과는 사실상 협상 테이블을 접은 것으로 전해졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.655,
+                "end": 13.905
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직 결정된 것은 없고요 예 잘 논의 중이기 때문에 예 잘 뭐 선택할 수 있도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.915,
+                "end": 20.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김연경은 은퇴를 미뤘지만 IOC 선수 위원의 꿈은 여전하다며 도전 의사에는 변함이 없다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.558,
+                "end": 27.994
+            }
+        ]
+    },
+    "summary": "김연경은 고민 끝에 잔류로 기울어 소속팀 흥국생명과 곧 구체적인 협상을 시작할 계획인 것으로 알려졌으며 김연경은 은퇴를 미뤘지만 IOC 선수 위원의 꿈은 여전하다며 도전 의사에는 변함이 없다고 강조했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00188_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

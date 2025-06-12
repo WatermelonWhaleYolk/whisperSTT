@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNI_00577",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.125,
+        "format": "MP4",
+        "date": "2023-01-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두 팀을 오가며 33득점 @이름1은 베스트 퍼포먼스상에 올스타전 MVP까지 2관왕을 차지했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수상의 기쁨도 마음껏 표현했네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.356,
+                "end": 10.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBL 은퇴 선수 @이름2이 깜짝 초대 선수로 출전해 부인 @이름3와 티격태격 수비하다 엉덩방아까지 찧어 웃음을 자아냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.042,
+                "end": 19.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올스타전을 마친 여자 프로 농구는 오는 14일 재개됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.881,
+                "end": 25.125
+            }
+        ]
+    },
+    "summary": "MVP 선수는 두 팀을 오가며 33득을 얻어 베스트 퍼포먼스상까지 차지했고 은퇴 선수가 깜짝 초대 선수로 출전해 부인과 티격태격하는 모습을 보였으며 올스타전을 마친 여자 프로 농구는 오는 14일 재개된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00577_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

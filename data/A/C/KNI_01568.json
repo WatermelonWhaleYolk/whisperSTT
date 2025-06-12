@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNI_01568",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.858,
+        "format": "MP4",
+        "date": "2022-09-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부산 세계 단체 탁구 선수권 대회 조직 위원회가 오늘 창립 총회와 출범식을 열었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조직위는 2024년 부산 세계 선수권에 파리 올림픽 단체 출전권이 걸려있어 5월 예정인 대회를 2월 중순으로 개최 시기를 앞당겼다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.496,
+                "end": 18.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국제 탁구 연맹은 대회 8강 진출국에 파리 올림픽 출전권을 자동 부여하기로 결정했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.193,
+                "end": 24.858
+            }
+        ]
+    },
+    "summary": "부산 세계 단체 탁구 선수권 대회 조직 위원회가 오늘 창립 총회와 출범식을 열어 파리 올림픽 단체 출전권이 걸린 대회 일정 시기를 앞당기기로 했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01568_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 101
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01568_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

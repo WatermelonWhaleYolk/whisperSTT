@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "KNI_00483",
+        "category": "스포츠뉴스",
+        "sub_category": 9,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.418,
+        "format": "MP4",
+        "date": "2023-05-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여자 야구 대표팀은 이달 말 홍콩에서 열릴 아시안컵에서 메달 획득에 도전합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조 2위가 되는 게 목표이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.423,
+                "end": 7.255
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 팀이 더 강해질 수 있도록 그렇게 해보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.266,
+                "end": 10.515
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 모두가 원 팀이 돼가지고 다음 라운드에 진출할 수 있는 그런 결과를 만들었으면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.515,
+                "end": 16.686
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다들 파이팅",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.696,
+                "end": 18.418
+            }
+        ]
+    },
+    "summary": "이달 말 열리는 홍콩 아시안컵 메달 획득에 도전하는 여자 야구 대표팀을 응원하며 감독들이 메시지를 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00483_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00483_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

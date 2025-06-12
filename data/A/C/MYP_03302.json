@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "filename": "MYP_03302",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.461,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "끝나면 같이 집 알아봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.924,
+                "end": 3.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오랜 시간이 지난 뒤",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.597,
+                "end": 5.088
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 형들 몇 달 만에 보는지 모르겠군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.098,
+                "end": 9.537
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이야 가스파드냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.547,
+                "end": 11.248
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멀리 떠났던 형들이 다시 돌아오고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.258,
+                "end": 14.024
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오랜만이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.034,
+                "end": 16.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.167,
+                "end": 18.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.113,
+                "end": 20.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 인간들",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.289,
+                "end": 21.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그제서야 우리는 함께 살 계획을 짤 수 있었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.830,
+                "end": 26.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐하고 지낸 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.634,
+                "end": 28.461
+            }
+        ]
+    },
+    "summary": "몇 달 후 멀리 떠났던 형들이 다시 돌아왔는데 분위기가 심상치 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03302_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

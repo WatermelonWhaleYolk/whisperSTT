@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_04123",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 49.969,
+        "format": "MP4",
+        "date": "2020-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가끔은 모험의 달콤함을 다시 즐기고 싶을 때가 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 근데 왜 안 가냐고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.243,
+                "end": 9.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "눈 감아봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.352,
+                "end": 14.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이젠 그 모험보다 여기도 달콤한 게 있는 걸.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.792,
+                "end": 21.847
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우효",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.857,
+                "end": 24.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저거 봐 굉장한 석양이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.232,
+                "end": 28.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선글라스를 껴도 눈부신 빛이로군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.284,
+                "end": 33.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마치",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.314,
+                "end": 48.091
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우효",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.101,
+                "end": 49.961
+            }
+        ]
+    },
+    "summary": "남자는 가끔 모험의 달콤함을 다시 즐기고 싶을 때가 있지만 여기에도 달콤함이 있어서 안 간다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

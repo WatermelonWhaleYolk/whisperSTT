@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_04353",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 83.917,
+        "format": "MP4",
+        "date": "2019-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하늘에서 돈이 내리게 해주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흐흐흐흐 하늘에서 돈이 내리게 해달라 똥 싸는 것보다 쉽군 들어주지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.638,
+                "end": 19.628
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음 으으으으으으으으.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.638,
+                "end": 48.140
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "삐약.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.150,
+                "end": 58.777
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대체 무슨 일이 일어난 건지 잘 모르겠지만 뭐 어쨌든 잘 지내보자고 그런데 병아리에게 뭘 먹여야 하지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 58.787,
+                "end": 69.017
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "일단 닭손질을.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 69.027,
+                "end": 72.488
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "삐약.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 72.498,
+                "end": 76.645
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음 쓸만하네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 76.655,
+                "end": 83.917
+            }
+        ]
+    },
+    "summary": "한 남자의 소원으로 하늘에서 돈을 내려 달라고 해서 지구종말이 왔고, 요리를 하고 있는 남자가 알을 깨는데 거기서 병아리가 나왔는데 꽤 쓸만했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04353_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

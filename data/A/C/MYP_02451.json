@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_02451",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.766,
+        "format": "MP4",
+        "date": "2021-01-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 이제 곧 경기가 시작하니 마지막으로 당부하겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 상황 봐서 공격적으로 나가는 것도 고려해 볼 테니 다들 집중해 주고 먼저 케인",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.735,
+                "end": 7.232
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 감독님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.242,
+                "end": 8.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리버풀 공격진이 아무리 막강하다지만 진정한 스트라이커는 케인 너라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.069,
+                "end": 12.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스트라이커답게 골로 보여주고 오도록.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.128,
+                "end": 14.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걱정 붙들어 매십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.017,
+                "end": 15.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음으로 흥민이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.331,
+                "end": 16.236
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 감독님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.246,
+                "end": 16.874
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공간이 보이면 일단 뛰어들어가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.884,
+                "end": 18.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "침투는 네가 원탑이라는 걸 확실하게 증명하고 오도록.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.635,
+                "end": 21.766
+            }
+        ]
+    },
+    "summary": "감독은 두 선수들에게 스트라이커로서 역할을 강조하고 공간을 활용하여 공격을 이끌도록 임무를 부여하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

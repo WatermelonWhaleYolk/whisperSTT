@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00187",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.185,
+        "format": "MP4",
+        "date": "2023-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 약을 먹기 전에 어 미리 검색을 해보고 이 약이 괜찮은 건지 막 먹어도 괜찮은 건지를 확인을 할 정도로 지금도 많은 어 선수들한테 그런 인식들이 많이 생긴 것 같아서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.317
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근 은퇴를 미루고 현역 연장을 선언한 김연경인만큼 앞으로의 진로에 관심이 집중됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.327,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "김연경은 약을 먹기 전에 미리 확인하라고 이야기하며 최근 은퇴를 미루고 현역 연장을 선언한 김연경인만큼 앞으로의 진로에 관심이 집중됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00187_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

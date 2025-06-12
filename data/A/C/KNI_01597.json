@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNI_01597",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 41.514,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "필리핀 선수 구탕은 더 화려했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구탕은 스펠맨에게서 공을 빼내 림을 향해 그대로 날았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.116,
+                "end": 6.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실전에서는 좀처럼 보기 힘든 폭발적인 덩크가 탄성을 자아냅니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.644,
+                "end": 12.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인삼공사도 필리핀 선수 아반도가 반격의 선봉에 섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.920,
+                "end": 19.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아반도는 외곽부에 이어 골 밑을 파고 들어 호쾌한 덩크슛을 꽂아 넣었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.349,
+                "end": 24.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 LG는 이재도가 4쿼터 막바지 결정적인 석 점포를 꽂아 넣으며 승기를 잡았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.996,
+                "end": 31.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대의 마지막 공격이 림을 외면하는 행운까지 더한 LG가 한 점 차로 웃었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 31.547,
+                "end": 37.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "LG가 인삼공사의 끈질긴 추격을 따돌리고 승리를 챙겼습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 37.025,
+                "end": 41.508
+            }
+        ]
+    },
+    "summary": "인삼공사는 필리핀 선수 아반도가 반격의 선봉에 섰지만 LG는 이재도가 석 점포를 꽂아 넣으며 승기를 잡았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01597_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02877",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.033,
+        "format": "MP4",
+        "date": "2020-04-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 머지사이드를 대표하는 훔펍에서 펼쳐지는 쇼미 더 할머니 그 대망의 무대가 지금 시작합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.218
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐? 쇼미 더 할머니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.228,
+                "end": 9.829
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쇼미 더 머니도 아니고 할머니가 뭐야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.839,
+                "end": 11.987
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.997,
+                "end": 13.098
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 들었어요? 쇼미 더 할머니래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.108,
+                "end": 15.208
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 사람들 센스하고는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.218,
+                "end": 16.762
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여기 관중 대부분 할머니들이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.772,
+                "end": 19.161
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "스웩 넘치는 할머니들을 위한 위문 공연인데 @이름1 너무하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.171,
+                "end": 24.033
+            }
+        ]
+    },
+    "summary": "쇼미 더 할머니라는 무대를 시작하겠다는 말을 듣고 비웃는 @이름1에게 관중의 대부분이 할머니라고 말하며 너무하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02877_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

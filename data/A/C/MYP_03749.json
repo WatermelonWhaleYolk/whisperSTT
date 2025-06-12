@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "filename": "MYP_03749",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2021-08-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 축하자리는 아작 나고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.056
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크아아아아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.066,
+                "end": 3.345
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "학생들 포장해 줄까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.355,
+                "end": 4.897
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이건 포장해 가도 못 먹어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.907,
+                "end": 6.519
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "허허 그건 그래",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.529,
+                "end": 7.767
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아는데 왜 물어봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.777,
+                "end": 9.009
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아유 서비스란게 원래 그런 거 아니겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.019,
+                "end": 12.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한풀 기가 꺾인 우리는 힘없이 파블로의 집으로 향하다가",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.358,
+                "end": 17.882
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "하",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.892,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "음식이 매워서 축하자리가 끝나버리고 사장님은 포장 원하냐고 묻지만 포장해 가도 못 먹을 정도이며 모두 파블로의 집으로 향한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03749_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 154
+                }
+            ]
+        }
+    ]
+}

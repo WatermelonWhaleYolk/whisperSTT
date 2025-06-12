@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01184",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.057,
+        "format": "MP4",
+        "date": "2022-10-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "행사장 안에서도 시선은 @이름1 감독에게로 쏠렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어느 팀이나 누구 감독이나 한번 생각은 해볼 수 있다고 생각해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.738,
+                "end": 8.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팬들하고 뭐 외면하면서 걔를 데려오겠다는 그런 생각 갖고 한 건 아니에요 그냥 알아보는 수준인거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.322,
+                "end": 16.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이재영 논란으로 분위기가 어수선해지긴 했지만 선수들은 노래 제목으로 활기차게 시즌 출발을 알렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.394,
+                "end": 24.057
+            }
+        ]
+    },
+    "summary": "페퍼저축은행 감독은 아직 정해진 것은 아니고 알아보는 수준이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01184_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

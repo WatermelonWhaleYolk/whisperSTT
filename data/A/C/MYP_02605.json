@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02605",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.472,
+        "format": "MP4",
+        "date": "2020-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "리그 8경기 2골 성적이 왜 이래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.552
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그게 아무래도 받쳐주는 동료들이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.562,
+                "end": 4.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이게 남탓이나 하고 이 너는 아무래도 스피드가 생명인 포처스타일이니까 이제 나이 들었다고 기량이 떨어지는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.630,
+                "end": 11.752
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니에요 조만간 다시 득점왕 경쟁을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.762,
+                "end": 13.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 이거 3급이나 4급 줄랬더니 안 되겠구먼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.452,
+                "end": 16.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너는 6급이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.290,
+                "end": 17.590
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 아무리 그래도 6급이라니 너무 하시는 거 아니에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.600,
+                "end": 19.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "골무원이 골을 넣어야 등급이 오르지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.962,
+                "end": 22.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "승진하려면 골부터 넣고 오도록",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.219,
+                "end": 25.466
+            }
+        ]
+    },
+    "summary": "리그 8경기 2골을 넣은 골무원은 6급을 받고 불만을 표출하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02605_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

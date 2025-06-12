@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_02150",
+        "category": "스포츠뉴스",
+        "sub_category": 24,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.233,
+        "format": "MP4",
+        "date": "2019-11-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 펜싱 분야엔 선수들과 포상금를 나누는 일명 코치 머니가 없어 2013년 세계 대회에서 메달을 딴 뒤부터 선수들이 감사의 뜻으로 돈을 줬다고 주장했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 때 이후 관행처럼 돈을 주면 부담을 느끼면서도 받아왔다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.373,
+                "end": 17.233
+            }
+        ]
+    },
+    "summary": "유 감독은 2013년 세계 대회에서 선수들이 감사의 뜻으로 돈을 주기 시작해 받아왔다고 주장했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02150_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

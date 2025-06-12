@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_01903",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.418,
+        "format": "MP4",
+        "date": "2022-08-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1의 강력한 스파이크가 코트에 꽂힙니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에는 타점 높은 정확한 블로킹까지 선보이며 1 세트를 손쉽게 가져오는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.490,
+                "end": 9.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2 세트에도 @이름1의 재치있는 오픈 공격을 앞세워 추격을 시작한 대한항공 세트를 끝내는 것도 @이름1이었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 9.656,
+                "end": 18.418
+            }
+        ]
+    },
+    "summary": "강력한 스파이크가 꽂히고 블로킹까지 선보이며 세트를 끝내는 대한항공의 임 선수의 모습을 소개하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01903_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

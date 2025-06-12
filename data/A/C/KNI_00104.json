@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNI_00104",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.551,
+        "format": "MP4",
+        "date": "2023-04-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현대캐피탈 리베로 박경민은 몸을 던지는 수비로 공을 건져냈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부상이 우려될 정도로 놀라운 투혼 2연패를 당한 현대캐피탈을 깨우기에 충분했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.565,
+                "end": 12.642
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이걸 받았어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.652,
+                "end": 14.721
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "부상당할까 봐 걱정이 됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.731,
+                "end": 16.559
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몸을 사리지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.569,
+                "end": 18.551
+            }
+        ]
+    },
+    "summary": "현대캐피탈 박경민의 몸을 던진 수비로 일깨웠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00104_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 119
+                }
+            ]
+        }
+    ]
+}

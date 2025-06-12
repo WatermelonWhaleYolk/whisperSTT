@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_04233",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.651,
+        "format": "MP4",
+        "date": "2020-03-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 이 속도면 가능해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.075
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3분안에 도달할 수 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.085,
+                "end": 5.542
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 우리는 환상적인 팀 워크로 시각을 면하는 듯 했으나 미처 계산에 넣지 못한게 하나 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.552,
+                "end": 14.546
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 가스파드야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.556,
+                "end": 17.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 형.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.121,
+                "end": 18.651
+            }
+        ]
+    },
+    "summary": "그렇게 우리는 환상적인 팀 워크로 지각을 면하는 듯 했으나 미처 계산에 넣지 못한게 하나 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04233_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

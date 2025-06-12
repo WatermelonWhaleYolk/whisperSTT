@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_02201",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 47.1,
+        "format": "MP4",
+        "date": "2017-12-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "충남에 입성한 성화는 부여를 시작으로 태안, 홍성, 당진, 서산, 공주를 거쳐 오는 9일부터 사흘간 과학도시 대전을 순회합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 대전에서는 로봇 휴보가 성화봉송을 하는 로봇 봉송이 이뤄질 예정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.293,
+                "end": 15.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이후 성화는 세종시를 거쳐 천안, 아산 등 충남북부권을 돈 뒤 충북으로 이동해 청주와 진천, 충주, 제천, 단양을 돌며 충청 곳곳에 평창의 열기를 전하게 됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.381,
+                "end": 28.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "성화를 맞은 주민들은 올림픽의 성공 개최를 한마음으로 기원했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.671,
+                "end": 34.037
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "성화를 맞이할 수 있다는 게 너무 감사하고 앞으로 평창올림픽이 성공리에 잘 끝날 수 있도록 선수들 다치지 않고 승리할 수 있도록 기원합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 34.047,
+                "end": 47.100
+            }
+        ]
+    },
+    "summary": "대전에서 로봇 성화봉송이 이루어지는 등 충남을 거쳐 충북으로 이동해 평창의 열기를 전할 예정이며 성화를 맞은 주민들은 올림픽 성공 개최를 기원했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02201_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

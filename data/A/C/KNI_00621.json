@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_00621",
+        "category": "스포츠뉴스",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 44.477,
+        "format": "MP4",
+        "date": "2023-01-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 저스트두잇의 약자인 여자 야구 구단 @소속1를 창단했고 토미존 수술까지 받은 뒤 일본 행을 위해 재활에 몰두 중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제 인생의 목표는 그 3개 국어는 하자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.842,
+                "end": 12.822
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.832,
+                "end": 20.905
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인대도 새 것이고 마음가짐도 새롭게 바꿨으니 어 앞으로도 잘 지켜봐 주시고 어 최선을 다하는 @이름1이 되겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.915,
+                "end": 29.390
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.400,
+                "end": 30.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 경기도 남양주시에서 야구에 대해 강연까지 하며 청소년의 꿈을 응원하기도 한 @이름1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.454,
+                "end": 37.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 비포장도로라도 본인이 직접 포장도로를 깔겠다는 각오로 일본 무대를 노크할 계획입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.060,
+                "end": 44.477
+            }
+        ]
+    },
+    "summary": "지금은 비포장도로라도 본인이 직접 포장도로를 깔겠다는 각오로 일본 무대를 노크할 계획이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00621_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

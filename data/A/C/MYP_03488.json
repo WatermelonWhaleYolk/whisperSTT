@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "MYP_03488",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 52.552,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여보세요 운영팀 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하아 하아 이 새끼야 퇴근 안 하냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.910,
+                "end": 10.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 누 누구신데 욕을",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.506,
+                "end": 15.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하아 몸 만들고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.050,
+                "end": 17.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼭 간다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.290,
+                "end": 18.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 누구신데 자꾸 입김을 어어 너 설마",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.076,
+                "end": 22.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반드시 들어가서 내 발로 그만 둔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.900,
+                "end": 31.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2야 너 그동안 어디서 어떻게 여보세요 여보세요 야 @이름2",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 31.644,
+                "end": 43.975
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아아 아 응 아악",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 43.985,
+                "end": 52.552
+            }
+        ]
+    },
+    "summary": "@이름2는 운영팀 @이름1에게 전화를 걸어 몸을 만들고 있고 반드시 들어가서 내 발로 그만둔다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03488_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "MYP_00604",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.633,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 챔피언스리그에서 우승하셨다면 무려 90프로 할인이 되고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.195
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.195,
+                "end": 3.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘들이 우리 팀 작년에 뭐 우승한 거 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.872,
+                "end": 5.855
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 그런 건 없어요 선배.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.855,
+                "end": 7.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 특별히 재작년이라도 할인해 드릴 테니 뭐라도 없으신가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.202,
+                "end": 10.612
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "재작년이라면 아 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.612,
+                "end": 12.705
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우리도 재작년에 아우디컵에서 우승했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.705,
+                "end": 15.302
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아우디컵은 몇 프로 할인입니까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.302,
+                "end": 20.633
+            }
+        ]
+    },
+    "summary": "화자 4는 재작년 아우디컵에서 우승했다며 아우디컵 우승은 몇 프로 할인이 되는지 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00604_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

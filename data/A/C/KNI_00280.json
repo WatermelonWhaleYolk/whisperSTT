@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00280",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.25,
+        "format": "MP4",
+        "date": "2022-11-11",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "벤투 감독은 선수 기량 점검에 초점을 맞춘 평가전까지 모두 치른 뒤 내일 오후 최종 명단 스물 여섯 명을 발표합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발음&",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.455,
+                "end": 17.250
+            }
+        ]
+    },
+    "summary": "벤투 감독은 선수 기량 점검에 초점을 맞춘 평가전까지 모두 치른 뒤 내일 오후 최종 명단 스물 여섯 명을 발표합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00280_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

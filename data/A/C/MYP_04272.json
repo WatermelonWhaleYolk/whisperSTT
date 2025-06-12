@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_04272",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.388,
+        "format": "MP4",
+        "date": "2020-02-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다시 돌아온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.276
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 이렇게 쓴 걸 사람 먹으라고 팔아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.286,
+                "end": 4.049
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "쓴 맛으로 먹는다며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.059,
+                "end": 6.174
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 뒷처리는 언제나 그의 몫.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.184,
+                "end": 10.094
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "허허허허허 이번만 특별히 해드리는 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.104,
+                "end": 12.671
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "친절하게 화내고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.681,
+                "end": 16.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분은 꼭 다 드시길.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.530,
+                "end": 21.388
+            }
+        ]
+    },
+    "summary": "손님이 쓴 맛으로 먹는다고 해놓고는 이렇게 쓴 걸 어떻게 먹냐고 하셔서 이번만 특별히 해드린다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

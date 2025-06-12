@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_02415",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.04,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "6레인 남한 고등학교 @이름1 7레인 이 선수입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10년 만에 여자 고등학교부 11초대 기록 @이름2 전남 체고 그리고 덕계 고등학교의 @이름3 선수가 8레인에 있습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.290,
+                "end": 15.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 3번의 @이름4 선수와 4번의 @이름5 선수가 준결승 기록이 똑같습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 15.854,
+                "end": 21.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "12초 26으로 똑같기 때문에 이 선수들이 지금 3번과 4번 라인의 같이 또 맞물렸기 때문에 이 선수들이 경쟁했을 때 또 어떤 기록이 나올지 한번 지켜보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 21.949,
+                "end": 34.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3레인 4레인 7레인 정도를 좀 주목해보면 되겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.021,
+                "end": 40.040
+            }
+        ]
+    },
+    "summary": "10년 만에 여자 고등부 11초대를 기록한 7레인의 @이름2 선수와 준결승 기록이 똑같은 3, 4번 레인의 선수를 주목하라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02415_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 91
+                }
+            ]
+        }
+    ]
+}

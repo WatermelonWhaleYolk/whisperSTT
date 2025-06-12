@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_03423",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.719,
+        "format": "MP4",
+        "date": "2022-08-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나 가야돼 왜왜 뭔 문기지가 있어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.814
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나는 처음엔 그를 매우 적극적인 구걸인 정도로 생각했으나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.824,
+                "end": 10.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쏘 쏘리 노 머니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.186,
+                "end": 12.724
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "노우 두랭이 노 두랭",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.734,
+                "end": 14.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.632,
+                "end": 15.715
+            }
+        ]
+    },
+    "summary": "나는 그를 매우 적극적인 구걸인으로 생각하고 돈이 없다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03423_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

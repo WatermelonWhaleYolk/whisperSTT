@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_02233",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.266,
+        "format": "MP4",
+        "date": "2016-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 경기는 사실 초반에 아무래도 조금 유리하지 않을까 하고 출발했었는데 그럼에도 패했다는 거는 저의 부족함이 다시 한번 드러나지 않았나 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 저는 기본적으로 알파고가 상수라고 생각하지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.741,
+                "end": 16.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다섯 판을 뒀지만 아직도",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.967,
+                "end": 20.266
+            }
+        ]
+    },
+    "summary": "이세돌 9단은 초반에 유리하지 않을까 생각했지만 패한 것을 자신의 부족함에 대해 말했고 알파고가 상수라고 생각하지 않는다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02233_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_01399",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.754,
+        "format": "MP4",
+        "date": "2023-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4세트 흥국 생명 옐레나의 서브를 시작으로 기나긴 랠리가 펼쳐집니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네트를 사이에 두고 계속 공이 왔다 갔다 결국 박정아의 공격이 성공하면서 끝난 무려 1분 13초간의 랠리 2팀 선수 모두 체력 부담을 호소할 정도로 초접전이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.804,
+                "end": 20.754
+            }
+        ]
+    },
+    "summary": "4세트 흥국 생명 옐레나의 서브를 시작으로 기나긴 랠리가 펼쳐지는데 박정아의 공격이 성공하면서 끝난 무려 1분 13초간의 랠리 2팀 선수 모두 체력 부담을 호소할 정도로 초접전이었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01399_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

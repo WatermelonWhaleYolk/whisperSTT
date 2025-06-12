@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02691",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.666,
+        "format": "MP4",
+        "date": "2020-09-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "레알에서 어느 정도 보조를 해준댔으니 내가 4억 정도는 맞춰주겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.714
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "9억 그 밑 으로는 일 안 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.724,
+                "end": 5.729
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 맨유는 전에 산체스 같은 먹튀한테 7억이나 줬던 거 모르십니까? 저 정도면 9억 줘야죠 9억.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.739,
+                "end": 11.156
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "산체스는 7억을 받으면서 꺼억이라는 별명까지 붙었어 너가 부상이라도 당해봐 꺼억이 감당할 수 있겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.166,
+                "end": 16.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그것 참 듣기 좋은 별명인데요? 아 근처에 골프장 예약해놨으니 빨리 빨리 결정하시죠 뭐 9억 주시는 김에 등번호도 9번으로 해주시고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.972,
+                "end": 24.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 젠장 뭐 일단 레알에서 최대한 많이 받아내야겠구만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.368,
+                "end": 28.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 알겠네 토트넘에 돌아온 걸 환영하네 베일.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.055,
+                "end": 30.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그럼 잘 먹겠습니다 아니 잘 부탁드립니다 꺼억.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.796,
+                "end": 35.666
+            }
+        ]
+    },
+    "summary": "베일이 맨유는 전에 산체스 같은 먹튀한테 7억이나 줬던 거 모르시냐고 하면서 저 정도면 9억 줘야 된다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02691_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

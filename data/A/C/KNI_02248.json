@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_02248",
+        "category": "스포츠뉴스",
+        "sub_category": 21,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.566,
+        "format": "MP4",
+        "date": "2017-10-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성화봉송 주자들은 영광의 순간을 기다리며 설렙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.801
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 큰 행사에 뽑힌만큼 제가 나중에라도 후회되지 않도록 열심히 최선을 다해서 뛰겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.811,
+                "end": 10.957
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소치 올림픽때 우주인 봉송처럼 제주 해녀봉송과 횡성 소달구지 봉송 등 지역 특색을 살린 수단도 선보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.967,
+                "end": 20.566
+            }
+        ]
+    },
+    "summary": "소치 올림픽 때 우주인 봉송처럼 제주 해녀 봉송과 행성 소달구지 봉송 등 지역 특책을 살린 수단도 선보이게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02248_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

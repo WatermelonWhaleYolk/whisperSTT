@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYP_04340",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.939,
+        "format": "MP4",
+        "date": "2019-10-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소년이여 머리를 깎아라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하드 투블럭.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.521,
+                "end": 13.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인디 모히칸",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.946,
+                "end": 16.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서인영",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.399,
+                "end": 17.715
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장발장발장",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.725,
+                "end": 20.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삭발 대머리 헤헷.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.129,
+                "end": 23.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 1편부터 그렇게 댕겨 놓고 왜 부끄러워 하는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.799,
+                "end": 27.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 꽤 다양한 헤어 스타일에 도전해왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.518,
+                "end": 32.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 기억에 남는 머리는 대학 초년생 때 했던 새빨간 장발이었는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.361,
+                "end": 39.939
+            }
+        ]
+    },
+    "summary": "한 사람이 다양한 헤어스타일에 도전해 왔고 그중에 대학 초년생에 했던 빨간 장머리가 기억에 남는다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04340_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_04340_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

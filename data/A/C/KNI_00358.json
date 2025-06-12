@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00358",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2022-12-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "애국심이 차올랐어요 색다른 경험이었는데 또 이렇게 질서유지가 잘되는 이런 식에 의리 응원이 계속됐으면 좋겠어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 12.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 목이 쉴 정도로 소리를 너무 많이 질러서 말로 표현할 수 없을 정도로 정말 너무나도 신나고 좋은 경기였던 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.950,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "질서유지가 잘 되는 이런 식에 응원이 계속 됐으면 좋겠다고 말했고 표현할 수 없을 정도로 너무 신나고 좋은 경기였다고 시민들은 인터뷰했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00358_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

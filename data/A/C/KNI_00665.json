@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNI_00665",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.821,
+        "format": "MP4",
+        "date": "2023-01-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 내내 슛을 던지라고 외쳤던 은희석 감독은 프로답지 못한 경기력에 결국 작전 타임을 불렀습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 무슨 농구야.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.219,
+                "end": 9.895
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무서워?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.905,
+                "end": 10.969
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "던질 수 있어야지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.979,
+                "end": 13.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1이 에어 볼을 남발하는 사이 오세근의 3점 포와 @이름1의 덩크를 앞세운 선두 @소속2는 25점 차로 쉽게 승리했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.430,
+                "end": 21.821
+            }
+        ]
+    },
+    "summary": "은희석 감독은 프로답지 못한 경기력에 결국 작전 타임을 불렀고 @소속1이 에어 볼을 남발하는 사이 @소속2는 25점 차로 쉽게 승리했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00665_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

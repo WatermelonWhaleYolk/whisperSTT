@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNI_01145",
+        "category": "스포츠뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.789,
+        "format": "MP4",
+        "date": "2022-09-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성공 못지 않게 좌절도 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.337
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "라이벌 나달에게 윔블던 등 중요한 길목에서 뼈아픈 패배를 당하며 눈물을 보이기도 했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 2.347,
+                "end": 9.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 나달과 조코비치에게 메이저 최다 우승 기록을 추월당했지만 여전히 페더러는 테니스의 아이콘 그 자체였습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 9.301,
+                "end": 22.789
+            }
+        ]
+    },
+    "summary": "라이벌 나달에게 패배를 당하며 메이저 최다 우승 기록을 추월당했지만 여전히 페더러는 테니스의 아이콘이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01145_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

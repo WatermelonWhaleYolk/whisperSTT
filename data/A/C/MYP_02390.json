@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "filename": "MYP_02390",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.466,
+        "format": "MP4",
+        "date": "2021-02-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 내가 먼저 발견했는데 가로 채는 게 어디 있어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.339
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 선배 설마 이게 진짜 마법의 램프겠어요? 만약 진짜라면 저 소원 두개 빌고 선배 하나 드릴 게요 그럼 됐죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.349,
+                "end": 7.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고 아 그건 안 되지",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.834,
+                "end": 9.228
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋아요 그럼 베일 선배 먼저 하나 드리고 나머지는 제가 빌게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.238,
+                "end": 11.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진작 그렇게 나왔어야지",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.965,
+                "end": 13.199
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 어디 안에 뭐가 들었는지 살짝만 볼까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.209,
+                "end": 15.358
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "말씀 중에 죄송합니다 우리 흥민이",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.368,
+                "end": 17.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 깜짝이야 이거 뭐야",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.662,
+                "end": 18.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 뭐야 왜 그래",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.742,
+                "end": 19.646
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 방금 안에서 저희 아버지가",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.656,
+                "end": 20.890
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "녀석아 램프는 원래 문질러야 요정이 나오는 거잖아",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.900,
+                "end": 23.745
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 맞다 그럼 한번 문질러 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.755,
+                "end": 27.466
+            }
+        ]
+    },
+    "summary": "손흥민과 베일이 마법의 램프를 열었는데 램프에서 손흥민의 아버지가 나왔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02390_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

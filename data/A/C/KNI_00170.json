@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00170",
+        "category": "스포츠뉴스",
+        "sub_category": 38,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.715,
+        "format": "MP4",
+        "date": "2023-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단정하게 묶어 올린 머리 모양과 기합 소리까지 비슷하지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.572
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아잇",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.582,
+                "end": 8.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "라켓을 쥔 손은 서로 다른 쌍둥이 자매 복식조 치악 고등학교 2학년 김민지 김민선입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.141,
+                "end": 15.715
+            }
+        ]
+    },
+    "summary": "단정하게 묶어 올린 머리 모양과 기합 소리까지 비슷하지만 라켓을 쥔 손은 서로 다른 쌍둥이 자매 복식조 치악 고등학교 2학년 김민지 김민선입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00170_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 62,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

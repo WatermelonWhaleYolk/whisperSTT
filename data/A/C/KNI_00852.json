@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00852",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양현종이 힘차게 던진 공이 예리하게 스트라이크 존을 파고듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이강철 감독이 만족스런 표정으로 연신 칭찬을 아끼지 않자",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.331,
+                "end": 11.377
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어이 잘하네 좋아 좋아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.387,
+                "end": 16.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양현종의 얼굴에도 미소가 번집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.341,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "이강철 감독이 만족스런 표정으로 연신 칭찬을 아끼지 않자 양현종의 얼굴에도 미소가 번집니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00852_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

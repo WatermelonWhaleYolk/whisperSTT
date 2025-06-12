@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_01205",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.931,
+        "format": "MP4",
+        "date": "2022-10-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "리그를 일찍 마무리한 10명의 선수들이 먼저 파주에 모인 가운데 17년의 한을 푼 울산 선수들의 모습엔 여유가 가득했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몸이 너무 가벼워서 다 막을 수 있을 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.752,
+                "end": 12.168
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 @이름1의 표정만큼은 유독 비장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.178,
+                "end": 16.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주전 베스트 일레븐 상당수가 결정됐지만 오른쪽 수비수 자리는 여전히 안갯속이기 때문입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.094,
+                "end": 23.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "벤투 감독은 이번 마지막 소집에서도 @이름1과 @이름2 @이름3까지 세 명이나 불러들일 정도로 고민이 많습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.478,
+                "end": 31.931
+            }
+        ]
+    },
+    "summary": "파주에 모인 울산 선수들의 모습엔 여유가 가득하지만 오른쪽 수비수 자리는 여전히 안갯속이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01205_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

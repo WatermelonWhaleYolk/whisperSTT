@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNI_01894",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.228,
+        "format": "MP4",
+        "date": "2022-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 9개월 동안 선수들과 동고동락했던 @이름1 감독은 감정에 북받쳐 눈물의 작별 인사를 건넸습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너희들이 더 좋아질 수 있는데 내가 조금 더 공부하고 그래야 했는데 내가 많이 부족해서 너무 미안하고 너희 너무 좋아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.590,
+                "end": 18.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "20살 겁 없는 청춘들의 도전은 아쉽게 끝났지만 밝은 미래를 기약했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.580,
+                "end": 23.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너희들도 팀에서 더 열심히 해서 좋은 모습.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.319,
+                "end": 28.228
+            }
+        ]
+    },
+    "summary": "@이름1 감독은 감정에 북받쳐 눈물의 작별 인사를 건넸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01894_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

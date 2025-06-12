@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_00153",
+        "category": "스포츠뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.183,
+        "format": "MP4",
+        "date": "2022-04-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가장 취약점이 센터 블로킹이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제대로만 성장해 준다 하면은 공백을 메울 수 있는 그런 선수로 어 성장을 할 거라고 저는 기대를 많이 하고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.316,
+                "end": 9.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남자 배구의 국제 무대 경쟁력 회복을 위해 조진석의 성장을 배구계가 주목하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.492,
+                "end": 15.551
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 거물이었다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.561,
+                "end": 17.183
+            }
+        ]
+    },
+    "summary": "가장 취약점이 센터 블로킹인데 제대로만 성장해 준다 하면은 공백을 메울 수 있는 그런 선수로 성장할 거라고 기대를 많이 하고 있으며 남자 배구의 국제 무대 경쟁력 회복을 위해 조진석의 성장을 배구계가 주목하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

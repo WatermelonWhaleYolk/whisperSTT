@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYP_02416",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.333,
+        "format": "MP4",
+        "date": "2021-02-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘못 씹다간 이빨 다 나가는 터프 쿠키가 아니라 터프가이랄까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 화려한 장발을 휘날리는 한 마리 사자 만약 사자와 카바니가 싸운다면 당연히 카바니가 질 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.596,
+                "end": 11.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 카바니 선수를 직접 본 적이 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.000,
+                "end": 14.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들이 아실지 모르겠는데 카바니 선수는 실제로 보면 엄청나게 잘생겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.462,
+                "end": 20.333
+            }
+        ]
+    },
+    "summary": "남자는 카바니 선수를 직접 본 적이 있으며 잘 생겼다고 말하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02416_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

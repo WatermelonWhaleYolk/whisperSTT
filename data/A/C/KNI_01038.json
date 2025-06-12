@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNI_01038",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.259,
+        "format": "MP4",
+        "date": "2022-03-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "키움은 @이름1에게 마지막 기회를 주고 싶다며 최저 연봉인 3000만 원 조건에 계약을 마쳤다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.989
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "구단이 힘들 때 중심을 잘 잡아줬고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.999,
+                "end": 9.826
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미국의 야구에 대한 도전을 기회를 열어준 선수라고 생각하고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.836,
+                "end": 13.706
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죄송한 마음이 크고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.716,
+                "end": 14.948
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.958,
+                "end": 16.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "키움과 전격 계약했지만 @이름1가 올 시즌 곧바로 뛸 수 있는 건 아닙니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.156,
+                "end": 21.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBO 규정에 따라 @이름1는 내년 시즌부터 정상적으로 선수 생활을 할 수 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.254,
+                "end": 26.259
+            }
+        ]
+    },
+    "summary": "키움은 @이름1에게 마지막 기회를 주고 싶다며 최저 연봉인 3000만 원 조건에 계약을 마쳤다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01038_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

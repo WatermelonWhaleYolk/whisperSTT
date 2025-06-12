@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYP_03361",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.722,
+        "format": "MP4",
+        "date": "2022-09-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모든 긍정 요소를 갖춘 참 선의 궁극점에 선 듯한 사람이었고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.424
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 내가 저녁이나 해주려고 다들 편하게 쉬고 있어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.434,
+                "end": 9.822
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오예 형님 짱짱",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.832,
+                "end": 12.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이구 손님한테 죄송하게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.785,
+                "end": 15.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 분과 대화를 나누다 보면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.495,
+                "end": 17.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그 그럼 디저트는 제가 쏠게요 어제 길에서 20불 주웠거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.863,
+                "end": 22.722
+            }
+        ]
+    },
+    "summary": "요셉형이 오늘 저녁을 해주겠다고 해서 나는 어제 길에서 20불을 주웠다며 디저트를 쏘겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03361_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "filename": "MYP_03427",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.75,
+        "format": "MP4",
+        "date": "2022-08-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꼬기여 와이 렛 육천씨어버스티션 베이스더넘버 버스 어바웃 텐 미닛겟업프랫스마켓오케이?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 시간에 공장으로 갈 수 있는 또 다른 루트를 완벽 전수해 주었고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.883,
+                "end": 16.750
+            }
+        ]
+    },
+    "summary": "그 시간에 공장으로 갈 수 있는 또 다른 루트를 완벽 전수해 주었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03427_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 90
+                }
+            ]
+        }
+    ]
+}

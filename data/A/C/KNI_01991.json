@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNI_01991",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.026,
+        "format": "MP4",
+        "date": "2020-10-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "창단 9년 만이고 2013년 1군 진입 이후 8시즌 만에 거둔 기록입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시즌 초부터는 그 줄곧 선두를 질주한 NC는 투타 모두 안정됐다는 전력을 평가받았는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.372,
+                "end": 11.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마운드에선 무친스키 구창모 등이 힘을 보탰고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.325,
+                "end": 14.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나성범 양의지로 이어지는 공격력도 무서웠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.619,
+                "end": 18.018
+            }
+        ]
+    },
+    "summary": "NC는 시즌 초부터 투타 모두 안정됐다는 평가를 받으며 창단 9년 만에 기록을 세웠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01991_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 49,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

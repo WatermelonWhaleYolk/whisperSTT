@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYP_03615",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.351,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 악순환을 끊기 위해 나는 매번 위협의 강도를 높여보았지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.710
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "절루 가.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.720,
+                "end": 6.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아휴 징그러운 놈",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.609,
+                "end": 8.942
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응 비둘긴 돌아오는 거야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.952,
+                "end": 12.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "니가 그렇게 유턴을 잘 하냐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.683,
+                "end": 13.983
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "옥상으로 가시죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.993,
+                "end": 15.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그는 진화하고 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.728,
+                "end": 18.351
+            }
+        ]
+    },
+    "summary": "매번 위협 강도를 높였지만 비둘기는 계속 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03615_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

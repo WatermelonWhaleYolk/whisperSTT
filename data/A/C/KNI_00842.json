@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNI_00842",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2023-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "노트를 들고 있는 자세가 스카우트 같지만 얼굴을 보니 박찬호입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후배들과 함께하기 위해 마운드까지 직접 밟아본 박찬호 위원의 마음은 벌써부터 한일전에 가 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.961,
+                "end": 12.882
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일본 애들이 조금 일본 타자들이 많이 붙어서 치지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.892,
+                "end": 16.854
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 그랬던 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.864,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "후배들과 함께하기 위해 마운드까지 직접 밟아본 박찬호 위원의 마음은 벌써부터 한일전에 가 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00842_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00842_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

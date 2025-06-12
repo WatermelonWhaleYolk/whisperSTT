@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00372",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.79,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "몽골출신에 미들블로커 바야르사이한이 반응속도 테스트에서 집중력을 뽑냅니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.055
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역시 몽골에서온 날개 공격수 에디가 기회가 날때 마다 시원한 공격을 구사했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.065,
+                "end": 14.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2미터 가까운 키로 타고난 높이에 넘치는 힘까지 두 선수는 7개국 24명 참가자 가운데 가장 눈에 띄었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.431,
+                "end": 23.790
+            }
+        ]
+    },
+    "summary": "2미터 가까운 키로 타고난 높이에 넘치는 힘까지 두 선수는 7개국 24명 참가자 가운데 가장 눈에 띄었다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00372_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

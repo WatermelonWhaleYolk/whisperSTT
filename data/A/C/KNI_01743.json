@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_01743",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.466,
+        "format": "MP4",
+        "date": "2018-03-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경북 의성에 이은 국내 두 번째 컬링 전용 경기장으로 국제 규격 6개 시트를 갖춘 아시아 최대 규모입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자동 승강 조명 장치로 최적의 경기 조건을 제공하고 240석 규모의 관람석에서는 스톤 추적 카메라로 생동감 있는 경기를 관람할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.091,
+                "end": 17.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이산화탄소 냉각 방식으로 우수한 빙질을 유지하고 4명의 전문가가 온도와 습도를 조절하며 빙질을 관리합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.152,
+                "end": 24.466
+            }
+        ]
+    },
+    "summary": "국내 두 번째 컬링 전용 경기장은 국제 규격 6개 시트를 갖춘 아시아 최대 규모로 자동 승강 조명 장치, 스톤 추적 카메라 등이 설치 됐으며 4명의 전문가가 온도와 습도를 조절하며 빙질을 관리합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01743_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

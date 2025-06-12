@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYP_03193",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-05-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 군데 빠짐없이 둘러봐야 함은 물론.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.577
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "관중석으로 들어가면 안 되나?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.587,
+                "end": 5.190
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "진짜 축구에서도 들어가면 안 돼.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.200,
+                "end": 7.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할 수 있는 모든 행동을 다 해 보는 것도 물론이요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.310,
+                "end": 11.595
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 공주다. 죽어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.605,
+                "end": 13.863
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "구하는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.873,
+                "end": 15.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.586,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "그는 실제 축구에서도 해서는 안 되는 관중석으로 들어가는 것을 해보고 싶고 구해야 하는 공주를 공격하려고도 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03193_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

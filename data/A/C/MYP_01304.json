@@ -1,0 +1,523 @@
+{
+    "metadata": {
+        "filename": "MYP_01304",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 194.433,
+        "format": "MP4",
+        "date": "2022-06-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하긴 우리 토트넘이 다른 데는 좀 문제가 있더라도 주전 공격수만큼은 넘사벽이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.887
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지만 넌 최전방과 왼쪽은 물론 오른쪽에서도 뛸 수 있지 않아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.897,
+                "end": 8.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리랑 같이 쓰리 톱으로 나오면 되지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.067,
+                "end": 9.888
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "선배들이 부상을 당하지 않는 이상 두분은 무조건 선발이시겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.898,
+                "end": 13.129
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그럼 남은 한 자리를 놓고 저와 모우라 선배 클루셉스키와 베르바인까지 경쟁해야 하는데 몇 경기나 나올 수 있겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.139,
+                "end": 19.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베르바인 그 녀석은 조만간 팔아버릴 거고 모우라는 네 말대로 시간 끌기 역할만 하겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.126,
+                "end": 24.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 클루셉스키와 니가 사이좋게 반반씩 나오면 되잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.188,
+                "end": 27.462
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무리 챔스나 유로파는커녕 강등이나 겨우 면한 에버튼이지만 전 그래도 한 팀의 에이스라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.472,
+                "end": 32.701
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뿐만 아니라 세계 최강 브라질의 원톱 스트라이커인데 고작 토트넘의 로테이션 멤버로 뛰는 게 말이나 되겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.711,
+                "end": 38.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "챔스 무대에 설 수 있는 팀에서 주전 경쟁은 당연한 거 몰라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.616,
+                "end": 42.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맨시티에 간다고 생각해봐 홀란드를 시작으로 제주스 스털링 마레즈 포든 그릴리쉬 등등 정상급 경쟁자가 한 트럭이며.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.368,
+                "end": 49.984
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "챔시 역시 루카쿠나 베르너가 만만해 보여도 각각 한 리그를 정복하고 왔던 괴물 공격수인 거 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.994,
+                "end": 54.823
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기다가 측면에서도 하베르츠나 플리식과 경쟁해야 하는데 차라리 토트넘이 낫지 않겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 54.833,
+                "end": 59.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리버풀은 또 어떻고 거기 일단 살라를 시작으로.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 59.327,
+                "end": 62.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잠깐 히살리송은 리버풀은 극도로 싫어하니까 얘 앞에서 리버풀 얘기는 하지 말아 줄래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 62.686,
+                "end": 66.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 더 잘됐네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 66.773,
+                "end": 67.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 리버풀을 싫어하기로는 어디 가서 안 꿀리거든.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 67.883,
+                "end": 70.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같은 리버풀 안티팬끼리 손발을 맞춘다면 이번에야말로 챔스 우승을 해내지 않겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 70.918,
+                "end": 76.188
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 사실 그나마 주전이 될 가능성이 높은 팀이 토트넘이란 건 저도 잘 알고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 76.198,
+                "end": 80.053
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 애초에 오른쪽 윙 말고는 기회조차 없지 않겠냐고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 80.063,
+                "end": 83.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혹시 또 모른다 케인 이 녀석이 지난 시즌 초반에 극도로 부진했던 거 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 83.233,
+                "end": 87.065
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘만하면 너가 주전 스트라이커가 될 수도 있다고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 87.075,
+                "end": 89.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 흥민아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 89.619,
+                "end": 90.371
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물론 네가 한 팀과 한 나라의 에이스로서 주전 경쟁까지 해가면서 새로운 도전을 하는 게 쉽진 않겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 90.381,
+                "end": 95.428
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 A 매치를 지켜봤던 우리나라 팬들만 해도 너가 얼마나 대단한 선수인지 느꼈었는데 밴치에서 경기를 시작하는 건 네 자존심이 허락하지 않겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 95.438,
+                "end": 102.759
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 챔스 무대를 넘어 우승을 꿈꾸는 선수라면 꿈을 이루기 전까지 자존심 정도는 포기할 줄 알아야지 않겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 102.769,
+                "end": 109.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그럼 지난 시즌 덕점왕에 빛나는 우리 흥민이도 처음엔 라멜라나 모우라와 경쟁해서 살아남은 거 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 109.218,
+                "end": 115.515
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그게 정말이에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 115.525,
+                "end": 116.542
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "근데 케인 선배는 처음부터 주전이셨잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 116.552,
+                "end": 118.907
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 한때는 주전자 시절이 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 118.917,
+                "end": 121.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근에야 내 경쟁자로 데려온 녀석들이 형평없는 녀석들이라 그랬지 옛날에 나도 아데바요르나 솔다도 선배의 백업으로 시작했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 121.094,
+                "end": 128.823
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "히살리송 너가 지금 당장은 케인의 백업일지 몰라도 나이도 어리겠다 잘만 성장한다면 혹시 모르지 얼마 후엔 케인이 너의 백업으로 뛸지도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 128.833,
+                "end": 136.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 흥민아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 136.070,
+                "end": 136.939
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어찌 됐든 제가 지금도 어디 가서 꿀릴 거 없는 A급 공격수라지만 한층 더 성장하려면 결국 우승 경쟁팀에 가야 한다는 말씀이시군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 136.949,
+                "end": 143.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래 도전하는 자만이 성장을 할 수 있는 거고 도전하면 역시 토트넘이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 143.966,
+                "end": 148.487
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 이왕 도전하는 거 우승 가능성이 조금이라도 높은 팀에 가는 게 낫지 않겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 148.497,
+                "end": 152.620
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무래도 토트넘보단 맨시티나 첼시에 가면.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 152.630,
+                "end": 155.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강팀이라 무조건 우승하는 거라면 레알 마드리드가 챔스에서 우승할 수 있었겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 155.270,
+                "end": 160.075
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 물론 토트넘도 강팀이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 160.085,
+                "end": 162.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "축구에 정답은 없다는 거 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 162.196,
+                "end": 163.746
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우승할 가능성이 1프로라면 99프로의 믿음으로 우승에 도전하는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 163.756,
+                "end": 167.386
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "제가 합류한다면 2프로로 올라가는 거고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 167.396,
+                "end": 169.630
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2프로가 뭐야 브라질의 3군인 모우라가 있을 때도 1프로였는데 브라질의 1군인 네가 온다면 한 3프로까지 올라가는 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 169.640,
+                "end": 175.665
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "짜식들 영업 한 번 잘하는 구먼 뭐 나 역시 히살리송 네가 후보로 뛰기엔 아까운 선수라 생각한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 175.675,
+                "end": 181.706
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "거기다가 프리미어리그는 물론 다른 리그의 우승팀에서도 노리고 있을만한 재능도 갖고 있지 하지만 흥민이나 케인이 우승하고 싶지 않아서 토트넘에 있겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 181.716,
+                "end": 191.010
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "나 콘테가 우승이 싫증나서 토트넘에 왔겠나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 191.020,
+                "end": 194.433
+            }
+        ]
+    },
+    "summary": "히살리송이 토트넘에 가기 꺼리는 이유는 후보선수로 있기 싫기도 하고 주전으로 뛰고 싶은데 경쟁자가 많아서 망설여 진다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01304_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

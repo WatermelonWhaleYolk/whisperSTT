@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_02471",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.708,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3레인 4레인 5레인 남자 대학 일반부 통합 200미터 결승 출발했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.915
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.925,
+                "end": 17.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "200미터 자 곡선구간 빠져나오고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.647,
+                "end": 22.145
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 @이름1 선수 그리고 @이름2 선수 같이 가고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.155,
+                "end": 25.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5레인 @이름2가 3레인입니다 자 1166 @이름2 자 @이름2 @이름2 @이름3 @이름2 @이름3 @이름2 아 @이름3 @이름3 아 @이름2 아 모르겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.586,
+                "end": 41.708
+            }
+        ]
+    },
+    "summary": "남자 대학 일반부 200미터 육상 경기 선수에서 @이름2 선수와 @이름3 선수가 업치락뒤치락 접전을 펼쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02471_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

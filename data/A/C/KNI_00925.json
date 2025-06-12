@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_00925",
+        "category": "스포츠뉴스",
+        "sub_category": 18,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2122-11-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "편의점에는 축구화 모양의 치킨까지 등장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야식을 찾는 축구 팬들 덕에 치킨류 가운데 판매량 1위입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.320,
+                "end": 8.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가전 업체들은 할인 폭을 늘리고 적립도 많이 해줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.051,
+                "end": 12.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이례적인 겨울 월드컵 쌀쌀한 날씨에 거리보다는 집에서 응원하는 고객을 잡기 위해서입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.590,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "편의점에는 축구화 모양의 치킨이 등장했고 가전 업체도 할인을 해준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00925_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

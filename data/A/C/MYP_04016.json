@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "filename": "MYP_04016",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.059,
+        "format": "MP4",
+        "date": "2020-10-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "허나 넘실되는 액션을 기대했던 나는",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.615
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "받아라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.625,
+                "end": 4.076
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어흐 못 던지겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.086,
+                "end": 8.289
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그게 뭐야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.299,
+                "end": 10.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알 수 없는 훈훈한 분위기에 실망을 금치 못했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.422,
+                "end": 15.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저게 아닌데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.771,
+                "end": 18.109
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "흠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.119,
+                "end": 19.300
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "아 국내 최고의 싱카볼 투수 상대편 강냉이를 다 조지놔쓰요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.310,
+                "end": 26.059
+            }
+        ]
+    },
+    "summary": "물 풍선 던지기는 투수처럼 강하게 던진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04016_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

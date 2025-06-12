@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "KNI_02000",
+        "category": "스포츠뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 65.8,
+        "format": "MP4",
+        "date": "2019-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "독일 주재 남북 대사가 선수단을 찾았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 대사는 지난해 이후 급진전된 남북 관계를 상기시키며 단일팀이 하나 된 민족의 힘을 보여주자고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.755,
+                "end": 10.512
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북남이 공동으로 합심해서 힘을 합친다면 체육 기술 발전과 우리 조선 민족의 힘을 온 세상에 과시할 수 있다고 이렇게 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.522,
+                "end": 22.346
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리는 한다면 또 하는 민족 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.356,
+                "end": 24.987
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하나로 뭉쳐서 정말 우리가 하나로 뭉쳤을 때 새로운 힘을 보여주는 그런 계기를",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.997,
+                "end": 32.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 대사의 만남은 이번이 4번째 관중석에서 함께 연습 장면을 지켜보며 독일 날씨와 설날 음식, 핸드볼 경기 규칙 등을 화제로 이야기를 나눴습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.142,
+                "end": 42.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기장 밖에 세워진 1936년 베를린 올림픽 마라톤 금메달리스트 @이름1 선수 동상을 보며 선수의 업적을 기리기도 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 42.563,
+                "end": 51.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남북 선수들은 처음의 어색함을 날리고 지금은 형 동생 같이 친해졌다고 단일팀 관계자는 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.961,
+                "end": 59.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오는 10일 개막전과 이후 단일팀의 경기를 응원할 공동 응원단도 구성되고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 59.559,
+                "end": 65.800
+            }
+        ]
+    },
+    "summary": "독일 주재 남북 대사들의 만남은 이번이 4번째이며 관중석에서 함께 연습 장면을 지켜보며 독일 날씨와 설날 음식, 핸드볼 경기 규칙 등을 화제로 이야기를 나눴고 남북 선수들은 처음의 어색함을 날리고 지금은 형 동생 같이 친해졌다고 단일팀 관계자는 설명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02000_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

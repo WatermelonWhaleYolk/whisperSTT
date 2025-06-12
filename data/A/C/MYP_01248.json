@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_01248",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.266,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.619
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미나미노 너의 장점은 부드러운 발밑과 뛰어난 테크닉이라 할 수 있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.629,
+                "end": 6.708
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 몸싸움이 약하다는 극심한 단점을 갖고 있잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.718,
+                "end": 9.773
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하긴 잘츠부르크 시절엔 희찬이 형과 나의 몸통 박치기로 수비들을 물리쳐주었으니 미남이 형이 날아다닐 수 있었던 거지 아이 리버풀엔 우리 같은 보디가드가 없던 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.783,
+                "end": 18.207
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "리버풀 정도 되는 팀에서 뛰려면 혼자서 수비수 2명 정도는 거뜬히 이겨내야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.217,
+                "end": 22.949
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무리 테크닉이 좋더라도 몸싸움을 극복하지 못할 거라면 리그 자체를 옮기는 게 좋을 것 같은데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.959,
+                "end": 28.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.760,
+                "end": 35.266
+            }
+        ]
+    },
+    "summary": "미나미노의 장점은 부드러운 발끝과 뛰어난 테크닉인데 반해 몸싸움에 약하다는 단점이 있어 리버풀 정도 되는 팀에서 뛰려면 혼자서 수비수 2명 정도는 이겨내야 하는데 그러질 못해서 리그 자체를 옮기는 것이 좋을 거라는 충고를 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01248_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

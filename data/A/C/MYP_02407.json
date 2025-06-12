@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYP_02407",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.033,
+        "format": "MP4",
+        "date": "2021-02-16",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1 투표 끝 케인 1표, 칼버트 1표, 허공에 1표 이번 투표는 무효 처리되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.032
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 무효라니 우리 둘이서 칼버트를",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.042,
+                "end": 7.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윙크스의 손가락이 골문 아니 칼버트를 빗나갔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.132,
+                "end": 9.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 뭐라고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.888,
+                "end": 10.618
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "죄송해요 선배.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.628,
+                "end": 11.466
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오랜만에 축구 아니 마피아를 하다 보니.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.476,
+                "end": 13.221
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.231,
+                "end": 14.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 그럼 의사인 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.289,
+                "end": 15.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밤에 무조건 나 살려라 알겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.311,
+                "end": 17.414
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무조건 나 살려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.424,
+                "end": 18.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 마지막 밤이 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.526,
+                "end": 19.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마피아는 죽일 사람을 지목 다음 의사는 살릴 사람을 지목 자 이제 경찰은 의심되는 사람을 지목 아침이 되었다 선량한 시민 해리 케인이 죽었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.955,
+                "end": 30.033
+            }
+        ]
+    },
+    "summary": "진행자는 마피아 지목을 실패하고 선량한 시민이 죽은 것을 발표하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02407_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

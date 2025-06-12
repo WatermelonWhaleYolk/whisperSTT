@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "KNI_02335",
+        "category": "스포츠뉴스",
+        "sub_category": 37,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 51.5,
+        "format": "MP4",
+        "date": "2015-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인근 청양군도 복싱 국가 대표 후보 선수단의 동계 훈련을 유치했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이처럼 농촌 지역 자치 단체들이 대표 팀 전지훈련 유치에 적극 나서고 있는 것은 침체된 지역 경제에 활력을 불어넣기 위해서입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.847,
+                "end": 14.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국가 대표팀 숙식만으로도 적지 않은 도움이 되지만 함께 훈련하기 위해 전국에서 수십 개 팀이 찾아옵니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.064,
+                "end": 22.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청양만 해도 20여 개의 복싱 팀이 전지훈련을 다녀갔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.020,
+                "end": 26.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이곳에 많이 모인 팀으로 인해서 연습 경기가 진행되다 보니깐 에 경기력이 많이 향상되는 것 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.414,
+                "end": 32.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수들에게 좋은 이미지를 심어 고장을 홍보할 수 있는 점도 장점입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.721,
+                "end": 37.423
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "홍성에 처음 왔거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 37.433,
+                "end": 39.074
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "근데 생각보다 공기도 좋고 예 으 여기서 그 막 사과도 주시고 여러 가지 만족하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 39.084,
+                "end": 46.382
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "침체된 지역 경제를 살리려는 농촌 자치 단체들의 경쟁이 뜨겁습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 46.392,
+                "end": 51.500
+            }
+        ]
+    },
+    "summary": "지역 경제 활력을 불어넣기 위해 청양군에서는 복싱 국가 대표 선수단의 동계 훈련을 유치했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02335_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 61,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

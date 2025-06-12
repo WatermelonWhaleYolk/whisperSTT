@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03666",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2021-11-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 닭 한 마리에 목이 10개나 들었네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거 닭 아닌 거 같은데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.943,
+                "end": 4.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "과학이 발달해서 그런 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.854,
+                "end": 6.674
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "현대에는 식문화의 발전으로 인해 음식의 양과 종류도 많아지고 있고 있는 음식도 참고 안 먹는 현상까지 생겨났다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.684,
+                "end": 16.484
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "으음 정말 먹음직스럽지만 다이어트 중이라 남겨야겠네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.494,
+                "end": 21.889
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그러게요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.899,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "식문화의 발달로 음식의 양과 종류가 많아지면서 참고 안 먹는 현상이 생겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03666_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 27,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

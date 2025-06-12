@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_00517",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 34.334,
+        "format": "MP4",
+        "date": "2023-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 오늘 하루 인천국제공항에 도착한 중국발 항공편은 모두 9편 입국자는 1000여 명입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내국인은 24시간 안에 가까운 보건소로 가면 되지만 단기 체류 외국인은 반드시 공항에 마련된 검사소에서 검사를 받아야 합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.111,
+                "end": 15.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오후 5시 기준 208명이 공항에서 PCR 검사를 받았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.059,
+                "end": 19.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 가운데 13명이 양성 판정을 받아 격리시설로 옮겨졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.680,
+                "end": 24.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검사는 대체로 순조롭게 진행됐지만 번거로움을 호소하거나 체류 조건에 따라 검사 장소가 달라 혼란스럽단 반응도 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.343,
+                "end": 33.034
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "직접 들어보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.044,
+                "end": 34.334
+            }
+        ]
+    },
+    "summary": "오늘 하루 인천국제공항에 도착한 중국발 항공편은 모두 9편 입국자는 1000여 명이며 오후 5시 기준 208명이 공항에서 PCR 검사를 받았고 이 가운데 13명이 양성 판정을 받아 격리시설로 옮겨졌는데 검사는 대체로 순조롭게 진행됐지만 번거로움을 호소하거나 혼란스럽단 반응도 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00517_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

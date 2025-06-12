@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_02914",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 45.666,
+        "format": "MP4",
+        "date": "2020-03-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요괴대전 레알 서유기",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "건방진 지단법사",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.493,
+                "end": 26.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 맨시티를 넘고 8강에 가려면 2가지 시련을 이겨내야 할 것이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.475,
+                "end": 31.206
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "좋다. 펩빡이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.216,
+                "end": 33.252
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "첫 번째 시련은 무엇이냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.262,
+                "end": 35.446
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내 첫 상대로 너라면 모자람이 없구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.456,
+                "end": 38.983
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 나에게도 새로운 도술을 시험하는데 지단법사 네놈이라면 모자람이 없구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.993,
+                "end": 44.794
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아유 빡",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.804,
+                "end": 45.666
+            }
+        ]
+    },
+    "summary": "지단법사에게 멘시티를 이겨 8강에 가기 위해서 2가지의 시련을 견뎌야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02914_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

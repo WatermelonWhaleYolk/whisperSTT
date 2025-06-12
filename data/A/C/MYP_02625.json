@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_02625",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.579,
+        "format": "MP4",
+        "date": "2020-11-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기 케인 앤 흥민 전하 리그가 다시 중단되기라도 하면 어떻게 하실 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이보게 로셀소 방금 은 부장이 하는 말 못 들었소?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.665,
+                "end": 6.762
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기는 무관중으로 계속 한다잖소.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.772,
+                "end": 8.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "작년 리그 중단도 락다운부터 시작했소.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.351,
+                "end": 10.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몇몇 구단에서 확진자라도 나온다면 리그 중단을 피할 수 있을 것이오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.405,
+                "end": 13.964
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "허허 그래그래 물론 중요한 문제가 틀림없네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.974,
+                "end": 16.979
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 당장 경기가 중요하지 않은가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.989,
+                "end": 19.227
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자네들은 경기장 오는 길에 마스크 잘 쓰고 패스 연습에나 집중하게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.237,
+                "end": 23.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠습니다. 전하.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.285,
+                "end": 24.238
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그 옛날 드록바와 램파드는 둘이서 36골을 합작해 냈느니라 그러나 그보다 더 뛰어난 상승세로다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.248,
+                "end": 31.566
+            }
+        ]
+    },
+    "summary": "영국의 작년 봉쇄 시기에 리그가 전면 중단 된 적이 있어 봉쇄시에 리그 중단에 대해서 어떻게 할 건지 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02625_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 11,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

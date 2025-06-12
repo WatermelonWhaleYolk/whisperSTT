@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00823",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.583,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1이 3연패에 빠진 사이 또 한 번 단독 선두 기회를 잡은 @소속2 이번만큼은 흔들리지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김연경은 최하위 @소속3을 상대로 1세트 초반 연속 3득점을 퍼부으며 기선제압에 성공했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.059,
+                "end": 16.583
+            }
+        ]
+    },
+    "summary": "@소속2은 흔들리지 않았고 기선제압에 성공했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00823_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

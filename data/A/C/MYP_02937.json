@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_02937",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.366,
+        "format": "MP4",
+        "date": "2020-03-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "피리 소리는 확실히 들리는 거 같은데 그러니까 더 진심 개 좆 같은 맛이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.799
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 맛이 많이 없으신가 봅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.809,
+                "end": 6.525
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 뭐 어쨌든 다음으로 무리뉴 감독님이 훈제 오리에와 모우라멜라면을 드셔 보시겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.535,
+                "end": 11.763
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저딴 거에 비하면 내 건 맛있겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.773,
+                "end": 13.831
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 먹어볼까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.841,
+                "end": 15.366
+            }
+        ]
+    },
+    "summary": "무리뉴 감독은 무리뉴 감독을 위해 만든 훈제 오리에와 모우라멜라면을 먹는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02937_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

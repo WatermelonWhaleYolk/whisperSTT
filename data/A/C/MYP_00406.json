@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYP_00406",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.533,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그릴리쉬부터 포든까지 훌륭한 공격 자원들이 있긴 하지만 라이프치히도 한방이 있는 팀이기에...",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "라이프치히에 한방이 있다 해도 내가 두 방, 세 방씩 갖고 있는데 어느 팀이 강팀이겠어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.922,
+                "end": 8.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 말은 그게 아니라 걔들도 공격만큼은 화끈한 팀이란 말이지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.908,
+                "end": 12.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 안드레 실바를 시작으로 베르너 역시 부활의 징조가 보이고 있으며...",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.636,
+                "end": 16.085
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "은쿤쿠까지 부상에서 돌아온다 해도 맨시티 수비의 핵심인 저 디아스가 돌아온 이상 슈팅조차 힘들지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.095,
+                "end": 21.654
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그럼 그럼. 우주 최강 스쿼드를 가진 맨시티로선 라이프치히를 꺾고 8강에 올라가는 건 식은 줄 먹기.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.664,
+                "end": 27.327
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아스널을 따라잡고 리그 선두 뺏어오는 것 역시 시간 문제란 말이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.337,
+                "end": 31.533
+            }
+        ]
+    },
+    "summary": "라이프치히 팀은 안드레 실바와 베르너 부활의 징조가 보여 공격이 강할 것으로 예상되지만 맨시티에는 디아스가 있으므로 라이프치히를 꺾고 8강에 올라갈 수 있다는 이야기를 나누고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

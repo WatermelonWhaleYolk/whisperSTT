@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_01975",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.986,
+        "format": "MP4",
+        "date": "2020-05-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서울팀이고 그러니까 뭐 관심이 있겠죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 더 좋은 경기를 해야 하지 않을까요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.553,
+                "end": 5.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "관중석은 비었지만 취재 열기는 여느 개막전 보다 뜨거웠습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.449,
+                "end": 10.903
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 전국5개 경기장에 21개 외신들이 몰려 한국 프로야구 개막에 대한 유례 없는 관심을 나타냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.913,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "관중석은 비었지만 취재 열기는 뜨거웠으며 전국5개 경기장에 21개 외신들이 몰려 한국 프로야구 개막에 관심을 나타냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01975_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

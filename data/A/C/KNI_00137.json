@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "KNI_00137",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.53,
+        "format": "MP4",
+        "date": "2023-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국가대표 선수촌에서 태극 마크를 달고 훈련하는 게 아직도 믿기지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 식사에 감탄했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.391,
+                "end": 7.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "통닭 다리가 나와 진짜 최고네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.943,
+                "end": 10.559
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "역시 국가대표 할 만하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.569,
+                "end": 13.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "태극 마크 열정으로 4명 중 2명은 직장을 그만둔 상태",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.738,
+                "end": 18.453
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "실력은 아직은 좀 부족합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.463,
+                "end": 20.914
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그러나 이 국가대표라고 하는 그 무거운 짐을 늘 등에 얹고서 그래도 나름 열심히 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.924,
+                "end": 30.530
+            }
+        ]
+    },
+    "summary": "선수촌에서 훈련하는 게 믿기지 않고 식사에 감탄했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00137_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 35,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNI_00555",
+        "category": "스포츠뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.594,
+        "format": "MP4",
+        "date": "2023-01-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 해당 여성과 연락이 됐고 현재까지 수사 결과를 종합하면 추가 피해자는 없다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰이 진행한 사이코패스 검사에선 일부 항목의 평가 자료가 부족해 진단이 불가능하다는 결론이 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.595,
+                "end": 14.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사건을 넘겨받은 검찰은 통합 심리 분석을 통해 사이코패스 여부를 가릴 방침입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.248,
+                "end": 20.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 내일도 같은 장소에서 시신 수색을 이어 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.206,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "경찰은 현재까지 수사 결과를 종합하면 추가 피해자는 없다고 밝혔고 경찰이 진행한 사이코패스 검사에선 일부 항목의 평가 자료가 부족해 진단이 불가능하다는 결론이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00555_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

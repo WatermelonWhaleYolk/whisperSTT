@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNI_02193",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 34.24,
+        "format": "MP4",
+        "date": "2017-11-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국의 국운이 걸려있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 세계 최강 맨발의 사나이 @이름1이는 얼음 위에서 간절한 마음으로 대한민국을 응원하겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.282,
+                "end": 18.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맨발의 열기에 얼음의 한기가 오히려 녹아내립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.050,
+                "end": 22.216
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이어서 광화문까지 25킬로미터를 맨발로 달리기 그 마음과 마음이 더해져 모두가 하나가 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.226,
+                "end": 30.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 30.048,
+                "end": 34.233
+            }
+        ]
+    },
+    "summary": "한 남성은 맨발로 얼음을 응원의 열기로 녹여버리고 광화문까지 25킬로미터를 달리기하면서 모두 하나가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02193_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

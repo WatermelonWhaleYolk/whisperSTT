@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_00069",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.178,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어디 보자 여기가 뒤뜰인 거 같은데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.114
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.124,
+                "end": 3.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 저자가 흥민 대군?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.021,
+                "end": 5.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저자는 절대로 득점 왕이 될 상이 아니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.806,
+                "end": 7.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "움푹 패인 두 눈은 너무나도 협소해 시야를 넓게 가져가지 못할 것이며 각지고 얇은 하관은 이기적인 성격을 드러내 탐욕은 많으나 득점과 이어지는 플레이를 하기 힘든 상이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.769,
+                "end": 18.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또한 우뚝 솟았지만 뭉툭하고 좁은 콧날은 두 자릿수는커녕 다섯 골도 넣지 못할 관상이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.739,
+                "end": 24.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저자는 득점 왕은커녕 드리블만 주구장창 하다가 욕이나 먹을 상으로 보이는데 전하께서 괜한 걱정을 하섰구만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.881,
+                "end": 32.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알리 대신께 돌아가 봐야겠군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.021,
+                "end": 35.166
+            }
+        ]
+    },
+    "summary": "30대 남성이 뒤뜰에 있던 한 남성의 관상에 대해 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00069_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

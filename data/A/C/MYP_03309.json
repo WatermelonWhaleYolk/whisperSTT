@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "filename": "MYP_03309",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.895,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미굴을 뚫어 놨네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 며칠 동안 사방팔방으로 다녀보았지만 맞는 조건의 집을 구하지 못했고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.481,
+                "end": 8.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 집은요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.061,
+                "end": 8.715
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자만 받아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.725,
+                "end": 9.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이 집은?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.640,
+                "end": 10.964
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "컴퓨터에 스타 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.974,
+                "end": 12.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아오씨 여긴?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.477,
+                "end": 14.284
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "집주인이 유단자야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.294,
+                "end": 16.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 계약 기간 만료로 인해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.127,
+                "end": 20.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아휴 그러니까 진작에 좀",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.896,
+                "end": 23.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "들개가 되었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.901,
+                "end": 26.217
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아까 그 집 가자니까 이씨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.227,
+                "end": 28.895
+            }
+        ]
+    },
+    "summary": "며칠 동안 사방팔방으로 다녀보았지만 맞는 조건의 집을 구하지 못했고 결국 계약 기간 만료로 인해 우리는 들개가 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

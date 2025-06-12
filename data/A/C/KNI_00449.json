@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "filename": "KNI_00449",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.583,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 전 미리 리허설을 하고 공수교대 시간엔 정신없이 뛰어가 의상을 갈아입어야 하는 힘든 업무 2002 년 농구 치어리더로 데뷔해 지금까지 롱런한 비결은 국제 보디빌딩 연맹 프로 카드를 따냈을 정도로 철저한 자기관리입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 16.583
+            }
+        ]
+    },
+    "summary": "힘든 업무에도 2002 년 농구 치어리더로 데뷔해 지금까지 롱런한 비결은 국제 보디빌딩 연맹 프로 카드를 따냈을 정도로 철저한 자기관리라고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00449_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 137
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_00449_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

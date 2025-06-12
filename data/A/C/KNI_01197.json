@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_01197",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.126,
+        "format": "MP4",
+        "date": "2022-10-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "K리그 대상 시상식 마지막으로 호명된 주인공은 이청용이었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시즌 공격 포인트는 3골 도움 2개였지만 팀의 정신적 지주로 17년 만에 울산의 우승을 이끌었다는 평가를 받았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.426,
+                "end": 14.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유럽 무대에서 활약하다가 2년 전 K리그로 돌아온 이청용 데뷔 16년 만에 첫 MVP 수상이었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.820,
+                "end": 22.153
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국 축구를 위해서 더 열심히 하라는 뜻으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.163,
+                "end": 26.126
+            }
+        ]
+    },
+    "summary": "시즌 공격 포인트는 3골 도움 2개였지만 팀의 정신적 지주로 17년 만에 울산의 우승을 이끌었다는 평가를 받으며 유럽 무대에서 활약하다가 2년 전 K리그로 돌아온 이청용은 데뷔 16년 만에 첫 MVP 수상을 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01197_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

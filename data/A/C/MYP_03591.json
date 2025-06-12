@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYP_03591",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.284,
+        "format": "MP4",
+        "date": "2022-04-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꿈이란 성공이 아니라 그 도전이라는 나 @이름1님의 고귀한 말씀을 알아듣느뇨?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.723
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 거 없습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.733,
+                "end": 11.013
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반드시 내 발로 그만 둔다 단지 그것뿐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.023,
+                "end": 15.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 미련이라는 거여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.779,
+                "end": 18.284
+            }
+        ]
+    },
+    "summary": "내 발로 그만 둔다는 것은 미련이라는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03591_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

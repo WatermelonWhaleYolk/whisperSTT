@@ -1,0 +1,214 @@
+{
+    "metadata": {
+        "filename": "MYP_03263",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 57.057,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 약하구만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지는 거 퍼져버린거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.960,
+                "end": 2.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니야 나 아직 진 거 아니거든?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.797,
+                "end": 5.649
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "상현 맞다니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.659,
+                "end": 7.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그냥 졌잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.385,
+                "end": 8.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빼박으로 다가",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.485,
+                "end": 9.594
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나는 정말로 강한 혈기 거든.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.604,
+                "end": 12.375
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은 상현의 6이지만 앞으로는 지금 보다 더 강해질 거라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.385,
+                "end": 16.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러든가 말든가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.000,
+                "end": 18.980
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나 원래 나 상현의 6이라고 정말이란 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.990,
+                "end": 29.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "숫자도 안하고 나 진짜 굉장하단 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.865,
+                "end": 34.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 쟤 지금 우는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.254,
+                "end": 36.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 잠깐만 있어봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.718,
+                "end": 38.715
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 보다 이 녀석 언제까지 떠드는 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.725,
+                "end": 41.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "목을 베었는데도 몸이 무너지질 잖잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.244,
+                "end": 44.814
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죽어 죽어 다들 죽어버려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.824,
+                "end": 49.153
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "목이 베었어 목이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.163,
+                "end": 57.057
+            }
+        ]
+    },
+    "summary": "더빙하는 사람들이 귀멸의 칼날 만화를 보면서 더빙하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03263_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

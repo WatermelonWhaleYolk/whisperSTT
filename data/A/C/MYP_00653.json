@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYP_00653",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.933,
+        "format": "MP4",
+        "date": "2023-02-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "슈파콘 슈파손 슈파슈파 손 콘 내래 슈파콘만은 절대로 못 끊습니다 기래",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.203
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 얘긴 지금 콘테 감독님께서 망할 거란 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.213,
+                "end": 9.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토트넘 팬들한테 뒤지게 맞고 싶으세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.363,
+                "end": 11.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 누가 망한 댔습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.657,
+                "end": 13.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 농담 인기래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.374,
+                "end": 14.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자꾸 그런 쓸데없는 농담을 하시니까 방출리스트에 올라가시는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.662,
+                "end": 18.933
+            }
+        ]
+    },
+    "summary": "자꾸 그런 쓸데없는 농담을 하시니까 방출리스트에 올라가시는 겁니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00653_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

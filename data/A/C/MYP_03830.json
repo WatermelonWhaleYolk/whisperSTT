@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYP_03830",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 55.822,
+        "format": "MP4",
+        "date": "2021-04-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 키높이를 훌쩍 넘는 어항을 그날따라 어떻게 넘어갔는지 아마도 타이밍 맞게 로이드를 밟고 넘어간 것으로 추정.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "운이 없게도 창 바깥쪽으로 떨어져 버렸다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.093,
+                "end": 14.647
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어? 해리 어디 갔지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.645,
+                "end": 16.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉사하지는 않았지만 그는 결국 다음날 새벽 동물병원에서 무지개다리를 건넜다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.069,
+                "end": 23.775
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "폐가 손상돼서 손을 쓸 수가 없네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.785,
+                "end": 28.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 나는 집 앞 화단에 그를 묻었고 내 가슴에도 묻었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.601,
+                "end": 41.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 데 갔을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.943,
+                "end": 46.220
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "후 흐흐 가는 길 심심한데 니 이야기나 한번 듣지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 46.230,
+                "end": 55.822
+            }
+        ]
+    },
+    "summary": "자신이 기르고 있던 거북이 해리가 어항에서 떨어져서 무지개 다리를 건넜던 일화를 말해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03830_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

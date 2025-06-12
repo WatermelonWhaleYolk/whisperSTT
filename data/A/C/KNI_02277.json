@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_02277",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.666,
+        "format": "MP4",
+        "date": "2016-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2000년 11월 유영보다도 한 살 어린 김연아가 트리플 러츠 연속 점프를 시도합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.608
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "초등학교 시절 트리플 5종 점프를 완성한 김연아 당시엔 세계적으로도 고난도 점프를 성공시키는 선수가 드물었던 만큼 김연아의 등장은 모두를 놀라게 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.618,
+                "end": 18.666
+            }
+        ]
+    },
+    "summary": "김연아는 유영보다 한 살 어린 나이에 트리플 5종 점프 기술을 완성시키며 그때 당시에 고난도 점프를 완성시키는 선수가 드물었던 만큼 모두를 놀라게 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02277_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 116
+                }
+            ]
+        }
+    ]
+}

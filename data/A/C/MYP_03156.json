@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03156",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.89,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단지 검에 흙먼지가 조금 묻었다는 이유로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.383
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조금?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.393,
+                "end": 3.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용사님께서 검을 뽑지 못했다고는 할 수 없는 노릇이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.112,
+                "end": 6.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "땅을 뽑아 냈는데 흙먼지 조금?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.523,
+                "end": 10.361
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.371,
+                "end": 12.543
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "죄송합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.553,
+                "end": 14.360
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저희가 믿음이 부족하여 어리석께도 그만.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.370,
+                "end": 17.536
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "용사님께 큰 결례를 범하고 말았습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 17.546,
+                "end": 20.476
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우매하고 식견이 좁은 저희를 굽어 살피시어",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 20.486,
+                "end": 23.890
+            }
+        ]
+    },
+    "summary": "용사는 자신이 칼이 박힌 땅까지 함께 뽑아 낸 것을 흙먼지 조금이라고 하는 것에 어이없으며 노인의 사과를 받고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03156_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

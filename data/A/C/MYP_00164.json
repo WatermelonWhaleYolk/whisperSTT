@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYP_00164",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.633,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네이마르 님, 부상이 벌써 나으신 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 안 나았지 새끼야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.290,
+                "end": 3.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "발목부상이 무슨 감기인 줄 알아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.870,
+                "end": 6.150
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재활하다가 심심해서 들러봤더만 이거 분위기가 왜 이래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.150,
+                "end": 9.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 아무래도 선수들의 연이은 부상은 물론 성적 부진까지 이어지고 있으니 좋을 수가 있겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.830,
+                "end": 15.540
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.550,
+                "end": 16.440
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 분위기 반전으로는 파티만 한 게 없지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.450,
+                "end": 18.950
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 재활하는 동안 포커로 돈 좀 벌었겠다, 오늘은 내가 쏠 테니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.960,
+                "end": 23.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분위기 반전을 위해 필요한 건 파티가 아니라 승리입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.300,
+                "end": 26.633
+            }
+        ]
+    },
+    "summary": "부상 중인 네이마르가 부상과 성적 부진으로 분위기가 좋지 않은 팀원들에게 파티를 열어주려고 했으나 음바페는 지금 필요한 건 파티가 아니라 승리라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00164_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

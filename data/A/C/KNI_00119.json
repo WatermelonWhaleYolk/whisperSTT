@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00119",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.521,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "긴장감이 감도는 챔피언 결정 4차전 김연경은 절묘한 서브로 상대 수비를 흔듭니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도로 공사 외국인 선수 캐벨의 공격을 가로막은 뒤에는 과감한 세리머니로 분위기를 끌어 올립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.000,
+                "end": 14.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "체력적으로 지칠 만도 하지만 리시브가 넘어오자 그대로 해결하는 집중력도 대단했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.525,
+                "end": 21.521
+            }
+        ]
+    },
+    "summary": "김연경은 절묘한 서브로 상대 수비를 흔들고 공격을 막고 리시브가 넘어오자 해결하는 집중력도 대단했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00119_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

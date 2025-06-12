@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYP_03712",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.77,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 오세요 형님 저녁에 돌판 삼겹에 소주 한 잔 콜? 컴컴컴컴 컴",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래그래 그럼 나중에 봐",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.797,
+                "end": 6.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 알겠습니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.963,
+                "end": 8.270
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "인생은 멀리서 보면 희극이지만",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.280,
+                "end": 11.210
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가까이서 보면 비극이다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 11.220,
+                "end": 16.088
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "8시간 전",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 16.098,
+                "end": 20.989
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 한참 돌을 달구던 로이드 형은",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.999,
+                "end": 24.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋아 이제 충분히 뜨거워",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.905,
+                "end": 26.966
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "불 피우고 달구는 동안 해가 져버렸네",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.976,
+                "end": 30.053
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "너무 오래 걸렸어",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.063,
+                "end": 31.850
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "기대감을 안고 첫 고기를 투하했다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.860,
+                "end": 35.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크으",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 35.878,
+                "end": 36.770
+            }
+        ]
+    },
+    "summary": "저녁에 돌판 삼겹에 소주 한잔 하자고 이야기를 하고 당일 8시간 전 로이드 형은 돌판을 한참이자 달궜다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03712_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

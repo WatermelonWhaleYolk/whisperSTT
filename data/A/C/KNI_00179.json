@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_00179",
+        "category": "스포츠뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.523,
+        "format": "MP4",
+        "date": "2022-05-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과거 소속팀의 유럽 챔피언스 리그 우승을 이끌었던 명장 라스무센 감독은 승리를 위한 열망을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.995,
+                "end": 18.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "라스무센 감독은 아테네 올림픽 결승 상대국이었던 덴마크 출신이기도 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.749,
+                "end": 23.523
+            }
+        ]
+    },
+    "summary": "덴마크 출신의 라스무센 감독은 승리를 위한 열망을 강조했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00179_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

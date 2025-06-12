@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03014",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.466,
+        "format": "MP4",
+        "date": "2020-01-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 황유니 뭐니 옛날 맨유 시절 생각하며 정신줄 놓고 있는게요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 당신이 일하고 있는 맨유랑은 완전 다른 팀이라고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.082,
+                "end": 6.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제발 같은 맨체스터 관할구라는 게 부끄럽지 않도록 일 좀 똑바로 하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.086,
+                "end": 9.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으 저놈의 라힘 스털링.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.797,
+                "end": 11.724
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "과거 다른 관할구 소속일 땐 나와 같은 9급 골무원이었지만 맨체스터 시티로 넘어온 뒤 제법 많은 골을 넣고 지금은 7급 골무원으로 승진해있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.734,
+                "end": 19.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나이도 나보다 어린 것이 아주 얄미워 죽겠군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.922,
+                "end": 22.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 린가스 씨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.204,
+                "end": 22.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 말 듣고 있어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.864,
+                "end": 23.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 나도 열심히 하고 있다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.793,
+                "end": 25.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 뭐 됐고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.632,
+                "end": 26.466
+            }
+        ]
+    },
+    "summary": "스털링이 린가드에게 제발 같은 맨체스터 관할구라는 게 부끄럽지 않도록 일 좀 똑바로 하라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03014_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

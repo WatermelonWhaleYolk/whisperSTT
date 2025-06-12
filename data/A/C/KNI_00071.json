@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_00071",
+        "category": "스포츠뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.957,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 베이징 동계 올림픽 피겨 스케이팅 여자 싱글에서 우리나라의 유영 김예림 선수가 첫 올림픽 연기를 성공적으로 마쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유영 선수는 쇼트 프로그램 6위 김예림은 9위에 올라서 이른바 김연아 키즈의 더 높은 성장 가능성을 보여줬습니다. 손기성 기자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.935,
+                "end": 17.885
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자 피겨의 간판 유영이 팽팽한 긴장감 속에 연기를 시작합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.895,
+                "end": 23.957
+            }
+        ]
+    },
+    "summary": "베이징 동계 올림픽에서 유영 선수는 쇼트 프로그램 6위 김예림은 9위에 올라 이른바 김연아 키즈의 더 높은 성장 가능성을 보여줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00071_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

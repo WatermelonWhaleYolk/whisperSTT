@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYP_01890",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.966,
+        "format": "MP4",
+        "date": "2021-09-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "생애 첫 발롱도르 중 어느 것을 선택하시겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.868
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 발롱도르도 물론 갖고 싶지만 귀여움은 절대 포기할 수 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.878,
+                "end": 6.288
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나 은골로 캉테는 귀여움을 선택하겠",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.298,
+                "end": 8.569
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 미친 거 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.579,
+                "end": 9.994
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "귀여운 게 뭐 대수라고 발롱도르를 포기해?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.004,
+                "end": 12.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 다음은 호날두 후보 차례입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.046,
+                "end": 14.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비록 동료들의 등번호는 외우지 못하셨지만 팀에 대한 애정이 상당하실 거라 생각합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.339,
+                "end": 19.966
+            }
+        ]
+    },
+    "summary": "사회자가 어느 것을 선택할 건지 묻자 캉테는 발롱도르도 갖고 싶지만 귀여움은 절대 포기할 수 없다며 귀여움을 선택하겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01890_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

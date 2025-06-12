@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNI_00030",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.684,
+        "format": "MP4",
+        "date": "2022-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "라스트 댄스를 추고 싶었고 어 방탄소년단에 춤을 살짝 췄는데 그 이유는 대원 선수가 RM님한테 또 큰 위로를 받아서 제가 또 거기에 또 보답을 해야겠다는 생각을 했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.453
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국 쇼트트랙은 연 악재 속에서도 금메달 2개와 은메달 3개를 따내",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.463,
+                "end": 17.684
+            }
+        ]
+    },
+    "summary": "대원 선수가 방탄소년단 멤버 RM에게 큰 위로를 받아서 라스트 댄스로 방탄소년단 춤을 췄다고 말했고 한국 쇼트트랙은 연 악재 속에서도 금메달 2개와 은메달 3개를 따냈다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00030_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

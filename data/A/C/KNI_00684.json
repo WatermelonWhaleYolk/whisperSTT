@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNI_00684",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2023-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모두가 코트에서 발이 떨어지지 않을 만큼 지친 가운데 김선형은 홀로 날아다녔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.168
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빠른 발을 이용한 속공으로 점수 차를 벌려나간 김선형 이번엔 상대 수비가 지친 틈을 이용해 단독 돌파로 또 한 번 득점에 성공합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 7.178,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "모두가 지친 가운데 김선형은 빠른 발을 이용해 상대 수비가 지친 틈을 이용해 득점에 성공했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00684_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_02190",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.133,
+        "format": "MP4",
+        "date": "2021-06-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더는 감당할 수 없을 것 같아 스스로 사임하였소.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세계에서 두 번째로 높은 연봉이라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.510,
+                "end": 4.928
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 회장님 우린 왜 매번 선수들 급여는 최저시급으로 주시면서 감독님께만 펑펑 쓰시는 겁니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.938,
+                "end": 10.906
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 그야 선수들은 어려서 살살 달래면 넘어오지만 감독들은 마치 늙은 여우 같아서 호락호락하지 않거든.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.916,
+                "end": 17.775
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.785,
+                "end": 18.389
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "진짜 너무하신 거 아니에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.399,
+                "end": 19.496
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "케인이랑 흥민이는 재계약하면 연봉 팍팍 올려준대도 콘테도 왔겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.506,
+                "end": 24.036
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이적이니 뭐니 딴 생각하지 말고 얼른 사인하게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.046,
+                "end": 26.730
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "예 아이 그래도 케인 넌 어떡할 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.740,
+                "end": 28.960
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그대를 만나서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.970,
+                "end": 31.133
+            }
+        ]
+    },
+    "summary": "감독은 세계에서 두 번째로 높은 연봉을 받고 있으며 회장은 케인과 손흥민에게도 재계약 시 연봉을 올려준다고 약속한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02190_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

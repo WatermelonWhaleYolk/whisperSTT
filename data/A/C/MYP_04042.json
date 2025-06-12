@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYP_04042",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.223,
+        "format": "MP4",
+        "date": "2020-09-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무도 내가 맨 손으로 혼자 파이프에 도달했다는 사실을 믿어 주지 않았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.139
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같이 판 놈들 다 어디 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.149,
+                "end": 7.493
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "혼자 팠는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.503,
+                "end": 8.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2 지하 소녀 비가 오던 어느 날 텅빈 놀이터 옆을 지나던 나는",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.452,
+                "end": 21.221
+            }
+        ]
+    },
+    "summary": "맨손으로 땅을 끝까지 파고는 파이프를 팠다는 걸 알았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04042_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

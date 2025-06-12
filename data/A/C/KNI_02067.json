@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "KNI_02067",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.833,
+        "format": "MP4",
+        "date": "2018-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이상화는 4차 월드컵 이후 비시즌인 여름에나 할 법한 강도 높은 체력 훈련을 소화했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월요일은 유산소 운동 화요일은 스피드를 올리는 훈련 등으로 이뤄졌는데 그 중 눈에 띄는 부분은 수요일과 토요일의 인터벌 트레이닝입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.432,
+                "end": 16.833
+            }
+        ]
+    },
+    "summary": "이상화는 4차 월드컵 이후 여름 비시즌에 강도 높은 체력 훈련에 소화했다. 그의 훈련 일정에는 월요일의 유산소 운동 화요일의 스피드 향상을 위한 훈련이 포함되어 있었다. 두드러진 부분은 특히 수요일과 토요일에 실시하는 인터벌 트레이닝이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02067_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 58,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

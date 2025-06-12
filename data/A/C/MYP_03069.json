@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_03069",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.833,
+        "format": "MP4",
+        "date": "2019-11-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지기지기 자가자가 조고조고 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 그거 말고 옆에 있는 조고조고 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.461,
+                "end": 3.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그거 내려 놓고 옆에 있는 조고조고 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.387,
+                "end": 5.293
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대표님 살려주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.303,
+                "end": 7.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대표님 한 번만 살려주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.130,
+                "end": 9.338
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 날강두 사장님 어디 가셔요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.348,
+                "end": 11.159
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "장사하셔야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.169,
+                "end": 17.833
+            }
+        ]
+    },
+    "summary": "사장은 대표에게 한 번만 살려달라고 하고 백대표는 사장에게 장사 안 하고 어디 가냐고 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03069_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 66
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_00734",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.29,
+        "format": "MP4",
+        "date": "2023-02-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "변준형은 코트 위에서도 펄펄 날았습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영리한 움직임에 이은 정확한 페이더웨이 슛은 물론 예리한 패스로 공격의 활로를 뚫었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 3.086,
+                "end": 9.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3쿼터 들어 이정현을 앞세운 @소속1의 반격이 매서워졌지만 @소속2에는 에이스 변준형이 있었습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 9.679,
+                "end": 17.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "변준형은 4쿼터 막판 3점 차 접전 상황에서 환상적인 드리블 돌파 슛으로 승부에 쐐기를 박았습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.496,
+                "end": 24.290
+            }
+        ]
+    },
+    "summary": "변준형은 정확한 페이더웨이 슛은 물론 예리한 패스로 공격의 활로를 뚫었고 @소속1의 반격이 매서워졌지만 변준형은 4쿼터 막판 3점 차 접전 상황에서 환상적인 드리블 돌파 슛으로 승부에 쐐기를 박았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00734_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

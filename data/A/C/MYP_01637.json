@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_01637",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.2,
+        "format": "MP4",
+        "date": "2022-01-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월 월클",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.419
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 월클이면 월클인 거지 저는 왜 이렇게 뜸을 들이십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.429,
+                "end": 5.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요새 하시는 거로 봐서는 탑클도 감지덕지 하지만 워낙에 전성기가 화려했으니 월클이라 해드리는 겁니다 다음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.026,
+                "end": 11.615
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "시간이 없으시면 저는 생략하셔도 됩니다 저야 뭐 보나 마나 월클",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.625,
+                "end": 15.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월클이라뇨 메시 선수는 절대로 월드클래스가 아닙니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.571,
+                "end": 19.161
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐라고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.171,
+                "end": 19.723
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 그게 무슨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.733,
+                "end": 21.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월드클래스를 넘어 살이있는 전설이자 축구계의 GOAT 싸커계의 염소 메시 선수는 레전더리 클래스입니다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.020,
+                "end": 29.200
+            }
+        ]
+    },
+    "summary": "메시 선수는 월드클래스를 넘어 축구계의 레전더리 선수이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01637_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

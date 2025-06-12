@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNI_01896",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.241,
+        "format": "MP4",
+        "date": "2022-08-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성공과 관계없이 박수를 받기에 충분했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문지윤은 71퍼센트의 높은 공격 성공률을 양 팀 최다인 17득점을 올려 3 대 0 승리 팀 우승의 주인공이 됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.341,
+                "end": 12.642
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지윤이가 뭐 거의 뭐 용병 그런 느낌이 날 정도로 굉장히 잘 어 때려 주면서 전체적으로 팀이 좀 안정감 있게 가지 않았나 엠브이피를 좀 받았으면 하는 개인적인 바램이 좀 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.652,
+                "end": 24.343
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감독의 바람처럼 문지윤은 생애 첫 컵대회 엠브이피에 올랐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.353,
+                "end": 29.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "외국인 선수와 같은 포지션 탓에 출전 기회가 부족했던 문지윤으로선 존재감을 제대로 알린 대회였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.235,
+                "end": 36.522
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 너무 얼떨떨한 아 아직도 긴장되고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.532,
+                "end": 41.241
+            }
+        ]
+    },
+    "summary": "문지윤은 높은 공격 성공률과 양 팀 최다 득점을 올려 팀 우승의 주인공이 됐고 감독의 바람처럼 문지윤은 생이 첫 컵대회 엠브이피에 올랐는데 외국인 선수와 같은 포지션 탓에 출전 기회가 부족했던 문지윤의 존재감을 제대로 알린 대회가 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01896_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

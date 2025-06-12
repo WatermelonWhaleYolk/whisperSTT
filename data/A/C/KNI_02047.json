@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNI_02047",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.166,
+        "format": "MP4",
+        "date": "2019-06-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진천 선수촌은 오늘 회의를 열고 퇴촌 범위를 최종 결정할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이와 관련해 빙상 연맹의 한 관계자는 선수촌에서 코칭 스태프를 포함해 남녀 대표팀 모두를 1달간 퇴촌하기로 결정할 것으로 안다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.038,
+                "end": 15.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국가 대표 선수촌에서 선수 개인이 아닌 팀 전체가 퇴촌 당하는 건 사상 초유의 일입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.380,
+                "end": 22.166
+            }
+        ]
+    },
+    "summary": "빙상 연맹 관계자는 선수촌에서 코칭 스태프와 남녀 대표팀 모두를 1달간 퇴촌하기로 결정할 것으로 안다고 했고 국가 대표 선수촌에서 선수 개인이 아닌 팀 전체가 퇴촌 당하는 건 처음 있는 일이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02047_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

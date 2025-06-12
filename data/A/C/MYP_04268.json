@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYP_04268",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.442,
+        "format": "MP4",
+        "date": "2020-02-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "눈을 마주치면 물어 보면 직접 대답할 수밖에 없겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드시고 가실건가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.610,
+                "end": 4.214
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으어어 테테테이크 다운 아니 아웃으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.224,
+                "end": 11.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으악 테이크 아웃 2개 땡큐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.913,
+                "end": 15.494
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오직 숙주를 통해서만 자신의 의사를 전달한다 펠은 결국 나갈 때까지 그녀의 앞모습을 보지 못했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.504,
+                "end": 25.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕히 계세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.475,
+                "end": 27.143
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "등에서 자라났나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.153,
+                "end": 29.429
+            }
+        ]
+    },
+    "summary": "오직 숙주를 통해서만 자신의 의사를 전달했고 펠은 결국 나갈 때까지 그녀의 앞모습을 보지 못했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04268_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

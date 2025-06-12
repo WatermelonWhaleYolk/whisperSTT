@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNI_00017",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.65,
+        "format": "MP4",
+        "date": "2022-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올림픽 때마다 다양한 마케팅 활동을 해왔지만 지난해 도쿄 올림픽에 이어 이번에도 차분한 분위기입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수촌에 홍보 부스를 설치하고 선수단에 휴대 전화를 제공한 게 외부 활동의 거의 전부입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.825,
+                "end": 13.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홈페이지에서도 올림픽 관련 소식을 알리지 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.858,
+                "end": 17.650
+            }
+        ]
+    },
+    "summary": "올림픽 때마다 다양한 마케팅 활동을 해왔지만 지난해 도쿄 올림픽에 이어 이번에도 차분한 분위기이며 선수촌에 홍보 부스를 설치하고 선수단에 휴대 전화를 제공한 게 외부 활동의 거의 전부이고 홈페이지에서도 올림픽 관련 소식을 알리지 않고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00017_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

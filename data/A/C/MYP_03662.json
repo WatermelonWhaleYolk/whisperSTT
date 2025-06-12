@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "filename": "MYP_03662",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.292,
+        "format": "MP4",
+        "date": "2021-12-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "남은 아이들은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하하하하 여기 털 많네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.083,
+                "end": 3.818
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "역시 교감은 육신보단 영혼이지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.828,
+                "end": 6.777
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "도축하지 마 휴지 달라면 나무 뽑아올 놈들",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.787,
+                "end": 10.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비둘기의 생털을 뽑기 시작했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.452,
+                "end": 13.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 나는 탈모 비둘기를 묻게 되었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.851,
+                "end": 17.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "생닭이다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.525,
+                "end": 19.694
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "인간 놈들 꼭 닭둘기로 환생해서 마빡에 똥을 휘갈겨주마",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.704,
+                "end": 26.292
+            }
+        ]
+    },
+    "summary": "남은 아이들은 비둘기의 생털을 뽑았고 그렇게 생닭이 된 비둘기를 땅에 묻게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03662_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 13,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

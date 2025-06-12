@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYP_01970",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.371,
+        "format": "MP4",
+        "date": "2021-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한때는 전대미문의 무패 우승을 달성하며 많은 추종자들을 거느리고 있었으나 현재는 리그 최하위에 머물며 강등을 눈앞에 두고 있는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.757
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "족장님 아르테타 족장님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.767,
+                "end": 12.687
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래 오바메양 무슨 일이길래 이리 급하게 오느냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.697,
+                "end": 15.817
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "설마 나의 경질 소식은 아니겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.827,
+                "end": 18.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 아니옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.374,
+                "end": 19.268
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실은 출장을 다녀 오는 길에 우리 아스날 부족 출신의 주술사를 만나고 오는 길이옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.278,
+                "end": 23.419
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "주술사라면 외질을 말하는 것이냐? 저번에 그놈을 불러다 사스날로 돌려달라고 제사까지 지냈지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.429,
+                "end": 30.366
+            }
+        ]
+    },
+    "summary": "오바메양이 급히 아르테타 족장님을 찾아왔고 설마 경질 소식이냐고 했지만 그것은 아니었으며 출장 다녀 오는 길에 아스날 부족 출신의 주술사를 만나고 오는 길이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01970_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

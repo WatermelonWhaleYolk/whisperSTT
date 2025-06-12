@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_02469",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.105,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요리스의 개인적인 비하인드 스토리는 시간이 되신다면 풋볼 위키의 무료 첫 화인 요리스 편을 찾아보시는 것도 좋습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요리스는 사실 어릴 때 테니스 선수였대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.135,
+                "end": 10.035
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쉬는 시간에 시간이나 때울 겸 축구를 하고 놀았는데 이때 자신의 골키퍼 재능을 발견하고 축구 선수로 전향했답니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.045,
+                "end": 17.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 놀라운 반사 신경은 어느 정도 테니스의 영향도 있었을 것 같네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.103,
+                "end": 22.100
+            }
+        ]
+    },
+    "summary": "요리스는 어릴 적 테니스 선수였으며 놀라운 반사 신경으로 골키퍼 재능을 발견해 축구 선수로 전향했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02469_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

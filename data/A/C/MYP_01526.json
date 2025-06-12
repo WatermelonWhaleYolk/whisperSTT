@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "filename": "MYP_01526",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.972,
+        "format": "MP4",
+        "date": "2022-02-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유럽 대항전은 무슨 엊그제 아스날이 이기면서 챔스는 물 건너간 거 모르십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 그렇긴 하다만",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.883,
+                "end": 6.041
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어쩔 수 없이 올 시즌은 포기해야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.051,
+                "end": 7.936
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래도 컬퍼런스가 아닌 유로파는 나가지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.946,
+                "end": 10.706
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어? 아이 그게 아니라",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.716,
+                "end": 11.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이참에 감독께서도 유로파 맛 좀 보셔야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.945,
+                "end": 14.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선수 시절에 리그는 물론 챔스 우승까지 해내셨으며",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.672,
+                "end": 17.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감독으로 도 세리에는 물론 프리미어리그 우승까지 해내셨고 각종 컵 대회에서도 여러 번 우승하셨지만 유로파 우승은 없으시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.866,
+                "end": 24.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이참에 유로 파 맛 좀 보시고 맛이 괜찮다 싶으시면 우승까지 해버리시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.440,
+                "end": 28.656
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유로파라니 내 말은 그게 아니라",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.666,
+                "end": 30.742
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 설마 우리 유로파도 힘든 건가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.752,
+                "end": 32.966
+            }
+        ]
+    },
+    "summary": "선수 두 명과 감독이 이 챔스 우승은 물 건너간 것 같다며 올 시즌은 포기하고 유로파를 기대한다고 말하고 감독님의 선수 시절 리그는 물론 챔스 우승까지 해냈지만 유로파 우승은 없었다며 이참에 유로파 맛 좀 보시고 우승까지 해버리자고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01526_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

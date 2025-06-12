@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_00749",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.7,
+        "format": "MP4",
+        "date": "2023-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "살아있는 우리 아이들을 지키지 못했지만 죽어서 저 하늘로 간 아이들은 여기서 끝까지 지킬 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계고장을 10장 100장을 수천 장을 보여도 우리는 여기를 끝까지 지킬 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.360,
+                "end": 14.339
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 분향소는 희생사 추모를 위한 관혼상제로 헌법과 법률로 보호 받는다며 철거 대상이 아니라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.349,
+                "end": 23.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울시는 공유재산법 위반으로 행정 대집행 대상이 된다고 밝히며 추모 공간으로 녹사평역 지하 4층을 거듭 제안했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.523,
+                "end": 33.700
+            }
+        ]
+    },
+    "summary": "유족들은 또 분향소는 희생사 추모를 위한 관혼상제로 헌법과 법률로 보호 받는다며 철거 대상이 아니라고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00749_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 64,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYP_01790",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.066,
+        "format": "MP4",
+        "date": "2021-10-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무려 맨유를 데리고 4년 동안 삽질만 해댄 너랑은 비교 자체가 안 된다는 거 모르누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조용조용. 니들끼리 그렇게 싸워 봤자 소용없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.941,
+                "end": 8.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누가 더 게으른 감독인지는 증인들이 판단할 일. 먼저 토트넘의 증인부터 들어 오게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.196,
+                "end": 13.238
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안녕하세요? 토트넘의 윙 포워드 손흥민.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.248,
+                "end": 15.044
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "토트넘의 스트라이커 해리 케인입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.054,
+                "end": 17.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 너희들 날 구하러 온거누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.194,
+                "end": 19.182
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "예? 아 저희는 힘을 구하러 온 건데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.192,
+                "end": 21.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "날 구하는 게 팀을 구하는 거 아니겠누?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.692,
+                "end": 24.035
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "감독님을 없애는 게 팀을 구하는 지름길이라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.045,
+                "end": 26.857
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "솔직히 맨날 다른 애들 수비하고 흥민이랑 케인 공격해 밖에 안 하시는데 그 정도면 게으르긴 하신 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.867,
+                "end": 31.776
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그것뿐만이겠어? 전술이 없으면 뭐 인터넷에 찾아보기라도 하던가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.786,
+                "end": 36.066
+            }
+        ]
+    },
+    "summary": "토트넘 선수들은 감독님을 없애는 게 팀을 구하는 지름길이라고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01790_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

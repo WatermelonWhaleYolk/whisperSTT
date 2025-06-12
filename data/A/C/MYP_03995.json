@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "MYP_03995",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.355,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진짜로 밥이 좋은가 감자칩이 좋은가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나는 아직도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.848,
+                "end": 7.308
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전 돈이 제일 좋은데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.318,
+                "end": 10.230
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 이상 가는 명답이 없다고 생각한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.240,
+                "end": 11.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "젋어서 좋구만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.957,
+                "end": 12.666
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "돈 밝히는 게 젋음으로 미화 됐어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.676,
+                "end": 15.757
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "그런데서 솔직하면 어떡해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.767,
+                "end": 20.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈 있으면 둘 다 사 먹잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.163,
+                "end": 22.355
+            }
+        ]
+    },
+    "summary": "시상식에서 주인공의 친구가 돈이 제일 좋다고 답변해서 웃음거리가 된 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03995_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

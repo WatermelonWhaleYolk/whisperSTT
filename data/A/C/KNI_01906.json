@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_01906",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.696,
+        "format": "MP4",
+        "date": "2022-12-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어쩌면 카타르 도하에서의 마지막이 될 수 있는 포르투갈전 최종 훈련.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "벤투 감독과 선수들이 한데 모여 필승 의지를 다집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.653,
+                "end": 8.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어제까지 부상 여파로 훈련에 불참한 김민재의 얼굴이 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.119,
+                "end": 12.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직은 정상적인 팀 훈련 대신 자전거를 타며 회복중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.160,
+                "end": 16.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마스크 사이로 얼굴에 붓기가 더 심해 보이는 손흥민도 최선을 다해 마지막 담금질을 마쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.974,
+                "end": 23.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "벤투 감독은 조국 포르투갈을 상대로 한 얄궂은 대결을 앞두고 비장한 출사표를 던졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.728,
+                "end": 29.696
+            }
+        ]
+    },
+    "summary": "포르투갈전 최종 훈련에서 벤투 감독과 선수들이 모여 필승 의지를 다지는 모습으로 부상 여파로 훈련에 불참했던 김민재와 손흥민 등 출전 선수들이 마지막 담금질을 마쳤다는 소식이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01906_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

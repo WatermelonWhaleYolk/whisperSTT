@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "KNI_02465",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 64.831,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이러면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 @이름1 선수 4번 레인에 출 참 어 참가하고 있는 @이름1 선수같은 경우에는 작년 시즌 거의 뭐 전관왕이었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.140,
+                "end": 9.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "작년에 8경기에 나와서 8경기 모두 우승했습니다 그런데 이 기록이 작년만 그런 게 아니라 지금 2년 넘게 무패가 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.283,
+                "end": 19.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 선수 잠시 뒤에 다시 소개를 해드리겠습니다 서울대학교에 @이름2 선수입니다 인천 체육고등학교를 졸업하고 서울대학교에 진학을 했습니다 @이름2 선수",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.935,
+                "end": 29.303
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 예선 25초 46의 기록으로 결승에 진출한 선수가 되겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.313,
+                "end": 33.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1레인에 있는 @이름2 2레인 경희대학교 @이름3 선수입니다 경희대학교 1학년",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 33.542,
+                "end": 39.200
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예선 24초 98의 기록으로 결승에 진출했고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.203,
+                "end": 42.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실업 선수입니다 광주광역시청 @이름4",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.380,
+                "end": 44.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예선 25초 23의 기록으로 결승에 진출했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.510,
+                "end": 47.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "400미터 1위했고 이 선수가 시흥시청의 @이름1 선수입니다 2년 넘게 이 200미터에서 무패가도 가평구청에 @이름5 선수 @이름6 선수 100미터 우승했던 선수의 쌍둥이 동생입니다 이어서 시흥시청의 @이름7 6레인",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.490,
+                "end": 64.831
+            }
+        ]
+    },
+    "summary": "여자 대학 일반부 200미터 육상 경기 참가자는 서울대학교 @이름2 선수, 경희대학교 @이름3 선수, 2년 넘게 200미터 종목에서 무패를 기록하고 있는 8전 8승의 @이름1 선수 등이 참가했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02973",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.466,
+        "format": "MP4",
+        "date": "2020-02-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 왜 나를 때리고 있느냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.127
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 죄송 같은 머머리여서 아이봉이 착각했나 봅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.137,
+                "end": 5.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 정신 똑바로 차리거라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.285,
+                "end": 7.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 패배하면 우리는 또 1년 동안 16강 따리라고 놀림받고 이번 시리즈도 다음 편에 끝나 버리는 바람에 @계정1 가 공들여 만들어 놓은 원고도 냄비 받침으로 전락한 말이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.503,
+                "end": 19.658
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하하하 16강 따리면 16강 따리답게 이만 하산하여라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.668,
+                "end": 23.730
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "챔피언스산에 오르는 머머리는 나 하나로 족하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.740,
+                "end": 27.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 건방진 문어 대가리 누가 최강의 머머리인지 결판을 내자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.870,
+                "end": 32.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두둥 다음 편에 계속",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.735,
+                "end": 35.466
+            }
+        ]
+    },
+    "summary": "지단법사와 펩빡이가 챔피언스산에 오르는 것을 두고 싸우려 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02973_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

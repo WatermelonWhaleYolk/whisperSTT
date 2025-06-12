@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYP_04300",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.421,
+        "format": "MP4",
+        "date": "2020-01-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 어련하시겠습니까 이거 최연소 최고속 팀장은 역시 다르네 이거 뭐 우리 같은 미물들은 질투 나서 살겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.758
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "호들갑 그만떨어 원칙대로 할 뿐이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.768,
+                "end": 12.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 어쨌든 축하드립니다 그런데 제가 대리님 전속 조수로 일한 지도 벌써 4년째 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.005,
+                "end": 21.421
+            }
+        ]
+    },
+    "summary": "대리님한테 최연소 최고속 팀장은 역시 다르다며 우리 같은 미물들은 질투 나서 살겠냐며 대리님 전속 조수로 4년째 일하고 있다며 말을 꺼낸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04300_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 133
+                }
+            ]
+        }
+    ]
+}

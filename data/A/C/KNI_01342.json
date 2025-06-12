@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNI_01342",
+        "category": "스포츠뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.97,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "DB의 전설 김주성 감독 대행의 홈 데뷔전 경기 DB의 에르난데스가 멋진 앨리웁 덩크 슛을 꽂자 LG 커닝햄이 화끈한 투핸드 덩크로 반격합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "DB는 4쿼터 종료 3분여 전까지 5점 차로 앞서가며 김주성 감독 대행에게 승리를 안기는듯 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.806,
+                "end": 18.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 이관희를 앞세운 LG의 막판 집중력이 매서웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.944,
+                "end": 23.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 경기 종료 45초 전 정희재가 극적인 역전 3점포를 승부를 뒤집습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.240,
+                "end": 29.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 LG가 1점 차 역전승을 거뒀고 김주성 감독 대행은 홈 데뷔전에서 첫 패배의 쓴맛을 봤습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.536,
+                "end": 36.970
+            }
+        ]
+    },
+    "summary": "DB의 전설 김주성 감독 대행의 홈 데뷔전 경기에서 종료 3분 전까지 5점 차로 앞서며 승리를 안기는듯 했지만 경기 종료 45초 전 승부를 뒤집어 결국 LG가 1점 차 역전승을 거뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01342_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_02292",
+        "category": "스포츠뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.066,
+        "format": "MP4",
+        "date": "2016-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국가대표 선발 규정에 당초 제정 취지가 국가대표로서의 높은 도덕성을 요구합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도핑은 선수의 기본 덕목인 무엇보다도 페어플레이 정신에 위배된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.226,
+                "end": 13.672
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "체육회는 이사회 결과를 즉시 CAS에 통보하고 박태환이 중재 절차에 들어가면 적극적으로 대응할 계획입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.682,
+                "end": 22.066
+            }
+        ]
+    },
+    "summary": "대한체육회는 국가대표 선발 규정의 취지가 높은 도덕성을 요구하며 도핑은 페어플레이 정신에 위배된다는 입장을 밝히고 박태환이 중재 절차에 들어가면 적극적으로 대응할 계획이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02292_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

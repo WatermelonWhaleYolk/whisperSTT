@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_03728",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2021-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최종 멤버는 지겨운 그 얼굴들뿐",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.951
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 왠지 이렇게 될 것 같았어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.961,
+                "end": 5.564
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 마누라 같은 새끼들",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.574,
+                "end": 8.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 즐거이 출발한 우리는",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 8.140,
+                "end": 11.857
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "괜찮아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.867,
+                "end": 12.677
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "우리끼리 재밌게 놀면 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.687,
+                "end": 14.597
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "사진 무지하게 찍어서 다 복수해 줄 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.607,
+                "end": 17.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하 둘 다 안될 것 같은데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.394,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "멤버들은 지겨운 얼굴들 뿐이었고 형은 우리끼리 재밌게 놀면 된다고 사진 많이 찍어서 복수 한다고 큰 소리를 친다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03728_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 5,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

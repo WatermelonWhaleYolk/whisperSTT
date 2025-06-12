@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02018",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.5,
+        "format": "MP4",
+        "date": "2021-08-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이놈 자식이 허풍은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 이기면 확실하게 형이라고 불러야 해. 알겠어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.110,
+                "end": 3.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋아. 남자는 주먹인 거 알지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.791,
+                "end": 5.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첫판은 우리 둘 다 남자 인증도 할 겸 주먹을 내서 무승부 어때?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.790,
+                "end": 9.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 자식이 뻔한 수작을.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.623,
+                "end": 11.023
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가만 생각해 보니 보자기를 내버리면 되잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.033,
+                "end": 13.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋다. 안 내면 진 거 가위 바위 보자기. 슉.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.378,
+                "end": 17.500
+            }
+        ]
+    },
+    "summary": "화자 1과 2가 가위바위보에서 이긴 사람을 형으로 부르기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02018_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYP_02018_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

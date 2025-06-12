@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNI_01609",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.424,
+        "format": "MP4",
+        "date": "2023-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선수들은 공격이 성공할 때마다 큰 세리머니로 분위기를 끌어올렸습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치열했던 경기는 조금씩 한국전력으로 기울기 시작했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 4.846,
+                "end": 9.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서재덕과 타이스가 날카로운 공격이 계속해서 코트를 강타했고 서재덕은 2세트 날카로운 서브 득점 뒤 무릎을 꿇으며 포효했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 9.402,
+                "end": 19.126
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서재덕이에요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 19.293,
+                "end": 20.576
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 이번 세트도 서재덕이 되는 겁니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 20.586,
+                "end": 23.575
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.585,
+                "end": 24.424
+            }
+        ]
+    },
+    "summary": "한국전력의 서재덕이 좋은 경기력을 보여주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01609_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNI_01884",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.087,
+        "format": "MP4",
+        "date": "2022-07-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1가 털을 정성스럽게 빗겨주고 말발굽에 박힌 흙과 먼지를 떼내며 말과 교감을 나눕니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.262
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "먹을 건줄 알아가지고 오늘도 무사히 무사히 잘 마무리하자",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.272,
+                "end": 14.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굵은 빗줄기가 쏟아지는 궂은 날씨에도 잇따라 장애물을 가볍게 넘습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.955,
+                "end": 21.087
+            }
+        ]
+    },
+    "summary": "@이름1가 말을 타는 모습을 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01884_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 16,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

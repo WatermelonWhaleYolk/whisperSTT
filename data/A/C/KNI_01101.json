@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_01101",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.288,
+        "format": "MP4",
+        "date": "2022-06-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 진행을 할 거고 그거를 막 끊어 내면 내년에 이맘쯤엔 할 수 있기 때문에 충분히 할 수가 있을 거라는 생각을 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.598
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러 차례 부상을 딛고 마운드로 돌아왔던 류현진 딱 1년 뒤 팬들과 다시 만날 것을 약속했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.608,
+                "end": 19.099
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.109,
+                "end": 22.288
+            }
+        ]
+    },
+    "summary": "여러 차례 부상을 딛고 마운드로 돌아왔던 류현진 딱 1년 뒤 팬들과 다시 만날 것을 약속했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01101_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

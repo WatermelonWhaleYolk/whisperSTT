@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYP_00882",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.233,
+        "format": "MP4",
+        "date": "2022-12-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다들 정말이지 고생 많았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.727
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비록 브라질을 넘지 못하고 패배했지만 세계 최강팀을 상대로 기죽지 않고 잘 싸워줬다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.737,
+                "end": 6.542
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 젠장 스위스 놈들이 한 골만 더 넣어줬다면 스위스를 잡고 8강도 노려볼 수 있었을 텐데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.552,
+                "end": 11.749
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "스위스라고 만만한 상대였겠냐? 오히려 마지막 상대가 세계 최강 브라질이었기에 꿈같은 도전에 이어 유종의 미를 거둔 거 아니겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.759,
+                "end": 17.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 그래 비록 우리의 월드컵은 이대로 끝이 났지만 16강이라는 목표를 달성했고 선수들은 한층 더 성장했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.003,
+                "end": 24.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기까지 오느라 다들 고생 많았고 26명의 태극전사 1명, 1명 칭찬하지 않을 수 없겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.349,
+                "end": 30.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 든든하게 골문을 지켜주었던 3명의 수문장 김승규, 조현우, 송범근 어 아니 얘들이 어디 갔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.154,
+                "end": 37.028
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "원래 골키퍼들은 장갑 벗는 시간이 좀 길지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.038,
+                "end": 39.654
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "라커룸에서도 들릴 테니 편하게 말씀하시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.664,
+                "end": 41.857
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그 그런가? 아무튼 몇 차례의 슈퍼세이브를 보여주었던 승규는 물론 주전과 후보를 막론하고 다들 잘해주었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.867,
+                "end": 48.233
+            }
+        ]
+    },
+    "summary": "감독은 월드컵에서 16강이라는 목표를 달성했고 선수들도 한층 성장했다며 칭찬한 후 제일 먼저 골키퍼들의 이름을 부르며 그들의 활약상을 칭찬하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00882_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

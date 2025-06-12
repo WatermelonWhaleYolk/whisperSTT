@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNI_01669",
+        "category": "스포츠뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2023-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난달 마이애미에서 훈련했던 @이름1도 일본 오키나와를 거쳐 애리조나로 향하는 강행군이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2와 @이름3 등 미국에서 예열했던 선수들의 피로감이 덜한 게 다행인 가운데 김광현은 추후 소집될 @이름4을 기다린다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.990,
+                "end": 15.363
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름4 선수는 언제 오죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.373,
+                "end": 16.023
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3월달",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.033,
+                "end": 16.988
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3월 3월달에 오는데 어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.998,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "다른 선수들도 강행군을 펼쳤고 미국에서 예열했던 선수들의 피로감이 덜한 게 다행인 가운데 김광현 선수는 추후 소집될 @이름4을 기다린다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01669_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_00098",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.402,
+        "format": "MP4",
+        "date": "2022-03-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사라한테 설명을 해주고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.796
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최사라와 김유성이 함께 하는 도전은 한번 더 남아 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.806,
+                "end": 6.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사라가 안 다치고 재밌게 즐겁게 경기를 마무리했으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.203,
+                "end": 10.950
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저도 오빠랑 같이 재미있고 의미 있는 어 패럴림픽을 마무리했으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.960,
+                "end": 18.960
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최사라와 김유성은 같은 꿈을 향해 달리는 선수이자 동료입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.970,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "최사라와 김유성이 함께 하는 도전은 한번 더 남아 있고 서로 안다치고 재밌게 패럴림픽을 마무리 했으면좋겠다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00098_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

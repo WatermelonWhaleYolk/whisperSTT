@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNI_01355",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.629,
+        "format": "MP4",
+        "date": "2023-01-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세터 염혜선이 절묘한 백토스를 건네자 그대로 상대의 허를 찔렀고 코트의 빈 곳을 보고 밀어 넣는 여유까지 뽐냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "센터로 포지션 변경 이후 마침내 잠재력이 폭발한 유망주는 온몸으로 기쁨을 드러냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.213,
+                "end": 17.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정호영을 앞세워 먼저 2세트를 따내고도 무너질 위기에 빠지자 이번에는 감독이 선수들을 독려합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.394,
+                "end": 25.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 하나 얘기해주고 싶어.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 25.474,
+                "end": 29.629
+            }
+        ]
+    },
+    "summary": "정호영은 센터로 포지션 변경 이후 잠재력을 폭발하고 있는 가운데 감독은 선수들을 독려했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01355_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

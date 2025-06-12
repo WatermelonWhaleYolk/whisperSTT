@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNI_00120",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "반드시 끝내겠다며 모든 걸 쏟아낸 김연경이지만 반격을 노리는 도로 공사의 저력이 만만치 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박정호의 시원한 후이 공격이 불을 뿜었고 캐벨은 180도 돌면서 공격을 성공시켰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.687,
+                "end": 16.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 세트를 내주고도 내리 두 세트를 따는 도로 공사의 상승세는 멈출 줄 몰랐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.892,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "도로 공사의 저력도 만만치 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

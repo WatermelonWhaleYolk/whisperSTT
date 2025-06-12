@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "KNI_01154",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 44.611,
+        "format": "MP4",
+        "date": "2022-09-27",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 2022년 카타르월드컵 해설 대권에 도전하기 위해 이 자리에 섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기호 7번 구자철 왜 7번인지 아십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.368,
+                "end": 11.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것은 바로 KBS가 7번이기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.284,
+                "end": 16.635
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "카메룬 전을 앞두고 진행된 현장 유세도 순식간에 팬들이 장사진을 이룰 만큼 열기가 뜨거웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.645,
+                "end": 24.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팬들에게 일일이 명함을 나눠주고 사진을 찍어주며 눈도장을 찍은 구자철 위원은 자신감 넘치는 각오를 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.650,
+                "end": 34.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 친구 중에 기성용이라고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.170,
+                "end": 37.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 친구가 예전에 답답하면 니들이 뛰든가라는 말을 했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.090,
+                "end": 40.367
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어 답답하면 내가 해설을 해야겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.377,
+                "end": 44.611
+            }
+        ]
+    },
+    "summary": "월드컵 해설 대권 도전을 선언한 구자철 KBS 축구 해설위원이 팬들에게 명함을 나눠주고 사진을 찍어주며 눈도장을 찍고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01154_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

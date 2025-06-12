@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "MYP_03621",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 51.594,
+        "format": "MP4",
+        "date": "2021-12-25",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물의 호흡 똑바로 앞을 향해라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자신을 고무시켜라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.268,
+                "end": 4.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힘내 @이름1 힘내라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.545,
+                "end": 7.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제10형 생생유전",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.132,
+                "end": 12.934
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정 거기까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.944,
+                "end": 20.546
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 으으윽 윽 혈귀술",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.556,
+                "end": 39.685
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "으윽 폭혈",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 39.695,
+                "end": 47.257
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정 거기까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 47.267,
+                "end": 51.584
+            }
+        ]
+    },
+    "summary": "물의 호흡으로 똑바로 앞을 향하고 자신을 고무시키고 혈귀술과 폭혈 기술을 썼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03621_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

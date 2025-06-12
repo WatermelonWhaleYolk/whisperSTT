@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_03990",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.395,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더 쿨하게 먹어야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손목 스냅을 더 이용해.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.193,
+                "end": 5.557
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼굴이 뭐 그렇게 생겼어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.567,
+                "end": 8.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 열정적으로 UCC 제작에 혼을 돋은 우리는 그날 밤.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.141,
+                "end": 15.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "완성이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.446,
+                "end": 17.349
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최종본을 뽑아낼 수 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.359,
+                "end": 19.987
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 녀석이 우리의 새로운 스펙이 되어 줄 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.997,
+                "end": 23.310
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "얼른 틀어봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.320,
+                "end": 25.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 모습을 드러낸 우리의 첫 UCC는",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.027,
+                "end": 28.395
+            }
+        ]
+    },
+    "summary": "주인공과 친구들을 공모전 동영상을 열심히 촬영해서 그날 밤 최종본을 만들어 틀어보게 되는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03990_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 45,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

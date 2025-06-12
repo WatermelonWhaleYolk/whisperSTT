@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYP_03852",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.083,
+        "format": "MP4",
+        "date": "2021-03-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얼떨결에 지갑도 없이 맨발로 끌려 온 나는 분개했지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으아아아아악 일하는 사람을 일케 멀리 낚아채면 어떡해요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.535,
+                "end": 8.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 가스파드. 물론 일도 중요하지만 말이야 너 말이야 요즘 너무 일에 치여 살지 않냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.200,
+                "end": 16.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.454,
+                "end": 17.083
+            }
+        ]
+    },
+    "summary": "20대 유튜버와 일하고 있는 사람을 갑자기 강원도로 데리고 온 것에 화가 많이 났지만 형이 너가 일에 너무 치여서 살고 있는 것 같다고 이야기해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03852_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

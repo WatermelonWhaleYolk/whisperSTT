@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNI_00916",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 46.57,
+        "format": "MP4",
+        "date": "2022-07-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘할 수 있는 게 축구기 때문에 포기하지 않았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "졸업한 후에는 K4나 K3 이게 제 목표였거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.448,
+                "end": 12.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "테스트를 봤는데 잘 안됐어가지고 군대 갔다 오자 싶어서 네 군대를 갔었던 것 같아요 네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.133,
+                "end": 17.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막막했는데 축구만 그 생각하면서 군대에서도 개인 정비 시간이나 그 풋살장이 있거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.654,
+                "end": 26.166
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기서 그냥 계속 축구하고 개인 훈련하고 제가 뭘 할라면은 체력도 이제 돼야 되고 스피드도 빨라야 되고 하체 근력도 필요하다 보니까 생각나는 게 딱 한 가지가 오르막이더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.176,
+                "end": 40.396
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 팀에 안 들어가고 혼자서 이렇게 운동만 했을 때 오르막 하루에 진짜 한 뛰었던 것 같아요.[김범수/선수/FW 제주유나이티드FC : \"(제대 후) 조기축구에 나갔었는데 거기 K4 감독님이 있어서 같이 바로 중랑으로 넘어왔거든요. 한 1년 반 있었죠. K4 리그에...\"]",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.406,
+                "end": 46.566
+            }
+        ]
+    },
+    "summary": "졸업한 후에 테스트를 봤지만 잘 안돼서 군대를 갔고 군대에서도 계속 축구를 하고 오르막을 오르며 훈련을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00916_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

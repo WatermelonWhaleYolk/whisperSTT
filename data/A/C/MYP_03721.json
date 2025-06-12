@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_03721",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.086,
+        "format": "MP4",
+        "date": "2021-10-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘들아 브라덜 헤이 얘들아 얘들아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.292
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으아 깜빡 졸았어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.302,
+                "end": 5.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "깜빡",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.025,
+                "end": 6.000
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "도무지 할 게 없었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.010,
+                "end": 8.344
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그렇게 집안에 고립된 우리였지만 하지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.354,
+                "end": 11.061
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하지만 이젠 더 이상 놀데가 없다고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.071,
+                "end": 14.358
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "비가 저렇게나 오는데 밖에선 아무것도 할 수가 없어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.368,
+                "end": 19.085
+            }
+        ]
+    },
+    "summary": "형이 뭐라도 하자고 하지만 비가 와서 집안에 고립되어 아무것도 할 게 없었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03721_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": null,
+                    "act": 18
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYP_01839",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.766,
+        "format": "MP4",
+        "date": "2021-10-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 트로피란 트로피는 죄다 쓸어 담는다면 드록바와 램파드는 물론 마케렐레와 에시앙까지 뛰어넘은 선수로 기억될 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.139
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇다면 저 역시 체흐 선배 못지않은 선수로 기억되겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.149,
+                "end": 11.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘만하면 야신상은 돈나룸마가 아닌 제가 탈 수도 있겠는데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.890,
+                "end": 15.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야신상이 뭐야 올해의 선수상부터 발롱도르까지 모두 너희 차지가 될 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.876,
+                "end": 20.745
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이 뭐 올해의 벤치상 같은 건 없나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.755,
+                "end": 22.686
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "후보 골키퍼에게 주는 상 같은 건 왜 없냐고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.696,
+                "end": 24.871
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "혹시 모르지 멋지게 자살골 하나 넣고서 푸스카스 상이라도 탈지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.881,
+                "end": 29.309
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 이 새끼야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.319,
+                "end": 30.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 발롱도르를 비롯한 수많은 개인 수상 사이좋게 나눠 받도록 하고 나 역시 올해의 감독상을 거머쥐겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.193,
+                "end": 38.766
+            }
+        ]
+    },
+    "summary": "감독이 텀원들에게 드록바와 램파드는 물론 마케렐레와 에시앙까지 뛰어넘는 선수로 기억될 거라고 힘을 실어주고 야신상부터 발롱도르까지 너희가 차지하게 될 거고 나 역시 올해의 감독상을 거머쥐겠다고 다짐한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01839_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

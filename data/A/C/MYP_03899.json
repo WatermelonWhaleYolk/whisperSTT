@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYP_03899",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2021-01-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭘 이런 걸 다 그냥 놔 두고 오시지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.157
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오직 이 두 경우 뿐이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.167,
+                "end": 6.434
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘의 이야기는 잔반 금지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.444,
+                "end": 10.834
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이 먹을 게 있을 경우",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.844,
+                "end": 14.006
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그는 가끔 가게에서 판매하는 케이크를 사다 준다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.016,
+                "end": 17.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 웬 케이크야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.270,
+                "end": 19.257
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "후후 소중히 생각해라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.255,
+                "end": 21.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.922,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "20대 남성이 자기에게 찾아오는 남자에 대해 먹을 게 있는 경우에 어떤 일이 일어나는지 말해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03899_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

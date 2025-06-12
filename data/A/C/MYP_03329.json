@@ -1,0 +1,190 @@
+{
+    "metadata": {
+        "filename": "MYP_03329",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.205,
+        "format": "MP4",
+        "date": "2022-11-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "7",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "8",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "9",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 아리랑볼 같던데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "투수 제2구",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.003,
+                "end": 9.184
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와다우",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.194,
+                "end": 12.267
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어 회전이 없 아 몸쪽 에 어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.277,
+                "end": 19.850
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "심판님 이거 스트라이크 맞죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.860,
+                "end": 23.194
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "어 어어어어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.204,
+                "end": 26.588
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "스트라이크 투",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.598,
+                "end": 28.615
+            },
+            {
+                "speaker_id": "7",
+                "transcription": "어 재벽이 왜 저래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.625,
+                "end": 30.798
+            },
+            {
+                "speaker_id": "8",
+                "transcription": "어어어어 으 선생님 수호 저 새끼가 던지는 게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.808,
+                "end": 38.016
+            },
+            {
+                "speaker_id": "9",
+                "transcription": "그려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.026,
+                "end": 39.205
+            }
+        ]
+    },
+    "summary": "다시 던진 수호의 공에 사람들이 놀란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03329_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

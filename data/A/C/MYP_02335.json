@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYP_02335",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.033,
+        "format": "MP4",
+        "date": "2021-03-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 시청자 여러분 안녕하십니까 여기는 프랑스 파리 프랑스 풋볼이 주관하는 발롱도르 시상식이 펼쳐지고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 진행을 맡은 MC 해리 윙크스 함께 진행을 도와주실 보조아 씨도 나와 계십니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.260,
+                "end": 12.703
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반갑습니다 보조를 맡은 보조아입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.713,
+                "end": 14.849
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 아름다운 한국 여성분과 함께 시상식을 진행한지도 벌써 2년째네요 오늘도 여전히 아름다우십니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.859,
+                "end": 20.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하 감사합니다 그런데 윙크스 씨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.143,
+                "end": 22.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 보조아 씨.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.285,
+                "end": 23.208
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윙크스 씨도 아직 30살밖에 안 되신 현역이신데 수상이 아닌 진행을 하시는 게 아쉽지 않으신가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.218,
+                "end": 27.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 저 같은 미남이 진행을 해줘야 시청률도 팍팍 올라가죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.906,
+                "end": 30.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 아쉽다뇨 커리어 통산 트로피라곤 아우디컵 하나뿐인 저와는 달리 수많은 트로피를 쓸어 담은 세 분이죠 최종 3인의 후보 그 중 첫 번째 파리 생제르망에 첫 트레블을 선사한 남자 프랑스를 2회 연속 월드컵 우승으로 견인한 남자 작년 발롱도르 수상에 빛나는 킬리안 음바페 선수.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.958,
+                "end": 48.033
+            }
+        ]
+    },
+    "summary": "진행을 맡은 MC 해리 윙크스와 보조를 맡은 보조아가 나오며 수많은 트로피를 쓸어 담은 3인의 후보 중 첫 번째 발롱도르 수상에 빛나는 음바페 선수를 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02335_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

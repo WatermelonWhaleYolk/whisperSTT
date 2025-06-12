@@ -1,0 +1,219 @@
+{
+    "metadata": {
+        "filename": "MYP_03834",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.411,
+        "format": "MP4",
+        "date": "2021-03-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이것은 내가 중학생 때 일이다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 잠귀가 밝은 편이라",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.856,
+                "end": 4.440
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.450,
+                "end": 5.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밤늦게 누군가가 몰래 들어와도 금방 알아차릴 수 있었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.572,
+                "end": 11.360
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헉",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.370,
+                "end": 12.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.314,
+                "end": 14.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가 가 강도다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.330,
+                "end": 16.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.220,
+                "end": 17.591
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "헤헤",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.601,
+                "end": 18.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만취한 작은 형이었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.429,
+                "end": 19.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당시 대학생이었던 작은 형은 술자리가 잦았는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.845,
+                "end": 23.968
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강도 맞네. 강도. 칼만 안 들었지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.978,
+                "end": 27.725
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.735,
+                "end": 28.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동생한테 존댓말 하는 거 보니 강도 맞네. 강도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.842,
+                "end": 30.988
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어허허 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.998,
+                "end": 32.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭘 잘했다고 말을 놔.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.197,
+                "end": 34.401
+            }
+        ]
+    },
+    "summary": "20대 남성이 자기가 중학생 때 자기는 잠귀가 밝아서 밤 늦게 오는 만취한 작은 형을 강도로 오인한 적이 있었다고 일화를 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03834_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNI_01722",
+        "category": "스포츠뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.366,
+        "format": "MP4",
+        "date": "2018-03-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5엔드에서 캐나다에 2점을 내줘 4대 3 1점 차로 추격을 허용해 위기를 맞기도 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 6엔드에서 우리 대표팀은 기회를 잡았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.202,
+                "end": 9.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캐나다 선수의 스톤이 우리 대표팀의 스톤을 밀어내려다 자신의 스톤만 아웃됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.411,
+                "end": 14.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대의 실수로 대거 3득점을 올린 우리 대표팀은 승기를 잡았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.991,
+                "end": 20.391
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다시 캐나다가 2점차로 쫓아왔지만 우리 대표팀은 8엔드에서 서순석이 상대 스톤을 모두 밀어내는 정교한 샷을 선보여 사실상 경기를 마무리 지었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.401,
+                "end": 31.366
+            }
+        ]
+    },
+    "summary": "우리 컬링팀은 캐나다에 맞서 5엔드에서 위기를 맞기도 했으나 6엔드에서 승기를 잡고 8엔드에서 승리를 마무리 지었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01722_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

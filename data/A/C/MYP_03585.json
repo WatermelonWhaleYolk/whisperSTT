@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "MYP_03585",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.418,
+        "format": "MP4",
+        "date": "2022-04-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "괜 괜찮습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.401
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 미안하다라고 안 하는 거야 이 개싸가지 호로 잡놈의 새끼야.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.411,
+                "end": 6.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어 어",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.238,
+                "end": 6.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야구가 우습지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.965,
+                "end": 7.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아아악",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.923,
+                "end": 8.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 만만해 보이지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.654,
+                "end": 9.563
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 뭡니까 야 야 시발",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.573,
+                "end": 12.509
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 그때 왜 그랬을까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.519,
+                "end": 16.407
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "누가 봐도 쓰레기였다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.417,
+                "end": 18.418
+            }
+        ]
+    },
+    "summary": "과거의 나를 회상하며 잘못했다는 걸 알고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03585_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

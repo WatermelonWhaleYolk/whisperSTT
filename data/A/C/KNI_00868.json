@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_00868",
+        "category": "스포츠뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.763,
+        "format": "MP4",
+        "date": "2023-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리스 올림피아코스에서 뛰다가 K리그 FC서울에서 6월 말까지 단기 임대로 활약하게 된 황의조 개막을 앞둔 팀 미디어데이에서 몸 상태가 90퍼센트 정도 완성됐다며 시즌 득점 목표를 밝혔는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자신만만한 황의조의 출사표 들어보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.206,
+                "end": 18.263
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 새로운 팀을 갈 때 항상 목표를 두 자릿수 골로 잡고 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.273,
+                "end": 23.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 이번 FC서울 왔을 때도 두 자릿수라고 말하고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.410,
+                "end": 29.763
+            }
+        ]
+    },
+    "summary": "그리스 올림피아코스에서 뛰다가 K리그 FC서울에서 6월 말까지 단기 임대로 활약하게 된 황의조 개막을 앞둔 팀 미디어데이에서 몸 상태가 90퍼센트 정도 완성됐다며 시즌 득점 목표를 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00868_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_03496",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.418,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 미션 기간 동안 니 포수를 봐줄 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.570
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.580,
+                "end": 4.258
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "형님 최선을 다해 받아드리겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.268,
+                "end": 7.656
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "맡겨주십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.666,
+                "end": 9.065
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저도 고교 때까지는 선수 생활했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.075,
+                "end": 11.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참 그리고 @이름1 넌 이제 오후 타임만 일하고 아침저녁은 운동에 전념해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.726,
+                "end": 18.418
+            }
+        ]
+    },
+    "summary": "미션 기간 동안 @이름1의 포수를 봐줄 거고 @이름1은 앞으로 오후 타임만 일하고 아침저녁은 운동에 전념해라.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03496_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

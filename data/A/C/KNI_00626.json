@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNI_00626",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.133,
+        "format": "MP4",
+        "date": "2023-01-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1은 먼저 한 세트를 따냈지만 이번 시즌 단 1승에 그친 최하위 @소속2에 거센 반격에 두 번째 세트를 내줬습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3세트가 분수령이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.423,
+                "end": 11.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1이 21 대 18까지 뒤졌지만 김연경 등의 활약으로 듀스 접전 끝에 29 대 27로 이겼습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.733,
+                "end": 19.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4세트에도 @소속2에 저항이 만만치 않았는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.736,
+                "end": 23.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1은 고비를 잘 넘기며 3 대 1로 승리했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.767,
+                "end": 27.916
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김연경과 @이름1가 52득점을 합작하며 승리를 이끌었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.926,
+                "end": 33.133
+            }
+        ]
+    },
+    "summary": "@소속1은 @소속2과의 경기에서 고비를 잘 넘기며 3 대 1로 승리했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00626_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

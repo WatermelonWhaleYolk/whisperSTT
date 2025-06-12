@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYP_02465",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.366,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘기가 다른 곳으로 많이 샜네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 골키퍼 중에 유일하게 발롱도르를 수상했던 래프 야신 다들 알고 계시죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.510,
+                "end": 6.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한때 야신의 이름을 따서 월드컵 최우수 골키퍼에게 야신상을 수여했다가 2010년 골든 글러브라는 이름으로 명칭이 바뀌었죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.896,
+                "end": 15.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 프랑스 풋볼은 골키퍼들의 우수한 활약에도 불구하고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.294,
+                "end": 20.366
+            }
+        ]
+    },
+    "summary": "월드컵에서 최우수 골키퍼에서 주는 야신상은 2010년 골든 글러브라는 명칭으로 이름이 바뀌었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

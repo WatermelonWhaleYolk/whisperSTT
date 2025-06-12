@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYP_02796",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.9,
+        "format": "MP4",
+        "date": "2020-06-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 이름은 김챔스 인서타에서 알아주는 맛집 사냥꾼이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난 하루 세끼에 간식까지 총 4번의 식사를 아주 중요하게 생각한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.724,
+                "end": 7.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아침으로는 모하메드 살라드란 식당에서 콥샐러드를 먹었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.667,
+                "end": 11.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강가에서 자란 리버 풀로만 만든 샐러드라서 아주 건강해지는 맛이었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.215,
+                "end": 15.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 점심 전에 간식으로 가볍게 맨시 시본 스테이크와 레스터시 티본 스테이크 2개를 흡입해줬지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.302,
+                "end": 21.614
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "레스터시 티본 스테이크는 가볍고 깔끔했지만 뭔가 약간 저렴한 맛이었다면 맨시 티본 스테이크는 고급지고 묵직했지만 뭔가 내 몸에 잘못을 저지르고 있는 맛이었달까 아무튼 그러고 나서 낮잠 한 번 때린 뒤 늦은 점심으로 첼시 반점에서 아스필리쿠에 타장면을 먹었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.624,
+                "end": 36.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 저녁을 먹으러 가볼까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.973,
+                "end": 38.900
+            }
+        ]
+    },
+    "summary": "김채스가 아침, 점심에 먹은 메뉴를 말하고 저녁에 뭘 먹을까 고민한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02796_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

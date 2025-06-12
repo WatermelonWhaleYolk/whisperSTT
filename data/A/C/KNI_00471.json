@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNI_00471",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.024,
+        "format": "MP4",
+        "date": "2023-05-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "의료법 등에 명시돼 있는 간호사 업무만 하겠다는 준법 투쟁 사흘째.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부당한 업무 지시에 대한 불법 진료 신고 센터는 접속이 폭주했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.768,
+                "end": 9.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한때 서버가 마비되기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.894,
+                "end": 12.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 아직 현장에서 큰 혼란은 파악되지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.503,
+                "end": 15.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관건은 진료 보조 간호사들의 참여 여부.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.310,
+                "end": 19.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이른바 PA 간호사들이 적극 나설 경우 적잖은 혼란도 예상됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.393,
+                "end": 24.024
+            }
+        ]
+    },
+    "summary": "의료법 등에 명시돼 있는 간호사 업무만 하겠다는 준법 투쟁 사흘째 진행되는 가운데 아직 현장에 문제는 없지만 진료 보조 간호사들이 적극 나설 경우 혼란이 예상된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00471_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 7,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

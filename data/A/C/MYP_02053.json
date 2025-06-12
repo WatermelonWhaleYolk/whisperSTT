@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYP_02053",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.833,
+        "format": "MP4",
+        "date": "2021-07-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하긴 자네가 첼시에서 뛰었을 때만 해도 발롱도르의 유력한 후보일 만큼 대단했었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허나 레알로 이적한 뒤 완전 다른 사람이 되었잖나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.352,
+                "end": 8.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 왜 자네를 데려와야 하지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.750,
+                "end": 10.961
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지루는 밀란으로 떠났고 아브라함도 판매 리스트에 올려놓으셨다 들었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.971,
+                "end": 15.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혹시라도 이번 여름 홀란드를 영입하지 못하신다면 어쩌실 생각입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.785,
+                "end": 19.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 2미터의 장신 공격수 칼라이지치를 비롯한 차선책은 충분히 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.959,
+                "end": 24.833
+            }
+        ]
+    },
+    "summary": "첼시에서 뛰었을 때는 발롱도르의 유력한 후보일 만큼 대단했으나 레알로 이적한 뒤에는 그만큼 못하니 홀란드를 영입하지 못한다 해도 첼시로 데려올 수 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02053_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

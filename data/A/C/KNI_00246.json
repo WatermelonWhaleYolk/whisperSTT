@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "KNI_00246",
+        "category": "스포츠뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2023-04-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어제 1500미터 1위를 차지한 황대헌은 1000미터에서도 선두권을 놓치지 않고 역주했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김태성에 이어 2위로 골인한 황대헌은 500미터와 1000미터 1500미터 합산 종합 점수 1위로 국가대표에 뽑혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.386,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "황대헌은 500미터와 1000미터 1500미터 합산 종합 점수 1위로 국가대표에 뽑혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00246_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

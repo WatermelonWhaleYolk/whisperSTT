@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYP_03577",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.961,
+        "format": "MP4",
+        "date": "2022-05-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "때는 4월 31일에서 5월 1일로 넘어가는 새벽이었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이제 지인과 통화를 끝내고 누워 있었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.830,
+                "end": 7.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누워 있다가 아 내가 이제 5월 1일날에 생일이라 가지고 가족들이랑 시간도 좀 보내고 그래야 되는데 편집 시간이 없을 것 같으니까 새벽에 좀 편집을 해 놓자 싶어 가지고 일어나서 2시 반에서 어 5시 반까지 한 2분에서 3분 사이로 편집을 해 놔요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.015,
+                "end": 23.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 이제 저장을 누르고 그다음에 자러 갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.730,
+                "end": 27.961
+            }
+        ]
+    },
+    "summary": "5월 1일 새벽 2시 반에서 5시 사이에 2분에서 3분 사이로 편집을 하고 저장을 누르고 자러 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03577_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

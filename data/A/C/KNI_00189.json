@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "filename": "KNI_00189",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.817,
+        "format": "MP4",
+        "date": "2023-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단 6명의 선수와 횡한 벤치를 지키는 코치 모두가 불가능이라 말했던 부산 중앙고의 2012년 준우승 실화는 최근 영화 리바운드로 되살아났습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.817
+            }
+        ]
+    },
+    "summary": "단 6명의 선수와 횡한 벤치를 지키는 코치 모두가 불가능이라 말했던 부산 중앙고의 2012년 준우승 실화는 최근 영화 리바운드로 되살아났습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00189_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

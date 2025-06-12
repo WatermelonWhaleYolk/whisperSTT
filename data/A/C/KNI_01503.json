@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNI_01503",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.491,
+        "format": "MP4",
+        "date": "2023-05-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 18득점 @이름2이 15득점을 올린 인삼 공사는 SK에 역전승을 거두며 3승 3패로 다시 균형을 맞췄습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.021
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인삼 공사 선수들은 @이름3에게 마지막 우승 트로피를 선물하겠다며 각오를 다졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.031,
+                "end": 13.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름3 형 지금 팔이 다쳐서 어깨가 다쳐서 지금 뛸 수 있을지 없을지 모르겠지만 저희 후배 선수들이 끝까지 열심히 해서 꼭 우승으로 선물을 드리고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.912,
+                "end": 24.491
+            }
+        ]
+    },
+    "summary": "@이름1이 18득점 @이름2이 15득점을 올린 인삼 공사는 SK에 역전승을 거두며 3승 3패로 다시 균형을 맞췄고 @이름3에게 마지막 우승 트로피를 선물하겠다며 각오를 다졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

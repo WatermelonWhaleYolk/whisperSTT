@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNI_00160",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.594,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관둥 시내에서 압록강 상류로 12킬로미터 떨어진 후산창청 고구려 산성인 박작성입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고구려 시대 우물과 쐐기형 돌로 쌓은 성벽이 다수 발견되면서 우리 학계는 고구려 박작성으로 보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.848,
+                "end": 16.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 입구에 들어서면 만리장성의 동쪽 기점이라고 쓰인 대형 표지석이 세워져 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.820,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "관둥 시내에서 12킬로미터 떨어진 후산창청에 위치한 박작성에서는 고구려 시대의 우물과 쐐기형 돌로 쌓은 성벽이 다수 발견되어 현재의 학계에서는 이를 고구려 박작성으로 판단하고 있다. 그러나 입구에는 만리장성의 동쪽 기점이라는 내용의 대형 표지석이 세워져 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00160_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 11,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

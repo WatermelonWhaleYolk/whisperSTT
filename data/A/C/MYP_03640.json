@@ -1,0 +1,217 @@
+{
+    "metadata": {
+        "filename": "MYP_03640",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.574,
+        "format": "MP4",
+        "date": "2021-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무시?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "교칙을 지켜라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.716,
+                "end": 2.509
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.519,
+                "end": 7.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.910,
+                "end": 8.890
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대답 정돈 해라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.900,
+                "end": 11.909
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "할 수 밖에 없어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.919,
+                "end": 16.723
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "좋다 확실하게 지도해 주지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.733,
+                "end": 21.474
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "거기 너",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.484,
+                "end": 24.586
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "으악",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.596,
+                "end": 25.384
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나중에 학생지도실로 와라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.394,
+                "end": 28.451
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐라고 변명이라도 해라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.461,
+                "end": 32.558
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "교칙을 지켜라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.568,
+                "end": 33.875
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "승부 결정",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 33.885,
+                "end": 38.675
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기까지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.685,
+                "end": 41.574
+            }
+        ]
+    },
+    "summary": "무시하자 교칙을 지켜라며 대답정도는 하라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03640_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "KNI_01638",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.333,
+        "format": "MP4",
+        "date": "2019-03-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "피해 선수는 당시 갈비뼈에 금이 갔다고 주장하며 선수 생활까지 접었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.361
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주먹과 발로 폭행을 당했었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.371,
+                "end": 8.501
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갈비뼈 금 가고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.511,
+                "end": 10.317
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "온 몸이 다 멍이 들 정도로",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.327,
+                "end": 12.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 다른 선수들은 사생활 침해와 가혹 행위가 반복됐다고 주장합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.644,
+                "end": 17.764
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우편물을 자기가 먼저 뜯어보거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.774,
+                "end": 19.916
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "회식 자리 그 식당에서 대가리를 박으라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.926,
+                "end": 22.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 김해시가 지난 1월 1년 만에 A씨를 코치로 다시 임용하면서 갈등이 불거지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.241,
+                "end": 29.333
+            }
+        ]
+    },
+    "summary": "김해시가 지난 1월 선수들에게 폭행과 가혹행위 등을 일삼았던 A씨를 코치로 다시 임용하면서 갈등이 불거지고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01638_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

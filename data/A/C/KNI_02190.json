@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNI_02190",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 45.133,
+        "format": "MP4",
+        "date": "2017-11-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "외국인들이 평창 지역 주민들 앞에서 한국의 친절을 주제로 경험담을 얘기합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국관광공사가 평창 올림픽을 앞두고 친절한 외국인 손님 맞이 문화를 확산하기 위해 마련한 토크콘서트입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.606,
+                "end": 14.594
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평창 동계올림픽을 성공적으로 개최함과 동시에 한국을 아시아의 관광 대국으로 발전시키는 데 그 목적이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.604,
+                "end": 24.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올림픽 주 개최 도시인 평창에서는 청소년의 언어 문화 개선을 위한 굿 매너 학교 만들기 운동도 활발합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.381,
+                "end": 32.400
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "금년도는 실천하는 굿 매너 시민의 해로 정하고 친절, 질서, 청결, 봉사 운동을 본격적으로 추진하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.410,
+                "end": 45.133
+            }
+        ]
+    },
+    "summary": "평창 동계올림픽의 성공적 개최를 위해 친절한 외국인 손님 맞이 문화 확산을 위한 토크콘서트, 굿 매너 학교 만들기 운동, 친절, 질서, 청결, 봉사 운동 등을 추진하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02190_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

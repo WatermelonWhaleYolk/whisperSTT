@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNI_00962",
+        "category": "스포츠뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.896,
+        "format": "MP4",
+        "date": "2022-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕 종훈아 나 장종훈이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연습생 출신으로 홈런왕 오른 소감 어떠니?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.105,
+                "end": 5.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "목표가 1년이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.109,
+                "end": 7.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 또 못 가 가지고 어렵게 이제 프로에 들어와 봤는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.119,
+                "end": 11.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "체계적인 훈련도 없었을 텐데 언제가 어려웠어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.825,
+                "end": 15.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정신적으로나 육체적으로 가장 힘들었지 않나 지금 돌이켜보면 그때가 아마 제일 힘들었던 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.865,
+                "end": 22.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종훈아 몇 살까지 뛰고 싶니?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.564,
+                "end": 24.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마흔까지도 충분히 할 수 있다고 생각하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.635,
+                "end": 27.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 그 이상도 제가 하기 나름이니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.736,
+                "end": 29.896
+            }
+        ]
+    },
+    "summary": "장종훈이 과거의 장종훈에게 묻는 질문입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00962_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

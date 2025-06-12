@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYP_03105",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.451,
+        "format": "MP4",
+        "date": "2023-08-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 나 용사의 몸이잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신성력에 타 죽었던 원래 몸뚱이와는 명백히 다르다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.838,
+                "end": 6.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이 신성 친화적인 육체라면 신성력을 통한 강화도 무리는 아닐 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.470,
+                "end": 11.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쩌면 이거 해 볼만하겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.370,
+                "end": 15.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헉 헉 헉",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.396,
+                "end": 18.451
+            }
+        ]
+    },
+    "summary": "용사는 지금의 신성 친화적인 육체라면 신성력을 통한 강화를 할 수 있겠다는 생각이 들면서 싸워 볼 수도 있겠다는 생각이 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03105_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

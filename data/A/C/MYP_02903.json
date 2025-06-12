@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYP_02903",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.533,
+        "format": "MP4",
+        "date": "2020-04-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "못 할 사정이 있나 보지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 이만 하자고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.627,
+                "end": 3.172
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋다. @이름1 어찌됐든 우리 김치 유나이티드의 입단을 환영하네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.182,
+                "end": 7.137
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 자세한 일정은 @이름2에게 전해 듣고 보너스는 내 바로 입금 시켜주겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.147,
+                "end": 11.303
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.313,
+                "end": 12.522
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 얼굴 많이 상했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.532,
+                "end": 14.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 오늘 맥주 쏠 테니 나랑 같이 한 잔 하자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.965,
+                "end": 18.287
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름2 대리님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.297,
+                "end": 19.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 자네가 잘 달래주고 그럼 내일 봅세.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.414,
+                "end": 24.533
+            }
+        ]
+    },
+    "summary": "감독은 @이름1의 김치 유나이티드 입단을 허락하고 @이름2는 @이름1과 약속을 잡는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02903_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

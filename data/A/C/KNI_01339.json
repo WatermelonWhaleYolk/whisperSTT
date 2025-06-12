@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNI_01339",
+        "category": "스포츠뉴스",
+        "sub_category": 43,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.202,
+        "format": "MP4",
+        "date": "2023-01-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하체 보고 상체 보고 하시는 말이 사이즈가 여기 있을 사이즈가 아니라고 빨리 가라고 하셔가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.234
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피츠버그 출신의 강속구 투수 게릿콜이 롤 모델이라고 말하는 @이름1의 목표는 3년 이내 메이저리그 데뷔 조급함보단 한 걸음씩 꾸준하게 꿈을 향해 전진할 계획입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.244,
+                "end": 19.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "천천히 하나부터 너무 한꺼번에 이렇게 다할려고 하지 않고 계단 하나씩 이렇게 올라가다 보면은 성장해있지 않을까 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.441,
+                "end": 28.194
+            }
+        ]
+    },
+    "summary": "피츠버그 출신의 강속구 투수 게릿콜이 롤 모델이라고 말하는 심 씨의 목표는 3년 이내 메이저리그 데뷔이고 한 걸음씩 꾸준하게 꿈을 향해 전진할 계획이라고 헀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01339_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 13
+                }
+            ]
+        }
+    ]
+}

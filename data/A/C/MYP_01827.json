@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYP_01827",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.8,
+        "format": "MP4",
+        "date": "2021-10-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너희 둘만 해도 3000억 도르가 넘지 않냐도르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.403
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거 조금 어긴다고 해서 무슨 일 나는 것도 아닐 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.413,
+                "end": 5.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흐음 그래도 너무 초과돼서는 안 될 텐데 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.523,
+                "end": 8.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공격수 둘을 사느라 전부 써버리면 중원부터 수비까지 나머지 보장은 언제 하냔 말라이쿰.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.629,
+                "end": 14.238
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 수비가 개판이어도 공격 라인이 손케 듀오 박아놓으면 최소 10위는 할 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.248,
+                "end": 19.360
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지 흥민아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.370,
+                "end": 20.248
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐 우리 둘만으로도 10등 정도는 하겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.258,
+                "end": 22.154
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그리고 FA 선수 중에도 괜찮은 녀석이 많지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.164,
+                "end": 24.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "듣고 보니 그렇군도르.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.919,
+                "end": 26.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 나한테 어울리는 선택은 아니지만 할부도 가능하냐도르?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.233,
+                "end": 29.800
+            }
+        ]
+    },
+    "summary": "남성 화자가 자신과 흥민이 둘만으로도 10등 정도는 할 수 있다고 말하며 상대를 설득하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01827_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

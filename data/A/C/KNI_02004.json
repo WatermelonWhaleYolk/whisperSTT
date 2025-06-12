@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNI_02004",
+        "category": "스포츠뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.872,
+        "format": "MP4",
+        "date": "2019-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 전 컬링연맹 부회장과",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그의 딸인 @이름2 감독 등 지도자 가족은",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.112,
+                "end": 5.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해외 전지 훈련비와 국내 숙박비를 이중 지급 받는 등",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.193,
+                "end": 9.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약 1900만 원의 보조금을 부적절하게 집행하고 정산한 것으로 드러났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.739,
+                "end": 15.866
+            }
+        ]
+    },
+    "summary": "@이름1 전 컬링연맹 부회장과 그의 딸 @이름2 감독 등의 지도자 가족은 약 1900만 원의 보조금을 부적절하게 집행하고 정산한 것으로 드러났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02004_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

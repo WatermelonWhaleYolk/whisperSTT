@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYP_03214",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.55,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고향에서 오셨다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 후레자슥이 쎄빠지게 옥체 물려줬더니 막 굴려먹어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.962,
+                "end": 5.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄마는 당현히 형의 열정를 반대했지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.701,
+                "end": 10.117
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 몸으로 뭔 활을 쏴 얌전히 못 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.127,
+                "end": 12.866
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하 하지만 그치만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.876,
+                "end": 17.550
+            }
+        ]
+    },
+    "summary": "한 남성이 만화를 보며 주면서 상황극을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03214_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

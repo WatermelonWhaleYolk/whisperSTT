@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYP_00624",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.8,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꽃이 지고 나서야 봄인줄 알았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4등 하던 시절이 너무 그립다. 그리워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.638,
+                "end": 5.127
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이고 행님덜 걱정하지 마세요. 여기는 승점을 마구마구 퍼주는 맹륜진사갈비잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.137,
+                "end": 11.800
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "승점 모자랄 때는 맹륜진사갈비 무한으로 먹혀요 맹륜진사갈비. 아스날도 브라이튼도 맹륜진사갈. 우리 구단 회식은 맹륜진사갈비",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.810,
+                "end": 25.800
+            }
+        ]
+    },
+    "summary": "남성들이 축구 성적에 대해서 이야기를 나누고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_00624_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

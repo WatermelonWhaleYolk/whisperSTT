@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYP_02961",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.068,
+        "format": "MP4",
+        "date": "2020-02-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 출정에는 단 세 명의 요괴만 동반할 생각이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실상 실제 레알 마드리드에서는 부상이니 퇴물이니 해서 벤치에 있는 게 더 많은 애들이지만 여기는 칭찬인지 욕인지 마저 헷갈리는 빤스 유튜브",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.571,
+                "end": 16.066
+            }
+        ]
+    },
+    "summary": "나는 이번 출정에는 단 세 명의 요괴만 동반할 생각이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02961_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 7,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

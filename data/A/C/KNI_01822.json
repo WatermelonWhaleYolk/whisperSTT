@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNI_01822",
+        "category": "스포츠뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2021-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 가해 선수도 팀 에이스 위치인 상황이었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 지도자 입장에서는 이 가해 선수들이 활약을 해서 어쨌든 지난 실적을 올리는 것도 무시할 수 없는 상황이었기 때문에 그 사건이 퍼져 나가는 것을 원치 않는 상황이었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.298,
+                "end": 15.284
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.294,
+                "end": 15.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 단순 운동부 내 위계 질서 속에 나온 폭행으로만 바라볼 것이 아니라",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.729,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "가해 선수들은 팀 내 에이스였고 실적을 냈었기 때문에 지도자 입장에서는 과거의 폭행 사건이 퍼져 나가는 것을 원치 않는 상황이었다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01822_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

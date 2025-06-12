@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "filename": "KNI_01771",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 60.7,
+        "format": "MP4",
+        "date": "2017-05-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강 씨가 군대에 다녀오지 않은 다른 선수들에게 선발권을 양보하라며 압력을 가한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 강 씨의 횡포는 여기서 끝나지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.209,
+                "end": 9.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대학 입학을 꿈꾸거나 유력팀에 소속된 선수를 자신이 지정한 실업팀에 강제로 이적시킨 것도 모자라 이들에게 지급된 스카우트비 3000여만 원을 가로챘습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.729,
+                "end": 20.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "태릉에서 운동할 거 같으면 드리는 것도 나쁘진 않을 거 같은데 결정은 부모님이 하세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.483,
+                "end": 26.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 얘기하시더라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.606,
+                "end": 27.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 강 씨는 국가대표팀 감독 자리에서 물러난 뒤에도 선수와 선수 부모 등에게서 8200여만 원을 받아 도박 자금으로 쓴 것으로 조사됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.766,
+                "end": 37.494
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "피의자가 국가대표 감독을 한 9년간 했고 그 협회에서 관련 일을 한 7년간 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 37.504,
+                "end": 43.721
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "계속적으로 활동을 해야 되기 때문에 에 그거에 대한 그 요구를 거절할 수가 없었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 43.731,
+                "end": 50.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 공갈과 사기 등의 혐의로 강 씨를 구속하는 한편 볼링계의 비리를 추가로 잡고 수사를 확대해 나갈 예정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 50.967,
+                "end": 58.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 58.251,
+                "end": 60.700
+            }
+        ]
+    },
+    "summary": "강 씨는 선수에게 군대에 다녀오지 않은 다른 선수들에게 선발권을 양보하라며 압력을 가하거나 선수를 자신이 지정한 실업팀에 강제로 이적시키고 선수들에게 지급된 스카우트비를 가로채고 선수와 선수 부모 등에게서 8200여만 원을 받아 도박 자금으로 쓴 것으로 조사돼 경찰이 공갈과 사기 등의 혐의로 강 씨를 구속하고 볼링계의 비리를 추가로 잡고 수사를 확대해 나갈 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01771_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNI_01771_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

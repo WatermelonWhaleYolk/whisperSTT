@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_00144",
+        "category": "스포츠뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.561,
+        "format": "MP4",
+        "date": "2023-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "학원가의 약국에서도 건강 기능 식품 판촉은 일상입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집중력 개선을 내세운 각종 광고 문구들이 즐비합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.284,
+                "end": 8.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공부를 열심히 하고자 하는 학생들이 모이는 곳이고 부모님들도 기대가 많고 하기 때문에 영양제에도 관심이 많으시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.711,
+                "end": 17.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 모습이 익숙한 학생들이 비슷한 식품에 경계심을 푸는 건 어렵지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.956,
+                "end": 24.138
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하굣길에 가다가 이제 어떤 남성 분이 그걸 주셔서 그 당연히 약간",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.148,
+                "end": 28.561
+            }
+        ]
+    },
+    "summary": "학원가의 약국에서도 건강 기능 식품 판촉은 일상이며 이런 모습이 익숙한 학생들이 비슷한 식품에 경계심을 푸는 건 어렵지 않습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00144_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

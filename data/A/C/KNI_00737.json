@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNI_00737",
+        "category": "스포츠뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.654,
+        "format": "MP4",
+        "date": "2023-02-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "KB 손해 보험의 고비마다 한성정의 번뜩이는 강타가 터집니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2세트 22대 21 살얼음판 승부에서 한성정의 알토란 같은 득점이 결정적이었는데요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.944,
+                "end": 13.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공격 성공률 80퍼센트 13득점을 기록한 한성정의 활약으로 KB 손해 보험은 OK 금융 그룹을 꺾고 2연승했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.400,
+                "end": 21.654
+            }
+        ]
+    },
+    "summary": "KB 손해 보험의 고비마다 한성정의 번뜩이는 강타가 터지며 공격 성공률 80퍼센트 13득점을 기록한 한성정의 활약으로 KB 손해 보험은 2연승했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00737_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

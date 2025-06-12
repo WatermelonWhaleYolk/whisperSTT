@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYP_01603",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.17,
+        "format": "MP4",
+        "date": "2022-01-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어느새",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.695
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야신",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.705,
+                "end": 1.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부터 선발은 안 멋져 이건 벤치에서 얻은 발랑도르 기다려라 카타르 월드컵 엠브이피는 물론 발롱도르까지 얻어낸다면 세계 최고의 골키퍼는 바로 나 케파 아리사발라가다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.434,
+                "end": 25.166
+            }
+        ]
+    },
+    "summary": "카타르 월드컵 엠브이피는 물론 발롱도르까지 얻어낸다면 세계 최고의 골키퍼는 바로 케파 아리사발라가다가 될 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_01603_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

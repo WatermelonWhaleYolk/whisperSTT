@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNI_00949",
+        "category": "스포츠뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.925,
+        "format": "MP4",
+        "date": "2122-12-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 시간 이용하실 수 있을 때 700명 이용하실 수 있고요 안전 요원을 기존에 열 명에서 스무 명으로 두 배 더 증원을 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미세 먼지 비상 저감 조치가 발령되면 스케이트장 운영이 중단됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.486,
+                "end": 14.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오는 23일부터는 한강을 바라보면서 썰매를 탈 수 있는 뚝섬과 잠원 한강 공원 눈썰매장 등도 잇따라 개장할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.760,
+                "end": 23.769
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.779,
+                "end": 25.925
+            }
+        ]
+    },
+    "summary": "오는 23일부터는 한강을 바라보면서 썰매를 탈 수 있는 뚝섬과 잠원 한강 공원 눈썰매장 등도 잇따라 개장할 예정입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00949_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

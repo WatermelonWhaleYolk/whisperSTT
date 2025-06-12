@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNI_02142",
+        "category": "스포츠뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.466,
+        "format": "MP4",
+        "date": "2019-10-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여자 선수들은 매화 뭐 국화 뭐 뭐 이렇게 이렇게 꽃에 비유해서 남자 체급은 이렇게 산을 산을 비유했더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여자는 뭔가 남자 엘리트 전문 체육 선수들만큼 체계적으로 잡혀있는 게 없어서 또래 선수들은 조금씩 하다가는 말고 그러는 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.796,
+                "end": 22.466
+            }
+        ]
+    },
+    "summary": "여자 씨름 선수들의 체급은 꽃에 비유했고 남자 선수 체급은 산에 비유했다고 했고 여자 씨름은 남자 씨름에 비해 체계적으로 잡혀있는 게 없어 또래 선수들이 금방 그만둔다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02142_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

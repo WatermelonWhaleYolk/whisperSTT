@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "KNI_02444",
+        "category": "스포츠뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 73.84,
+        "format": "MP4",
+        "date": "2023-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이어서 서귀포 시청 @이름1 선수가 4차시기 준비하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1위를 하려면 @이름2 선수의 16.85미터 기록을 넘어야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.439,
+                "end": 10.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실상 저렇게 부상이 있으면 그 어떤 게임을 집중을 하기가 상당히 어려운데 최대한 선수가 집중을 하는 모습들을 계속적으로 보여주고 자신이 최대한 할 수 있는 것들을 찾는 모습을 보여주고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.688,
+                "end": 26.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 선수가 지난 해 4관왕이었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.493,
+                "end": 29.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4번의 대회 우승을 차지했던 @이름1 선수인데 지금 부상 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.137,
+                "end": 33.909
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 확실히 왼쪽 발을 디디질 못해 못하고 있어요 저렇게 왼발을 디디질 못하면 힘을 마지막까지 전달을 시키 시킬 수가 없기 때문에 계속 자신의 기록보다 훨씬 못 미치는 기록들을 보여주고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.919,
+                "end": 46.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 @이름3 해설위원이 아까 몸의 꼬임으로 던져야 한다고 했는데 지금 왼발이 저렇게 빠지면 마지막에 버텨주면서 일종의 브레이크를 걸어줘야 더 꼬일 수 있을 텐데",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.580,
+                "end": 57.311
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 지금 딛질 못하고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.321,
+                "end": 59.641
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거의 뭐 오른발 한발로 던진다고 봐도 될 정도로 지금 포환에 힘을 전달을 못시키고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.651,
+                "end": 67.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 67.062,
+                "end": 67.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 안산시청에 @이름2 선수의 던지는 모습을 보죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 67.890,
+                "end": 73.840
+            }
+        ]
+    },
+    "summary": "포환 종목의 @이름1 선수가 부상으로 인해 왼발을 잘 디디지 못하면서 자신의 기록보다 못 미치는 기록을 내고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_02444_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

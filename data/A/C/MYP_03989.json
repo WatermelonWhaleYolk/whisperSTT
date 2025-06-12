@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "filename": "MYP_03989",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.004,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 중요한 건 완전 백수같이 먹어야 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "버러지같이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.025,
+                "end": 4.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.076,
+                "end": 4.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쓰레기같이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.610,
+                "end": 5.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "작품 세계 난해 하군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.141,
+                "end": 7.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 너는 음.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.918,
+                "end": 13.063
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "똥 누러 가는 아빠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.073,
+                "end": 14.591
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.601,
+                "end": 15.402
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "감정을 가득 실었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.412,
+                "end": 17.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화장실 가다가 과자에 밥 비벼 먹는 아들놈을 냅다 후려치는 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.790,
+                "end": 21.666
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "순식간에 우릴 버러지와 똥쟁이 부자로 만들다니.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.676,
+                "end": 26.993
+            }
+        ]
+    },
+    "summary": "주인공이 친구들에게 감자칩을 먹는 아들역할과 화장실 가는 아버지역할에 대해 자세히 설명해 주고 있는 장면입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03989_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

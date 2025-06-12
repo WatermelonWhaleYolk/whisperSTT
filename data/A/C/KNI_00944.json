@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNI_00944",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.333,
+        "format": "MP4",
+        "date": "2122-12-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀 유니폼을 입고 태극기에 응원용 봉까지 들고 함께 뛴 해외 태극전사들입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대가 세계 최강의 브라질인만큼 초반부터 밀리자 아쉬움이 묻어나고 탄식이 쏟아졌지만 마침내 만회 골을 넣자 모두가 일어나 얼싸안고 기뻐합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.125,
+                "end": 22.930
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 너무너무 열심히 했고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.935,
+                "end": 25.810
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 너무 잘생겼고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.820,
+                "end": 27.794
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 그냥 어 너무 &외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.804,
+                "end": 33.333
+            }
+        ]
+    },
+    "summary": "해외 태극전사들이 대표팀을 응원하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00944_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

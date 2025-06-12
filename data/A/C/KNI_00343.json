@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNI_00343",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.586,
+        "format": "MP4",
+        "date": "2022-11-26",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대표팀은 빠르고 정확한 패스를 주고받는 훈련을 되풀이하며 수비 조직력이 약점인 가나 공략법을 가다듬었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공을 빼앗을 때 저희가 그 옆방향으로 저희가 뒷공간을 이용했을 하는 게 찬스를 많이 만들지 않을까라는 생각이 인 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.080,
+                "end": 19.586
+            }
+        ]
+    },
+    "summary": "대표팀은 빠르고 정확한 패스를 주고받는 훈련을 되풀이하며 수비 조직력이 약점인 가나 공략법을 가다듬었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00343_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 9
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNI_00764",
+        "category": "스포츠뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.029,
+        "format": "MP4",
+        "date": "2023-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안 후보 측은 지금 때가 어느 때인데 당을 색깔 구렁텅이로 끌고 가냐고 맞받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.739
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 윤석열 대통령님과 함께 서로 후보 단일화를 통해 가지고 어 이 정권 교체에 일조 했지 않습니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.749,
+                "end": 15.059
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 그걸로 해서 어 제 생각을 증명했다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.069,
+                "end": 18.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오후엔 SNS에 글을 올려 대한민국이 다 아는 공동 야당 대표 시절 행보로 공격하는 건 옳지 않다며 공정한 경선을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.357,
+                "end": 29.029
+            }
+        ]
+    },
+    "summary": "안 후보 측은 지금 때가 어느 때인데 당을 색깔 구렁텅이로 끌고 가냐고 맞받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00764_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

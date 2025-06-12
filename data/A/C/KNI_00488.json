@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNI_00488",
+        "category": "스포츠뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.101,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모두 중국 업체들이 모방한 짝퉁 제품들입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 피해가 잇따르자 삼양 식품과 CJ 제일제당 오뚜기 대상 등 한국 업체 4곳이 중국 업체 2곳을 상대로 7건의 소송을 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.109,
+                "end": 13.748
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 상표와 디자인을 베꼈다며 상표권 침해 소송을 한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.758,
+                "end": 18.337
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 중국 1심 법원은 이례적으로 중국 업체가 상표권과 저작권을 침해했다고 판결했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.347,
+                "end": 24.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 소금과 설탕 다시마를 생산하는 CJ 제일제당 측에 우리 돈 약 4600만 원을 삼양 식품에는 2800여만 원을 배상하라고 결정했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.746,
+                "end": 35.101
+            }
+        ]
+    },
+    "summary": "중국 업체들이 한국 제품을 모방한 짝퉁 제품들로 한국 업체 4곳이 중국 업체들을 상대로 상표권 침해 소송을 냈는데 최근 중국 법원이 이례적으로 중국 업체의 저작권 침해 사실을 인정했다는 소식이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_00488_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

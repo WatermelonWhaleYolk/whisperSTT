@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "filename": "MYP_03726",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.67,
+        "format": "MP4",
+        "date": "2021-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "입대 전 마지막 여행이다 보니 이래저래 판이 커지며 다른 동기들도 적극적으로 동참해 주었고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.661
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 토요일 아침에 모이는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.671,
+                "end": 9.076
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 그거 완전 콜이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.086,
+                "end": 12.811
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "하하하하",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.821,
+                "end": 13.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "출발 전날까지 모든 게 순조로웠지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.870,
+                "end": 17.526
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "므에와이쏘리가 들려오는 계곡 속에 흐르는 물 찾아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.536,
+                "end": 24.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딱 하나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.108,
+                "end": 24.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 이제 내일이면 출발",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 24.665,
+                "end": 28.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그땐 아직 장마가 끝나지 않았었다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 28.209,
+                "end": 31.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하하",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 31.455,
+                "end": 32.665
+            }
+        ]
+    },
+    "summary": "판이 커지며 다른 동기들도 적극적으로 동참했으며 토요일 아침에 모이기로 하고 출발 전날까지 모든 게 순조로웠지만 그땐 아직 장마가 끝나지 않았었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_03726_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 18
+                }
+            ]
+        }
+    ]
+}

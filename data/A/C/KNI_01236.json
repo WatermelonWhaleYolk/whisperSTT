@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "KNI_01236",
+        "category": "스포츠뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.314,
+        "format": "MP4",
+        "date": "2022-11-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "골키퍼 조현우는 다 막겠다는 듯 펀칭 포즈로 각오를 밝혔고 매서운 눈빛으로 카메라를 노려본 황희찬 그리고 두 주먹을 내보인 뒤 승리의 함성을 유도한 송민규까지 프로필 촬영장부터 월드컵 필승 의지가 물씬 풍겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 17.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 최악인데.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.570,
+                "end": 20.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 단체 기념 촬영장부터 유일하게 등번호가 없던 오현규까지 감싸줬던 대표팀.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.170,
+                "end": 26.574
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "현규 현규 같이 찍자 같이 찍자.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 26.584,
+                "end": 30.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주장 손흥민을 중심으로 점점 하나가 돼 팀 코리아가 되어가고 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 30.417,
+                "end": 35.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도하에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 35.722,
+                "end": 38.304
+            }
+        ]
+    },
+    "summary": "축구 국가대표 선수들이 월드컵 프로필 사진을 찍고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNI_01236_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

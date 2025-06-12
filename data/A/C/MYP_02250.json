@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYP_02250",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.1,
+        "format": "MP4",
+        "date": "2021-04-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무도 날 막을 순 없다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홍익인간 @이름1",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.190,
+                "end": 2.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 월드팀의 데브라이너 선수 오늘 완전히 제대로 폭발합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.456,
+                "end": 5.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "상대 수비수는 물론 같은 팀의 호날두까지 제쳐 버리고 그대로 슛 들어갔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.460,
+                "end": 9.501
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이거 이거 아무래도 축구의 신 타이틀에 욕심이 있어 보이는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.511,
+                "end": 13.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "킥오프 하기가 무섭게 공을 빼앗아 버리는 데브라이너 놀라운 속도로 공격을 전개합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.474,
+                "end": 17.299
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좌측에 손흥민에게 크로스",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.309,
+                "end": 18.735
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "깔끔하게 마무리하는 손흥민 4 대 2로 월드팀이 앞서 갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.745,
+                "end": 24.100
+            }
+        ]
+    },
+    "summary": "해설자는 데브라이너의 플레이를 보고 축구의 신 타이틀에 욕심이 있어 보인다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_02250_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

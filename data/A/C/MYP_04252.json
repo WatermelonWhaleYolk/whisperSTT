@@ -1,0 +1,193 @@
+{
+    "metadata": {
+        "filename": "MYP_04252",
+        "category": "애니메이션",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.462,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "7",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "8",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "9",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "10",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희 이 일 아니면 이제 갈 데가 없어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.841
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로는 절대로 대타요청 안 할게요 네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.851,
+                "end": 5.491
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 지경이 될 때까지 뭘했나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.501,
+                "end": 11.654
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아이 뭐라는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.664,
+                "end": 14.420
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "통신기가 떨어져서 안 들려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.420,
+                "end": 16.163
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "뭐 또 열라 갈구고 있겠지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.173,
+                "end": 18.293
+            },
+            {
+                "speaker_id": "7",
+                "transcription": "몸 관리를 못 했니 프로 정신이 없니 하면서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.303,
+                "end": 21.622
+            },
+            {
+                "speaker_id": "8",
+                "transcription": "아 심하잖아 저런 몸 상태로 왔는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.632,
+                "end": 23.932
+            },
+            {
+                "speaker_id": "9",
+                "transcription": "말 마라 이제 곧 우리 팀장이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.932,
+                "end": 26.731
+            },
+            {
+                "speaker_id": "10",
+                "transcription": "그런데 중형 상태가 저래서야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.741,
+                "end": 29.462
+            }
+        ]
+    },
+    "summary": "통신기가 떨어져서 잘 안 들리지만 분명 몸 관리를 못했니 프로 정신이 없니 하고 있을 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYP_04252_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}
