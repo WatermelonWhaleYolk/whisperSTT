@@ -20,3 +20,6 @@ venv/
 .venv/
 env/
 .env/
+
+data/*zera*/
+data/segments_ffmpeg/

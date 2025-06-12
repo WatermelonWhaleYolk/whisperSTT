@@ -1,6 +1,7 @@
 import os
 
-A_path = r"C:\Users\kiusw\Desktop\whisperSTT\data\A"
+# A_path를 상대 경로로 설정
+A_path = os.path.join("Desktop", "whisperSTT", "data", "A")
 B_path = os.path.join(A_path, "B")
 C_path = os.path.join(A_path, "C")
 
